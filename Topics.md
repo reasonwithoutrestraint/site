@@ -1,4 +1,3 @@
-
 Entertainment writing:
 -> Time travel: going to different universes or changing the actual universe.
 -> Omnipotence/afterlife: 
