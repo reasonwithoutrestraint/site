@@ -18,32 +18,24 @@
 
 ### Gilbert Harman 
 
-## Response Dependency 
+## Quasi-Realism
 
-Also referred to as fitting attitude theories
+### David Wiggins - Sensibility Theory
 
-### David Wiggins - Subjectivism
-
-### John McDowell - Secondary Qualities
+### John McDowell - Sensibility Theory
 
 ### Justin D'Arms - Sentimentalism
 
-## Response Dispoitionalism
+### Roderick Firth - Dispositionalism: Ideal Observer
 
-## Roderick Firth - Ideal Observer
+### O'Neil - Constructivism
 
-## Constructivism
+## Moral Realism
 
-### O'Neil
+### A.C. Ewing - Non-naturalism
 
-## Moral Non-naturalism
+### G.E. Moore - Non-naturalism
 
-### A.C. Ewing
+### Peter Railton - Naturalism
 
-### G.E. Moore
-
-## Moral Naturalism
-
-### Peter Railton
-
-### Michael Smith
+### Michael Smith - Naturalism
