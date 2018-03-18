@@ -30,7 +30,7 @@
 
 ### O'Neil - Constructivism
 
-## Moral Realism
+## Realism
 
 ### A.C. Ewing - Non-naturalism
 
