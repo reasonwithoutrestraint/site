@@ -1,6 +1,30 @@
+## Definitions, Significance, Method, Outline
+
+1. Defining the committments of the different positions (quantitative IQ differences)
+2. Why this is important (why these differences matter)
+3. What data is predicted by different positions 
+4. What kind of data is best used to quantify the differences, and why some data is excluded
+5. Methodology of this paper
+
 It is certainly possible that the Black-White IQ difference is largely genetic; there's no necessary law suggesting that that cannot be the case. But questions about IQ differences are empirical questions. Therefore, in order to test and quantify whether such genetic differences exist, we need empirical data. Adoption studies, I believe, are the most effective method to quantify just *how much* of the IQ gap is genetic versus environmental. If blacks & whites are reared in the same environment, then any arising differences are genetically caused. Inversely, if different groups of blacks are genetically similar, then any arising differences are environmentally caused. There are four major transracial adoption studies that I know of. I will consider each:
 
-**Study 1**: Minnesota Transracial Adoption Study
+## Heritability
+
+#### Problems with the data
+
+Focuses on upper-class successful families. Is this indicative of the Black community?
+
+#### Misconceptions
+
+It is believed by many that the fact that IQ is largely heritable and the mere existence of large IQ differences logically implies that a significant portion of these IQ differences are themselves due to genetics. But this is a misunderstanding.
+
+## Historical IQ changes of groups
+
+## IQ differences across similar genetic groups
+
+## Transracial Adoption Studies
+
+### Minnesota Transracial Adoption Study
 
 This one is fairly popular, so I need not give it too much detail. Basically, the study examined the IQs of mixed children, black children, and white children who were adopted by white families. The study found higher IQ for the whites adoptees compared to the black and mixed adoptees [[1]](http://www.kjplanet.com/amp-31-10-726.pdf). If this study did indeed equalize the environments for blacks & whites, then the results would seem to indicate that the IQ gap is largely genetic. However, there are a few reasons to doubt that the study equalized the environments for blacks & whites:
 
@@ -14,7 +38,7 @@ The Black adoptees scored worse; they scored in the 54th, 48th, 36th, and 36th p
 
 In summary, this study has a few issues. But, even ignoring the issues and assuming that it's compatible with a genetic explanation of the IQ gap, it seems compatible with an environmental explanation of the *academic achievement* gap. This is significant because, I would say, academic achievement is more important than IQ; academic achievement is desirable as a direct *end*, while IQ is an instrumental good, desirable only as a *means* to other ends like academic achievement, productivity, etc. This is the only transracial adoption study that I've found that is somewhat in favor of a mainly genetic explanation of the IQ gap (and even then, it still implies that actual achievement is environmentally caused). The next three studies seem to suggest otherwise.
 
-**Study 2**: German IQ study by Klaus Eyferth
+### German IQ study by Klaus Eyferth
 
 Psychologist Klaus Eyferth studied the IQs of white and mixed children in Germany. The mothers of the children were all white. Their fathers were either white or black members of the US occupation forces. The white children recorded an average IQ of 97.2, whereas the mixed children recorded an average of 96.5, a negligible difference [[7]](http://en.wikipedia.org/wiki/Eyferth_study).
 
@@ -26,17 +50,17 @@ There are some issues with this study, however. Firstly, the samples aren't repr
 
 The study had other issues as well. For example, about 20-25% of the Black GIs were actually French North African. Still, we should expect 75-80% of the Black GIs to have lower IQs, and, if the IQ gap were largely genetic, this difference should be found in the children. The lack of an IQ gap implies that the IQ gap is not largely genetic. Therefore, while flawed, this study is compatible with a mainly environmental explanation of the IQ gap.
 
-**Study 3**: British study of young children in nurseries
+### British study of young children in nurseries
 
 In this study, psychologist Barbara Tizard studied black, white, and mixed children raised in British long-stay residential nurseries. The children were given psychological tests to determine their cognitive abilities. The scores were converted to give a mean of 100, and a standard deviation of 10. On one test, the white children scored 102.6 and the black/mixed children scored 106.3. On another test, the white children scored 98.5 and the black/mixed children scored 98.6. On the Minnesota Nonverbal test, the white children scored 101.3 and the black/mixed children scored 107.7 [[8]](http://www.jstor.org/stable/pdf/1127540.pdf?acceptTC=true). Apparently there is a fourth test, but I didn't manage to see it in the pdf. In any case, this study is compatible with a mainly environmental explanation of the IQ gap.
 
-**Study 4**: IQ scores of black children raised by White families versus Black families
+### IQ scores of black children raised by White families versus Black families
 
 In this study, psychologist Elsie Moore compared IQ test scores among 23 black children adopted by middle-class white families and 23 age-matched black children adopted by middle-class black families. The black children adopted by black families scored a 104 IQ, while the black children adopted by white families scored a 117 IQ [[9]](http://psycnet.apa.org/psycinfo/1986-24139-001). These two groups of blacks likely differed in their *environment* and not their *genes*. Therefore, the difference in the black/white family environments likely accounts for the 13 IQ point gap. Keep in mind that the black & white families were of similar socioeconomic status (middle-class). In actuality, the average black family has a much lower socioeconomic status than the average white family; therefore the difference in black/white environments would probably account for more than 13 IQ points. Clearly, this study is compatible with a mainly environmental explanation of the IQ gap.
 
-part 2 of 2
+### Objections
 
-**Objections:** Many have criticized the three latter studies because they did not do follow-up testing on the children. It is true that the genetic component of IQ increases as people age. However, this decline is not necessarily relevant. We are concerned with the *gap* between blacks & whites. The Minnesota Transracial Study implies that there is no significant change in the *gap* after age 7. Looking at this study, the black-white IQ gap fluctuated by only about 2 points after age 7. Therefore, assuming that the MTAS study is accurate in this regard, the lack of follow-up studies is no good reason to discount the latter three studies. If the IQ gap was small for younger children, then it seems reasonable to conclude that it would likely remain as such. 
+Many have criticized the three latter studies because they did not do follow-up testing on the children. It is true that the genetic component of IQ increases as people age. However, this decline is not necessarily relevant. We are concerned with the *gap* between blacks & whites. The Minnesota Transracial Study implies that there is no significant change in the *gap* after age 7. Looking at this study, the black-white IQ gap fluctuated by only about 2 points after age 7. Therefore, assuming that the MTAS study is accurate in this regard, the lack of follow-up studies is no good reason to discount the latter three studies. If the IQ gap was small for younger children, then it seems reasonable to conclude that it would likely remain as such. 
 
 Also, heritability of IQ in children is fairly significant (about 45%), therefore genes play a significant role in the IQ of children. This means that if Blacks were genetically predisposed to significantly lower IQs than Whites, then we would not expect similar IQ scores between Blacks and Whites raised in similar environment *even as children*. Insofar as IQ is significantly heritable in children, and insofar as there are significant genetic racial IQ disparities, we should expect a significant racial IQ gap at childhood even after equalizing environments. Therefore, the lack of an IQ gap during childhood after equalizing environments implies that either (a) the genetic component of IQ is not significant during childhood, or (b) there is no significant genetic Black-White IQ gap. We know that (a) is false, so (b) must be true.
 
@@ -44,7 +68,9 @@ Also, I couldn't really find a good spot to place this paragraph, but: from the 
 
 Lastly on the Moore study, the significance of this study is not just the high IQ of the Black children; it's significant mainly because it demonstrates that the environment of the Black parents is not as conducive to cognitive development as the environment of the White parents *even when both groups of parents are upper-middle class*. I don't know the cause of this disparity (different people would argue for different causes, with possible explanations being parenting, lead, peer groups, wealth, schools, culture, neighborhoods, etc.), but it's clear from this study that Black and White *environments* have significantly different effects on IQ (causing a *13*-point IQ difference). And this *environmental* difference persists even though both groups of parents are *upper-middle class*. Imagine what the difference would have been if we did *not* ensure that both parents were upper-middle class. If the Black parents were, say, disproportionately poor (as is the case in reality), then we would expect that 13-point IQ difference to widen.
 
-**Conclusion**: It seems to me that the evidence suggests that the IQ gap is almost entirely environmental. The Minnesota study is the only adoption study that suggests otherwise, but it has flaws (as I've indicated earlier). The German study also has many flaws as well, but the latter two studies seem to support it. So three of the studies are compatible with a predominantly environmental explanation of the IQ gap. Taking a holistic account of all of the adoption studies seems to suggest that the IQ gap is, for the most part, environmental. The only way you could conclude otherwise is if you fully accepted the results of the MTAS and disregarded the latter three studies. But even if you fully accepted the results of the MTAS and disregarded the latter three studies, then you would still have to admit that the *academic achievement* gap (arguably more important than IQ) is mainly environmental rather than genetic. 
+### Conclusion
+
+It seems to me that the evidence suggests that the IQ gap is almost entirely environmental. The Minnesota study is the only adoption study that suggests otherwise, but it has flaws (as I've indicated earlier). The German study also has many flaws as well, but the latter two studies seem to support it. So three of the studies are compatible with a predominantly environmental explanation of the IQ gap. Taking a holistic account of all of the adoption studies seems to suggest that the IQ gap is, for the most part, environmental. The only way you could conclude otherwise is if you fully accepted the results of the MTAS and disregarded the latter three studies. But even if you fully accepted the results of the MTAS and disregarded the latter three studies, then you would still have to admit that the *academic achievement* gap (arguably more important than IQ) is mainly environmental rather than genetic. 
 
 Therefore: if we interpret the data most favorably for an environmental explanation, then we have three studies saying "the IQ gap is predominantly environmental." On the other hand, if we interpret the data most favorably for a genetic explanation, then we have *one* study saying "the IQ gap is mainly genetic, but the academic achievement gap is mainly environmental". So the *best case scenario* for a genetic explanation of the IQ gap still implies that environmental differences can explain most of the academic achievement gap. But if the races can attain roughly equal academic achievement, then I don't really care about IQ differences. 
 
