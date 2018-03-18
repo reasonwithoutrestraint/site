@@ -54,9 +54,10 @@ If the following conditions are met, then morality is pointless:
 
 If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to. Thus, morality is distinguished from rationality generally in that it has some social component. Some possibilities:
 
-1. Morality is social rationality - what actions would be rational when considering as equals the interests of all affected parties.
-2. Morality is a system for administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
-3. Morality is a system of justifying ourselves to others.
+1. Morality is a system of norms promotingg social rationality - what actions would be rational when considering as equals the interests of all affected parties.
+2. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
+3. Morality is a system of norms justifying ourselves to others.
+4. Morality is a system of norms that we would all agree to under certain conditions (similar to veil of ignorance)
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
@@ -68,7 +69,7 @@ Each of these are probably illuminating features of morality. They are each refe
 
 Optional morality: this seems like a weaker form of morality, contingent upon the particular interests, desires, proclivities of the subjects in question. This would be morality as a system for administrering blame/guilt. Since these rationality of these emotions depends on the nature of these emotions (which is relative and contingent), then morality itself is relative and contingent. This tells us when shame/blame is justified. This may depend on particular traditions of particular cultures. This might be something like utilitarianism, for example. I don't think this morality isn't useful or meaningful, but it sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette.
 
-Forceful morality: The following concerns when an action is prohibited, preferred, obligatory or permissible given that A has not explicitly agreed/consented to the action. This seems like a stronger form of morality, not contingent on particular interests of desires. This would be a system for applying force. This does not depend on the nature of our emotions. This tells us when physical force is justified. Justified in this sense is not merely in reference to feelings of blame/guilt either. What do I mean when I say force is morally justified/unjustified? I'm not sure, but it's not just that certain emotions are appropriate, since I think whether force is justified/unjustified is independent of the nature of our emotions. This is objective and universal across all rational beings. This is closer to contractualism, I think. This would also be the sort of action that grounds political authority, I think.
+Forceful morality: this seems like a stronger form of morality, not contingent on particular interests of desires. This would be a system for applying force. This does not depend on the nature of our emotions. This tells us when physical force is justified. Justified in this sense is not merely in reference to feelings of blame/guilt either. What do I mean when I say force is morally justified/unjustified? I'm not sure, but it's not just that certain emotions are appropriate, since I think whether force is justified/unjustified is independent of the nature of our emotions. This is objective and universal across all rational beings, even those lacking our emotions of shame/blame/guilt/etc. This is closer to contractualism, I think. This would also be the sort of action that grounds political authority, I think.
 
 [Ettiquette] <----> [Optional Morality (justifies criticism/shame)] <----> [Forceful Morality (justifies law & force)]
 
