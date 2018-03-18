@@ -1,0 +1,139 @@
+
+Entertainment writing:
+-> Time travel: going to different universes or changing the actual universe.
+-> Omnipotence/afterlife: 
+	-> What if there was an afterlife?
+	-> In the afterlife you were omnipotent?
+	-> What would you do after achieving all of your goals?
+	-> Repeat life fresh?
+	-> Delete memory?
+-> Talking to God
+
+Educational/Argumentative writing:
+	Intro Philosophical
+	-> Logical tautology/validity/satisfiability/soundness
+	-> Linguistic: Analytic vs Synthetic
+	-> Ontological: Necessary vs Contingent
+	-> Epistemological: A priori vs experiential
+	
+	Logic:
+		All valid formulas in Propositional logic are tautologies; true under any interpretation of the boolean variables.
+		
+		FOL:
+			* Tautology: 
+				> PL: Any sentence that would be a tautology in PL if each formula is replaced with a PL boolean variable.
+				> True in virtue of truth-functional structure, i.e. independent of interpretation of quantifiers, predicate or function symbols.
+				> True by syntax, the logical constructs.
+				> Always valid
+				> Necessary, Analytic (Depends on the meaning logical constructs).
+			* Validity: 
+				> True in every model, all interpretations.
+				> If not a tautology, then it's true based on quantifiers.
+				> Necessary, Analytic (Depends on the meaning logical constructs and/or quantifiers).
+				> Work needs to be done by evaluating the quantifiers.
+			* Analytic:
+				> Necessary, Analytic (Depends on interpretation of predicates/)
+			* Satisfied in model M:
+				> True in model M.
+				> If not valid, true by interpretation of the model (i.e. the predicate and/or function symbols).
+				> Necessary or Contingent, Synthetic.
+	
+	Metaphilosophical:
+	-> Unnecessary Linguistic Disputes
+		- Meaning of moral terms
+		- Meaning of free will
+		- Meaning of knowledge
+		- Meaning of racism
+	
+	Meta-physics
+	-> Free Will / Compatibilism / Moral responsibility
+	-> Determinism vs Indeterminism (no difference)
+	-> Physical/Natural/Material vs Non-physical/Supernatural/Spiritual (no difference)
+	
+	Religion
+	-> Unnecessary focus on names/labels, e.g. whether I'm an "atheist".
+		
+	Meta-ethics
+	-> Reasons
+	-> Moral Semantics: 
+		+ Not definitional (not analytically reductive to non-natural terms)
+			> People can coherently disagree after all facts are known
+		+ Action/attitude-guiding
+			> Those who take X to be good are tempted to prommote X
+			> Those who take X to be good are tempted to have others promote X
+		+ More than just expressive/emotive
+		What we're comitted to:
+			+ reasons for action/attitudes
+			+ regulate ourselves
+	-> Moral Ontology
+		+ Special type of reasons for action/attitudes
+	-> is-out problem
+	-> The central problem: morality/reasons internalism, reasons/motivation internalism, and moral absolutism
+	
+	Substantive morality theory
+	-> Against consequentialism
+	-> Political philosophy
+		Specific Issues
+			-> Abortion
+			-> Punishment
+			-> Consequentialism and abortion
+	Empirical:
+		Affirmative Action: Justification and Consequences
+		-- AA does not inherently violate anyone's right
+		-- AA might be justified in certain contexts
+		-- AA does not work
+
+		-- Descriptively, doesn't work
+		-- Normatively, several ways to justify:
+			-- Why it's morally obligatory: 
+			-- Why it's morally permissible: 
+				-- Leave it up taxpayers
+				-- Why is discrimination normally wrong?
+						Why should racial discrimination be illegal?
+						It can't be because it's discrimination. Employers can discriminate for lots of reason.
+						It can't be because it's racist. People can be racist all the time; employers can also be racist.
+						It has nothing to do with racial discrimination per se. It has to do with the fact that there were segments of the population cut off from society. It just so happened that racial discrimination was a means to do this.
+						In a country without such problems, racial discrimination would be perfectly fine.
+			-- How to work it out?
+				It should be up to the people to decide:
+				How SHOULD the people decide?:
+					Necessary conditions for them to value AA:
+						It is empirically effective.
+					Plus, one of the following:
+						They value equal opportunity AND race differences exceed class differences.
+						They value diversity for its own sake.
+
+		Success/Failure of Groups
+		-- Internal Acts vs External Acts
+		-- Oppression
+		----> Useful versus non-Useful definitions 
+		----> How to respond under any definition
+		-- Interracial Relations: costs and benefits
+		-- Default of groups is degeracy; force is needed to be pulled out
+
+		IQ & Academic Achievement
+		-- Transracial Adoption Studies
+		-- Meaning of heritability
+		-- Historical IQ changes
+		-- Present IQ differences across similar groups
+		
+		Uneeded disputes:
+		-- Cause of racial IQ gaps
+			False dichotomy between genetics disparities and societal racism:
+				> There's a third option - internal environment.
+				> They aren't mutually exclusive - Accusations for/against racism require independent, direct evidence, regardless of the genetic differences.
+			Presumption that it influences solutions:
+				> Not necessarily. Two potential causes might require the same solution, e.g. if the cause is internal, it doesn't matter if it's culture or biology, the solution is the same. Incentivize people with good behaviors (whether due to biology or culture) to reproduce. This is lost if we ignore internal environment.
+		-- Cause of gender differences in STEM:
+			False dichotomy between biology and sexism:
+				> There's a third option - different interests.
+				> They aren't mutually exclusive. Accusations for/against sexism require independent, direct evidence, regardless of cause of biological differences.
+		-- Whether transgenderism is legitimate or a mental health issue:
+			> Has no impact on whether it should be governmentally enforced
+			> Has no impact on whether such surgeries should be allowed.
+		-- Whether preferred pronouns make sense:
+			> Has no impact on whether it should be governmentally enforced.
+		-- There is male/white privilege (unintentional):
+			> Pointless, point directly to discrimination.
+		-- There is white racism (intentional)
+			> Don't complain, beg for resect from oppressors. Instead, fight for rights (we already have that) and then use those rights to separate.
