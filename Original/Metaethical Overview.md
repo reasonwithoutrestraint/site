@@ -32,7 +32,7 @@
 
 ### David Hume - Dispositionalism
 
-### O'Neil - Constructivism
+### Sharon Street - Constructivism
 
 ## Realism
 
