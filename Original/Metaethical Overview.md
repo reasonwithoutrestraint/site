@@ -30,6 +30,8 @@
 
 ### Roderick Firth - Dispositionalism: Ideal Observer
 
+### David Hume - Dispositionalism
+
 ### O'Neil - Constructivism
 
 ## Realism
