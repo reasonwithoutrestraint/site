@@ -2,20 +2,22 @@
 
 ### Normative Meaning
 
-Criteria:
+#### Linguistic Analysis
+
+`Prerequisites of an analysis of normativity`
 
 1. Must allow for disagreement.
 2. Disagreement must be possible after agreement of all empirical facts.
-3. Must explain the action-guiding and attitude-guiding character of it, i.e. people who genuinely believe they ought to X are generally disposed to do X.
+3. Must explain the motivational feature of normative beliefs.
 4. Cannot be too strictly tied to conventions of the English language. Must be able to account for normative behavior in all human cultures.
-
-#### Linguistic Analysis
 
 Normative expressions are sometimes used non-cognitively - i.e. sometimes expressively, emotively, as imperatives, etc. But they can also be used cognitively. An agent who uses a normative term non-cognitively will also believe the cognitive component of that term.
 
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
 #### Formal conceptualization
+
+`How to systematize normative systems?`
 
 A normative system can be understood by the following components:
 - T - The types of behavior regulated (actions, beliefs, driving, etc.).
@@ -34,7 +36,19 @@ Some normative systems are optional: moral norms, legal norms, health norms. Onl
 
 The considerations regarding rational ought claims (i.e. promotion of interests) different from the considerations regarding moral ought claims (e.g. harm, treatment as mere means, etc.) which differ from considerations regarding ettiquette (e.g. rudeness, offensiveness). Though some might dismiss this if they think rationality and morality converge, and/or morality and ettiquette converge.
 
+Other considerations that deal with systematizing our normative concepts:
+1. Thick vs Thin ethical concepts
+2. Relationship between rightness and goodness
+3. Categories of normative concepts
+    - Regulative: judges actions
+    - Evaluative: judges states of affairs 
+    - Deliberative: fitness of a response for an agent
+4. Possible reduction of seemingly distinct normative concepts into one
+5. Supervenience on the physical world
+
 #### Possible accounts of normativity
+
+`What are the truth conditions of normative claims?`
 
 Normative Reasons are tied in some way to explanatory reasons. Normative reasons are considerations that ought to be explanatory reasons. Ought implies can. Therefore, it must be possible for normative reasons to be explanatory reasons. For each normative reason...that normative reason could explain their action if they did the action for that reason. That is, we can make sense of the statement "he did X because he had normative reason to do X". But this explanation works only if normative reasons can also explain behavior. Thus, we can say that A ought to do X if and only if X is appropriately connected to A's explanatory basis. What does "appropriately connected" mean?
 
@@ -47,6 +61,10 @@ Another option is to say that there need be no connection to explanatory basis:
 - *Constitution*: What it is to X is to be committed to Y. Thus, one ought to X if and only if Y is true (e.g. one ought to fear P if and only if P is dangerous, since that is what it means to fear P; this doesn't work for belief. We can't say one ought believe P if and only if P is true).
 
 ### Morality
+		
+`Distinctive features of morality`
+
+`Possibly multiple, distinct, valid analysis of morality`
 		
 If the following conditions are met, then morality is pointless:
 1. All relevant parties are fully informed/rational.
@@ -65,11 +83,11 @@ Each of these are probably illuminating features of morality. They are each refe
 
 #### Possible accounts of morality
 
-[Bridge the gap between analysis of morality and an account of morality, somehow]
+`Fundamental moral principles`
 
 Aesthetic morality: this is a system for evaluating actions generally. The actions are evaluated based on whether they warrant blame/praise (warrant referring to whether we ought - no in the consequentialist senes - to blame/praise). Since the rationality of these emotions depends on the nature of these emotions (which is relative and contingent), then this morality itself is relative and contingent (similar to aesthetics, a la secondary qualities). This may be relative to particular conventions of particular species, cultures or even individuals. I don't think this morality isn't useful or meaningful, but it sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette.
 
-Justice morality: this is a system for evaluating uses of force, but not on evaluating them in the same way as optional morality. The evaluation here does not depend on the nature of our emotions. To say that force is (un)justified in this sense is not just to say that the force warrants blame/praise, since doing so depends on contingent nature of blame/praise. Indeed, there might be just uses of force that warrant blame, or unjust uses of force that warrant praise (depending on the nature of our emotions). This is objective and universal across all rational beings, even those lacking our particular emotions of blame/praise. So a group of rational beings may have no basis for morality in the aesthetic sense, yet they would have it in this justice sense. This is closer to contractualism, I think. This would also be the sort of action that grounds political authority, I think.
+Justice morality: this is a system for evaluating uses of force, but not on evaluating them in the same way as aesthetic morality. The evaluation here does not depend on the nature of our emotions. To say that force is (un)justified in this sense is not just to say that the force warrants blame/praise, since doing so depends on contingent nature of blame/praise. Indeed, there might be just uses of force that warrant blame, or unjust uses of force that warrant praise (depending on the nature of our emotions). This is objective and universal across all rational beings, even those lacking our particular emotions of blame/praise. So a group of rational beings may have no basis for morality in the aesthetic sense, yet they would have it in this justice sense. This is closer to contractualism, I think. This would also be the sort of action that grounds political authority, I think.
 
 [Ettiquette (aesthetics)] <----> [Optional Morality (aesthetics; justifies praise/blame)] <----> [Forceful Morality (justifies law & force)]
 
@@ -84,6 +102,12 @@ Applying FORCEFUL action F to agent A is morally prohibited, unless:
 	- A indirectly impedes the interests of others (e.g. monopolizing an industry and charges high prices)
 
 ## Political Philosophy
+
+### Analysis of political legitimacy & Justice
+
+`An analysis of political legitimacy & Justice`
+
+Can it be reduced to morality? The moral justification of force?
 
 ### Variations of Libertarianism
 
@@ -122,8 +146,6 @@ Radical right libertarianism (not lockean; unilateralist): holds that that there
 - One objection points out that appropriation without restrictions makes it possible that one person could own the entire world, thereby effectively putting the remaining propertyless persons in the problematic condition of requiring the owner's permission to do anything. Nor is there any reason to think the individuals are morally permitted to ruin natural resources as they please. Some sort of fair share condition restricts use and appropriation.
 
 ### My Theory
-
-[Bridging the gap between forceful morality and property rights]
 
 My theory does not prioritize self-ownership in the sense that people should necessarily have full control over their bodies (and therefore property) as indicated above. Rather, I prioritize the values/interests of individuals. I believe that an individual's values/interests cannot be significantly suppressed/limited in promotion of someone else's values/interests. Note that supressing/limiting values/interests is not the same as controlling one's body. There may be instances where controlling one's body does not significantly suppress/limit their values/interests, or even where controlling one's body actually promotes their values/interests. This means that, under special circumstances, others can control A's body against A's will, but only it is in the promotion of A's interests or values. 
 
