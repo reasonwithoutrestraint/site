@@ -1,5 +1,7 @@
 ## Non-cognitivism
 
+### Simon Blackburn - How to be an Moral Antirealist
+
 ### A.J Ayer - Expressivism
 
 ### C.L. Stevenson - Emotivism
@@ -31,6 +33,8 @@
 ### O'Neil - Constructivism
 
 ## Realism
+
+### Richard Boyd - How to be a Moral Realist
 
 ### A.C. Ewing - Non-naturalism
 
