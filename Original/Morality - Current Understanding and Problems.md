@@ -91,6 +91,16 @@ Justice morality: this is a system for evaluating uses of force, but not on eval
 
 [Ettiquette (aesthetics)] <----> [Optional Morality (aesthetics; justifies praise/blame)] <----> [Forceful Morality (justifies law & force)]
 
+Three types of norms regulating behavior:
+1. Ettiquette - violations call for irritation
+2. Morality - violations call for shame
+3. Justice - violations call for force
+
+Three types of reasons in favor of a norm:
+1. Private consequentialist: Consequentialist reason to follow the norm; depends on personal interests that would be promoted by the individual following the norm. 
+2. Private constituitive: Constituitive reason to follow the norm (i.g. "right" kind of reason); depends on personal, contingent sentiments, etc. a la secondary qualities. I think describes ettiquette, morality and aesthetics.
+3. Public constructive: Reason to support societal construction of the norm; depends on desire to live in a certain sort of society with certain accepted rules. Can apply to people regardless of personal sentiments. I think describes forceful morality (i.e. justice, law) and possibly aeshtetic morality and ettiquette.
+
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
 - A implicitly consents, while informed/rational
