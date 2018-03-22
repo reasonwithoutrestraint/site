@@ -101,6 +101,8 @@ Three types of reasons in favor of a norm:
 2. Private constituitive: Constituitive reason to follow the norm (i.g. "right" kind of reason); depends on personal, contingent sentiments, etc. a la secondary qualities. I think describes ettiquette, morality and aesthetics.
 3. Public constructive: Reason to support societal construction of the norm; depends on desire to live in a certain sort of society with certain accepted rules. Can apply to people regardless of personal sentiments. I think describes forceful morality (i.e. justice, law) and possibly aeshtetic morality and ettiquette.
 
+On this understanding, we can still call animal cruelty wrong on the basis of aesthetic moral sentiments of normal humans. But could we be justified in using force to stop animal cruelty? Can aesthetic moral sentiments justify imposing force on others? Or can there be a constructive reason to enact norms to protect animal cruelty? In general, how can we support using force to stop the harm of individuals (animals or humans) outside of our social contract? This does afford the libertarian protective rights for people in society (as is desired), but it does not provide even minimum rights for people outside of society, i.e. it never justifies us to use force to stop them from being harmed.
+
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
 - A implicitly consents, while informed/rational
