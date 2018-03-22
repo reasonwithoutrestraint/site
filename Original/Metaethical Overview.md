@@ -1,53 +1,91 @@
-# Test
+# The Central Problem
 
-## Non-cognitivism
+# Non-cognitivism
 
-### Simon Blackburn - How to be an Moral Antirealist
+## Classical
 
-### A.J Ayer - Expressivism
+### A.J Ayer 
 
-### C.L. Stevenson - Emotivism
+Expressivism
 
-# Test
+### C.L. Stevenson
 
-### R.M. Hare - Universal Prescriptivism
+Emotivism
+
+### R.M. Hare
+
+Universal Prescriptivism
+
+## Modern
+
+### Simon Blackburn 
+
+_How to be an Moral Antirealist_
 
 ### Simon Blackburn
 
-### Allan Gibbard - Planning
+### Allan Gibbard
 
-## Error-Theory
+Planning
+
+# Error-Theory
 
 ### J.L. Mackie 
 
-## Relativism
+# Relativism
 
 ### Gilbert Harman 
 
-## Quasi-Realism
+# Quasi-Realism
 
-### David Wiggins - Sensibility Theory
+## Fitting Attitude Theories
 
-### John McDowell - Sensibility Theory
+### David Wiggins 
 
-### Justin D'Arms - Sentimentalism
+Sensibility Theory / secondary qualities
 
-### Roderick Firth - Dispositionalism: Ideal Observer
+### John McDowell
 
-### David Hume - Dispositionalism
+Sensibility Theory / secondary qualities
 
-### Sharon Street - Constructivism
+### Justin D'Arms
 
-## Realism
+Sentimentalism
 
-### Richard Boyd - How to be a Moral Realist
+## Dispositionalism
 
-### A.C. Ewing - Non-naturalism
+### Roderick Firth 
 
-### G.E. Moore - Non-naturalism
+Ideal Observer
 
-### W.D. Ross - Non-naturalism
+### David Hume
 
-### Peter Railton - Naturalism
+Dispositionalism
 
-### Michael Smith - Naturalism
+## Constructivism
+
+### Sharon Street 
+
+_What is Constructivism_
+
+# Realism
+
+### Richard Boyd 
+
+_How to be a Moral Realist_
+
+## Non-naturalism
+
+### A.C. Ewing
+
+### G.E. Moore
+
+### W.D. Ross
+
+_The Right and The Good_
+
+## Naturalism
+
+### Peter Railton
+
+### Michael Smith
