@@ -1,6 +1,6 @@
 # The Central Problem
 
-# Non-cognitivism
+# NON-COGNITIVISM
 
 ## Classical
 
@@ -28,15 +28,15 @@ _How to be an Moral Antirealist_
 
 Planning
 
-# Error-Theory
+# ERROR-THEORY
 
 ### J.L. Mackie 
 
-# Relativism
+# RELATIVISM
 
 ### Gilbert Harman 
 
-# Quasi-Realism
+# QUASI-REALISM
 
 ## Fitting Attitude Theories
 
@@ -68,7 +68,7 @@ Dispositionalism
 
 _What is Constructivism_
 
-# Realism
+# REALISM
 
 ### Richard Boyd 
 
