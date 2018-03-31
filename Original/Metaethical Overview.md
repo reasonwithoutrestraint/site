@@ -33,7 +33,27 @@ Robert Nozick, Anarchy, State, and Utopia
 Isaiah Berlin, Two Concepts of Liberty
 Michael Sandel, Liberalism and the Limits of Justice
 
-# The Central Problem
+# Motivation 
+
+## The Central Problem
+
+## Key Divides
+
+### Cognitivism vs Non-cognitivism
+
+Applicable to normativity generally
+
+### Relativism
+
+Whether the truth of a given 
+
+### Realism vs Antirealism
+
+Realism => moral truth is independent of moral beliefs about their truth
+
+### Rationalism vs Sentimentalism
+
+Whether reason alone is sufficient for moral facts, or whether they consist of reasons + distinctively moral sentiments.
 
 # NON-COGNITIVISM
 
