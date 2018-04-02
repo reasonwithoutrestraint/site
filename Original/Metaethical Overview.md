@@ -85,17 +85,17 @@ _How to be an Moral Antirealist_
 
 Planning
 
-# ERROR-THEORY
+# ANTI-REALISM
+
+## Error-Theory
 
 ### J.L. Mackie 
 
-# RELATIVISM
+## Relativism
 
 ### Gilbert Harman 
 
-# QUASI-REALISM
-
-## Fitting Attitude Theories
+## Fitting Attitude
 
 ### David Wiggins 
 
