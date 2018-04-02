@@ -41,15 +41,15 @@ Michael Sandel, Liberalism and the Limits of Justice
 
 ### Cognitivism vs Non-cognitivism
 
-Applicable to normativity generally
+Moral claims are turth-apt (applicable to normativity generally)
 
 ### Realism vs Antirealism (objectivism vs subjectivism)
 
-Realism => moral truth is independent of moral beliefs (ideal or actual) about their truth
+Moral facts are independent of beliefs (ideal or actual) about their truth (and there are some moral facts)
 
 ### Rationalism vs Sentimentalism
 
-Whether reason alone is sufficient for moral facts, or whether they consist of reasons + distinctively moral sentiments.
+Whether morality is a product of reason alone, or whether it depends on sentiment.
 
 # NON-COGNITIVISM
 
