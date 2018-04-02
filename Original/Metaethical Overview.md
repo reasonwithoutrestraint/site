@@ -95,7 +95,7 @@ Either never true or their truth is dependent on our belief in their truth.
 
 ### Gilbert Harman 
 
-## Dispositionalism
+## 
 
 ### Roderick Firth 
 
@@ -114,6 +114,8 @@ Dispositionalism
 ### Sharon Street 
 
 _What is Constructivism_
+
+### Korsgaard - Kantian Constructivism
 
 # REALISM
 
