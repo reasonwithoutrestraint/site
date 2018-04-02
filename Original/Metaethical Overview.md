@@ -71,6 +71,8 @@ Emotivism
 
 Universal Prescriptivism
 
+### Rebuttal - Frege-Geach Problem
+
 ## Modern
 
 ### Simon Blackburn 
@@ -125,10 +127,6 @@ _What is Constructivism_
 
 # REALISM
 
-### Richard Boyd 
-
-_How to be a Moral Realist_
-
 ## Non-naturalism
 
 ### A.C. Ewing
@@ -144,3 +142,9 @@ _The Right and The Good_
 ### Peter Railton
 
 ### Michael Smith
+
+### Richard Boyd 
+
+_How to be a Moral Realist_
+
+### Rebuttal - Moral Twin Earth
