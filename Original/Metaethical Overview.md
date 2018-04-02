@@ -43,13 +43,9 @@ Michael Sandel, Liberalism and the Limits of Justice
 
 Applicable to normativity generally
 
-### Relativism
+### Realism vs Antirealism (objectivism vs subjectivism)
 
-Whether the truth of a given 
-
-### Realism vs Antirealism
-
-Realism => moral truth is independent of moral beliefs about their truth
+Realism => moral truth is independent of moral beliefs (ideal or actual) about their truth
 
 ### Rationalism vs Sentimentalism
 
@@ -87,6 +83,8 @@ Planning
 
 # ANTI-REALISM
 
+Either never true or their truth is dependent on our belief in their truth.
+
 ## Error-Theory
 
 ### J.L. Mackie 
@@ -97,25 +95,15 @@ Planning
 
 ### Gilbert Harman 
 
-## Fitting Attitude
-
-### David Wiggins 
-
-Sensibility Theory / secondary qualities
-
-### John McDowell
-
-Sensibility Theory / secondary qualities
-
-### Justin D'Arms
-
-Sentimentalism
-
 ## Dispositionalism
 
 ### Roderick Firth 
 
 Ideal Observer
+
+### Michael Smith
+
+Calm Cool and Collected
 
 ### David Hume
 
@@ -128,6 +116,8 @@ Dispositionalism
 _What is Constructivism_
 
 # REALISM
+
+Independent of our beliefs (actual or idealized) about the truth of moral facts, though they may depend on our sensibilities in relevant respects (see secondary qualities)
 
 ## Non-naturalism
 
@@ -147,10 +137,22 @@ _The Right and The Good_
 
 ### Peter Railton
 
-### Michael Smith
-
 ### Richard Boyd 
 
 _How to be a Moral Realist_
 
 ### Rebuttal - Moral Twin Earth
+
+## Fitting Attitude
+
+### David Wiggins 
+
+Sensibility Theory / secondary qualities
+
+### John McDowell
+
+Sensibility Theory / secondary qualities
+
+### Justin D'Arms
+
+Sentimentalism
