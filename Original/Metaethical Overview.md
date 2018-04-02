@@ -91,6 +91,8 @@ Planning
 
 ### J.L. Mackie 
 
+### Richard Joyce
+
 ## Relativism
 
 ### Gilbert Harman 
@@ -134,6 +136,10 @@ _What is Constructivism_
 ### G.E. Moore
 
 ### W.D. Ross
+
+### Russ Shafer-Landau
+
+### T. M. Scanlon
 
 _The Right and The Good_
 
