@@ -37,19 +37,49 @@ Michael Sandel, Liberalism and the Limits of Justice
 
 ## The Central Problem
 
+1. Moral judgments are judgments of fact.
+2. Moral facts are categorical, independent of contingent features (beliefs, desires, etc.)
+3. Moral facts provide reasons
+4. Reasons are motivating
+5. Only contingent features are motivating 
+
 ## Key Divides
 
-### Cognitivism vs Non-cognitivism
+### Language: Cognitivism vs Non-cognitivism
 
-Moral claims are turth-apt (applicable to normativity generally)
+Moral claims are truth-apt (applicable to normativity generally)
 
-### Realism vs Antirealism (objectivism vs subjectivism)
+Non-cognitivism: moral are not truth apt
 
-Moral facts are independent of beliefs (ideal or actual) about their truth (and there are some moral facts)
+Cognitivism: moral claims are truth-apt
 
-### Rationalism vs Sentimentalism
+### Metaphysical: Objectivism vs Subjectivism (mind-independence)
 
-Whether morality is a product of reason alone, or whether it depends on sentiment.
+Whether moral facts are independent of moral beliefs (actual or hypothetical).
+
+Subjectivism: moral facts depend on an agent's actual moral beliefs (subjectivism)
+
+Weak objectivism: moral facts depend on hypothetical moral beliefs (ideal dispositionalism) (realism?)
+
+Moderate objectivism: moral facts depend on constitutive facts of practical reasoning (constructivism) (realism?)
+
+Strong objectivism: moral facts are independent of any actual/hypothetical moral beliefs (naturalism, non-naturalism, fitting attiude) (realism)
+
+### Universalism vs Relativism
+
+Relativism: there are no moral norms applicable to all rational beings
+
+Universalism: there are at least some moral norms applicable to all rational bings
+
+### Normativity: Categorical vs Hypothetical
+
+Whether moral rules give us reason for action, whether they can motivate us to act, their authority.
+
+## Platitudes for a semantics of moral language:
+
+1. Morality is normative/motivating
+2. Moral disagreement is possible 
+3. Empirical agreement does not rule out moral disagreement.
 
 # NON-COGNITIVISM
 
