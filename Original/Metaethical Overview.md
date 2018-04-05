@@ -91,7 +91,7 @@ Whether moral rules give us reason for action, whether they can motivate us to a
 
 ### R.M. Hare - Universal Prescriptivism
 
-### Rebuttal - Frege-Geach Problem
+### Objection - Frege-Geach Problem
 
 ## Modern
 
@@ -100,6 +100,8 @@ Whether moral rules give us reason for action, whether they can motivate us to a
 ### Simon Blackburn
 
 ### Allan Gibbard
+
+### Objection
 
 Planning
 
@@ -111,9 +113,13 @@ Planning
 
 ### Richard Joyce
 
+### Objection
+
 ## Relativism
 
 ### Gilbert Harman 
+
+### Objection
 
 ## Subjectivism
 
@@ -123,15 +129,19 @@ Planning
 
 ### David Hume - Idealized Observer
 
+### Objection
+
 ## Constructivism
 
-### O'Neil - What is Constructivism
+### O'Neil - What is Constructivism?
 
 ### Sharon Street - Humean Constructivism
 
 ### Korsgaard - Kantian Constructivism
 
 ### John Rawls - Kantian Constructivism
+
+### Objection
 
 # REALISM
 
@@ -147,6 +157,8 @@ Planning
 
 ### T. M. Scanlon
 
+### Objection
+
 ## Naturalism
 
 ### Peter Railton - _Moral Realism_
@@ -155,6 +167,8 @@ Planning
 
 ### Rebuttal - Moral Twin Earth
 
+### Objection
+
 ## Fitting Attitude
 
 ### David Wiggins - Sensible Subjectivism
@@ -162,3 +176,5 @@ Planning
 ### John McDowell - Secondary qualities
 
 ### Justin D'Arms - _Sentimentalism_
+
+### Objection
