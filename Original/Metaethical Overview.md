@@ -125,7 +125,7 @@ Either never true or their truth is dependent on our belief in their truth.
 
 ### Gilbert Harman 
 
-## 
+## Subjectivism
 
 ### Roderick Firth 
 
@@ -141,11 +141,13 @@ Dispositionalism
 
 ## Constructivism
 
-### Sharon Street 
+### O'Neil - What is Constructivism
 
-_What is Constructivism_
+### Sharon Street - Humean Constructivism
 
 ### Korsgaard - Kantian Constructivism
+
+### John Rawls - Kantian Constructivism
 
 # REALISM
 
