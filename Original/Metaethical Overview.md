@@ -119,9 +119,9 @@ Planning
 
 ### Roderick Firth - _Ideal Observer Theory_
 
-### Michael Smith - Idela Observer
+### Michael Smith - Idealized Observer
 
-### David Hume - Dispositionalism
+### David Hume - Idealized Observer
 
 ## Constructivism
 
