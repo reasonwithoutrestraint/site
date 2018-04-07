@@ -1,4 +1,4 @@
-# What is Constructivism in Ethics and Metaethics
+# What is Constructivism in Ethics and Metaethics?
 
 ## Proceduralist vs Practical Standpoint Characterizations
 
