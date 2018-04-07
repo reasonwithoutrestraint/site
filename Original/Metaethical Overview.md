@@ -49,27 +49,24 @@ Michael Sandel, Liberalism and the Limits of Justice
 
 Moral claims are truth-apt (applicable to normativity generally)
 
-Non-cognitivism: moral are not truth apt
+1. Non-cognitivism: moral are not truth apt
+2. Cognitivism: moral claims are truth-apt
 
-Cognitivism: moral claims are truth-apt
+### Ontology: Objective (mind-independent) truth conditions
 
-### Metaphysical: Objectivism vs Subjectivism (mind-independence)
+The ontological relation between moral facts and moral views:
 
-Whether moral facts are independent of moral beliefs (actual or hypothetical).
+1. Anti-Realism: Moral facts are constituted by some relation to actual or hypothetical moral views
+    - The relation is *identity* to the *actual* moral views of a person (simple subjectivism).
+    - The relation is *identity* to the *hypothetical* moral views of an *ideal* agent (ideal observer).
+    - The relation is *entailment* from one's moral views (constructivism).
+2. Realism: Moral facts are ontologically prior to, and can explain, moral views
+    - The moral facts are natural facts.
+    - The moral facts are non-natural facts.
+    - The moral facts are secondary properties.
 
-Simple Subjectivism: moral facts depend on an agent's actual moral beliefs (subjectivism)
+Third option that no one accepts: moral facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
-Sophisticated subjectivism: moral facts depend on hypothetical moral beliefs (ideal dispositionalism) (realism?)
-
-Mind-independent objectivism: moral facts are independent of any actual/hypothetical moral beliefs (naturalism, non-naturalism, fitting attiude) (realism)
-
-Mind-dependent objectivism: moral facts are constitutive features of practical reasoning (constructivism) (realism?)
-
-### Universalism vs Relativism
-
-Relativism: there are no moral norms applicable to all rational beings
-
-Universalism: there are at least some moral norms applicable to all rational bings
 
 ### Normativity: Categorical vs Hypothetical
 
@@ -82,6 +79,8 @@ Whether moral rules give us reason for action, whether they can motivate us to a
 3. Empirical agreement does not rule out moral disagreement.
 
 # NON-COGNITIVISM
+
+Moral claims are not judgments of facts
 
 ## Classical
 
@@ -100,20 +99,23 @@ Whether moral rules give us reason for action, whether they can motivate us to a
 ### Simon Blackburn
 
 ### Allan Gibbard
+Planning
 
 ### Objection
 
-Planning
+# ANTI-REALISM ERROR-THEORY
 
-# ANTI-REALISM
-
-## Error-Theory
+There are no moral facts
 
 ### J.L. Mackie 
 
 ### Richard Joyce
 
 ### Objection
+
+# ANTI-REALISM SUCCESS-THEORY
+
+Moral facts exist and are constituted by our actual or hypothetical moral views.
 
 ## Relativism
 
@@ -133,9 +135,7 @@ Planning
 
 ## Constructivism
 
-### O'Neil - What is Constructivism?
-
-### Sharon Street - Humean Constructivism
+### Sharon Street - What is Constructivism?
 
 ### Korsgaard - Kantian Constructivism
 
@@ -144,6 +144,8 @@ Planning
 ### Objection
 
 # REALISM
+
+Moral facts exist and explain our actual or hypothetical moral views.
 
 ## Non-naturalism
 
