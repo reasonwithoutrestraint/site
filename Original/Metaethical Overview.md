@@ -38,10 +38,11 @@ Michael Sandel, Liberalism and the Limits of Justice
 ## The Central Problem
 
 1. Moral judgments are judgments of fact.
-2. Moral facts are categorical, independent of contingent features (beliefs, desires, etc.)
-3. Moral facts provide reasons
-4. Reasons are motivating
-5. Only contingent features are motivating 
+2. Moral facts exist
+3. Moral facts are categorically binding, independent of contingent motivations
+4. Moral facts provide reasons
+5. Only motivations provide reasons
+6. There are no necessarily shared motivations among rational agents
 
 ## Key Divides
 
