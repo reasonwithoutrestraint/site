@@ -179,11 +179,11 @@ Moral facts exist and explain our actual or hypothetical moral views.
 
 ### Objection
 
-## Fitting Attitude
+## Sensibility Theories
 
 ### David Wiggins - Sensible Subjectivism
 
-### John McDowell - Secondary qualities
+### John McDowell - Values and Secondary Qualities
 
 ### Justin D'Arms - _Sentimentalism_
 
