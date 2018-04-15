@@ -2,7 +2,7 @@
 
 1. There is no non-arbitrary time when we can say that life begins after conception.
 2. Life begins before delivery
-3. If no non-arbitrary line can be drawn line can be drawn, then don't draw the line.
+3. If no non-arbitrary line can be drawn, then don't draw the line.
 4. Abortion involves terminating a being after conception.
 5. It should be illegal to terminate a life.
 6. [from 1, 2 & 3] Life begins at conception.
