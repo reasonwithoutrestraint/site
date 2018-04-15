@@ -1,18 +1,19 @@
 # Argument for Abortion
 
 1. There is no non-arbitrary time when we can say that life begins after conception.
-2. If no non-arbitrary line can be drawn line can be drawn, then don't draw the line.
-3. Abortion involves terminating a being after conception.
-4. It should be illegal to terminate a life.
-5. [from 1 & 2] Life begins at conception.
-6. [from 3 & 5] Abortion involves terminating a life.
-7. [from 4 & 6] Abortion should be illegal.
+2. Life begins before delivery
+3. If no non-arbitrary line can be drawn line can be drawn, then don't draw the line.
+4. Abortion involves terminating a being after conception.
+5. It should be illegal to terminate a life.
+6. [from 1, 2 & 3] Life begins at conception.
+7. [from 4 & 6] Abortion involves terminating a life.
+8. [from 5 & 7] Abortion should be illegal.
 
-Rebuttal against 2:
+Rebuttal against 3:
 - General cases: we can say the same about plenty of things - age when one should be able to vote, work, run for office, etc. Why the discrepancy?
 - Abortion-specific case: We can say the same about allowing abortions when the mother's life is at danger. What non-arbitrary percentage of danger can you point to to say that the mother is justified in abortion? 
 
-Rebuttal against 4:
+Rebuttal against 5:
 - Abortion-specific case: but you said the mother can allow abortions if her life is in danger. Why does her right to life trump the fetus's right to life? We don't think that's the case generally. You can't kill someone (unless in self-defense) to save your life. Why the discrepancy?
 - Analagous blood transfusion case (see above): we don't think people should be forced to donate blood to others
     - They respond by invoking responsibility. But, even if someone has put someone else's life in danger through their own voluntary actions, we don't force them to donate blood. Why the discrepancy?
