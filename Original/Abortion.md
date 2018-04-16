@@ -1,7 +1,7 @@
 # Argument for Abortion
 
 1. There is no non-arbitrary time when we can say that life begins after conception.
-2. Life begins before delivery
+2. Life begins before birth
 3. If no non-arbitrary line can be drawn, then don't draw the line.
 4. Abortion involves terminating a being after conception.
 5. It should be illegal to terminate a life.
