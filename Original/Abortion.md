@@ -10,7 +10,7 @@
 8. [from 5 & 7] Abortion should be illegal.
 
 Rebuttal against 3 (this doesn't work for people who don't use the arbitrariness objection to abortion, i.e. those who use the potentiality of life):
-- General cases: we can say the same about plenty of things - age when one should be able to vote, work, run for office, etc. Why the discrepancy?
+- General cases: we can say the same about plenty of things - age when one should be able to consent, vote, work, smoke, drink, run for office, etc. Why the discrepancy?
 - Abortion-specific case: assuming they believe that the mother can abort if her life is in danger. What non-arbitrary percentage of danger can you point to to say that the mother is justified in abortion? 
 
 Rebuttal against 5:
