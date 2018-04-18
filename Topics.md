@@ -1,4 +1,3 @@
-
 [[_TOC_]]
 
 Topics where I have enough substance/content to make a video/essay:
@@ -6,6 +5,8 @@ Topics where I have enough substance/content to make a video/essay:
 Normative Philosophy
 - Abortion
 - Affirmative Action
+- Anti-natalism
+- What beings are morally considerable
 - Against Utilitarianism
 - Making sense of deontology
 - An inherent badness to discrimination? Distinction [Discrimination] from [Arbitrary Discrimination] from [Discrimination that propels oppression, segregation, subjugation]
