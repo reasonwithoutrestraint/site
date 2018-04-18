@@ -1,6 +1,26 @@
 
-
 [[_TOC_]]
+
+Topics where I have enough substance/content to make a video/essay:
+
+Normative Philosophy
+- Abortion
+- Affirmative Action
+- Against Utilitarianism
+- Making sense of deontology
+- An inherent badness to discrimination? Distinction [Discrimination] from [Arbitrary Discrimination] from [Discrimination that propels oppression, segregation, subjugation]
+
+Other philosophy
+- Determinism/Free Will/Compatibilism
+- Ontological incoherent distinctions - naturalism vs non-naturalism, determinism vs indeterminism, etc.
+- Unnecessary Linguistic disputes - meanings of racism, moral terms, free will, knowledge, atheism, etc.
+
+Political
+- Irrelevant social disputes - discrimination, biological group differences, etc.
+
+Scientific
+- Group success: internal forces vs external forces
+- Genetic component of racial IQ differences
 
 ## Entertainment
 
@@ -23,6 +43,14 @@
 * Epistemological: A priori vs experiential
 	
 ### Metaphilosophical:
+
+Questions we might ask about whether P is true:
+1. What is means for P to be true
+2. Why it matters whether P is true
+3. What it takes for P to be true
+4. Whether P really is true
+
+Question (1) is probably the least important if we can settle 2-4.
 
 Unnecessary Linguistic Disputes
 * Meaning of moral terms
