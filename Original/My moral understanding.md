@@ -1,3 +1,15 @@
+## 
+
+Challenges:
+
+1. Definitional features of normative thinking
+2. Analyze normative statements
+3. Formal characterization of normativity
+4. Truth conditions of normative statements
+5. Distinctive features of morality specifically
+6. Fundamental moral principles
+7. Political Theory
+
 ## Metaethics
 
 ### Normative Meaning
