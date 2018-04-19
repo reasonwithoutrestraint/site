@@ -86,6 +86,7 @@ Morality is a tool that is useful only if all of the following conditions are me
 2. Moral judgments are capable of reconciling these conflicting desires/attitudes, either by 
     - Motivating agents with conflicting desires/attitudes to suppress/adjust their desires/attitudes, and/or
     - Motivating other agents to in some way mitigate the impact of those conflicting desires/attitudes.
+    - Motivating the construction of a system of rules that resolves these conflicts.
 
 If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to. Thus, morality is distinguished from rationality generally in that it has some social component. Some possibilities:
 
