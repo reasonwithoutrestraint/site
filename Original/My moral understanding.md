@@ -97,7 +97,7 @@ If this occurs, then there is no point in morality, since everyone would agree. 
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
-## Normative 
+## Substantive morality
 
 ### Some structural considerations about a moral theory
 
