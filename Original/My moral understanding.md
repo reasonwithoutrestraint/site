@@ -77,14 +77,19 @@ Another option is to say that there need be no connection to explanatory basis:
 `Distinctive features of morality`
 
 `Possibly multiple, distinct, valid analysis of morality`
-		
-If the following conditions are met, then morality is pointless:
-1. All relevant parties are fully informed/rational.
-2. All relevant parties have non-conflicting interests.
+
+Morality is a tool that is useful only if all of the following conditions are met:
+
+1. Agents have conflicting desires/attitudes, because of
+    - Agents have conflicting interests, and/or
+    - Agents have non-conflicting interests plus differential information/rationality
+2. Moral judgments are capable of reconciling these conflicting desires/attitudes, either by 
+    - Motivating agents with conflicting desires/attitudes to suppress/adjust their desires/attitudes, and/or
+    - Motivating other agents to in some way mitigate the impact of those conflicting desires/attitudes.
 
 If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to. Thus, morality is distinguished from rationality generally in that it has some social component. Some possibilities:
 
-1. Morality is a system of norms promotingg social rationality - what actions would be rational when considering as equals the interests of all affected parties.
+1. Morality is a system of norms promoting social rationality - what actions would be rational when considering as equals the interests of all affected parties.
 2. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
 3. Morality is a system of norms justifying ourselves to others.
 4. Morality is a system of norms that we would all agree to under certain conditions (similar to veil of ignorance)
