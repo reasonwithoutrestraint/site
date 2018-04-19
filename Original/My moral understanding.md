@@ -97,11 +97,27 @@ If this occurs, then there is no point in morality, since everyone would agree. 
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
-## Normative Ethics
+## Normative 
 
-#### Possible accounts of morality
+### Some structural considerations about a moral theory
 
-`Fundamental moral principles`
+Important Debates:
+
+1. Particularism vs Generalism
+2. Agent-neutral reasons vs Agent-relative reasons
+3. Consequentialism vs Deontology
+
+### Types of moral arguments
+
+To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
+- Appeal to some fundamental principle that provides a determinate answer to the rightness/wrongness of X in circumstance C. See below for arguments in favor of fundamental principles. Of course, this is assuming that the fundamental moral principles form determinate answers, which need not be the case. This also assumes that there are fundamental moral principles, which need not be the case.
+- Appeal to the obvious rightness/wrongness of an analogous act X' in an analogous circumstance C'. This theory can remain agnostic to the truth/weight of any fundamental moral principles (if any such principles even exist). This strategy is committed only to the fact that there clearly is a constraint on which *considerations* are morally relevant (regardless of whether and how those considerations can be reduced to certain principles). Considerations such as happiness, desires, autonomy, responsibility, etc. are potentially relevant moral considerations (i.e. humans clearly use these considerations in ordinary moral thinking; whether they really should be used and/or whether some of these are only instrumentally valuable is a further question). But there are clearly considerations that don't count as morally relevant. This style of argument works if it can be shown that the differences between C and C' are definitely not potentially relevant moral considerations.
+
+To argue for certain fundamental principles:
+- Argue that these principles best explain, or cohere with, our considered moral judgments. The problem here is that the best principles that explain our moral judgments might not be nonconflicting, i.e. the considerations that explain our considered moral judgments might not reduce to the same principles (which means it might not provide determinate answers in all circumstances), and/or different people might have fundamentally different irreconcilable considered moral judgments.
+- Build these principles from the ground up, from a metaethical theory. This may be too ambitious.
+
+### Possible accounts of morality
 
 Aesthetic morality: this is a system for evaluating actions generally. The actions are evaluated based on whether they warrant blame/praise (warrant referring to whether we ought - no in the consequentialist senes - to blame/praise). Since the rationality of these emotions depends on the nature of these emotions (which is relative and contingent), then this morality itself is relative and contingent (similar to aesthetics, a la secondary qualities). This sense of morality seems concerned with consciousness and well-being of sentient creatures. This may be relative to particular conventions of particular species, cultures or even individuals. I don't think this morality isn't useful or meaningful, but it sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette. If a moral statement is true in this sense for a person, then they would be motivated to respect its law if they were informed/rational.
 
@@ -120,6 +136,10 @@ Three types of reasons in favor of a norm:
 3. Public constructive: Reason to support societal construction of the norm; depends on desire to live in a certain sort of society with certain accepted rules. Can apply to people regardless of personal sentiments. I think describes forceful morality (i.e. justice, law) and possibly aeshtetic morality and ettiquette. People might not be motivated to respect it in any particular circumstance, but they will be motivated to support it as a rule that society agrees to respect.
 
 On this understanding, we can still call animal cruelty wrong on the basis of aesthetic moral sentiments of normal humans. But could we be justified in using force to stop animal cruelty? Can aesthetic moral sentiments justify imposing force on others? Or can there be a constructive reason to enact norms to protect animal cruelty? In general, how can we support using force to stop the harm of individuals (animals or humans) outside of our social contract? This does afford the libertarian protective rights for people in society (as is desired), but it does not provide even minimum rights for people outside of society, i.e. it never justifies us to use force to stop them from being harmed.
+
+### Fundamental moral principles
+
+`Fundamental moral principles`
 
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
