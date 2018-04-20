@@ -15,6 +15,7 @@ Destiny's argument
             2. Children have the potential to develop this capacity.
             3. Therefore, children are morally considerable.
         - There's a hidden premise here: if X has the potential to develop capacity C, then X should have all rights that require capacity C. But this premise is false. We don't think chlidren should have the right to vote, run for office, drive vehicles, consent to sex, etc. even though they have the *potential* to develop the capacities that would ordinarily generate these rights.
+        - Furthermore, what is meant by "potential"? Some children don't have the potential to develop these capacities. For example, let's say that we know the child will die before adulthood because of a genetic disorder.
 2. This would justify torturing, killing, raping, etc. the mentally handicapped who can nevertheless vividly experience suffering.
     - Response: Yes, in some circumstances, but we already deprive these people of rights.
         - Yes, we deprive them of *some* rights, but we certainly don't remove them from moral consideration. We don't say that we can kill, torture, rape, eat them!
