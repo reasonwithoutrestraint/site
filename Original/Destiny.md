@@ -4,7 +4,7 @@ Destiny's argument
 
 1. Moral consideration requires a capacity to reciprocate social values.
 2. Animals are not capable of reciprocating social values.
-3. Therefore, animals are not morally considerable beings.
+3. Therefore, animals are not morally considerable.
 
 ### Problems with (1)
 
