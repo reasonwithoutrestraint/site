@@ -27,11 +27,13 @@ Destiny's argument
                 - How is this not equally true of animals?
         - If self-interest and rationality are the only concerns, this feature doesn't even matter. See next point.
 3. What is the support for this other than pure intuition or emotion? It doesn't follow from pure self-interest or consistency.
-    - Self-interest and consistency determines only that murder, rape, torture, etc. are not necessarily wrong. They're wrong only to the extent that you get caught. Let us imagine the *actual* cases of murder, rape, torture, etc. that have happened in the past where the person wasn't caught, e.g. police brutality before cameras,
+    - Self-interest and consistency doesn't determine that the social contract is morally justified.
+    - Self-interest and consistency determines that murder, rape, torture, etc. are not necessarily wrong. They're wrong only to the extent that you get caught. Let us imagine the *actual* cases of murder, rape, torture, etc. that have happened in the past where the person wasn't caught, e.g. police brutality where they got off free, unsolved murders, etc. We can even think of cases where ordinarily wrong things are encouraged by a society and, therefore, beneficial to perform: female genital mutilation, racist cop group, etc. These need not violate self-interest, but would they be morally wrong?     - If no, then your axiom of self-interest cannot generate nearly any moral views.
+        - If yes, you are using something other than pure rationality and self-interest to generate your moral views. 
+    - The entire *purpose* of morality is a tool for handling conflicting interests. 
 
 ### Problems with (2) 
 
 1. What is meant by "reciprocate social value"? How can we know if an animal reciprocates social value?
-
     - If it means "doesn't harm others", then this doesn't work. Because animals can be trained to not harm others.
     - If it means "doesn't harm others, even when this is costly", i.e. it can't be a contingent feature of animals. This also doesn't work. Animals can be trained to not harm others even when it might be beneficial for them to do so. Furthermore, most humans would harm others if it was their only way to eat, survive, etc. If we didn't have the contingent laws, safety nets, etc. that we have today, most humans would go on harming others. But if we could prove that an individual would harm someone if it wasn't for, say, certain laws, safety nets, opportunities, medicine, etc. then it follows that we can kill and eat them?
