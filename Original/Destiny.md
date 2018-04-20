@@ -25,6 +25,7 @@ Destiny's argument
                 - This doesn't work, because there are some conditions that are impossible for us to end up in, e.g. certain genetic disorders.
             - Response: We could end up in a condition, similar to their general level of suffering, disadvantage.
                 - How is this not equally true of animals?
+                - I thought sentience didn't matter?
         - If self-interest and rationality are the only concerns, this feature doesn't even matter. See next point.
 3. What is the support for this other than pure intuition or emotion? It doesn't follow from pure self-interest or consistency.
     - Self-interest and consistency doesn't determine that the social contract is morally justified.
