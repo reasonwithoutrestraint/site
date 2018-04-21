@@ -10,11 +10,14 @@ Normative Philosophy
 - Against Utilitarianism
 - Making sense of deontology
 - An inherent badness to discrimination? Distinction [Discrimination] from [Arbitrary Discrimination] from [Discrimination that propels oppression, segregation, subjugation]
+- How non-natural moral realism allows for God to make anything moral, as it cannot account for the supervenience of moral facts.
+- How naturalist moral realism about moral facts justifies other supernatural reductivist fats
 
 Other philosophy
 - Determinism/Free Will/Compatibilism
 - Ontological incoherent distinctions - naturalism vs non-naturalism, determinism vs indeterminism, etc.
 - Unnecessary Linguistic disputes - meanings of racism, moral terms, free will, knowledge, atheism, etc.
+- A defense against the problem of evil
 
 Political
 - Irrelevant social disputes - discrimination, biological group differences, etc.
