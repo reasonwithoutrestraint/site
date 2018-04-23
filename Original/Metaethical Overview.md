@@ -48,20 +48,26 @@ Michael Sandel, Liberalism and the Limits of Justice
 
 ### Language: Cognitivism vs Non-cognitivism
 
-Moral claims are truth-apt (applicable to normativity generally)
+Are normative statements capable of truth and do they express beliefs.
 
-1. Non-cognitivism: moral are not truth apt
+1. Non-cognitivism: moral statements are not truth apt, nor expressions of belief
+    - Expressivist: normative statements express a speaker's attitudes
+    - Emotive: normative statements function to influence the attitudes of others
+    - Prescriptive: normative statements are imperatives
 2. Cognitivism: moral claims are truth-apt
+    - Naturalistic Beliefs: normative statements express beliefs that can be understood in non-normative terms:
+        - Counterfactual beliefs: pure normative statements express beliefs about what an agent would do if they were ideal (i.e. fully rational, fully informed, consistent, reflective, etc.). For more substantive normative domains, either (1) there may be more substantive conditions baked in, or (2) they may be given a different analysis that refers back to this analysis of pure normative statements. For example, Railton's moral naturalism understands moral statements as statements about what promotes the normative goodness of all affected parties, giving each party equal consideration; this may or may not be equivalent to an analysis that understands moral statements as what a person would do if they were concerned with the normative goodness of all affected parties.   
+    - Non-naturalistic Beliefs: normative statements express beliefs that cannot be understood in normative terms
 
 ### Ontology: Objective (mind-independent) truth conditions
 
 The ontological relation between moral facts and moral views:
 
-1. Anti-Realism: Moral facts are constituted by some relation to actual or hypothetical moral views
+1. Anti-Realism: Moral facts are constituted by some relation to actual or hypothetical moral views (seems to require naturalism).
     - The relation is *identity* to the *actual* moral views of a person (simple subjectivism).
     - The relation is *identity* to the *hypothetical* moral views of an *ideal* agent (ideal observer).
     - The relation is *entailment* from one's moral views (constructivism).
-2. Realism: Moral facts are ontologically prior to, and can explain, moral views
+2. Realism: Moral facts are ontologically prior to, and can explain, moral views (can be naturalism, non-naturalism or sensibility theory).
     - The moral facts are natural facts.
     - The moral facts are non-natural facts.
     - The moral facts are secondary properties.
