@@ -2,13 +2,13 @@
 
 Challenges:
 
-1. Definitional features of normative thinking
-2. Analyze normative statements
-3. Formal characterization of normativity
-4. Truth conditions of normative statements
-5. Distinctive features of morality specifically
-6. Fundamental moral principles
-7. Political Theory
+1. Normative Analysis
+    - Platitudes of normative thinking
+    - An analysis - Non-cognitive or cognitve? If cognitive, what sorts of beliefs?
+    - Formal characterization for different normative domains
+2. Distinctive features of morality
+3. Fundamental moral principles
+4. Political Theory
 
 ## Metaethics
 
