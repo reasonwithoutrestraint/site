@@ -74,13 +74,6 @@ The ontological relation between moral facts and moral views:
 
 Third option that no one accepts: moral facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
-### Success vs Error Theory
-
-Whether these truth conditions are ever met
-
-1. Error-Theory: these truth conditions are never met, or we have no reason to believe that they are ever met.
-2. Success-Thery: these truth conditions are sometimes met, and we have reason to believe that they are.
-
 ### Normativity: Categorical vs Hypothetical
 
 1. Anti-Rationalism: morality does not necessarily provide reason for action
