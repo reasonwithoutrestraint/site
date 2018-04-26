@@ -49,14 +49,17 @@ Some normative systems are optional: moral norms, legal norms, health norms. Onl
 The considerations regarding rational ought claims (i.e. promotion of interests) different from the considerations regarding moral ought claims (e.g. harm, treatment as mere means, etc.) which differ from considerations regarding ettiquette (e.g. rudeness, offensiveness). Though some might dismiss this if they think rationality and morality converge, and/or morality and ettiquette converge.
 
 Other considerations that deal with systematizing our normative concepts:
-1. Thick vs Thin ethical concepts
-2. Relationship between rightness and goodness
-3. Categories of normative concepts
+1. Particularism vs Generalism
+2. Agent-neutral reasons vs Agent-relative reasons
+3. Ought implies can
+4. Relationship between rightness and goodness
+5. Thick vs Thin ethical concepts
+6. Categories of normative concepts
     - Regulative: judges actions
     - Evaluative: judges states of affairs 
     - Deliberative: fitness of a response for an agent
-4. Possible reduction of seemingly distinct normative concepts into one
-5. Supervenience on the physical world
+7. Possible reduction of seemingly distinct normative concepts into one
+8. Supervenience on the physical world
 
 #### Possible accounts of normativity
 
@@ -98,14 +101,6 @@ If this occurs, then there is no point in morality, since everyone would agree. 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
 ## Substantive morality
-
-### Some structural considerations about a moral theory
-
-Important Debates:
-
-1. Particularism vs Generalism
-2. Agent-neutral reasons vs Agent-relative reasons
-3. Consequentialism vs Deontology
 
 ### Types of moral arguments
 
