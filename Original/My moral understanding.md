@@ -31,22 +31,26 @@ Cognitivism: The assertion "P" (where P is a proposition) is accepted as cogniti
 
 `How to systematize normative systems?`
 
-A normative system can be understood by the following components:
-- T - The types of behavior regulated (actions, beliefs, driving, etc.).
-- R - The responses for following or violating the rules.
-- C - The considerations that serve as reasons for the norm.
+Three purposes of normative claims:
+- *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
+- *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
+- *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
+- *Action-Guiding*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X.
+
+*Action-guiding* normative system can be understood by the following components:
+- T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
+- R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
-- S - The actual norms of the normative system.
+- S - The actual norms of the normative system. These are entailed from whatever the relevant considerations are plus any observational content.
 		
-A set of norms S(N) is normative for behaviors of type T(N) (actions generally, beliefs, driving, etc.). It regulates those behaviors (provides oughts for those behaviors), usually on the basis of considerations C(N). 
+For a given normative system, there is a set of norms S(N) that regulates the behaviors of type T(N) on the basis of certain kinds of relevant considerations C(N). 
 
-Some normative systems are conventional: moral norms, legal norms, etiquette norms, health norms. For example: you morally ought not kill, if a norm in a society, means = [killing] will invoke [feelings of shame] when performed
-	
-Some normative systems are not conventional: The best example is rational norms, etc. You [rationally ought] to take the means to fulfill your ends, you [rationally ought] to believe the conclusion of a valid argument if you believe its premises. Other examples include conventional norms idealized: idealized legal norms, idealized etiquette norms, idealized moral norms. You [ideal legally ought] not drive above a certain speed limit. You [ideal morally ought] not have abortion.
-	
-Some normative systems are optional: moral norms, legal norms, health norms. Only rational norms are necessarily rationally mandatory. You [rationally ought] to do what you [(ideal or actual) legally ought] depending on the contingent overlap of rational and (ideal or actual) legal norms. The same applies to (ideal or actual) moral norms. You [rationally ought] to do what you [ideal legally/morally ought] to do only insofar as you endorse the function of those normative systems.
+Examples:
+- Rational norms regulate actions by advocating for whatever actions are entailed from *rational* considerations, i.e. whatever ends the agent is contigently committed to.
+- Epistemic norms regulate beliefs by advocating for whatever beleifs are entailed from *epistemic* considerations, i.e. whatever perceptions, experiences, memories count in favor of.
+- Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
+- Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? 
 
-The considerations regarding rational ought claims (i.e. promotion of interests) different from the considerations regarding moral ought claims (e.g. harm, treatment as mere means, etc.) which differ from considerations regarding ettiquette (e.g. rudeness, offensiveness). Though some might dismiss this if they think rationality and morality converge, and/or morality and ettiquette converge.
 
 Other considerations that deal with systematizing our normative concepts:
 1. Particularism vs Generalism
