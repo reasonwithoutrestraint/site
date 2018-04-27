@@ -35,9 +35,9 @@ Three purposes of normative claims:
 - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
 - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
 - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
-- *Action-Guiding*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X.
+- *Constituitive*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X. Expressive uses of "A should X" can be said to be justified if the speaker has an *constituitive* reason to hold a pro-attitude towards A doing X. Emotive uses can be justified if others have an *constituitive* reason to hold such a pro-attitude. And imperative uses can be justified if A has *constituitive* reason to do X. 
 
-*Action-guiding* normative system can be understood by the following components:
+*Constituitive* normative system can be understood by the following components:
 - T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
 - R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
@@ -49,7 +49,7 @@ Examples:
 - Rational norms regulate actions by advocating for whatever actions are entailed from *rational* considerations, i.e. whatever ends the agent is contigently committed to.
 - Epistemic norms regulate beliefs by advocating for whatever beleifs are entailed from *epistemic* considerations, i.e. whatever perceptions, experiences, memories count in favor of.
 - Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
-- Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? 
+- Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? . Or perhaps moral norms are not constuitive. Rather, these norms are emotive and are justified insofar as they prohibit actions that others have constituitive reason (moral reason, rational reason?) to shame/blame.
 
 
 Other considerations that deal with systematizing our normative concepts:
