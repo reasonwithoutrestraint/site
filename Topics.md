@@ -62,7 +62,7 @@ Unnecessary Linguistic Disputes
 * Meaning of knowledge
 * Meaning of racism
 
-Unnecessary debates: when the truth of P is disagreed, but we agree that the truth of P depends on S, and we agree on S:
+Unnecessary debates: when the truth of P is disagreed, but we agree that the truth of P reduces to S, and we agree on S:
 - Movie ratings
 - Is Islam a religion of Peace
 	
