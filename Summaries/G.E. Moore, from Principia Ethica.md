@@ -33,7 +33,7 @@ consists in the possession of knowledge how, whereas knowledge of a correct anal
 
 ### Unconsidered possibilities
 
-Moore seemed to assume that an ethical theory had only two options: analytic naturalism and non-naturalism. Needless to say, this is terribly inadequate.
+Moore seemed to assume that an ethical theory had only two options: analytic naturalism and non-naturalism. Needless to say, this is terribly inadequate. There is synthetic naturalism as well as non-cognitivism.
 
 # Salvaging the Open Question Argument
 
