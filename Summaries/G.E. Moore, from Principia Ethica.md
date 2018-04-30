@@ -16,6 +16,27 @@ When one philosopher asserts that "good *means* pleasure" and another asserts th
 
 If good does not define an irreducible simple property, then there are two alternatives: either (1) good denotes a complex notion or object, or (2) good denotes nothing at all and is meaningless. Consider (1). Consider the question "Is X good". Now, imagine that a proposed complex analysis of goodness states that "all questions of the form 'Is X good' are questions of the form 'Does X have property Y' (e.g. is X desired, is X pleasurable, etc.)". However, we can always further ask "Is it good that X has property Y" ('e.g. "Is it good to desire X", "Is it good that X is pleasurable", etc.). This further question is clearly intelligible. But, if X was a complex object that could be analyzed in terms of Y, then such a question would not be intelligible, i.e. the question *makes sense* and does not reveal any conceptual confusion. Thus, X is not such a complex object. Now consider (2). Consider again the question "Is X Good". Everyone actually understands the question as meaningful, and the state of mind expressed by the question is different from the state of mind expressed by "Is X pleasurable, desired approved, etc." Thus, there is an obvious awareness of the object goodness present in everyone's mind. Therefore, goodness cannot be meaningless. 
 
-# Analysis
-
 # Objections
+
+### Begging the Question
+
+(from Alexander Miller and SEP)
+
+Frankena writes: "[T]he charge of committing the naturalistic fallacy can be made, if at all, only as a conclusion from the discussion and not as an instrument of deciding it." (1938: 465). In other words, it is merely *assumed* that all questions about the goodness of a naturalistic property are intelligible open questions that do not reveal conceptual confusion. But this is just begging the question. If analytic naturalism is correct, then there *is* conceptual confusion.
+
+### Informative Conceptual Analysis
+
+(from Alexander Miller and SEP)
+
+Moore assumes that there can be no conceptual analysis of "good" because such a conceptual analysis would have to be uninformative and uninteresting, yet questions about "good" are always informative and interesting. However, there is a patently false premise in this reasoning. Conceptual analysis *can* sometimes be informative and interesting. (e.g. the dispositional analysis of colours invterms of our dispositions to see things in certain ways, the analysis of knowledge as justified true belief, and so on). In fact, conceptual analysis *must* be informative and interesting to explain the viability of many philosophical positions. This is possible because can one grasp a concept without being consciously aware of what is involved in the correct analysis of that concept. This can be explained by distinguishing between knowledge-how (the possession of an ability) and knowledge that (propositional knowledge), and then to argue that grasp of a concept
+consists in the possession of knowledge how, whereas knowledge of a correct analysis is a species of knowledge that. One example of this is with grammar: someone can know how to speak grammatically without being able to state in propositional form the extremely complicated grammatical rules which underlie that ability. 
+
+# Salvaging the Open Question Argument
+
+### Thomas Baldwin
+
+If 'good' and 'N' are analytically equivalent, then, all things else equal, competent speakers should (*after* conceptual reflection) find it natural to guide their evaluative judgements by the analysis. *After* conceptual reflection, competent English speakers do not find it natural to guide their evaluative judgements by the analysis of 'good' in terms of 'N'. Therefore, 'good' and 'N' are not analytically equivalent, unless all things else aren't equal. Note that this merely argues for a presumption against analytic reductionism. The analytic reductionist needs to reply by providing an independent explanation of why things are *not* equal, i.e. there needs to be an explanation of why competent English speakers do not find it natural to let 'N' guide their evaluative judgments of 'good', and that explanation needs to be compatible with the fact that 'N' and 'good' are analytically equivalent.
+
+#### Darwall, Gibbard and Railton
+
+Sure, conceptual analysis in theory can be informative and interesting, but such analysis can be true only if they capture of all of the essential features of the concept analyzed. However, the analytic naturalistic understandings of moral concepts do indeed omit something central to them. Unfortunately, Moore never argued what that something is (which can perhaps be explained by his non-naturalism), but he might have said something like this: Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are *necessarily* action-guiding whereas attributions of R are only *contingently* action-guiding suggests that goodness and R are not analytically equivalent. The naturalist can respond by rejecting judgment internalism or rejecting analytic naturalism in favor of synthetic naturalism.
