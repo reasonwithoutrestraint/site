@@ -1,11 +1,11 @@
 # Argument for Abortion
 
 1. A fetus is a life
-    A. Arbitrariness argument
+    - A. Arbitrariness argument
         1. The line drawn to designate when life begins must be non-arbitrary.
         2. The only non-arbitrary, non-repugnant line to draw for life before birth is conception.
         3. [from 1 & 2] Life begins at conception.
-    B. Potentiality argument
+    - B. Potentiality argument
         1. If X has the potential to develop into a being of type T, then X should be afforded all the same rights afforded to beings of type T.
         2. Fetuses have potential develop into human life.
         3. [from 1 & 2] Fetuses have a right to life.
@@ -16,7 +16,7 @@ Rebuttal against 1A1:
 - General cases: we can say the same about plenty of things - age when one should be able to consent, vote, work, smoke, drink, run for office, etc. Why the discrepancy?
 - Abortion-specific case: assuming they believe that the mother can abort if her life is in danger. What non-arbitrary percentage of danger can you point to to say that the mother is justified in abortion? 
 
-Rebuttal against 1B1
+Rebuttal against 1B1:
 - We don't think chlidren should have the right to vote, run for office, drive vehicles, consent to sex, etc. even though they have the *potential* to develop the capacities that would ordinarily generate these rights.
 - Furthermore, what is meant by "potential"? Some children don't have the potential to develop these capacities. For example, let's say that we know the child will die before adulthood because of a genetic disorder.
 
