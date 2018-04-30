@@ -1,4 +1,6 @@
-# Arguments
+# Positive Arguments
+
+# Negative Arguments
 
 # Objections
 
