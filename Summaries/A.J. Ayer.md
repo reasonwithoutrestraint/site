@@ -13,11 +13,29 @@ Ayer held that all meaningful propositions were either analytic or empirical ver
 
 Therefore, moral judgments cannot be expressions of genuine moral propositions capable of being true or false. Rather, moral judgments express particular sentiments. To say that 'X' is wrong is to merely express a certain negative attitude towards stealing. Note that this is not *reporting* one's moral sentiment as in "I do not approve of stealing" (which can be true or false). Rather it is more like uttering "Boo Stealing!!!" (which cannot be true or false). The idea is that moral judgments express feelings about certain objects rather than expressing any assertions about those objects. In addition to expression of speaker's sentiment, moral judgments also function to evoke various sentiments in listeners. Similar arguments can be said of other normative ethical terms and aesthetics. 
 
-### Response to objections
+### Anticipated objections
 
 One objection to subjectivist theories ("X is good" = "I approve X") has already been mentioned - it is not self-contradictory to say that one approves of something that is not good, but subjectivist theories would have to maintain that this is self-contradictory. This objection does not apply to Ayer's expressivism, since expressivism does not mantain that *any* moral judgments are self-contradictory (as they hold no meaning whatsoever).
 
 Another objection that applies both to subjectivist theories and Ayer's expressivism is that it cannot account for genuine value disputes. On either theory, when two people make seemingly contradicting assertions of value, they aren't actually expressing incompatible propositions, which means that genuine value disputes are impossible. Ayer responds by denying that people can actually have genuine disputes about value. When people actually engage in evaluative debates, the debates always reduce to factual or logical matters with the presumption of a shared system of values (e.g. arguments consist of one party saying that another has misjudged an agent's motive, that he has misunderstood the effects of a certain action, that he failed to take into account the special circumstances, etc). However, if the two have radically different foundational moral values, then no such argument is possible. Any attempt of convincing by argument is abandoned and instead the argument devolves to derogatory judgments or even to force (if the debate is serious enough). The reason is because one cannot justify their foundational values without themselves appealing to those values, so such an argument is impossible.
 
 # Objections
+
+### The Frege-Geach problem 
+
+The Frege-Geach problem challenges emotivism to account for the occurrence of moral sentences in 'unasserted contexts' without jeopardizing the intuitively valid patterns of inference in which those sentences figure. For example, consider the following argument: "(1) X is wrong. (2) If X is wrong, then Y is wrong. (3) Therefore, Y is wrong." It seems that this is clearly a valid argument. This is a valid argument only if the phrase "X is wrong" *means the same thing* (i.e. *expresses the same content*) in (1) as in (2) (otherwise, the argument is not valid). But this seems difficult under emotivism. Emotivism mantains that the sentence "X is wrong" in (1) expresses disapproval towards X because that is what such sentences do when they are asserted. However, the sentence "X is wrong" in (2) cannot express any sort of sentiment, because the corresponding is not being asserted. Thus, it seems difficult for non-cognitivism to account for seemingly obviously valid arguments.
+
+### The moral attitude problem
+
+The central claim of emotivism is that moral judgements do express non-cognitive sentiments. But what sort of non-cognitive sentiment? Unless the emotivist has a plausible answer to this question, his account of moral judgement will begin to sound hollow. 
+
+### Logical Positivism
+
+Some of the main objections against this theory are objections Ayer's broader logical positivism - the position that all meaningful propositions are either analytic or empirically verifiable. This is disputed because (1) it seems like there are meaningful synthetic propositions that are *not* empirically verifiable, and (2) Ayer did not successfully explain what it means for something to be empirically verifiable.
+
+### My personal objections
+
+It also seems to me that his theory of logical positivism defeats his own theory. If moral judgments are meaningless, then all normative judgments should also be meaningless. But if all normative judgments are meaningless, then statements about the credibility of a certain position or about which positions best fit the evidence are also meaningless. The reason is because such statements are also normative, i.e. they are statements about what we epistemically have reason to believe. In that case, it is meaningless to state that there is any reason to support expressivism.
+
+Another objection might come from metaethical theories that are ignored in Ayer's criticism: *synthetic* naturalism, which mantains that moral judgments are empirically verifiable and not analytic reductions of ethical terms; or non-obvious, informative and meaningful analytic naturalism.
 
