@@ -154,6 +154,18 @@ Moral facts exist and are constituted by our actual or hypothetical moral views.
 
 Moral facts exist and explain our actual or hypothetical moral views.
 
+## Naturalism
+
+### Anayltic Reductionist Naturalism
+
+### Peter Railton - Synthetic Reductionist Naturalism - _Moral Realism_
+
+### Richard Boyd - Irreducible Naturalism (Cornell Realism),  _How to be a Moral Realist_
+
+### Rebuttal - Moral Twin Earth
+
+### Objection
+
 ## Non-naturalism
 
 ### A.C. Ewing
@@ -165,16 +177,6 @@ Moral facts exist and explain our actual or hypothetical moral views.
 ### Russ Shafer-Landau
 
 ### T. M. Scanlon
-
-### Objection
-
-## Naturalism
-
-### Peter Railton - _Moral Realism_
-
-### Richard Boyd - _How to be a Moral Realist_
-
-### Rebuttal - Moral Twin Earth
 
 ### Objection
 
