@@ -31,6 +31,10 @@ Frankena writes: "[T]he charge of committing the naturalistic fallacy can be mad
 Moore assumes that there can be no conceptual analysis of "good" because such a conceptual analysis would have to be uninformative and uninteresting, yet questions about "good" are always informative and interesting. However, there is a patently false premise in this reasoning. Conceptual analysis *can* sometimes be informative and interesting. (e.g. the dispositional analysis of colours invterms of our dispositions to see things in certain ways, the analysis of knowledge as justified true belief, and so on). In fact, conceptual analysis *must* be informative and interesting to explain the viability of many philosophical positions. This is possible because can one grasp a concept without being consciously aware of what is involved in the correct analysis of that concept. This can be explained by distinguishing between knowledge-how (the possession of an ability) and knowledge that (propositional knowledge), and then to argue that grasp of a concept
 consists in the possession of knowledge how, whereas knowledge of a correct analysis is a species of knowledge that. One example of this is with grammar: someone can know how to speak grammatically without being able to state in propositional form the extremely complicated grammatical rules which underlie that ability. 
 
+### Unconsidered possibilities
+
+Moore seemed to assume that an ethical theory had only two options: analytic naturalism and non-naturalism. Needless to say, this is terribly inadequate.
+
 # Salvaging the Open Question Argument
 
 ### Thomas Baldwin
