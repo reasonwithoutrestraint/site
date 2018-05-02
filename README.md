@@ -1,3 +1,31 @@
+Current reading list:
+- Early Expressivists and Critics
+        - Opt: Stevenson
+        - Opt: R.M. Hare
+        - Opt: Foot, Moral Beliefs
+        - Opt: Geach, Ascryptivism
+        - Opt: Searle, Meaning and Speech Acts
+- Error Theory
+    - Mackie
+- Sensibility Perception
+    - McDowell, Values and Secondary Properties
+    - Wiggins
+        - Opt: McDowell, Projection
+- Projectivists (Quasi-Realists)
+    - Gibbard
+        - Opt: Allan Gibbard, from Thinking How to Live   
+    - Blackburn
+        - Opt: Rosen, “Blackburn’s Essays in Quasi-Realism” 
+        - Opt: Jamie Dreier, “Meta-Ethics and the Problem of Creeping Minimalism”
+- Realists
+    - Boyd, Moral Realism
+    - Railton, Moral Realism
+- Constructivists
+    - Street
+        - Opt: J. Rawls, “Kantian Constructivism in Moral Theory” 
+    - Christine Korsgaard, “The Sources of Normativity” 
+        - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+
 Anthologies to read:
 - Darwall, Gibbard and Railton - Moral Discourse and Practice
 - Andrew Fisher, Simon Kirchin - Arguing About Metaethics
