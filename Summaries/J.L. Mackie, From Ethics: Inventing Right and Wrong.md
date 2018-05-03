@@ -31,3 +31,5 @@ Another strangeness to objective moral values is the alleged supervenience of th
 ### Patterns of Objectification
 
 Because of the reasons given above, it is best to reject the common paradoxical beliefs of ordinary thoughts, so long as an explanation can be given for the moral beliefs of ordinary moral thought. The supposed objectivity of moral qualities arises from the projection or objectification of moral attitudes, as well as reversing the causal direction between what is *desired* and what is *good*. Moral attitudes are socially necessary patterns of behavior that put presse on individuals. Moral codes are needed to regulate interpersonal relations often in ways contrary to any individual's inclinations. Thus, moral judgments need to seem authoritative to others in the sense that their justification is agent-independent; objectivity is what can provide this authority. 
+
+# Objections
