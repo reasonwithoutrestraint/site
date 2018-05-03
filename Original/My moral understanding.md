@@ -98,13 +98,13 @@ Morality is a tool that is useful only if all of the following conditions are me
 If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to. Thus, morality is distinguished from rationality generally in that it has some social component. Some possibilities:
 
 1. Morality is a system of norms promoting social rationality - what actions would be rational when considering as equals the interests of all affected parties.
-2. Morality is a system of norms that promotes whatever tracks and guides the use of our moral concepts.
+2. Morality properties are the natural facts that track and guide our use of moral concepts.
 3. Morality follows from pure rationality
     - Valuing anything requires valuing the capacity to value.
     - There is no valid distinction to make between different individuals, metaphysical egoism is false.
-2. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
-3. Morality is a system of norms justifying ourselves to others.
-4. Morality is a system of norms that we would all agree to under certain conditions (similar to veil of ignorance)
+4. Moral truth consist in what an idealized moral agent would morally endorse. 
+5. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
+6. Morality is a system of norms that no one could rationally reject as a basis for unenforced, informed cooperation.
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
