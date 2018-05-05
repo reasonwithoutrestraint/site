@@ -1,15 +1,21 @@
+# Objective Morality
+## Morality as normativity
+
 You're basically asking if there is objective morality, so I will be responding by attempting to answer that question in the affirmative. I think that morality is concerned with reasons for action, specifically *moral* reasons for action. So to ask if morality is objective is to ask if there are objective moral reasons for action. Before turning to this question, it would be helpful to investigate other sorts of reasons as an analogy - reasons for belief.
 
-Uses of language (several dimensions):
+## Objectivity Normativity
 
-1. Expressive: expressive some attitude of the speaker - e.g. their beliefs, emotions, etc. These evaluations are reasonable insofar as the beliefs, emotions, etc. in question are reasonable (they should be held) for the speaker.
-2. Imperative: influence something about the receiver - e.g. their beliefs, emotions, actions, etc. These imperatives are reasonable insofar as the beliefs, emotions, actions, etc. are reasonable for the receiver. 
+### Belief
 
 [mention 'ought'/'should' and 'reasons for action' more]
 
 When one asks if a belief is reasonable, I believe they are asking if their observations, perceptions, experiences, intuitions, etc. count in favor of having a certain belief (I'm assuming an [internalist basis for reasons for belief](https://plato.stanford.edu/entries/justep-intext/)). For example, you might think that *seeing* a tree outside is a reason for *believing* that there is a tree outside. Of course, what it takes for these considerations to actually become reasons is quite complex - e.g. the fact that you *perceive* that the earth is stationary is no overriding reason to believe that the earth is stationary, given other perceptions and observations that suggest otherwise (what it takes for considerations to count as reasons depends on your preferred theory of [epistemic justification](https://plato.stanford.edu/entries/epistemology/)). If a person's beliefs do not adequately respond to reasons, then it seems fair to say that they are being *irrational* - i.e. their beliefs are not responding to the evidence (their perceptions, experiences, etc.) as they *ought* to. These are some normative ideas here. Insofar as there are reasonable/unreasonable, good/bad, right/wrong, etc. ways to form beliefs in response to perceptions, experiences, etc., there are normative constraints on our behavior. 
 
 As stated above, I believe that morality is concerned with reasons for action. When one asks if a certain action is reasonable, they are asking what sorts of considerations count in favor of that action. What kinds of considerations might these be? I would say that reasons for action must be limited to considerations that actually have the ability to influence actions (just as reasons for belief are limited to considerations that actually have the ability to influence beliefs - i.e. perceptions, observations, experiences, etc.). The considerations that influence actions are motivations, desires, values, goals, etc. Therefore, whether a certain action for an agent is reasonable depends on whether their desires, values, goals, etc. count in favor of performing that action. As with reasons for belief, I also take an [internalist grounding for reasons for action](https://plato.stanford.edu/entries/reasons-internal-external/).
+
+### Attitudes
+
+### Actions
 
 [give examples of non-moral 'shoulds' and non-moral reasons for action] (hypothetical)
 
@@ -20,6 +26,8 @@ However, I think we can go a step further with regard to reasons for belief. Des
 [we have categorical non-hypothetical reasons for belief / epistemological 'shoulds' | can we get likewise requirements for action]
 
 Everything said about the uniformity of nature also applies (I believe) to placing *some* trust in your sensory inputs - i.e. because doing so is necessary to establish substantive reasons for anything, despite the fact that the accuracy of your sensory inputs cannot be proven deductively or inductively. So we have objective, universal reasons for *belief* that apply to everyone, independent of particular perceptions or experiences. Might there also be objective, universal reasons for *action* that apply to everyone, independent of particular desires or values? I personally would say that there *are* such reasons, but I don't want to get into those reasons just yet. I just hope that I've shown that it's not quite so ridiculous to think there could be some objective reasons for action. 
+
+## Moral Reasons
 
 Of course, everything said thus far only shows that there could be objective reasons for action, but not all reasons for action are *moral* reasons for action - e.g. in certain circumstances, murder might somehow fulfill a desire/value, and so it might be reasonable in that sense, but that certainly doesn't make it moral. I believe we can separate non-moral reasons for action from moral reason for action. Just as reasons for action generally depend on certain considerations that can determine action (e.g. desires, values, motivations, goals, etc.). I would say that moral reasons for action specifically depend on certain *moral* considerations that can determine action (e.g. moral values, moral dispositions, etc. things which *do* influence how people behave). The question of what distinguishes moral reasons from non-moral reasons is complicated and I don't purport to have an answer (SEE MEANING OF MORAL TERMS). However, if you think it's plausible that there are objective reasons for belief, and that there are objective non-moral reasons for action, then I think it should also be plausible to assume that there could be objective *moral* reasons for action.
 
