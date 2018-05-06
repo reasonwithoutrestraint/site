@@ -1,6 +1,4 @@
-# Objective Morality
-
-## Settling Terms
+# Settling Terms
 
 ### Objectivity
 
@@ -17,7 +15,7 @@ Morality is difficult to define, but we can point to certain features of moralit
 
 The question of what distinguishes moral claims from general normative claims is a complicated question about metaethics. It's a descriptive claim that depends on linguistics, sociology, psychology, etc.
 
-## Objective Rationality
+# Objective Rationality
 
 ### Reasons for belief
 
@@ -37,11 +35,11 @@ Actions can be rational or irrational. To say that an action is rational for a p
 
 I presume you think that there is objectivity with regard to reasons for action, i.e. given certain interests there are *objectively* rational and irrational ways for one to act. Going back to the litmus test, people can be *wrong* about their interests and what they think, believe, or feel in a particular moment. This can most easily be seen in the case of individuals where their rational faculties are impaired, i.e. children, the disabled and the intoxicated. People that fall into these categories might desire doing certain actions and they might be convinced that those are the rational actions for them to take. But they would be incorrect. Children are wrong if they think it's in their best interest to eat lead. An intoxicated girl is wrong if she think it's in her best interest to get in a strange guy's car after being drugged. These examples can be most easily seen in the cases where their rational capacities are severely impaired, but less extreme cases can be found in all humans. Since no humans have perfect rational faculty, we can find similar cases where they are wrong about what is rational for them. Thus, what people have reason to do is an objective matter. 
 
-## Moral Analysis
+# Moral Analysis
 
 ### Against Analytic Reductionism
 
-Back to the question of what distinguishes moral judgments from other normative judgments. This is a complicated metaethics question that concerns analyzing the definitional features of morality. Note that this cannot be answered by just looking at the fundamental principles behind a moral theory. For example, we cannot say that a consequentialist defines moral rightness as the promotion of pleasure and that the deontologist defines moral rightness as treating humanity as an end in itself. If that were the case, if this were just a disagreement about definitions, then this really wouldn't be a substantive disagreement with any normative implication. They mean to talk about what we are to do, and this cannot be answered by simply proposing definitions. 
+Back to the question of what distinguishes moral judgments from other normative judgments. This is a complicated metaethics question that concerns analyzing the definitional features of morality. Note that this cannot be answered by just looking at the fundamental principles behind a moral theory. For example, we cannot say that a consequentialist defines moral rightness as the promotion of pleasure and that the deontologist defines moral rightness as treating humanity as an end in itself. If that were the case, if this were just a disagreement about definitions, then this really wouldn't be a substantive disagreement with any normative implication. They mean to talk about what we are to do, and this cannot be answered by simply proposing definitions. For example, on this reading, if we had two English societies that were identical except that one defined 'goodness' as 'consequentialist goodness' and promoted consequentialism as we promote what we think is good, and another defined 'goodness' as 'deontological goodness' and promoted deontology as we promote what we think is good, then there would be no room for disagreement, when it seems like there is one.
 
 Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are necessarily action-guiding whereas attributions of R are only contingently action-guiding suggests that goodness and R are not analytically equivalent. The naturalist can respond by rejecting judgment internalism or rejecting analytic naturalism in favor of synthetic naturalism (or maintaining that some naturalistic properites are intrinsically motivating, which seems strange). This argument should also be used against analytic non-natural reductionism and perhaps even some forms of synthetic naturalism that are focused on finding what referrents track or guide our linguistic use of moral terms.
 
