@@ -61,18 +61,18 @@ Are normative statements capable of truth and do they express beliefs.
 
 ### Ontology: Objective (mind-independent) truth conditions
 
-The ontological relation between moral facts and moral views:
+The ontological relation between normative facts and normative views:
 
-1. Anti-Realism: Moral facts are constituted by some relation to actual or hypothetical moral views (seems to require naturalism).
-    - The relation is *identity* to the *actual* moral views of a person (simple subjectivism).
-    - The relation is *identity* to the *hypothetical* moral views of an *ideal* agent (ideal observer).
-    - The relation is *entailment* from one's moral views (constructivism).
-2. Realism: Moral facts are ontologically prior to, and can explain, moral views (can be naturalism, non-naturalism or sensibility theory).
-    - The moral facts are natural facts.
-    - The moral facts are non-natural facts.
-    - The moral facts are secondary properties.
+1. Anti-Realism: Normative facts are constituted by some relation to actual or hypothetical normative views (forms of naturalism).
+    - The relation is *identity* to the *actual* normative views of a person (simple subjectivism).
+    - The relation is *identity* to the *hypothetical* normative views of an *ideal* agent (ideal observer).
+    - The relation is *entailment* from one's normative views (constructivism).
+2. Realism: Normative facts are ontologically prior to, and can explain, normative views (can be naturalism, non-naturalism or sensibility theory).
+    - The normative facts are natural facts.
+    - The normative facts are non-natural facts.
+    - The normative facts are secondary properties.
 
-Third option that no one accepts: moral facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
+Third option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
 ### Normativity: Categorical vs Hypothetical
 
