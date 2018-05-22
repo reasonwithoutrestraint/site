@@ -37,7 +37,7 @@ The central claim of emotivism is that moral judgements express non-cognitive se
 
 Some of the main objections against this theory are objections to Ayer's broader logical positivism - the position that all meaningful propositions are either analytic or empirically verifiable. This is disputed because (1) it seems like there are meaningful synthetic propositions that are *not* empirically verifiable, and (2) Ayer did not successfully explain what it means for something to be empirically verifiable.
 
-### My personal objections
+### My personal objections 
 
 It also seems to me that his theory of logical positivism defeats his own theory. If moral judgments are meaningless, then all normative judgments should also be meaningless. But if all normative judgments are meaningless, then statements about the credibility of a certain position or about which positions best fit the evidence are also meaningless. The reason is because such statements are also normative, i.e. they are statements about what we epistemically have reason to believe. In that case, it is meaningless to state that there is any reason to support expressivism.
 
