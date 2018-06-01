@@ -16,12 +16,18 @@ Challenges:
 
 #### Linguistic Analysis
 
-`Prerequisites of an analysis of normativity`
+`Prerequisites of an analysis of normative meaning`
 
-1. Must allow for disagreement.
-2. Disagreement must be possible after agreement of all empirical facts.
-3. Must explain the motivational feature of normative beliefs.
-4. Cannot be too strictly tied to conventions of the English language. Must be able to account for normative behavior in all human cultures.
+1. Must explain *genuine* disagreement (i.e. not merely terminological).
+2. Must explain *genuine* disagreement must be possible after agreement of all empirical facts.
+3. Must explain the motivational feature of normative judgments.
+4. Must explain normative judgments in all human cultures (i.e. not held hostage to particular ethical terms).
+
+`Prerequisites of an analysis of normative facts`
+
+1. Must explain normative supervenience.
+2. Must explain epistemic access.
+3. Must explain rationality of normative facts.
 
 Normative expressions are sometimes used non-cognitively - i.e. sometimes expressively, emotively, as imperatives, etc. But they can also be used cognitively. An agent who uses a normative term non-cognitively will also believe the cognitive component of that term.
 
