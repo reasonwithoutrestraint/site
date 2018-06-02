@@ -1,8 +1,8 @@
 ## Metaethics
 
-### Normative Meaning
+### Normativity
 
-#### Linguistic Analysis
+##### Linguistic Analysis
 
 `Prerequisites of an analysis of normative meaning`
 
@@ -32,7 +32,7 @@
 
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
-#### Formal conceptualization
+##### Formal conceptualization
 
 `How to systematize normative systems?`
 
@@ -97,7 +97,7 @@ Each of these are probably illuminating features of morality. They are each refe
 
 ## Substantive morality
 
-### Types of moral arguments
+#### Types of moral arguments
 
 To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
 - Appeal to some fundamental principle that provides a determinate answer to the rightness/wrongness of X in circumstance C. See below for arguments in favor of fundamental principles. Of course, this is assuming that the fundamental moral principles form determinate answers, which need not be the case. This also assumes that there are fundamental moral principles, which need not be the case.
@@ -107,7 +107,7 @@ To argue for certain fundamental principles:
 - Reflective Equilibrium: Argue that these principles best explain, or cohere with, our considered moral judgments. The problem here is that the best principles that explain our moral judgments might not be nonconflicting, i.e. the considerations that explain our considered moral judgments might not reduce to the same principles (which means it might not provide determinate answers in all circumstances), and/or different people might have fundamentally different irreconcilable considered moral judgments.
 - Foundational: Build these principles from the ground up, either from a metaethical theory, or pure rationality, or pure consistency, or from minimal constraints on any coherent moral theory. This may be too ambitious.
 
-### Possible accounts of morality
+#### Possible accounts of morality
 
 Aesthetic morality: this is a system for evaluating actions generally. The actions are evaluated based on whether they warrant blame/praise (warrant referring to whether we ought - no in the consequentialist senes - to blame/praise). Since the rationality of these emotions depends on the nature of these emotions (which is relative and contingent), then this morality itself is relative and contingent (similar to aesthetics, a la secondary qualities). This sense of morality seems concerned with consciousness and well-being of sentient creatures. This may be relative to particular conventions of particular species, cultures or even individuals. I don't think this morality isn't useful or meaningful, but it sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette. If a moral statement is true in this sense for a person, then they would be motivated to respect its law if they were informed/rational.
 
@@ -127,7 +127,7 @@ Three types of reasons in favor of a norm:
 
 On this understanding, we can still call animal cruelty wrong on the basis of aesthetic moral sentiments of normal humans. But could we be justified in using force to stop animal cruelty? Can aesthetic moral sentiments justify imposing force on others? Or can there be a constructive reason to enact norms to protect animal cruelty? In general, how can we support using force to stop the harm of individuals (animals or humans) outside of our social contract? This does afford the libertarian protective rights for people in society (as is desired), but it does not provide even minimum rights for people outside of society, i.e. it never justifies us to use force to stop them from being harmed.
 
-### Fundamental moral principles
+#### Fundamental moral principles
 
 `Fundamental moral principles`
 
@@ -143,13 +143,13 @@ Applying FORCEFUL action F to agent A is morally prohibited, unless:
 
 ## Political Philosophy
 
-### Analysis of political legitimacy & Justice
+#### Analysis of political legitimacy & Justice
 
 `An analysis of political legitimacy & Justice`
 
 Can it be reduced to morality? The moral justification of force?
 
-### Variations of Libertarianism
+#### Variations of Libertarianism
 
 From SEP: https://plato.stanford.edu/entries/libertarianism/
 
@@ -185,7 +185,7 @@ Radical right libertarianism (not lockean; unilateralist): holds that that there
 	
 - One objection points out that appropriation without restrictions makes it possible that one person could own the entire world, thereby effectively putting the remaining propertyless persons in the problematic condition of requiring the owner's permission to do anything. Nor is there any reason to think the individuals are morally permitted to ruin natural resources as they please. Some sort of fair share condition restricts use and appropriation.
 
-### My Theory
+#### My Theory
 
 My theory does not prioritize self-ownership in the sense that people should necessarily have full control over their bodies (and therefore property) as indicated above. Rather, I prioritize the values/interests of individuals. I believe that an individual's values/interests cannot be significantly suppressed/limited in promotion of someone else's values/interests. Note that supressing/limiting values/interests is not the same as controlling one's body. There may be instances where controlling one's body does not significantly suppress/limit their values/interests, or even where controlling one's body actually promotes their values/interests. This means that, under special circumstances, others can control A's body against A's will, but only it is in the promotion of A's interests or values. 
 
