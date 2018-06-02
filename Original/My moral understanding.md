@@ -1,15 +1,3 @@
-## 
-
-Challenges:
-
-1. Normative Analysis
-    - Platitudes of normative thinking
-    - An analysis - Non-cognitive or cognitve? If cognitive, what sorts of beliefs?
-    - Formal characterization for different normative domains
-2. Distinctive features of morality
-3. Fundamental moral principles
-4. Political Theory
-
 ## Metaethics
 
 ### Normative Meaning
