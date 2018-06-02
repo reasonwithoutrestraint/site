@@ -37,13 +37,21 @@ Cognitivism: The assertion "P" (where P is a proposition) is accepted as cogniti
 
 `How to systematize normative systems?`
 
-Three purposes of normative claims:
-- *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
-- *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
-- *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
-- *Constituitive*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X. Expressive uses of "A should X" can be said to be justified if the speaker has an *constituitive* reason to hold a pro-attitude towards A doing X. Emotive uses can be justified if others have an *constituitive* reason to hold such a pro-attitude. And imperative uses can be justified if A has *constituitive* reason to do X. 
+Some purposes of normative judgments:
 
-*Constituitive* normative system can be understood by the following components:
+- Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
+    - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
+    - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
+    - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
+- Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
+    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). 
+    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.).
+    - *Constituitive*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X.
+    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms.
+
+The *cognitive* normative judgments all express proposition involving a *relation* on a triple consisting of an agent A, a partilcular response R, and a specified set of circumstances C. Whenever one makes a normative or evaluative claim they are saying that when A is in circumstances C, it is typical of (certain) actual people, typical of (certain) idealized persons or otherwise fitting for A to invoke R. Sometimes the agents are universal or individual, sometimes real or hypothetical. Sometimes the circumstances are categorical or specific. So normative judgments express propositions about *relations*, not *properties*.
+
+A *cognitive* normative system can be understood by the following components:
 - T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
 - R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
@@ -62,14 +70,8 @@ Other considerations that deal with systematizing our normative concepts:
 1. Particularism vs Generalism
 2. Agent-neutral reasons vs Agent-relative reasons
 3. Ought implies can
-4. Relationship between rightness and goodness
-5. Thick vs Thin ethical concepts
-6. Categories of normative concepts
-    - Regulative: judges actions
-    - Evaluative: judges states of affairs 
-    - Deliberative: fitness of a response for an agent
-7. Possible reduction of seemingly distinct normative concepts into one
-8. Supervenience on the physical world
+4. Possible reduction of seemingly distinct normative concepts into one
+5. Supervenience on the physical world
 
 #### Possible accounts of normativity
 
