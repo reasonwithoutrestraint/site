@@ -11,7 +11,7 @@
 3. Must explain the motivational feature of normative judgments.
 4. Must explain normative judgments in all human cultures (i.e. not held hostage to particular ethical terms).
 
-`Prerequisites of an analysis of normative facts`
+`Prerequisites of an ontology of normative facts`
 
 1. Must explain normative supervenience.
 2. Must explain epistemic access.
