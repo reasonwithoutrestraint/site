@@ -29,18 +29,18 @@ Challenges:
 2. Must explain epistemic access.
 3. Must explain rationality of normative facts.
 
-Some purposes of normative judgments:
+`What are the truth conditions of normative claims?`
 
 - Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
     - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
     - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
     - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
 - Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
-    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). 
-    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.).
-    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc.
-    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc.
-    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms.
+    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
+    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
+    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
+    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
+    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
 
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
@@ -76,20 +76,6 @@ Other considerations that deal with systematizing our normative concepts:
 3. Ought implies can
 4. Possible reduction of seemingly distinct normative concepts into one
 5. Supervenience on the physical world
-
-#### Possible accounts of normativity
-
-`What are the truth conditions of normative claims?`
-
-Normative Reasons are tied in some way to explanatory reasons. Normative reasons are considerations that ought to be explanatory reasons. Ought implies can. Therefore, it must be possible for normative reasons to be explanatory reasons. For each normative reason...that normative reason could explain their action if they did the action for that reason. That is, we can make sense of the statement "he did X because he had normative reason to do X". But this explanation works only if normative reasons can also explain behavior. Thus, we can say that A ought to do X if and only if X is appropriately connected to A's explanatory basis. What does "appropriately connected" mean?
-
-- *Ideal Counterfactual*: A ought to X if and only if an ideal form of A, A', would X (or A' would want A to X). What are the conditions for this ideal form?
-- *Informed Counterfactual*: A ought to X if and only if A would do X if A were informed of the reasons underlying X (doesn't seem true; plenty of people are aware of the reasons to believe in Climate Change, yet they still refuse. The problem is they know the considerations (which happen to be reasons) but they don't accept them AS reasons).
-- *Reflected Counterfactual*: A ought to X if and only if A would X upon rational reflection (doesn't explain how animals have reasons; will have to appeal to "ideal counterfactual" to account for animals)
-
-Another option is to say that there need be no connection to explanatory basis:
-
-- *Constitution*: What it is to X is to be committed to Y. Thus, one ought to X if and only if Y is true (e.g. one ought to fear P if and only if P is dangerous, since that is what it means to fear P; this doesn't work for belief. We can't say one ought believe P if and only if P is true).
 
 ### Morality
 		
