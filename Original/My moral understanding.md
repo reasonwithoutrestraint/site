@@ -38,16 +38,23 @@ Some purposes of normative judgments:
 - Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
     - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). 
     - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.).
-    - *Constituitive*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations. "It is in your best interest to give to charity, so you should do it." These lack any commitment from the speaker for A to X.
+    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc.
+    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc.
     - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms.
-
-The *cognitive* normative judgments all express proposition involving a *relation* on a triple consisting of an agent A, a partilcular response R, and a specified set of circumstances C. Whenever one makes a normative or evaluative claim they are saying that when A is in circumstances C, it is typical of (certain) actual people, typical of (certain) idealized persons or otherwise fitting for A to invoke R. Sometimes the agents are universal or individual, sometimes real or hypothetical. Sometimes the circumstances are categorical or specific. So normative judgments express propositions about *relations*, not *properties*.
 
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
 #### Formal conceptualization
 
 `How to systematize normative systems?`
+
+Some tasks:
+1. Find essential characteristics of normative judgments, i.e. are the judgments about properties or relations? If relations, concerning what objects?
+2. Reduce all normative terms to one term or relation.
+3. Find constrants on that relation, e.g. it must be guiding in some way, so it must be possilbe to met by the agent.
+4. Determine how to distinguish different normative systems (e.g. epistemology, justice, morality, ettiquette, rationality, etc.).
+
+The *cognitive* normative judgments all express proposition involving a *relation* on a triple consisting of an agent A, a partilcular response R, and a specified set of circumstances C. Whenever one makes a normative or evaluative claim they are saying that when A is in circumstances C, it is typical of (certain) actual people, typical of (certain) idealized persons or otherwise fitting for A to invoke R. Sometimes the agents are universal or individual, sometimes real or hypothetical. Sometimes the circumstances are categorical or specific. So normative judgments express propositions about *relations*, not *properties*.
 
 A *cognitive* normative system can be understood by the following components:
 - T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
@@ -62,7 +69,6 @@ Examples:
 - Epistemic norms regulate beliefs by advocating for whatever beleifs are entailed from *epistemic* considerations, i.e. whatever perceptions, experiences, memories count in favor of.
 - Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
 - Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? . Or perhaps moral norms are not constuitive. Rather, these norms are emotive and are justified insofar as they prohibit actions that others have constituitive reason (moral reason, rational reason?) to shame/blame.
-
 
 Other considerations that deal with systematizing our normative concepts:
 1. Particularism vs Generalism
