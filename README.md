@@ -45,7 +45,18 @@ Companion:
 - The Routledge Handbook of Metaethics
 
 Books to read (historical, plus argumentative):
-- Michael Smith - The Moral Problem
-- Derek Parfit - Reasons and Persons / On what Matters
-- Michael Huemer - Ethical Intuitionism
-- Russ Shafer-Landau Moral Realism: A defense
+- Non-cognitivism:
+    - Simon Blackburn - Ruling Passions: A Theory of Practical Reasoning
+    - Simon Blackburn - Essays in Quasi-Realism
+    - Allan Gibbard - Thinking How to Live
+- Error Theory:
+    - J.L. Mackie - Ethics: Inventing Right and Wrong
+- Constructivism:
+    - 
+- Naturalism: 
+    - Michael Smith - The Moral Problem
+- Non-naturalism:
+    - Derek Parfit - Reasons and Persons / On what Matters
+    - T.M. Scanlon - Being Realistic About Reasons
+    - Michael Huemer - Ethical Intuitionism
+    - Russ Shafer-Landau - Moral Realism: A defense
