@@ -2,22 +2,25 @@
 
 ### Normativity
 
-##### Linguistic Analysis
+##### Normative Judgments
 
-`Prerequisites of an analysis of normative meaning`
+`Importance/usage of normative jugdments`
+
+1. The way the world is, is important
+2. Our behavior influences the way the world is.
+3. Our normative judgments influence our behavior.
+4. Normative argumentation/reasoning influences our normative judgments.
+5. We cannot get rid of normative judgments.
+6. We have genuine disagreement of our normative judgments.
+
+`Prerequisites of an analysis of normative judgments`
 
 1. Must explain *genuine* disagreement (i.e. not merely terminological).
 2. Must explain *genuine* disagreement must be possible after agreement of all empirical facts.
 3. Must explain the motivational feature of normative judgments.
 4. Must explain normative judgments in all human cultures (i.e. not held hostage to particular ethical terms).
 
-`Prerequisites of an ontology of normative facts`
-
-1. Must explain normative supervenience.
-2. Must explain epistemic access.
-3. Must explain rationality of normative facts.
-
-`What are the truth conditions of normative claims?`
+`Possible analysis of some normative judgments`
 
 - Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
     - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
@@ -32,9 +35,9 @@
 
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
-##### Formal conceptualization
-
 `How to systematize normative systems?`
+--> Create structures that allow us to distinguish different normative domains.
+--> Find what is common among all normative domains (i.e. a special relation)
 
 Some tasks:
 1. Find essential characteristics of normative judgments, i.e. are the judgments about properties or relations? If relations, concerning what objects?
@@ -65,7 +68,15 @@ Other considerations that deal with systematizing our normative concepts:
 4. Possible reduction of seemingly distinct normative concepts into one
 5. Supervenience on the physical world
 
-### Morality
+#### Normative Truth
+
+`Prerequisites of an ontology of normative facts`
+
+1. Must explain normative supervenience.
+2. Must explain epistemic access.
+3. Must explain rationality of normative facts.
+
+#### Morality
 		
 `Distinctive features of morality`
 
