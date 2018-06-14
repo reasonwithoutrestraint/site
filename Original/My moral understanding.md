@@ -10,15 +10,10 @@
 2. Our behavior influences the way the world is.
 3. Our normative judgments influence our behavior.
 4. Normative argumentation/reasoning influences our normative judgments.
-5. We cannot get rid of normative judgments.
-6. We have genuine disagreement of our normative judgments.
+5. We have genuine disagreement of our normative judgments.
+6. We cannot rid ourselves of normative judgments. They are found in all humans in all human cultures, regardless of language.
 
-`Prerequisites of an analysis of normative judgments`
-
-1. Must explain *genuine* disagreement (i.e. not merely terminological).
-2. Must explain *genuine* disagreement must be possible after agreement of all empirical facts.
-3. Must explain the motivational feature of normative judgments.
-4. Must explain normative judgments in all human cultures (i.e. not held hostage to particular ethical terms).
+A decent analysis of normative judgments must explain (3) - (6)
 
 `Possible analysis of some normative judgments`
 
