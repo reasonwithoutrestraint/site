@@ -20,8 +20,15 @@ Current reading list:
 - Realists
     - Boyd, Moral Realism
     - Railton, Moral Realism
+    - Stephen Finlay's Four Faces of Moral Realism
+    - Katia Vavova's Debunking Evolutionary Debunking
 - Constructivists
-    - Street
+    - Street:
+            - What is Constructivism in Ethics and Metaethics?
+            - A Darwinian Dilemma for Realist Theories of Value
+            - Constructivism About Reasons
+            - Coming to Terms with Contingency : Humean Constructivism About Practical Reason
+            - Evolution and the Normativity of Epistemic Reasons
         - Opt: J. Rawls, “Kantian Constructivism in Moral Theory” 
     - Christine Korsgaard, “The Sources of Normativity” 
         - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
@@ -33,6 +40,8 @@ Anthologies to read:
 
 Critical overview of works in metaethics
 - Alexander Miller - Contemporary Metaethics: An Introduction
+- Mark van Roojen - Metaethics: A Contemporary Introduction
+- Andrew Fisher - Metaethics: An Introduction
     - Recommended Surveys:
         - Blackburn 2001, "Being Good"
         - Benn 1998, "Ethics"
@@ -52,11 +61,17 @@ Books to read (historical, plus argumentative):
 - Error Theory:
     - J.L. Mackie - Ethics: Inventing Right and Wrong
 - Constructivism:
-    - 
+    - Christine Korsgaard - The Sources of Normativity
+    - Sharon Street - See essays above
 - Naturalism: 
     - Michael Smith - The Moral Problem
+    - Peter Railton - Facts, Values, and Norms
+    - Phillipa Foot - Natural Goodness
 - Non-naturalism:
     - Derek Parfit - Reasons and Persons / On what Matters
     - T.M. Scanlon - Being Realistic About Reasons
-    - Michael Huemer - Ethical Intuitionism
+    - David Enoch - Taking Morality Seriously
     - Russ Shafer-Landau - Moral Realism: A defense
+    - Michael Huemer - Ethical Intuitionism
+- Sensibility Theory:
+    - John McDowell - Mind, Value, and Reality
