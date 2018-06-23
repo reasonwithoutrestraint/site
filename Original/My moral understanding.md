@@ -75,8 +75,6 @@ Other considerations that deal with systematizing our normative concepts:
 		
 `Distinctive features of morality`
 
-`Possibly multiple, distinct, valid analysis of morality`
-
 Morality is a tool that is useful only if all of the following conditions are met:
 
 1. Agents have conflicting desires/attitudes, because of
@@ -101,19 +99,7 @@ If this occurs, then there is no point in morality, since everyone would agree. 
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
-## Substantive morality
-
-#### Types of moral arguments
-
-To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
-- Appeal to some fundamental principle that provides a determinate answer to the rightness/wrongness of X in circumstance C. See below for arguments in favor of fundamental principles. Of course, this is assuming that the fundamental moral principles form determinate answers, which need not be the case. This also assumes that there are fundamental moral principles, which need not be the case.
-- Appeal to the obvious rightness/wrongness of an analogous act X' in an analogous circumstance C'. This theory can remain agnostic to the truth/weight of any fundamental moral principles (if any such principles even exist). This strategy is committed only to the fact that there clearly is a constraint on which *considerations* are morally relevant (regardless of whether and how those considerations can be reduced to certain principles). Considerations such as happiness, desires, autonomy, responsibility, etc. are potentially relevant moral considerations (i.e. humans clearly use these considerations in ordinary moral thinking; whether they really should be used and/or whether some of these are only instrumentally valuable is a further question). But there are clearly considerations that don't count as morally relevant. This style of argument works if it can be shown that the differences between C and C' are definitely not potentially relevant moral considerations.
-
-To argue for certain fundamental principles:
-- Reflective Equilibrium: Argue that these principles best explain, or cohere with, our considered moral judgments. The problem here is that the best principles that explain our moral judgments might not be nonconflicting, i.e. the considerations that explain our considered moral judgments might not reduce to the same principles (which means it might not provide determinate answers in all circumstances), and/or different people might have fundamentally different irreconcilable considered moral judgments.
-- Foundational: Build these principles from the ground up, either from a metaethical theory, or pure rationality, or pure consistency, or from minimal constraints on any coherent moral theory. This may be too ambitious.
-
-#### Possible accounts of morality
+`Possibly multiple, distinct, valid analysis of morality`
 
 Aesthetic morality: 
 - This is a system for evaluating actions generally. 
@@ -146,7 +132,36 @@ Three types of reasons in favor of a norm:
 
 On this understanding, we can still call animal cruelty wrong on the basis of aesthetic moral sentiments of normal humans. But could we be justified in using force to stop animal cruelty? Can aesthetic moral sentiments justify imposing force on others? Or can there be a constructive reason to enact norms to protect animal cruelty? In general, how can we support using force to stop the harm of individuals (animals or humans) outside of our social contract? This does afford the libertarian protective rights for people in society (as is desired), but it does not provide even minimum rights for people outside of society, i.e. it never justifies us to use force to stop them from being harmed.
 
-#### Fundamental moral principles
+## Substantive morality
+
+#### Types of moral arguments
+
+To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
+- Appeal to some fundamental principle that provides a determinate answer to the rightness/wrongness of X in circumstance C. See below for arguments in favor of fundamental principles. Of course, this is assuming that the fundamental moral principles form determinate answers, which need not be the case. This also assumes that there are fundamental moral principles, which need not be the case.
+- Appeal to the obvious rightness/wrongness of an analogous act X' in an analogous circumstance C'. This theory can remain agnostic to the truth/weight of any fundamental moral principles (if any such principles even exist). This strategy is committed only to the fact that there clearly is a constraint on which *considerations* are morally relevant (regardless of whether and how those considerations can be reduced to certain principles). Considerations such as happiness, desires, autonomy, responsibility, etc. are potentially relevant moral considerations (i.e. humans clearly use these considerations in ordinary moral thinking; whether they really should be used and/or whether some of these are only instrumentally valuable is a further question). But there are clearly considerations that don't count as morally relevant. This style of argument works if it can be shown that the differences between C and C' are definitely not potentially relevant moral considerations.
+
+To argue for certain fundamental principles:
+- Reflective Equilibrium: Argue that these principles best explain, or cohere with, our considered moral judgments. The problem here is that the best principles that explain our moral judgments might not be nonconflicting, i.e. the considerations that explain our considered moral judgments might not reduce to the same principles (which means it might not provide determinate answers in all circumstances), and/or different people might have fundamentally different irreconcilable considered moral judgments.
+- Foundational: Build these principles from the ground up, either from a metaethical theory, or pure rationality, or pure consistency, or from minimal constraints on any coherent moral theory. This may be too ambitious.
+
+#### The Good
+
+Possibilties for individual goodness:
+- Narrow hedonism (sensory pleasure): states of consciousness marked by some distinctive feature
+- Preference hedonism (attitudinal pleasure): preferred states of consciousness
+- Unrestricted preference satisfaction: satisfaction of whatever preferences
+- Success theory: satisfaction of preferences about one's own life, i.e. preferences about features that are introspectively discernable
+- Objective list theory: knowledge, friendship, etc.
+- Other constraints: S taking attitudinal pleasure in state of affairs P, only when S deserves that pleasure and P deserves to happen.
+
+Collective Goodness:
+- Summation over everyone's individual goodness.
+- Average over everyone's individual goodness.
+- No reducible metrics; only pareto optimal solutions.
+- Distributions that would be preferred by everyone if they didn't know where they would fall within the distribution
+
+
+#### The Right - Fundamental moral principles 
 
 `Fundamental moral principles`
 
