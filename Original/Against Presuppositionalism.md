@@ -8,7 +8,7 @@
         - (innate knowledge) -> God exists
         - (revelation) -> God exists
         
-Exact same arguments can be levied for laws of logic:
+- Exact same arguments can be levied for laws of logic:
     - Reasoning methods to prevent infinite regress:
         - (circular reasoning) -> Laws of Logic Exist
         - (presuppositionalism) -> Laws of Logic Exist
