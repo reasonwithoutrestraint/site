@@ -16,9 +16,10 @@
         - (innate knowledge) -> Laws of Logic Exist
         - (revelation) -> Laws of Logic Exist
 
-Deny circular reasoning.
-Deny presuppositionalism in its current form (as a representation of external properties)
-Accept presuppositionalism in a different form (as an inevitable construction of human reasoning)
+- Other notes:
+    - Deny circular reasoning.
+    - Deny presuppositionalism in its current form (as a representation of external properties)
+    - Accept presuppositionalism in a different form (as an inevitable construction of human reasoning)
 
 ### Against using God as the starting point:
 
