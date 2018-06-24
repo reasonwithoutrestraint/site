@@ -16,7 +16,11 @@ Exact same arguments can be levied for laws of logic:
         - (innate knowledge) -> Laws of Logic Exist
         - (revelation) -> Laws of Logic Exist
 
-### Problems with arguments for God:
+Deny circular reasoning.
+Deny presuppositionalism in its current form (as a representation of external properties)
+Accept presuppositionalism in a different form (as an inevitable construction of human reasoning)
+
+### Against using God as the starting point:
 
 - Against the presuppositionalist argument for God: 
     - Epistemological Euthyphro problem - two options:
@@ -30,7 +34,7 @@ Exact same arguments can be levied for laws of logic:
     - Fuck circular reasoning!
     - It can justify anything.
 
-### We don't presuppose the laws of logic per se, we construct them:
+### For using the laws of logic as a starting point:
 
 - Other non-suspicious arguments for Laws of Logic:
     - Constructions of language: They are constructions of language, just like definitions are constructions of language. We construct, rather than discover, the laws of logic. It makes no sense to use our language and ask about whether its possible for a triangle to be square. That's not what it means for something to be a square/triangle. Likewise, it makes no sense to use our language to ask about whether the laws of logic are necessary. What it means for something to be a law of logic is that it is necessary. It's a nonsensical question. Necessity and laws of logic are conceptually entangled. If some other language meant something differently by logic and necessity, then, under their language, they would not be in error.
