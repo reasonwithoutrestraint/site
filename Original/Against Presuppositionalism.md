@@ -48,8 +48,8 @@ Accept presuppositionalism in a different form (as an inevitable construction of
     - Constructions of language: part of what it means for something to be justified is that it is inductively justified.
     - Constructions/constraints of (human) reason: humans cannot choose to reason without induction. Other creatures might be able to choose to do so. And for them, they would not be unjustified in any way.
 
-- Other assumptions:
+- Other models:
     - External reality
     - Causal relations
     - Reliability of perceptions/memories
-    - Don't have to believe in them per se. But they are unavoidable models for how we make sense of the word.
+    - Don't have to believe in them per se. But they are unavoidable models for how we make sense of the word. There might be some people who just aren't compelled to use these models, and, for them, I can give no argument to convince them otherwise (i.e. no deductive/inductive argument). There would be nothing internally problematic with their worldview.
