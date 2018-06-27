@@ -1,3 +1,12 @@
+Some insights that I haven't seen explored elsewhere
+
+1. Individual rationality need not reduce to individual goodness. For example, individual goodness might reduce to desired states of consciousness, even though it might be rational to act to attain desired states of consciousness (e.g. experience machine). Can this relate to morality? How should goodness and rationality be analyzed? If this is true, then what does it mean to say that something ought to be desired/preferred/promoted (i.e. goodness) even though we ought not necessarily *act* to promote it (e.g. rationality). So not even individual rationality need be consequentialist. 
+2. Different irreducible domains of morality, e.g. ettiquette, aesthetic morality and justice morality. These distinctions are not necessarily a part of a linguistic culture.
+3. We are not consequentialist about epistemology.
+4. Formulating a revisionist cognitivist analysis of normative judgments from historical non-cognitive uses.
+5. Normative judgments are all judgments of relations, not properties.
+6. Libertarianism: communal property, reduced resources due to increased per capita share.
+
 ## Metaethics
 
 ### Normativity
@@ -10,7 +19,7 @@
 2. Our behavior influences the way the world is.
 3. Our normative judgments influence our behavior.
 4. Normative argumentation/reasoning influences our normative judgments.
-5. We have genuine disagreement of our normative judgments.
+5. We have deep, genuine normative disagreements despite linguistic differences.
 6. We cannot rid ourselves of normative judgments. They are found in all humans in all human cultures, regardless of language.
 
 A decent analysis of normative judgments must explain (3) - (6)
@@ -31,7 +40,9 @@ A decent analysis of normative judgments must explain (3) - (6)
 Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
 
 `How to systematize normative systems?`
+
 --> Create structures that allow us to distinguish different normative domains.
+
 --> Find what is common among all normative domains (i.e. a special relation)
 
 Some tasks:
