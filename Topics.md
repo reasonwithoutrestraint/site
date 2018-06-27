@@ -1,5 +1,16 @@
 [[_TOC_]]
 
+Some insights that I haven't seen explored elsewhere
+
+
+1. Individual rationality need not reduce to individual goodness. For example, individual goodness might reduce to desired states of consciousness, even though it might be rational to act to attain desired states of consciousness (e.g. experience machine). Can this relate to morality? How should goodness and rationality be analyzed? If this is true, then what does it mean to say that something ought to be desired/preferred/promoted (i.e. goodness) even though we ought not necessarily act to promote it (e.g. rationality). So not even individual rationality need be consequentialist. 
+2. Different irreducible domains of morality, e.g. ettiquette, aesthetic morality and justice morality. These distinctions are not necessarily a part of a linguistic culture.
+3. We are not consequentialist about epistemology.
+4. Formulating a revisionist cognitivist analysis of normative judgments from historical non-cognitive uses.
+5. Normative judgments are all judgments of relations, not properties.
+6. Libertarianism: communal property, reduced resources due to increased per capita share.
+7. Determinism/causation are meaningless concepts.
+
 Topics where I have enough substance/content to make a video/essay:
 
 Normative Philosophy
