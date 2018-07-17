@@ -1,6 +1,7 @@
 Broader philosophical issues:
-1. Philosophical analysis; non-trivial analytic propositions
-2. Distinct notions of "truth"; how normative judgments can be "true" or "objectively justified" without being representational. Both representational and non-representational meanings of truth are dispositinoal. A belief (representational judgment) is true if it represents appropriately. A belief (or action, attitude, etc.) is justified if it...
+1. Philosophical analysis; non-trivial analytic propositions.
+2. Revisionary definitions, e.g. determinate meaning of rationality.
+3. Distinct notions of "truth"; how normative judgments can be "true" or "objectively justified" without being representational. Both representational and non-representational meanings of truth are dispositinoal. A belief (representational judgment) is true if it represents appropriately. A belief (or action, attitude, etc.) is justified if it...
 
 Some insights that I haven't seen explored elsewhere
 
