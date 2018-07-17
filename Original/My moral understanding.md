@@ -1,3 +1,7 @@
+Broader philosophical issues:
+1. Philosophical analysis; non-trivial analytic propositions
+2. Distinct notions of "truth"; how normative judgments can be "true" or "objectively justified" without being representational. Both representational and non-representational meanings of truth are dispositinoal. A belief (representational judgment) is true if it represents appropriately. A belief (or action, attitude, etc.) is justified if it...
+
 Some insights that I haven't seen explored elsewhere
 
 1. Individual rationality need not reduce to individual goodness. For example, individual goodness might reduce to desired states of consciousness, even though it might be rational to act to attain desired states of consciousness (e.g. experience machine). Can this relate to morality? How should goodness and rationality be analyzed? If this is true, then what does it mean to say that something ought to be desired/preferred/promoted (i.e. goodness) even though we ought not necessarily *act* to promote it (e.g. rationality). So not even individual rationality need be consequentialist. 
