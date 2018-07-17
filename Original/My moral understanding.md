@@ -16,7 +16,7 @@ Some insights that I haven't seen explored elsewhere
 
 ### Normativity
 
-##### Normative Authority
+#### Normative Authority
 
 `Importance/usage of normative jugdments`
 
