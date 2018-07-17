@@ -71,13 +71,6 @@ Examples:
 - Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
 - Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? . Or perhaps moral norms are not constuitive. Rather, these norms are emotive and are justified insofar as they prohibit actions that others have constituitive reason (moral reason, rational reason?) to shame/blame.
 
-Other considerations that deal with systematizing our normative concepts:
-1. Particularism vs Generalism
-2. Agent-neutral reasons vs Agent-relative reasons
-3. Ought implies can
-4. Possible reduction of seemingly distinct normative concepts into one
-5. Supervenience on the physical world
-
 #### Normative Truth
 
 `Prerequisites of an ontology of normative facts`
@@ -85,6 +78,13 @@ Other considerations that deal with systematizing our normative concepts:
 1. Must explain normative supervenience.
 2. Must explain epistemic access.
 3. Must explain rationality of normative facts.
+
+
+Other considerations that deal with systematizing our normative concepts:
+1. Particularism vs Generalism.
+2. Reduction of normative judgments to a normative relation between agents and behaviors. 
+3. Ought implies can. ||=> ought implies can and cannot. Not can or not cannot (or must or must not) implies not ought and not ought not.
+4. Supervenience on the physical world.
 
 #### Morality
 		
