@@ -16,33 +16,25 @@ Some insights that I haven't seen explored elsewhere
 
 ### Normativity
 
-##### Normative Judgments
+##### Normative Authority
 
 `Importance/usage of normative jugdments`
 
-1. The way the world is, is important
-2. Our behavior influences the way the world is.
-3. Our normative judgments influence our behavior.
-4. Normative argumentation/reasoning influences our normative judgments.
-5. We have deep, genuine normative disagreements despite linguistic differences.
-6. We cannot rid ourselves of normative judgments. They are found in all humans in all human cultures, regardless of language.
+As agents:
+1. We cannot rid ourselves of normative judgments.
+2. Our normative judgments influence our behavior.
+3. Normative argumentation/reasoning influences our normative judgments.
+4. We have genuine non-linguistic normative disagreements.
 
-A decent analysis of normative judgments must explain (3) - (6)
+A theory of normative meaning must explain these.
 
-`Possible analysis of some normative judgments`
+A theory of normative truth will be non-deflationary (even if anti-realist/revisionary) for a particular normative domain so long as it provides interpersonal standards for (3) normative argumentation/reasoning. So long as there are solid interpersonal standards for normative argumentation/reasoning, it can be said that normative truth/warrant is whatever follows from those standards.
 
-- Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
-    - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
-    - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
-    - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
-- Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
-    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
-    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
-    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
-    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
-    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
+Showing these plattitudes:
+1. See Korsgaard's work: animals believe what they perceive, and act based on their desires. Humans don't just take perceptions and desires at face-value; we reason and think about whether these perceptions/desires justify beliefs/actions. There is a cognitive, conscious process of normative reasoning standing between perceptions/desires and actions. This is normative reason. This doesn't necessarily commit me to saying that normative truth consists in what is entailed from this, but only that we all participate in normative reasoning. Normative truth might, e.g. consist in what is entailed from normative reason under proper conditions.
+2. All synthetic judgments beliefs stem from normative reasoning, either deductive reasoning (e.g. for a priori judgments) or inductive reasoning (e.g. for a posteriori judgments). Not only is there the normative approval or deductive/inductive reasoning as a form of reasoning, but also the normative judgment that particular propositions follow from inductive reasoning. E.g. a person might think they accept inductive reasoning for non-normative reasons; fine, but it is still a normative question whether a particular belief inductively follows in any non-trivial set of experiences.
 
-Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
+#### Normative Reduction
 
 `How to systematize normative systems?`
 
@@ -72,6 +64,23 @@ Examples:
 - Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
 - Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? . Or perhaps moral norms are not constuitive. Rather, these norms are emotive and are justified insofar as they prohibit actions that others have constituitive reason (moral reason, rational reason?) to shame/blame.
 
+#### Normative Analysis
+
+`Possible analysis of some normative judgments`
+
+- Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
+    - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
+    - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
+    - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
+- Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
+    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
+    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
+    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
+    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
+    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
+
+Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
+
 #### Normative Truth
 
 `Prerequisites of an ontology of normative facts`
@@ -79,7 +88,6 @@ Examples:
 1. Must explain normative supervenience.
 2. Must explain epistemic access.
 3. Must explain rationality of normative facts.
-
 
 Other considerations that deal with systematizing our normative concepts:
 1. Particularism vs Generalism.
