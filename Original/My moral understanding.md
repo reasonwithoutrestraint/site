@@ -33,7 +33,6 @@ Some insights that I haven't seen explored elsewhere
                 - mold inherent character of other members of society
                 - regulate other members' disposition to shame/blame
         - reasons to follow as an individual
-        - Plattitudes created: A should be shamed for X if
 5. Constructivist approach for establishing truth in different normative domains - constraints on the idealized agent
     - morality: 
         - norms that are rationally necessary as a basis cooperation/shame/blame
@@ -44,7 +43,7 @@ Some insights that I haven't seen explored elsewhere
         - Scientific reasons for belief are an impartial/social version of individual reasons for belief.
         - Most people happen to be interested in impartial/social reasons for action/belief.
     - Not externally reasonable, like all normative domains
-        - Deduction/induction/evidence/perception cannot be reasonable to someone who doesn't care for deduction/induction/evidence/perception
+        - Deduction/induction/evidence/science cannot be reasonable to someone who doesn't care for deduction/induction/evidence/science
 
 ## Metaethics
 
