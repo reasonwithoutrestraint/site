@@ -13,6 +13,39 @@ Some insights that I haven't seen explored elsewhere
 5. Normative judgments are all judgments of relations, not properties.
 6. Libertarianism: communal property, reduced resources due to increased per capita share.
 
+## Summary
+
+0. Requirements of an analysis: authority, motivation, reasoning, disagreement
+1. Non-cognitive analysis of normative judgments - emotive, expressive, prescriptive.
+2. Normative reduction - relation between agents and behaviors.
+3. Revisionist cognitive analysis normative judgments with some platitudes:
+    - Ideal dispositionalism
+    - Supervenience
+4. Constructivist approach for establishing meaning/plattiudes of different normative domains
+    - morality - individual reasons with an impartiality/social constriant
+        - reasons to blame/shame as a society
+            - character-based targets
+                - directed at inherent wrongness of one's character
+                - not directed at the accidental badness of one's character (even if it's systematically harmful somehow)
+                - not directed at actions that didn't stem from one's character
+            - objectives
+                - modify inherent character of target
+                - mold inherent character of other members of society
+                - regulate other members' disposition to shame/blame
+        - reasons to follow as an individual
+        - Plattitudes created: A should be shamed for X if
+5. Constructivist approach for establishing truth in different normative domains - constraints on the idealized agent
+    - morality: 
+        - norms that are rationally necessary as a basis cooperation/shame/blame
+        - norms that promote everyone's interest impartially
+6. Morality is rationally optional, but this doesn't diminish its authority
+    - Contingent:
+        - Scientific reasons are evidentially optional, but that doesn't diminish its authority.
+        - Scientific reasons for belief are an impartial/social version of individual reasons for belief.
+        - Most people happen to be interested in impartial/social reasons for action/belief.
+    - Not externally reasonable, like all normative domains
+        - Deduction/induction/evidence/perception cannot be reasonable to someone who doesn't care for deduction/induction/evidence/perception
+
 ## Metaethics
 
 ### Normativity
