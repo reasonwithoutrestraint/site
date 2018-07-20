@@ -288,3 +288,18 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 	- The larger the scope of a region that's communally owned, the more communal it is and the less private it is. Communal properties that are mostly private (e.g. small neighborhoods) can enforce larger constraints on behavior than larger communal properties that are mostly communal (e.g. cities). The reason smaller communities are afforded by restrictions is because conditions (a), (b) and (c) are more likely to be met. Smaller, more restricting communities, may be required to pay into a federal fund that that acts to sustain areas of the land where only libertarian laws are enforced, so that (a) and (b) are truly satisfied. Insofar as one cannot escape such a community (or if all available property is used up), compensation is obligatory for individuals (in the form of safety net, welfare, redistribution, etc.). 
 	- Rather than thinking of (a) private property and (b) communal property in this binary fashion, it may be more useful to think of all property on a scale that goes from private to communal. The more private the property is, the stronger the full ownership rights will be. The more communal the property is, the weaker the rights will be. Note that nothing is fully private, not even a person's body (since I have shown that one's body may sometimes be controlled by others if it promotes the agent's values/interests). The extent to which property is private versus communal (i.e. the nature/strength of the ownership rights of that property) depends on the extent to which ownership of said property influences the values/interests of others. The more impactful ownership of certain property is to certain people (e.g. the only lake in the country), the more communal that property ought to be, among those people. The less impactful ownership of that property is to certain people (e.g. one of many empty plots of land in the city), the more property that property ought to be. Handling use of communal property should be done via a mechanism that best promotes the values/interests of the subjects involved, giving more weight to individuals influenced more by the property.
 
+#### Particulars
+
+Issues I care about:
+- abortion
+- welfare
+- immigration
+- discrimination
+- gay marriage
+- criminal justice
+
+Issues I don't care about:
+- border walls
+- most economic questions (merely empirical)
+- gun control
+- drug legalization (shouldn't be criminalized, but don't care if legal)
