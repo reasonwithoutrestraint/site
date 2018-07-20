@@ -292,8 +292,17 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 
 Issues I care about:
 - abortion
-- welfare
+    - no restrictions ever
+- welfare 
+    - provide a means of living for the poor. 
+    - maybe enough for a limited number of children. 
+    - Don't incentivize unlimited reproduction for the unfit.
+- education 
+    - make impractical subjects optional.
+    - add practical skills
+    - add values.
 - immigration
+    - 
 - discrimination
 - gay marriage
 - criminal justice
