@@ -302,10 +302,18 @@ Issues I care about:
     - add practical skills
     - add values.
 - immigration
-    - 
+    - we have the right to any restrictions
+    - we should filter in-demand immigrants that can't be filled by natives
+    - I desire low influx of immigrants
 - discrimination
+    - not inherently wrong
+    - wrong if its arbitrary
+    - wrong as a means of systematic oppression
 - gay marriage
+    - federally legal in every state 
 - criminal justice
+    - rehabilitation and safety
+    - not retribution
 
 Issues I don't care about:
 - border walls
