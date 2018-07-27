@@ -1,3 +1,26 @@
+
+
+### Large intellectual YouTube channels with prepared content
+
+Philosophy
+- CosmicSkeptic - 200k
+- Rationality Rules - 115k
+- QualiaSoup - 150k
+- NonStampCollector - 130k
+- DarkMatter2525 - 650k
+- TheThinkingAtheist - 260k
+
+General
+- CGPGrey - 3.5M
+- Kurzgesagt - 6.6M
+
+Science
+- AsapSCIENCE - 8.1M
+- minutephysics - 4.4M
+- It's Okay To Be Smart - 2.3M
+
+____
+
 [[_TOC_]]
 
 Some insights that I haven't seen explored elsewhere
