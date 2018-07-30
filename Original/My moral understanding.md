@@ -140,6 +140,7 @@ Some features that might distinguish moral norms from other normative norms:
 2. Norms for the appropriateness of distinctively moral attitudes (e.g. blame, shame, guilt, praise, etc.).
     - Moral attitudes are generic evaluative attiudes expressing approval or disapproval.
     - Moral attitudes are particular evaluative attitudes with constituitive features.
+        - Only directed at the features of an agent's character, not necessarily the effect of their actions.
     - Moral attitudes are sanctions/rewards for modifying social behavior.
 
 Some analysis:
