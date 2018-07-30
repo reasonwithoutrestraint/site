@@ -295,33 +295,60 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 
 #### Particulars
 
-Issues I care about:
-- abortion
-    - no restrictions ever
-- welfare 
-    - provide a means of living for the poor. 
-    - maybe enough for a limited number of children. 
-    - Don't incentivize unlimited reproduction for the unfit.
-- education 
-    - make impractical subjects optional.
-    - add practical skills
-    - add values.
-- immigration
-    - we have the right to any restrictions
-    - we should filter in-demand immigrants that can't be filled by natives
-    - I desire low influx of immigrants
-- discrimination
-    - not inherently wrong
-    - wrong if its arbitrary
-    - wrong as a means of systematic oppression
-- gay marriage
-    - federally legal in every state 
-- criminal justice
-    - rehabilitation and safety
-    - not retribution
+Major Stance:
+- Abortion
+- Welfare
+- Criminal Justice
+- Education
+- Immigration
+- Gay Marriage
+- Subsidized higher education 
 
-Issues I don't care about:
-- border walls
-- most economic questions (merely empirical)
-- gun control
-- drug legalization (shouldn't be criminalized, but don't care if legal)
+Minor Stance
+- Healthcare
+- Discrimination
+
+No Stance:
+- Border walls
+- Economics (merely empirical)
+- Tax Rates
+- Gun Control (don't care)
+- Drug Legalization
+
+Left-Leaning:
+- Abortion
+    - No restrictions
+- Universal Healthcare
+    - If its effective, go for it
+- Gay marriage
+    - Federally legal
+- Criminal justice
+    - Rehabilitation and safety, not retribution
+    - Decriminalize drugs, don't care if legal
+- Subsidized higher education loans
+    - Only awarded to those likely to repay them (based on e.g. test scores, grades, etc.)
+    - Only have to be paid off after acquiring a certain income level
+
+Right-Leaning:
+- Welfare 
+    - Provide a means of living for the poor. 
+    - Maybe enough for a limited number of children. 
+    - Don't incentivize unlimited reproduction for the unfit
+- Immigration
+    - We have the right to any restrictions
+    - We should filter in-demand immigrants that can't be filled by natives
+    - I desire low influx of immigrants
+- Affirmative Action
+    - Ineffective insofar as it admits students of low standards
+    - Don't care otherwise
+
+Other:
+- Education 
+    - Make impractical subjects optional
+    - Less encouragement for college
+    - Add practical skills
+    - Add values.
+- Discrimination
+    - Not inherently wrong
+    - Wrong if its arbitrary
+    - Wrong as a means of systematic oppression
