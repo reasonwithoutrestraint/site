@@ -132,17 +132,16 @@ Other considerations that deal with systematizing our normative concepts:
 		
 `Distinctive features of morality`
 
-Morality is a tool that is useful only if all of the following conditions are met:
+Some features that might distinguish moral norms from other normative norms:
+1. Moral norms = reasons for action with some interpersonal/social constraint (e.g. science = interpsonal reasons for belief).
+    - Moral norms = individual practical reasons that everyone has.
+    - Moral norms = reasons that follow after considering everyone's individual goodness equally.
+    - Moral norms = norms no one could reasonably reject if they were motivated to find norms to regulate cooperation. Agent A can reasonably reject norm N if A's decreased individual goodness from N is more important than others' increased individual goodness.
+2. Norms for distinctively moral attitudes (e.g. blame, shame, guilt, praise, etc.).
+    - Reasonableness of moral attitudes derive from constituitive features of blame, shame, guilt, praise, etc.
+    - Reasonableness of moral attitudes derives from their instrumental production of goodness.
 
-1. Agents have conflicting desires/attitudes, because of
-    - Agents have conflicting interests, and/or
-    - Agents have non-conflicting interests plus differential information/rationality
-2. Moral judgments are capable of reconciling these conflicting desires/attitudes, either by 
-    - Motivating agents with conflicting desires/attitudes to suppress/adjust their desires/attitudes, and/or
-    - Motivating other agents to in some way mitigate the impact of those conflicting desires/attitudes.
-    - Motivating the construction of a system of rules that resolves these conflicts.
-
-If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to. Thus, morality is distinguished from rationality generally in that it has some social component. Some possibilities:
+Some analysis:
 
 1. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
 2. Morality is a system of norms promoting social rationality - what actions would be rational when considering as equals the interests of all affected parties.
