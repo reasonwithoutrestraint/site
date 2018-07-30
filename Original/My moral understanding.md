@@ -138,8 +138,9 @@ Some features that might distinguish moral norms from other normative norms:
     - Moral norms = reasons that follow after considering everyone's individual goodness equally.
     - Moral norms = norms no one could reasonably reject if they were motivated to find norms to regulate cooperation. Agent A can reasonably reject norm N if A's decreased individual goodness from N is more important than others' increased individual goodness.
 2. Norms for the appropriateness of distinctively moral attitudes (e.g. blame, shame, guilt, praise, etc.).
-    - Moral attitudes are particular evaluative attitudes - their appropriateness derives from constituitive features of blame, shame, guilt, praise, etc.
-    - Moral attitudes are merely tools for modifying social behavior - the appropriateness of the tools derives from their instrumental efficacy for bringing about something non-morally good.
+    - Moral attitudes are generic evaluative attiudes expressing approval or disapproval.
+    - Moral attitudes are particular evaluative attitudes with constituitive features.
+    - Moral attitudes are sanctions/rewards for modifying social behavior.
 
 Some analysis:
 
