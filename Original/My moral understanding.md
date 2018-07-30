@@ -143,6 +143,9 @@ Some features that might distinguish moral norms from other normative norms:
         - Only directed at the features of an agent's character, not necessarily the effect of their actions.
         - A blames B if B's behavior impaired their relationship and A modifies his attitudes toward B. 
     - Moral attitudes are sanctions/rewards for modifying social behavior.
+3. Norms for constructed kinds of relationships
+    - To stand in a certain relation to someone (e.g. friend, lover, partner, cooperator, self-respecting individuals, etc.) has certain expectations for behavior by the parties involved. To the extent that someone violates these expectations, it is appropriate to not extend those behaviors to them, since they would now stand outside of the relationship. 
+    - This might work for friends and ettiquette (i.e. to the extent that someone doesn't uphold the standards of good friendship, ettiquette, it is appropriate to not treat them as a friend, or with ettiquette). Maybe it also works for aesthetic morality. But maybe this doesn't work for forceful morality (maybe if someone is immoral, we still have moral obligations towards them, i.e. we can exclude them from society, but we cannot kill them).
 
 Some analysis:
 
