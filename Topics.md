@@ -1,5 +1,4 @@
 
-
 ### Large intellectual YouTube channels with prepared content
 
 Philosophy
@@ -20,6 +19,17 @@ Science
 - It's Okay To Be Smart - 2.3M
 
 ____
+
+Critical Thinking:
+- Deduction, Induction, Abductive arguments
+- Necessary & Sufficient conditions
+- Normative & Descriptive
+Philosophy Intro
+- A priori vs A posteriori
+- Analytic vs Synthetic
+- Necessary vs Contingent
+
+----
 
 [[_TOC_]]
 
