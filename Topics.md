@@ -1,4 +1,3 @@
-
 ### Large intellectual YouTube channels with prepared content
 
 Philosophy
@@ -24,7 +23,8 @@ Critical Thinking:
 - Deduction, Induction, Abductive arguments
 - Necessary & Sufficient conditions
 - Normative & Descriptive
-Philosophy Intro
+
+Philosophy Intro:
 - A priori vs A posteriori
 - Analytic vs Synthetic
 - Necessary vs Contingent
