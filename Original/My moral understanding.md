@@ -36,6 +36,12 @@ Some insights that I haven't seen explored elsewhere
     - Not externally necessarily justifiable, like all normative domains
         - Deduction/induction/abduction/evidence/science cannot be reasonable to someone who doesn't care for those forms of reasoning
 
+Questions:
+1. Normative Reduction (language)
+2. Requirements for cognitivism (language)
+3. Distinct features of morality (language)
+4. Non-external justifications of knowledge domains (epistemology)
+
 ## Metaethics
 
 ### Normativity
