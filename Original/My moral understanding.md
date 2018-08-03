@@ -15,7 +15,7 @@ Some insights that I haven't seen explored elsewhere
 
 ## Summary
 
-0. Requirements of a normative analysis: ubiquity, motivation, reasoning, disagreement
+0. Requirements of a normative analysis: ubiquity, motivation, reasoning, disagreement, supervenience
 1. Normative reduction: relation between agents and behaviors.
 2. Non-cognitive analysis: emotive, expressive, prescriptive.
 3. Revisionist analysis: quasi-cognitive, normative judgments can be rational/irrational with the following constraints, which may be enough for truth. If not enough for truth, judgments of rationality are siblings to judgments of truth. All the purported values of normativity which we think requires cognitivism (i.e. that normative thinking is a rational is a rational enterprise, that some normative judgments are better, that the better normative judgments are independent of our actual judgments, etc.) are values that don't require truth; in fact, if all normative judgments are non-cognitive, then these values (whether something is 'rational' or 'better') has to be independent of truth, since they presumably can't be true at all. Some constraints on normative judgments:
