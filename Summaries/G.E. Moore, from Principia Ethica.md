@@ -35,6 +35,20 @@ consists in the possession of knowledge how, whereas knowledge of a correct anal
 
 Moore seemed to assume that an ethical theory had only two options: analytic naturalism and non-naturalism. Needless to say, this is terribly inadequate. There is synthetic naturalism as well as non-cognitivism.
 
+### My Objections
+
+1. The argument attacks reductionism not naturalism. But there can be irreducible natural properties and (presumably) reducible non-natural properties.
+2. Normativity: The OQA or the modified OQA (based on the lack of motivation) can be levied at non-naturalism. Removing certain properties (i.e. saying that its not natural) doesn't close the open question.
+3. Ontology: How can the normative supervene on the non-normative, if the normative are non-natural and the non-normative are natural. This can be explained by naturalism: the normative supervenes on the non-normative because both sets of properties just as natural properties.
+4. Epistemology:
+    - Causal Inertion: 
+        1. No evolutionary reason to perceive non-natural properties -> non-natural properties are not the referrents of our language: There is no evolutionary benefit to developing a capacity to perceive non-natural properties, as the only perceptions that are beneficial are perceptions of natural properties, as natural facts are the only sorts of facts that would be evolutionary advantageous.
+        2. No ability to perceive non-natural properties -> no claim about non-natural properties can be justified: Non-natural properties do not influence natural properties (otherwise, they wouldn't be non-natural), but we can only perceive natural properties. Thus, it is impossible for us to have any justification for any normative claims. It may be suggested that our intuitions track non-natural properties, but there is no reason to believe that to be the case.
+        3. Theories with fewer assumptions and better explanatory power are superior. Imagine a world without any non-natural properties but with all the same natural properties. These two worlds would have equal explanatory power, but the world without unneeded properties would have less assumptions and would therefore be superior.
+    - Reflection:
+        - When we see an action that we judge to be wrong, we don't just judge it to be wrong in that particular circumstance. We judge that a particular action with certain natural properties always coinstantiates normative properties (i.e. we judge suffering and we judge badness, where the badness supervenes on the suffering). But this supervenience relation couldn't be perceived, for have only perceived the one circumstance, so how can we make a universal judgment about certain normative properties necessarily supervening on certain natural properties? The best explanation for judging necessary supervenience relation is that normative judgments are not perceptions of non-natural properties, but perceptions of natural properties, constructions of thinking, or non-cognitive expressions or prescriptions.
+5. Evolution: There is no evolutionary reason to develop a capacity to perceive non-natural properties
+
 # Salvaging the Open Question Argument
 
 #### Darwall, Gibbard and Railton
