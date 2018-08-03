@@ -15,9 +15,9 @@ Some insights that I haven't seen explored elsewhere
 
 ## Summary
 
-0. Requirements of a normative analysis: authority, motivation, reasoning, disagreement
-1. Non-cognitive analysis: emotive, expressive, prescriptive.
-2. Normative reduction: relation between agents and behaviors.
+0. Requirements of a normative analysis: ubiquity, motivation, reasoning, disagreement
+1. Normative reduction: relation between agents and behaviors.
+2. Non-cognitive analysis: emotive, expressive, prescriptive.
 3. Revisionist analysis: quasi-cognitive, normative judgments can be rational/irrational with the following constraints, which may be enough for truth. If not enough for truth, judgments of rationality are siblings to judgments of truth. The only reason truth is considered important in ethics is because it seems necessary for moral thinking to be a rational enterprise, but this is not true if normative judgments are non-cognitive (since whether something is rationalis itself a normative judgment). Some constraints on normative judgments:
     - Ideal dispositionalism / Constructivist
     - Supervenience
@@ -45,10 +45,10 @@ Some insights that I haven't seen explored elsewhere
 `Importance/usage of normative jugdments`
 
 As agents:
-1. We cannot rid ourselves of normative judgments.
-2. Our normative judgments influence our behavior.
-3. Normative argumentation/reasoning influences our normative judgments.
-4. We have genuine non-linguistic normative disagreements.
+1. Ubiquity - We cannot rid ourselves of normative judgments.
+2. Motivational - Our normative judgments influence our behavior.
+3. Reasoning - Normative argumentation/reasoning influences our normative judgments.
+4. Disagreement - We have genuine non-linguistic normative disagreements.
 
 A theory of normative meaning must explain these.
 
