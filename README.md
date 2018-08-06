@@ -1,10 +1,10 @@
 Current reading list:
 - Early Expressivists and Critics
-        - Opt: Stevenson
-        - Opt: R.M. Hare
-        - Opt: Foot, Moral Beliefs
-        - Opt: Geach, Ascryptivism
-        - Opt: Searle, Meaning and Speech Acts
+    - Opt: Stevenson
+    - Opt: R.M. Hare
+    - Opt: Foot, Moral Beliefs
+    - Opt: Geach, Ascryptivism
+    - Opt: Searle, Meaning and Speech Acts
 - Error Theory
     - Mackie
 - Sensibility Perception
@@ -65,6 +65,7 @@ Books to read (historical, plus argumentative):
     - Sharon Street - See essays above
 - Naturalism: 
     - Michael Smith - The Moral Problem
+    - Kevin DeLapp - Moral Realism
     - Peter Railton - Facts, Values, and Norms
     - Phillipa Foot - Natural Goodness
 - Non-naturalism:
