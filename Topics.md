@@ -88,10 +88,13 @@ Political
 - Group Success - Determined by internal factors, behavior/characteristics resembles narrow culture.
 - Group Differences - Genetic component of racial IQ differences, and changes.
 - Group Differences - Disparities does not imply discrimination. Disparities between groups of the same race (can't be discrimination). Disparities always persist.
-- Black America: State of Cultural Failures - Materialism, Anti-intellectualism, Violence, Promiscuity. Main cause of death homicide for young black men.
+- Black America: State of Disparities - IQ, Poverty, Imprisonment, Education, Income, Wealth, Health.
+- Black America: State of Cultural Failures - Violence, Anti-intellectualism, Unfit Reproduction. Materialism, Wealth building. Main cause of death homicide for young black men. "Acting white". Teenage births, births before marriage, births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. Similar income, different wealth.
 - Black America: Cause of Cultural Failures - jim crow, slavery, lack of policing or govenrment support, welfare, discrimination, no skills after slavery.
-- Black America: Solutions to Cultural Failures - Internal economic success trumps external political support. Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement.
+- Black America: Solutions to Cultural Failures - Internal economic success trumps external political support. Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement
+- Black America: Solutions for Cultural Failures - Mild preference/separation. see Jews, Chinese, etc. Blacks would be 10th richest nation).
 - Affirmative Action (consequences)
+- White Nationalists, they don't matter.
 
 Metaphysics
 - Determinism/Free Will/Compatibilism
@@ -151,38 +154,7 @@ Unnecessary Linguistic Disputes
 Unnecessary debates: when the truth of P is disagreed, but we agree that the truth of P reduces to S, and we agree on S:
 - Movie ratings
 - Is Islam a religion of Peace
-	
-### Meta-physics
 
-- Free Will / Compatibilism / Moral responsibility
-- Determinism vs Indeterminism (no difference)
-- Physical/Natural/Material vs Non-physical/Supernatural/Spiritual (no difference)
-- Religion
-	- Unnecessary focus on names/labels, e.g. whether I'm an "atheist".
-	- Arguments for/against God
-		
-### Meta-ethics 
-
-(much of this can be found in my outline of my thoughts on normativity/metaethics/morality/political-philosophy)
-
-- Reasons
-- Moral Semantics: 
-	- Not definitional (not analytically reductive to natural terms); People can coherently disagree after all facts are known
-	- Action/attitude-guiding
-		1. Those who take X to be good are tempted to prommote X (expressive)
-		2. Those who take X to be good are tempted to have others promote X (prescriptive)
-		3. Those who state X is good tends to tempt others to promote X (emotive)
-	- More than just expressive/emotive/prescriptive
-	- What we're comitted to:
-		1. reasons for action/attitudes
-		2. regulate ourselves
-- Moral Ontology
-	- Special type of reasons for action/attitudes
-- is-out problem
-- The central problem: 
-    1. Morality/reasons internalism - moral facts denote reasons for action
-    2. Reasons/motivation internalism - reason for action depends on motivational states
-    3. Moral absolutism - moral reason for action is independent of our motivational states
 	
 ### Moral Theory
 
@@ -206,15 +178,6 @@ Unnecessary debates: when the truth of P is disagreed, but we agree that the tru
             - Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
             - Intuition: if we could prove that subjecting someone to a course of action maximized their good (even if good is defined in terms of preference satisfaction), is it right to force someone to do this for their own sake? Just because doing something promotes good doesn't mean that performing that action is good (particularly if it uses force). This scenario is possible in the following scenario: (1) person has ideal (more informed, higher order, more rational, etc.) preferences that would be satisfied by doing X, but (2) he doesn't willingly do X, and this must be because of less ideal preferences. It would be wrong to force this person to do X if (3) he also has preferences that he not be forced to do X in situations where (1) and (2) are true; but it would be okay to use force if he preferred to be forced to do X in these situations. Of course, (3) says nothing about whether performing X really is good (maybe it is, maybe it isn't); the fact is we can't use force.
 
-
-#### Political philosophy
-
-* General theory
-    - TBD
-* Specific Issues
-    - Abortion
-    - Punishment
-    - Consequentialism and abortion
 
 ## Empirical
 
