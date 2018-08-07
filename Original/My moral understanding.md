@@ -1,19 +1,45 @@
 ## Summary
 
-0. Requirements of a normative analysis: ubiquity, motivation, reasoning, disagreement, supervenience
-1. Normative reduction: relation between agents and behaviors.
-2. Non-cognitive analysis: emotive, expressive, prescriptive.
-3. Revisionist analysis: quasi-cognitive, normative judgments can be rational/irrational with the following constraints, which may be enough for truth. If not enough for truth, judgments of rationality are siblings to judgments of truth. All the purported values of normativity which we think requires cognitivism (i.e. that normative thinking is a rational is a rational enterprise, that some normative judgments are better, that the better normative judgments are independent of our actual judgments, etc.) are values that don't require truth; in fact, if all normative judgments are non-cognitive, then these values (whether something is 'rational' or 'better') has to be independent of truth, since they presumably can't be true at all. Some constraints on normative judgments:
-    - Ideal dispositionalism / Constructivist
-    - Supervenience
-    - Consistency
-    - Coherence
-4. Establishing meaning/plattiudes of different normative domains
+0. Requirements of a normative analysis: 
+    - ubiquity
+    - motivation - Debatable whether normative judgments necessarily motivate. Maybe not, but I'm only interested in normative judgments insofar as they are motivating.
+    - reasoning 
+    - disagreement 
+    - supervenience 
+1. Normative reduction: 
+    - Relation between agents and behaviors.
+    - Kinds of reasons: wrong kinds of reasons.
+    - Nature of resaons: internalism vs externalism. 
+2. Non-cognitive analysis: 
+    - Emotive, expressive, prescriptive.
+    - Non-cognitivist judgments are evolutionarily necessary.
+    - Non-cognitivism can explain 99% of the normative judgments of humanity and other species.
+    - Cognitive judgments cannot be necessarily motivating.
+3. Quasi-cognitivist Revisionist analysis: Some constraints on normative judgments:
+    - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
+    - Quasi-cognitivism: normative judgments can be rational/irrational which may be analogous to saying they are true truth, if not identical to truth. Judgments of rationality are siblings to judgments of truth. All the purported values of cognitivism can be withheld:
+        - Normative thinking is a rational enterprise.
+        - Certain normative judgments are better than others.
+        - The better normative judgments are independent of our actual judgments.
+    - What makes truth-apt statements truth-apt?
+    - Some constraints on normative judgments that make them quasi-truth apt
+        - Follows a grammatical structure
+        - Consistency
+        - Coherence
+        - Supervenience
+        - What is missing for truth-aptness?
+4. Nature of normativity:
+    - Ideal dispositionalist / Constructivist
+    - Kinds of reasons: right kinds and wrong kinds of reason
+    - Quasi-Objectivism: All purported values of robust objectivity can be met:
+        - Certain normative judgments are better than others.
+        - Better normative judgments are independent of our actual judgments (dependent on hypothetical judgments or constiuitive features of judgments).
+5. Establishing meaning/plattiudes of different normative domains
     - morality
         - prudential reasons with an impartiality/social constriant
         - reasons for distinctively moral attitudes
         - norms generated from constructed relationships
-5. Morality is rationally optional, but this doesn't diminish its authority
+6. Morality is rationally optional, but this doesn't diminish its authority
     - Contingent:
         - Scientific reasons are evidentially optional, but that doesn't diminish its authority.
         - Scientific reasons for belief are an impartial/social version of individual reasons for belief.
