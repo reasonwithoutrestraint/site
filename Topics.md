@@ -53,7 +53,9 @@ Metaethics:
     - Against Non-Naturalism
     - Against Naturalism (OQA)
     - OQA against cognitivism, no inherent motivation
+    - Non-cognitive expressions/prescriptions are evolutionarily necessary.
 - Cognitive revision
+    - See our judgments regarding whether an argument is rational. 
     - Quasi-Truth: Judgments can be rational, but not true. Supervenience, Consistency, Coherence, etc. may be enough for "truth".
     - Standards: Constructivist/Constituitive standards for some dispositions, Ideal Dispositionist for others.
     - Objectivity: Rationality of a judgment independent of our belief in its rationality. Not robust objectivity, not independent of any minds.
