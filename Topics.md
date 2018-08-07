@@ -19,15 +19,11 @@ Science
 
 ____
 
-Critical Thinking:
-- Deduction, Induction, Abductive arguments
-- Necessary & Sufficient conditions
-- Normative & Descriptive
-
-Philosophy Intro:
-- A priori vs A posteriori
-- Analytic vs Synthetic
-- Necessary vs Contingent
+Broader philosophical issues:
+1. Philosophical analysis; non-trivial analytic propositions.
+2. Revisionary definitions, e.g. determinate meaning of rationality.
+3. Distinct notions of "truth"; how normative judgments can be "true" or "objectively justified" without being representational. Both representational and non-representational meanings of truth are dispositinoal. A belief (representational judgment) is true if it represents appropriately. A belief (or action, attitude, etc.) is justified if it...
+4. Truth/justification within a domain cannot be meaningful from outside that domain. E.g. not deductive/inductive/evidentiary/moral/etc. argument could persuade someone who didn't care about deduction/induction/evidence/morality.
 
 ----
 
@@ -44,32 +40,78 @@ Some insights that I haven't seen explored elsewhere
 6. Libertarianism: communal property, reduced resources due to increased per capita share.
 7. Determinism/causation are meaningless concepts.
 
+----
+
 Topics where I have enough substance/content to make a video/essay:
 
+Metaethics:
+- Ubiquity of normative judgments
+- Goal of metaethics: meaning, psychology, epistemology, ontology
+- Normative reduction
+- Non-cognitive analysis
+    - The Central Problem
+    - Against Non-Naturalism
+    - Against Naturalism (OQA)
+    - OQA against cognitivism, no inherent motivation
+- Cognitive revision
+    - Quasi-Truth: Judgments can be rational, but not true. Supervenience, Consistency, Coherence, etc. may be enough for "truth".
+    - Standards: Constructivist/Constituitive standards for some dispositions, Ideal Dispositionist for others.
+    - Objectivity: Rationality of a judgment independent of our belief in its rationality. Not robust objectivity, not independent of any minds.
+- Morality as a normative domain
+- Morality as rationally optional, cannot be externally justified
+
 Normative Philosophy
+- Against Utilitarianism.
+- Making sense of deontology.
+- A good life: hedonism, preferred states of consciousness, preferences, preferences that affect you, objective list.
+- Rational duties =/= what makes a good life.
+- A good society: aggregate function - maximization, average.
+- Moral duties =/= what makes best society.
+
+Applied Ethics
 - Abortion
-- Affirmative Action
 - Anti-natalism
 - What beings are morally considerable
-- Against Utilitarianism
-- Making sense of deontology
-- An inherent badness to discrimination? Distinction [Discrimination] from [Arbitrary Discrimination] from [Discrimination that propels oppression, segregation, subjugation]
-- How non-natural moral realism allows for God to make anything moral, as it cannot account for the supervenience of moral facts.
-- How naturalist moral realism about moral facts justifies other supernatural reductivist fats
 
-Other philosophy
-- Determinism/Free Will/Compatibilism
-- Ontological incoherent distinctions - naturalism vs non-naturalism, determinism vs indeterminism, etc.
-- Unnecessary Linguistic disputes - meanings of racism, moral terms, free will, knowledge, atheism, etc.
-- A defense against the problem of evil
+Political Issues
+- Universal Healthcare
+- Gay Marriage
+- Criminal Justice
+- Education Subsidization
+- Welfare
+- Immigration
+- Affirmative Action (principle)
+- Discrimination
 
 Political
-- Irrelevant social disputes - discrimination, biological group differences, etc.
+- Group Success - Degeneracy is the norm, positive efforts must be made to reverse the trend. 
+- Group Success - Determined by internal factors, behavior/characteristics resembles narrow culture.
+- Group Differences - Genetic component of racial IQ differences, and changes.
+- Group Differences - Disparities does not imply discrimination. Disparities between groups of the same race (can't be discrimination). Disparities always persist.
+- Black America: State of Cultural Failures - Materialism, Anti-intellectualism, Violence, Promiscuity. Main cause of death homicide for young black men.
+- Black America: Cause of Cultural Failures - jim crow, slavery, lack of policing or govenrment support, welfare, discrimination, no skills after slavery.
+- Black America: Solutions to Cultural Failures - Internal economic success trumps external political support. Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement.
+- Affirmative Action (consequences)
 
-Scientific
-- Group success: internal forces vs external forces
-- Genetic component of racial IQ differences
+Metaphysics
+- Determinism/Free Will/Compatibilism
+- Incoherent distinctions - determinism vs indeterminism, etc.
+- Physical/Natural/Material vs Non-physical/Supernatural/Spiritual (no difference)
+- Religion
+    - No reason to believe in God, more reasonable to not believe    
+	- Unnecessary focus on names/labels, e.g. whether I'm an "atheist".
+    - Universal argument against all arguments for God (Baysean probability)
+- Debunking arguments for God:
+    - Presuppositionalism
+    - Ontological Argument
+    - Cosmological Argument
+    - Fine-Tuning Argument
+    - Pascal's Wager
 
+Other
+- Unnecessary Linguistic disputes - meanings of racism, moral terms, free will, knowledge, atheism, etc.
+
+ 
 ## Entertainment
 
 * Time travel: going to different universes or changing the actual universe.
