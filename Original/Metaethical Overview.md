@@ -144,6 +144,8 @@ The truth-conditions are attitude-independent
 
 ### John Rawls - Kantian Constructivism
 
+1. Seems too dependent on us
+
 # ERROR-THEORY
 
 Moral statements are truth-apt and aim at describing moral facts. But such facts do not exist. 
@@ -153,6 +155,9 @@ Moral statements are truth-apt and aim at describing moral facts. But such facts
 ### Richard Joyce
 
 ### Objection
+
+1. Most objections to success-theories are equally problems for normativity broadly
+2. If not (1), then the requirements for morality are too strong
 
 # ANTI-REALISM SUCCESS-THEORY
 
@@ -175,6 +180,9 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 ### Objection
 
 ### Objection
+
+1. Open Question Argument
+2. Moral truth is agent dependent (for some theories)
 
 # REALISM
 
@@ -200,7 +208,15 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Objection
 
+1. Motivationally Inert (OQA)
+2. Twin Earth
+
 ## Non-naturalism
+
+Possible characterizations:
+1. A priori access
+2. No Spatiotemporal properties
+3. Causal redundanch
 
 ### A.C. Ewing
 
@@ -219,6 +235,13 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 ### David Enoch
 
 ### Objection
+
+1. Unexplained Supervenience
+2. Causal Redundancy
+    - Lack epistemic access
+    - No evolutionar5y advantage
+    - Bloated ontology
+3. Motivationally Inert (OQA)
 
 ## Sensibility Theories
 
