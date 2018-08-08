@@ -118,13 +118,25 @@ Moral statements are truth-apt, but do not aim at describing or reporting moral 
 
 See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
 
+## Assertoric Nondescriptivism
+
+The truth-conditions are attitude-dependent. Very similar to simple subjectivism, except it denies that moral judgments are descriptive. They lies somewhere between reports and mere expression (as with non-cognitivism).
+
+### Mark Timmons
+
+### Objection
+
 ## Pragmatism
 
-### Putnam
+The truth-conditions are attitude-independent
+
+### Hilary Putnam
 
 ### Objection
 
 ## Constructivism
+
+The truth-conditions are attitude-independent
 
 ### Sharon Street - What is Constructivism?
 
