@@ -68,9 +68,9 @@ The metaphysical relation between normative truth and normative judgments:
 
 1. Non-descriptive cognitivism: no moral facts
     - The relation is *entailment* from normativity itself (constructivism).
-2. Descriptive Anti-Realism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical moral judgments (all naturalism).
+2. Descriptive Anti-Realism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
     - Normative facts are grounded in *actual* normative judgments (simple subjectivism).
-    - Normative facts are grounded in *hypothetical* normative judgments of an *ideal* agent (ideal observer, sophisticated subjectivism).
+    - Normative facts are grounded in *hypothetical* judgments (normative or otherwise) of an *ideal* agent (ideal observer, sophisticated subjectivism).
 3. Descriptive Realism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
     - Normative facts are grounded in attidude-independent natural facts (naturalism).
     - Normative facts are grounded in non-natural facts (non-naturalism).
