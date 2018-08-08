@@ -147,7 +147,7 @@ Normativity:
 3. Normative judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
 
 Morality-reasons:
-1. Moral judgments must be *necessarily* rational, regardless of any agent's desires.
+1. Moral facts must be *necessarily* rationally required, regardless of any agent's desires.
 
 Morality-motivation:
 1. Moral judgments must be *necessarily* motivational (though not always overriding)
