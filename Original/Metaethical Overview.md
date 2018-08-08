@@ -137,8 +137,20 @@ Some ways to draw the naturalism - non-naturalism divide:
 
 ### Normativity: Categorical vs Hypothetical
 
-1. Anti-Rationalism: morality does not necessarily provide reason for action
-2. Rationalism: morality necessarily provides reason (though perhaps not overriding reason) for action
+Ways of addressing the normative status of morality, and the motivational status of normativity.
+
+Normativity:
+1. Normative judgments must be *necessarily* motivational (though not always overriding)
+2. Normative judgments must be *usually* motivational.
+3. Normative judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
+
+Morality-reasons:
+1. Moral judgments must be *necessarily* rational, regardless of any agent's desires.
+
+Morality-motivation:
+1. Moral judgments must be *necessarily* motivational (though not always overriding)
+2. Moral judgments must be *usually* motivational.
+3. Moral judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
 
 # NON-COGNITIVISM
 
