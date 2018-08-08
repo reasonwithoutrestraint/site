@@ -22,7 +22,7 @@
         - Certain normative judgments are better than others.
         - The better normative judgments are independent of our actual judgments.
     - What makes truth-apt statements truth-apt?
-    - Some constraints on normative judgments that make them quasi-truth apt
+    - Some constraints on normative judgments that make them quasi truth-apt
         - Follows a grammatical structure
         - Consistency
         - Coherence
@@ -40,10 +40,10 @@
         - reasons for distinctively moral attitudes
         - norms generated from constructed relationships
 6. Morality is rationally optional, but this doesn't diminish its authority
-    - Contingent:
-        - Scientific reasons are evidentially optional, but that doesn't diminish its authority.
-        - Scientific reasons for belief are an impartial/social version of individual reasons for belief.
-        - Most people happen to be interested in impartial/social reasons for action/belief.
+    - Contingent on our interests:
+        - Nearly universal: most people interested in impartial/social reasons, having a system of norms regulating blame.
+        - Emphasizes the negotiation aspect: people cant just have independent that they claim are objective with no consideration of other person's reasons.
+        - Other analogues: Scientific reasons are impartial/social reasons for belief (and thus evidentially optional), but that doesn't diminish its authority.
     - Not externally necessarily justifiable, like all normative domains
         - Deduction/induction/abduction/evidence/science cannot be reasonable to someone who doesn't care for those forms of reasoning
 
