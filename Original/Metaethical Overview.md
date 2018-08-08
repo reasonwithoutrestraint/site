@@ -52,16 +52,18 @@ Rejections:
 ### Metaphysical
 
 Incompatible:
-1. Moral facts are independent of any agent's desires.
+1. Moral facts are necessarily binding for all rational agents.
 2. Moral facts provide reasons for action.
 3. Desires are necessary for reasons for action.
-4. There are moral facts.
+4. There are no necessary desires in all rational agents
+5. There are moral facts.
 
 Rejections: 
 1. Rejected by subjectivists.
 2. Rejected by morality-reasons externalists.
 3. Rejected by non-Humean theories of rationality.
-4. Rejected by error-theorists.
+4. Rejected by metaphysical egoists.
+5. Rejected by error-theorists.
 
 ### Normative
 
