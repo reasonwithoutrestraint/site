@@ -66,11 +66,12 @@ Books to read (historical, plus argumentative):
 - Error Theory:
     - J.L. Mackie - Ethics: Inventing Right and Wrong
     - Joyce
+- Non-descriptivist:
+    - Mark Timmons
+    - Hilary Putnam
 - Constructivism:
     - Christine Korsgaard - The Sources of Normativity
     - Sharon Street - See essays above
-- Non-descriptivist:
-    - Putnam
 - Naturalism: 
     - Michael Smith - The Moral Problem
     - Kevin DeLapp - Moral Realism
