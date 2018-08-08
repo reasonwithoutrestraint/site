@@ -192,6 +192,10 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Nicholas Sturgeon - Irreducible Naturalism _Ethical Naturalism_
 
+### Bloomfield
+
+### Foot
+
 ### Rebuttal - Moral Twin Earth
 
 ### Objection
@@ -207,6 +211,12 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 ### Russ Shafer-Landau
 
 ### T. M. Scanlon
+
+### Derek Parfit
+
+### Michael Huemer
+
+### David Enoch
 
 ### Objection
 
