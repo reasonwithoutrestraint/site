@@ -96,7 +96,7 @@ Rejections:
 
 # Key Divides
 
-### Language: Cognitivism, Descriptivism
+### Semantic: Cognitivism, Descriptivism
 
 Are normative statements truth-apt and are they descriptive (express beliefs)?
 
