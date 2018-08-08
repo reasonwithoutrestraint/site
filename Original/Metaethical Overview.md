@@ -53,7 +53,7 @@ Rejections:
 
 Incompatible:
 1. Moral facts are independent of any agent's contingent desires.
-2. Moral facts necessarily provide mandatory practical reasons.
+2. Moral facts provide necessary practical reasons (perhaps even overriding).
 3. Desires are necessary for reasons for action.
 4. There are no necessary desires in all rational agents
 5. There are moral facts.
@@ -146,10 +146,11 @@ Normativity:
 2. Normative judgments must be *usually* motivational.
 3. Normative judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
 
-Morality-reasons:
-1. Moral facts must be *necessarily* rationally required, regardless of any agent's desires.
+Moral Rationalism:
+1. Moral facts must provide *necessary* practical reasons (apply to all rational agents necessarily).  
+2. Moral facts must provide *necessarily overriding* practical reasons.
 
-Morality-motivation:
+Moral Motivation:
 1. Moral judgments must be *necessarily* motivational (though not always overriding)
 2. Moral judgments must be *usually* motivational.
 3. Moral judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
