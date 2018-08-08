@@ -81,16 +81,16 @@ Rejections:
 1. Moral statements are truth-apt.
     - Accepted by cognitivists
     - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists)
-2. Moral statements describe moral entities.
+2. Moral statements describe moral facts (moral entities, properties or relations).
     - Accepted by descriptivists
     - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism)
-3. Moral entities purport to be attitude independent
+3. Moral facts purport to be attitude independent
     - Accepted by robust cognitive realists
     - Rejected by subjectivists (ideal observer, simple subjectivism, corrected judgments)
-4. Moral entities exist.
+4. Moral facts exist.
     - Accepted by success-theorists
     - Rejected by error-theorists
-5. Moral entities are not natural entities.
+5. Moral facts are not natural facts.
     - Accepted by non-naturalists
     - Rejected by naturalists
 
@@ -131,9 +131,9 @@ Fourth option that no one accepts: normative facts are ontologically prior to mo
 ### Metaphysics: Naturalism vs Non-naturalism:
 
 Some ways to draw the naturalism - non-naturalism divide:
-1. Natural entities must be discovered a posteriori. Non-natural entities can be discovered a priori.
-2. Natural entities have spatio-temporal properties. Non-natural entities do not.
-3. Natural entities have causal powers. Non-natural entities do not.
+1. Natural facts must be discovered a posteriori. Non-natural facts can be discovered a priori.
+2. Natural facts have spatio-temporal properties. Non-natural facts do not.
+3. Natural facts have causal powers. Non-natural facts do not.
 
 ### Normativity: Categorical vs Hypothetical
 
