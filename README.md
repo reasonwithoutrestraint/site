@@ -24,14 +24,16 @@ Current reading list:
     - Katia Vavova's Debunking Evolutionary Debunking
 - Constructivists
     - Street:
-            - What is Constructivism in Ethics and Metaethics?
-            - A Darwinian Dilemma for Realist Theories of Value
-            - Constructivism About Reasons
-            - Coming to Terms with Contingency : Humean Constructivism About Practical Reason
-            - Evolution and the Normativity of Epistemic Reasons
-        - Opt: J. Rawls, “Kantian Constructivism in Moral Theory” 
+        - What is Constructivism in Ethics and Metaethics?
+        - A Darwinian Dilemma for Realist Theories of Value
+        - Constructivism About Reasons
+        - Coming to Terms with Contingency : Humean Constructivism About Practical Reason
+        - Evolution and the Normativity of Epistemic Reasons
+    - Opt: J. Rawls, “Kantian Constructivism in Moral Theory” 
     - Christine Korsgaard, “The Sources of Normativity” 
-        - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+    - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+
+----
 
 Anthologies to read:
 - Darwall, Gibbard and Railton - Moral Discourse and Practice
@@ -53,16 +55,22 @@ Critical overview of works in metaethics
 Companion:
 - The Routledge Handbook of Metaethics
 
+See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
+
 Books to read (historical, plus argumentative):
 - Non-cognitivism:
     - Simon Blackburn - Ruling Passions: A Theory of Practical Reasoning
     - Simon Blackburn - Essays in Quasi-Realism
     - Allan Gibbard - Thinking How to Live
+    - Timmons
 - Error Theory:
     - J.L. Mackie - Ethics: Inventing Right and Wrong
+    - Joyce
 - Constructivism:
     - Christine Korsgaard - The Sources of Normativity
     - Sharon Street - See essays above
+- Non-descriptivist:
+    - Putnam
 - Naturalism: 
     - Michael Smith - The Moral Problem
     - Kevin DeLapp - Moral Realism
