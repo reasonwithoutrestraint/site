@@ -188,6 +188,10 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Richard Boyd - Irreducible Naturalism (Cornell Realism),  _How to be a Moral Realist_
 
+### David Brink - Irreducible Naturalism _Moral Realism_
+
+### Nicholas Sturgeon - Irreducible Naturalism _Ethical Naturalism_
+
 ### Rebuttal - Moral Twin Earth
 
 ### Objection
