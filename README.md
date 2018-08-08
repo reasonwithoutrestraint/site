@@ -33,6 +33,11 @@ Current reading list:
     - Christine Korsgaard, “The Sources of Normativity” 
     - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
 
+- Humean Theory of Motivation
+    - (against) Finlay 2007, (see "Four Faces of Moral Realism" for citation)
+    - (against) Michael Smith
+    - (for) ???
+
 ----
 
 Anthologies to read:
@@ -54,6 +59,8 @@ Critical overview of works in metaethics
 
 Companion:
 - The Routledge Handbook of Metaethics
+
+-----
 
 See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
 
