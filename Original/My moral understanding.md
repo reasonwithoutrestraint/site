@@ -1,3 +1,37 @@
+## Central Problems
+
+Semantic:
+1. Moral judgments are truth-apt.
+2. Truth-apt judgments must be beliefs (i.e. descriptive).
+3. Moral judgments are intrinsically motivating.
+4. Beliefs are not sufficient for intrinsic motivation.
+
+(1) Rejected by non-cognitivists.
+(2) Rejected by cognitivist non-descriptivists (non-cognitivst with minimal truth theories, pragmatists, constructivists).
+(3) Rejected by morality-motivation externalists.
+(4) Rejected by non-Humean theories of motivation.
+
+Metaphysical:
+1. Moral facts are independent of any agent's desires.
+2. Moral facts provide reasons for action.
+3. Desires are necessary for reasons for action.
+4. There are moral facts.
+
+(1) Rejected by subjectivists.
+(2) Rejected by morality-reasons externalists.
+(3) Rejected by non-Humean theories of rationality.
+(4) Rejected by error-theorists.
+
+Normative:
+1. Reasons must be intrinsically motivating when judged.
+2. Judgments can be motivating only when tied to desires.
+3. Reasons must be tied to desires.
+
+(1) Rejected by reasons-motivation externalists
+(2) Rejected by non-Humean theories of motivation
+(3) Rejected by absolutists
+(4?) Rejected by error-theorists.
+
 ## Summary
 
 0. Requirements of a normative analysis: 
