@@ -182,7 +182,9 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 ### Objection
 
 1. Open Question Argument
-2. Moral truth is agent dependent (some theories)
+2. Too agent dependent (some theories)
+    - Cannot account for disagreement
+    - Seems to not justify normative authority
 3. Cannot account for normativity generally, specifically epistemic rationality (some theories).
 
 # REALISM
