@@ -52,8 +52,8 @@ Rejections:
 ### Metaphysical
 
 Incompatible:
-1. Moral facts necessarily apply to all rational agents.
-2. Moral facts necessarily provide reasons for action.
+1. Moral facts are independent of any agent's contingent desires.
+2. Moral facts necessarily provide mandatory practical reasons.
 3. Desires are necessary for reasons for action.
 4. There are no necessary desires in all rational agents
 5. There are moral facts.
