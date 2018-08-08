@@ -69,12 +69,12 @@ The metaphysical relation between normative truth and normative judgments:
 1. Non-descriptive cognitivism: no moral facts
     - The relation is *entailment* from normativity itself (constructivism).
 2. Descriptive Anti-Realism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical moral judgments (all naturalism).
-    - Normative facts are *identity* to *actual* normative judgments (simple subjectivism).
-    - Normative facts are *identity* to *hypothetical* normative judgments of an *ideal* agent (ideal observer, sophisticated subjectivism).
+    - Normative facts are grounded in *actual* normative judgments (simple subjectivism).
+    - Normative facts are grounded in *hypothetical* normative judgments of an *ideal* agent (ideal observer, sophisticated subjectivism).
 3. Descriptive Realism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
-    - Normative facts are *identical* to attidude-independent natural facts (naturalism).
-    - Normative facts are *identical* to non-natural facts (non-naturalism).
-    - Normative facts are *identical* to secondary properties (sensibility theory).
+    - Normative facts are grounded in attidude-independent natural facts (naturalism).
+    - Normative facts are grounded in non-natural facts (non-naturalism).
+    - Normative facts are grounded in secondary properties (sensibility theory).
 
 Third option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
@@ -87,7 +87,7 @@ Third option that no one accepts: normative facts are ontologically prior to mor
 
 # NON-COGNITIVISM
 
-Moral claims are not judgments of facts
+Moral statements are not truth-apt.
 
 ## Classical
 
@@ -108,11 +108,33 @@ Moral claims are not judgments of facts
 ### Allan Gibbard
 Planning
 
+### Timmons
+
 ### Objection
 
-# ANTI-REALISM ERROR-THEORY
+# NON-DESCRIPTIVISM
 
-There are no moral facts
+Moral statements are truth-apt, but do not aim at describing or reporting moral facts, i.e. moral entities, properties or relations.
+
+See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
+
+## Pragmatism
+
+### Putnam
+
+### Objection
+
+## Constructivism
+
+### Sharon Street - What is Constructivism?
+
+### Korsgaard - Kantian Constructivism
+
+### John Rawls - Kantian Constructivism
+
+# ERROR-THEORY
+
+Moral statements are truth-apt and aim at describing moral facts. But such facts do not exist. 
 
 ### J.L. Mackie 
 
@@ -122,7 +144,7 @@ There are no moral facts
 
 # ANTI-REALISM SUCCESS-THEORY
 
-Moral facts exist and are constituted by our actual or hypothetical moral views.
+Moral statements are truth-apt and aim at describing moral facts. The moral facts are grounded in our current or hypothetical moral judgments.
 
 ## Relativism
 
@@ -140,19 +162,11 @@ Moral facts exist and are constituted by our actual or hypothetical moral views.
 
 ### Objection
 
-## Constructivism
-
-### Sharon Street - What is Constructivism?
-
-### Korsgaard - Kantian Constructivism
-
-### John Rawls - Kantian Constructivism
-
 ### Objection
 
 # REALISM
 
-Moral facts exist and explain our actual or hypothetical moral views.
+Moral statements are truth-apt and aim at describing moral facts. The moral facts are ontologically independent of our actual or hypothetical moral judgments. Further, moral facts can explain our moral judgments.
 
 ## Naturalism
 
