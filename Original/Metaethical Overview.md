@@ -33,18 +33,68 @@ Important modern works in political philosophy:
 - Isaiah Berlin, Two Concepts of Liberty
 - Michael Sandel, Liberalism and the Limits of Justice
 
-# Motivation 
+# Problems 
 
-## The Central Problem
+### Semantic
 
-1. Moral judgments are judgments of fact.
-2. Moral facts exist
-3. Moral facts are categorically binding, independent of contingent motivations
-4. Moral facts provide reasons
-5. Only motivations provide reasons
-6. There are no necessarily shared motivations among rational agents
+Incompatible:
+1. Moral judgments are truth-apt.
+2. Truth-apt judgments must be beliefs (i.e. descriptive).
+3. Moral judgments are intrinsically motivating.
+4. Beliefs are not sufficient for intrinsic motivation.
 
-## Key Divides
+Rejections:
+1. Rejected by non-cognitivists.
+2. Rejected by cognitivist non-descriptivists (non-cognitivst with minimal truth theories, pragmatists, constructivists).
+3. Rejected by morality-motivation externalists.
+4. Rejected by non-Humean theories of motivation.
+
+### Metaphysical
+
+Incompatible:
+1. Moral facts are independent of any agent's desires.
+2. Moral facts provide reasons for action.
+3. Desires are necessary for reasons for action.
+4. There are moral facts.
+
+Rejections: 
+1. Rejected by subjectivists.
+2. Rejected by morality-reasons externalists.
+3. Rejected by non-Humean theories of rationality.
+4. Rejected by error-theorists.
+
+### Normative
+
+Incompatible:
+1. Reasons must be intrinsically motivating when judged.
+2. Judgments can be motivating only when tied to desires.
+3. Reasons must be tied to desires.
+
+Rejections:
+1. Rejected by reasons-motivation externalists
+2. Rejected by non-Humean theories of motivation
+3. Rejected by absolutists
+4. Rejected by error-theorists.
+
+# Overview
+
+1. Moral statements are truth-apt.
+    - Accepted by cognitivists
+    - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists)
+2. Moral statements describe moral entities.
+    - Accepted by descriptivists
+    - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism)
+3. Moral entities purport to be attitude independent
+    - Accepted by robust cognitive realists
+    - Rejected by subjectivists (ideal observer, simple subjectivism, corrected judgments)
+4. Moral entities exist.
+    - Accepted by success-theorists
+    - Rejected by error-theorists
+5. Moral entities are not natural entities.
+    - Accepted by non-naturalists
+    - Rejected by naturalists
+
+# Key Divides
 
 ### Language: Cognitivism, Descriptivism
 
@@ -59,8 +109,8 @@ Are normative statements truth-apt and are they descriptive (express beliefs)?
     - A sentence is truth-apt if they are conditions when it can be asserted.
     - They are conditions when it can be asserted based on the grammatical rules of the language,
 3. Descriptive Cognitivism: moral claims are truth-apt and describe moral entities, relations or properties.
-    - Naturalistic Beliefs: normative statements express beliefs that can be understood in natural terms:
-    - Non-naturalistic Beliefs: normative statements express beliefs that cannot be understood in natural terms
+    - Naturalistism: moral entities are naturalistic.
+    - Non-naturalistism: moral entities are not naturalistic.
 
 ### Metaphysics: Objective (attitude-independent) truth conditions
 
@@ -76,14 +126,19 @@ The metaphysical relation between normative truth and normative judgments:
     - Normative facts are grounded in non-natural facts (non-naturalism).
     - Normative facts are grounded in secondary properties (sensibility theory).
 
-Third option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
+Fourth option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
+
+### Metaphysics: Naturalism vs Non-naturalism:
+
+Some ways to draw the naturalism - non-naturalism divide:
+1. Natural entities must be discovered a posteriori. Non-natural entities can be discovered a priori.
+2. Natural entities have spatio-temporal properties. Non-natural entities do not.
+3. Natural entities have causal powers. Non-natural entities do not.
 
 ### Normativity: Categorical vs Hypothetical
 
 1. Anti-Rationalism: morality does not necessarily provide reason for action
 2. Rationalism: morality necessarily provides reason (though perhaps not overriding reason) for action
-
-## Platitudes for a semantics of moral language:
 
 # NON-COGNITIVISM
 
