@@ -156,7 +156,7 @@ Moral statements are truth-apt and aim at describing moral facts. But such facts
 
 ### Objection
 
-1. Most objections to success-theories are equally problems for normativity broadly
+1. Most objections to success-theories are equal problems for normativity broadly
 2. If not (1), then the requirements for morality are too strong
 
 # ANTI-REALISM SUCCESS-THEORY
@@ -182,7 +182,8 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 ### Objection
 
 1. Open Question Argument
-2. Moral truth is agent dependent (for some theories)
+2. Moral truth is agent dependent (some theories)
+3. Cannot account for normativity generally, specifically epistemic rationality (some theories).
 
 # REALISM
 
