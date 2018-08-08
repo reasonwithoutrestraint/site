@@ -46,31 +46,35 @@ Important modern works in political philosophy:
 
 ## Key Divides
 
-### Language: Cognitivism vs Non-cognitivism
+### Language: Cognitivism, Descriptivism
 
-Are normative statements capable of truth and do they express beliefs.
+Are normative statements truth-apt and are they descriptive (express beliefs)?
 
-1. Non-cognitivism: moral statements are not truth apt, nor expressions of belief
+1. Non-cognitivism: moral statements are neither truth apt nor descriptive
     - Expressivist: normative statements express a speaker's attitudes
     - Emotive: normative statements function to influence the attitudes of others
     - Prescriptive: normative statements are imperatives
-2. Cognitivism: moral claims are truth-apt
-    - Naturalistic Beliefs: normative statements express beliefs that can be understood in non-normative terms:
-        - Counterfactual beliefs: pure normative statements express beliefs about what an agent would do if they were ideal (i.e. fully rational, fully informed, consistent, reflective, etc.). For more substantive normative domains, either (1) there may be more substantive conditions baked in, or (2) they may be given a different analysis that refers back to this analysis of pure normative statements. For example, Railton's moral naturalism understands moral statements as statements about what promotes the normative goodness of all affected parties, giving each party equal consideration; this may or may not be equivalent to an analysis that understands moral statements as what a person would do if they were concerned with the normative goodness of all affected parties.   
-    - Non-naturalistic Beliefs: normative statements express beliefs that cannot be understood in normative terms
+2. Non-descriptive Cognitivism: moral claims are truth-apt, but not descriptive
+    - A minimalist conception of what is necessary for truth-aptness.
+    - A sentence is truth-apt if they are conditions when it can be asserted.
+    - They are conditions when it can be asserted based on the grammatical rules of the language,
+3. Descriptive Cognitivism: moral claims are truth-apt and describe moral entities, relations or properties.
+    - Naturalistic Beliefs: normative statements express beliefs that can be understood in natural terms:
+    - Non-naturalistic Beliefs: normative statements express beliefs that cannot be understood in natural terms
 
-### Ontology: Objective (mind-independent) truth conditions
+### Metaphysics: Objective (attitude-independent) truth conditions
 
-The ontological relation between normative facts and normative views:
+The metaphysical relation between normative truth and normative judgments:
 
-1. Anti-Realism: Normative facts are constituted by some relation to actual or hypothetical normative views (forms of naturalism).
-    - The relation is *identity* to the *actual* normative views of a person (simple subjectivism).
-    - The relation is *identity* to the *hypothetical* normative views of an *ideal* agent (ideal observer).
-    - The relation is *entailment* from one's normative views (constructivism).
-2. Realism: Normative facts are ontologically prior to, and can explain, normative views (can be naturalism, non-naturalism or sensibility theory).
-    - The normative facts are natural facts.
-    - The normative facts are non-natural facts.
-    - The normative facts are secondary properties.
+1. Non-descriptive cognitivism: no moral facts
+    - The relation is *entailment* from normativity itself (constructivism).
+2. Descriptive Anti-Realism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical moral judgments (all naturalism).
+    - Normative facts are *identity* to *actual* normative judgments (simple subjectivism).
+    - Normative facts are *identity* to *hypothetical* normative judgments of an *ideal* agent (ideal observer, sophisticated subjectivism).
+3. Descriptive Realism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
+    - Normative facts are *identical* to attidude-independent natural facts (naturalism).
+    - Normative facts are *identical* to non-natural facts (non-naturalism).
+    - Normative facts are *identical* to secondary properties (sensibility theory).
 
 Third option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
@@ -80,10 +84,6 @@ Third option that no one accepts: normative facts are ontologically prior to mor
 2. Rationalism: morality necessarily provides reason (though perhaps not overriding reason) for action
 
 ## Platitudes for a semantics of moral language:
-
-1. Morality is normative/motivating
-2. Moral disagreement is possible 
-3. Empirical agreement does not rule out moral disagreement.
 
 # NON-COGNITIVISM
 
