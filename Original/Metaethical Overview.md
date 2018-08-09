@@ -80,6 +80,32 @@ Rejections:
 
 # Overview
 
+### Plattitudes
+
+Normative Thinking:
+- Some behaviors are independent of thought (involuntary actions)
+- Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
+- Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
+
+Essential Plattitudes: 
+- Ubiquity
+- Motivation
+- Reasoning 
+- Disagreement 
+- Supervenience 
+
+Alleged Substantive Platitudes:
+- Truth-aptness
+- Descriptive
+- Objective
+- Non-natural
+
+### Road to Moral Realism
+
+The latter one rejects on the road, the more problems they face accommodating external (non-moral) requirements.
+
+The earlier one rejects, the more problems they face accommodating internal (moral) pretensions
+
 1. Moral statements are truth-apt.
     - Accepted by cognitivists
     - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists)
@@ -95,6 +121,13 @@ Rejections:
 5. Moral facts are not natural facts.
     - Accepted by non-naturalists
     - Rejected by naturalists
+
+Multidisciplinary issues that cause external accommodation issues as one goes toward realism 
+- Language: What it takes for a statement to be truth-apt?
+- Mind: What state characterizes belief? Desire? Other states?
+- Metaphysics: What explains supervenience, reduction, grounding, etc.
+- Normativity: What it takes for something to be a reason? To be motivating?
+- Metaphilosophy: What is required for an analysis? Uninformative? Can there be revisionist analysis?
 
 # Key Divides
 
@@ -133,6 +166,7 @@ Fourth option that no one accepts: normative facts are ontologically prior to mo
 ### Metaphysics: Naturalism vs Non-naturalism:
 
 Some ways to draw the naturalism - non-naturalism divide:
+1. Natural facts are reductive. Non-natural facts are not. (this conflates reductionism and naturalism)
 1. Natural facts must be discovered a posteriori. Non-natural facts can be discovered a priori.
 2. Natural facts have spatio-temporal properties. Non-natural facts do not.
 3. Natural facts have causal powers. Non-natural facts do not.
