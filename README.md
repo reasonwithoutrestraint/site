@@ -90,7 +90,7 @@ Books to read (historical, plus argumentative):
     - Kevin DeLapp - Moral Realism
 - Non-naturalism:
     - Derek Parfit - _Reasons and Persons_, _On what Matters_
-    - T.M. Scanlon - _Being Realistic About Reasons_
+    - T.M. Scanlon - _Being Realistic About Reasons_ (also "What we owe to each other" and "Metaphysics and Morals")
     - Russ Shafer-Landau - _Moral Realism: A defense_
     - David Enoch - _Taking Morality Seriously_
     - Michael Huemer - _Ethical Intuitionism_
