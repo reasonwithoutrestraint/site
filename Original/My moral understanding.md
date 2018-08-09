@@ -1,21 +1,25 @@
 ## Summary
 
-0. Requirements of a normative analysis: 
+0. Normative Thinking
+    - Some behaviors are independent of thought (involuntary actions)
+    - Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
+    - Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
+1. Plattitudes of normativity: 
     - ubiquity
     - motivation - Debatable whether normative judgments necessarily motivate. Maybe not, but I'm only interested in normative judgments insofar as they are motivating.
     - reasoning 
     - disagreement 
     - supervenience 
-1. Normative reduction: 
+2. Normative reduction: 
     - Relation between agents and behaviors.
     - Kinds of reasons: wrong kinds of reasons.
     - Nature of resaons: internalism vs externalism. 
-2. Non-cognitive analysis: 
+3. Non-cognitive analysis: 
     - Emotive, expressive, prescriptive.
     - Non-cognitivist judgments are evolutionarily necessary.
     - Non-cognitivism can explain 99% of the normative judgments of humanity and other species.
     - Cognitive judgments cannot be necessarily motivating.
-3. Quasi-cognitivist Revisionist analysis: Some constraints on normative judgments:
+4. Quasi-cognitivist Revisionist analysis: Some constraints on normative judgments:
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
     - Quasi-cognitivism: normative judgments can be rational/irrational which may be analogous to saying they are true truth, if not identical to truth. Judgments of rationality are siblings to judgments of truth. All the purported values of cognitivism can be withheld:
         - Normative thinking is a rational enterprise.
@@ -28,18 +32,18 @@
         - Coherence
         - Supervenience
         - What is missing for truth-aptness?
-4. Nature of normativity:
+5. Nature of normativity:
     - Ideal dispositionalist / Constructivist
     - Kinds of reasons: right kinds and wrong kinds of reason
     - Quasi-Objectivism: All purported values of robust objectivity can be met:
         - Certain normative judgments are better than others.
         - Better normative judgments are independent of our actual judgments (dependent on hypothetical judgments or constiuitive features of judgments).
-5. Establishing meaning/plattiudes of different normative domains
+6. Establishing meaning/plattiudes of different normative domains
     - morality
         - prudential reasons with an impartiality/social constriant
         - reasons for distinctively moral attitudes
         - norms generated from constructed relationships
-6. Morality is rationally optional, but this doesn't diminish its authority
+7. Morality is rationally optional, but this doesn't diminish its authority
     - Contingent on our interests:
         - Nearly universal: most people interested in impartial/social reasons, having a system of norms regulating blame.
         - Emphasizes the negotiation aspect: people cant just have independent that they claim are objective with no consideration of other person's reasons.
