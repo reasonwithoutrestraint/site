@@ -1,4 +1,4 @@
-Current reading list:
+Academic reading order:
 - Early Expressivists and Critics
     - Opt: Stevenson
     - Opt: R.M. Hare
@@ -29,9 +29,9 @@ Current reading list:
         - Constructivism About Reasons
         - Coming to Terms with Contingency : Humean Constructivism About Practical Reason
         - Evolution and the Normativity of Epistemic Reasons
-    - Opt: J. Rawls, “Kantian Constructivism in Moral Theory” 
+    - (Opt) J. Rawls, “Kantian Constructivism in Moral Theory” 
     - Christine Korsgaard, “The Sources of Normativity” 
-    - Opt: Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+    - (Opt) Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
 
 - Humean Theory of Motivation
     - (against) Finlay 2007, (see "Four Faces of Moral Realism" for citation)
@@ -66,29 +66,37 @@ See "Creeping Minimalism" and "Four faces of moral realism" for more on non-desc
 
 Books to read (historical, plus argumentative):
 - Non-cognitivism:
-    - Simon Blackburn - Ruling Passions: A Theory of Practical Reasoning
-    - Simon Blackburn - Essays in Quasi-Realism
-    - Allan Gibbard - Thinking How to Live
+    - Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
+    - Simon Blackburn - _Essays in Quasi-realism_
+    - Allan Gibbard - _Thinking How to Live_
     - Timmons
-- Error Theory:
-    - J.L. Mackie - Ethics: Inventing Right and Wrong
-    - Joyce
 - Non-descriptivist:
-    - Mark Timmons
-    - Hilary Putnam
+    - Mark Timmons - _Morality without Foundations_
+    - Hilary Putnam - _Ethics without Ontology_
 - Constructivism:
-    - Christine Korsgaard - The Sources of Normativity
-    - Sharon Street - See essays above
+    - Christine Korsgaard - _The Sources of Normativity_
+    - Sharon Street - Various Essays
+- Error Theory:
+    - J.L. Mackie - _Ethics: Inventing Right and Wrong_
+    - Joyce - _The Myth of Morality_
+- Subjectivism:
+    - Michael Smith - _The Moral Problem_
+    - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
 - Naturalism: 
-    - Michael Smith - The Moral Problem
+    - Peter Railton - _Facts, Values, and Norms_
+    - Richard Boyd - _How to be a Moral Realist_
+    - David Brink - _Moral Realism_
+    - Phillipa Foot - _Natural Goodness_
+    - Paul Bloomberg - _Moral Reality_
     - Kevin DeLapp - Moral Realism
-    - Peter Railton - Facts, Values, and Norms
-    - Phillipa Foot - Natural Goodness
 - Non-naturalism:
-    - Derek Parfit - Reasons and Persons / On what Matters
-    - T.M. Scanlon - Being Realistic About Reasons
-    - David Enoch - Taking Morality Seriously
-    - Russ Shafer-Landau - Moral Realism: A defense
-    - Michael Huemer - Ethical Intuitionism
+    - Derek Parfit - _Reasons and Persons_, _On what Matters_
+    - T.M. Scanlon - _Being Realistic About Reasons_
+    - Russ Shafer-Landau - _Moral Realism: A defense_
+    - David Enoch - _Taking Morality Seriously_
+    - Michael Huemer - _Ethical Intuitionism_
 - Sensibility Theory:
-    - John McDowell - Mind, Value, and Reality
+    - John McDowell - _Mind, Value, and Reality_
+    - David Wiggins - _Needs, Values, Truth_
+- Non-Humean Motivation
+    - Stephen Finlay - "Responding to Normativity"
