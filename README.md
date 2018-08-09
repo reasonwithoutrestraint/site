@@ -69,7 +69,7 @@ Books to read (historical, plus argumentative):
     - Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
     - Simon Blackburn - _Essays in Quasi-realism_
     - Allan Gibbard - _Thinking How to Live_
-- Non-descriptivist:
+- Non-descriptivism:
     - Mark Timmons - _Morality without Foundations_
     - Hilary Putnam - _Ethics without Ontology_
 - Constructivism:
