@@ -52,9 +52,9 @@ Rejections:
 ### Metaphysical
 
 Incompatible:
-1. Moral truths are independent of any agent's contingent desires.
-2. Moral truths provide necessary practical reasons (perhaps even overriding).
-3. Desires are necessary for reasons for action.
+1. Moral truths provide duties independent of any agent's contingent desires.
+2. Moral truths provide duties necessary practical reasons (perhaps even overriding).
+3. Practical reasons are necessarily dependent on desires.
 4. There are no necessary desires in all rational agents
 5. There are moral truths.
 
