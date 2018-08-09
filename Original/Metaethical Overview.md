@@ -58,7 +58,7 @@ Incompatible:
 4. There are no necessary desires in all rational agents
 5. There are moral truths.
 
-Rejections: 
+Rejections (among truth-apt positions): 
 1. Rejected by subjectivists.
 2. Rejected by morality-reasons externalists.
 3. Rejected by non-Humean theories of rationality.
@@ -108,19 +108,35 @@ The earlier one rejects, the more problems they face accommodating internal (mor
 
 1. Moral statements are truth-apt.
     - Accepted by cognitivists
-    - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists)
+    - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists). Objections:
+        - Moral attitude problem
+        - Embedding problem
 2. Moral statements describe moral facts (moral entities, properties or relations).
     - Accepted by descriptivists
-    - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism)
+    - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism). Objections:
+        - Problem of creeping minimalism
 3. Moral facts purport to be attitude independent
     - Accepted by robust cognitive realists
-    - Rejected by subjectivists (ideal observer, simple subjectivism, corrected judgments)
+    - Rejected by subjectivists (ideal observer, simple subjectivism, corrected judgments). Objections:
+        - Cannot account for disagreement (simple subjectivism, corrected judgments).
+        - Doesn't justify categorical normative authority.
+        - Cannot account for normativity generally, particular epistemic normativity.
 4. Moral facts exist.
     - Accepted by success-theorists
-    - Rejected by error-theorists
+    - Rejected by error-theorists. Objections:
+        - Cannot disprove normativity generally.
 5. Moral facts are not natural facts.
     - Accepted by non-naturalists
-    - Rejected by naturalists
+    - Rejected by naturalists. Objections:
+        - Open-Question argument
+        - Motivationally inert
+        - Rationally inert (unless all normativity is non-natural)
+6. Moral facts are non-natural facts    
+    - Objections:
+        - Causal redundancy (ontological bloat, lack of epistemic access, evolutionarily wasteful)
+        - Queer Supervenience
+        - Motivationally inert
+        - Rationally inert (unless all normativity is non-natural)
 
 Multidisciplinary issues that cause external accommodation issues as one goes toward realism 
 - Language: What it takes for a statement to be truth-apt?
