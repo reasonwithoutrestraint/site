@@ -94,7 +94,7 @@ Political
 - Black America: State of Cultural Failures - Violence, Anti-intellectualism, Unfit Reproduction. Materialism, Wealth building. Main cause of death homicide for young black men. "Acting white". Teenage births, births before marriage, births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. Similar income, different wealth.
 - Black America: Cause of Cultural Failures - jim crow, slavery, lack of policing or govenrment support, welfare, discrimination, no skills after slavery.
 - Black America: Solutions to Cultural Failures - Internal economic success trumps external political support. Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement
-- Black America: Solutions for Cultural Failures - Mild preference/separation. see Jews, Chinese, etc. Blacks would be 10th richest nation).
+- Black America: Solutions for Cultural Failures - Mild preference/separation. see Jews, Chinese, etc. American Blacks would be 10th richest nation. America can't seem to find middleground between oppression and paternalism. Both are harmful so long as Blacks are dependent on America. So seperate.
 - Affirmative Action (consequences)
 - White Nationalists, they don't matter.
 
