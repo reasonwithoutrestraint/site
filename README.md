@@ -77,7 +77,7 @@ Books to read (historical, plus argumentative):
     - Sharon Street - Various Essays
 - Error Theory:
     - J.L. Mackie - _Ethics: Inventing Right and Wrong_
-    - Joyce - _The Myth of Morality_
+    - Richard Joyce - _The Myth of Morality_
 - Subjectivism:
     - Michael Smith - _The Moral Problem_
     - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
@@ -99,3 +99,17 @@ Books to read (historical, plus argumentative):
     - David Wiggins - _Needs, Values, Truth_
 - Non-Humean Motivation
     - Stephen Finlay - "Responding to Normativity"
+
+----
+
+Current Order:
+- Christine Korsgaard - _The Sources of Normativity_
+- Sharon Street - Various Essays
+- Michael Smith - _The Moral Problem_
+- Hilary Putnam - _Ethics without Ontology_ (eventually: Mark Timmons)
+- Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
+- Richard Joyce - _The Myth of Morality_
+- Peter Railton - _Facts, Values, and Norms_ (eventually: other naturalists)
+- Russ Shafer-Landau - _Moral Realism: A defense_
+- T.M. Scanlon - _Being Realistic About Reasons_
+- Derek Parfit - _Reasons and Persons_
