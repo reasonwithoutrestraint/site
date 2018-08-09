@@ -221,11 +221,9 @@ Moral statements are not truth-apt.
 
 ## Modern
 
-### Simon Blackburn - _How to be an Moral Antirealist_
+### Simon Blackburn - _Essays in Quasi-realism_
 
-### Simon Blackburn
-
-### Allan Gibbard
+### Allan Gibbard - Plan-Expressivism - _Thinking How to Live_
 Planning
 
 ### Timmons
@@ -238,31 +236,17 @@ Moral statements are truth-apt, but do not aim at describing or reporting moral 
 
 See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
 
-## Assertoric Nondescriptivism
-
 The truth-conditions are attitude-dependent. Very similar to simple subjectivism, except it denies that moral judgments are descriptive. They lies somewhere between reports and mere expression (as with non-cognitivism).
 
-### Mark Timmons
+### Mark Timmons - Assertoric Nondescriptivism - _Morality without Foundations_
 
-### Objection
+### Hilary Putnam - Pragmatism - _Ethics without Ontology_
 
-## Pragmatism
+### Sharon Street - Constructivism - Various Essays
 
-The truth-conditions are attitude-independent
+### Korsgaard - Kantian Constructivism - _Sources of Normativity_
 
-### Hilary Putnam
-
-### Objection
-
-## Constructivism
-
-The truth-conditions are attitude-independent
-
-### Sharon Street - What is Constructivism?
-
-### Korsgaard - Kantian Constructivism
-
-### John Rawls - Kantian Constructivism
+### John Rawls - "Kantian Constructivism"
 
 1. Seems too dependent on us
 
@@ -270,9 +254,9 @@ The truth-conditions are attitude-independent
 
 Moral statements are truth-apt and aim at describing moral facts. But such facts do not exist. 
 
-### J.L. Mackie 
+### J.L. Mackie - _Ethics: Inventing Right and Wrong_
 
-### Richard Joyce
+### Richard Joyce - _The Myth of Morality_
 
 ### Objection
 
@@ -293,11 +277,7 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Roderick Firth - _Ideal Observer Theory_
 
-### Michael Smith - Idealized Observer
-
-### David Hume - Idealized Observer
-
-### Objection
+### Michael Smith - Idealized Observer - _The Moral Problem_
 
 ### Objection
 
@@ -317,17 +297,13 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Peter Railton - Synthetic Reductionist Naturalism - _Moral Realism_
 
-### Richard Boyd - Irreducible Naturalism (Cornell Realism),  _How to be a Moral Realist_
+### Richard Boyd - Irreducible Naturalism (Cornell Realism) - _How to be a Moral Realist_
 
-### David Brink - Irreducible Naturalism _Moral Realism_
+### David Brink - Irreducible Naturalism - _Moral Realism_
 
-### Nicholas Sturgeon - Irreducible Naturalism _Ethical Naturalism_
+### Paul Bloomfield - Reductionist - _Moral Reality_
 
-### Bloomfield
-
-### Foot
-
-### Rebuttal - Moral Twin Earth
+### Philippa Foot - Reductionist - _Natural Goodness_
 
 ### Objection
 
@@ -341,21 +317,23 @@ Possible characterizations:
 2. No Spatiotemporal properties
 3. Causal redundanch
 
-### A.C. Ewing
+## Classical
 
-### G.E. Moore
+### A.C. Ewing - "A suggested Non-naturalist analysis"
+
+### G.E. Moore - _Principia Ethica_
 
 ### W.D. Ross - _The Right and The Good_
 
-### Russ Shafer-Landau
+## Modern
 
-### T. M. Scanlon
+### Derek Parfit - _Reasons and Persons_
 
-### Derek Parfit
+### Derek Parfit - _On What Matters_
 
-### Michael Huemer
+### Russ Shafer-Landau - _Moral Realism: A defense_
 
-### David Enoch
+### T. M. Scanlon - _Being Realistic about Reasons_
 
 ### Objection
 
@@ -368,9 +346,9 @@ Possible characterizations:
 
 ## Sensibility Theories
 
-### David Wiggins - Sensible Subjectivism
+### David Wiggins - "Sensible Subjectivism"
 
-### John McDowell - Values and Secondary Qualities
+### John McDowell - "Values and Secondary Qualities"
 
 ### Justin D'Arms - _Sentimentalism_
 
