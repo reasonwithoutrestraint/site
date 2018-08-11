@@ -235,8 +235,8 @@ Collective Goodness:
 - Summation over everyone's individual goodness.
 - Average over everyone's individual goodness.
 - No reducible metrics; only pareto optimal solutions.
-- Distributions that would be preferred by everyone if they didn't know where they would fall within the distribution
-- Small diminishes to someone with high well-being 
+- Distributions that would be preferred by everyone if they didn't know where they would fall within the distribution.
+- Small diminishes to someone with high well-being for a large increase to someone with low well-being.
 
 #### The Right - Fundamental moral principles 
 
