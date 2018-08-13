@@ -106,12 +106,12 @@ The latter one rejects on the road, the more problems they face accommodating ex
 
 The earlier one rejects, the more problems they face accommodating internal (moral) pretensions
 
-1. Moral statements are truth-apt.
+1. Semantic: moral statements are truth-apt.
     - Accepted by cognitivists
     - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists). Objections:
         - Semantic: Embedding problem
         - Phenomonology: Moral attitude problem
-2. Moral statements describe moral facts (moral entities, properties or relations).
+2. Phenomonological: moral statements describe moral facts (moral entities, properties or relations).
     - Accepted by descriptivists
     - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism). Objections:
         - Semantic: Problem of creeping minimalism
