@@ -103,13 +103,13 @@ Books to read (historical, plus argumentative):
 ----
 
 Current Order:
-- Christine Korsgaard - _The Sources of Normativity_
-- Sharon Street - Various Essays
-- Michael Smith - _The Moral Problem_
-- Hilary Putnam - _Ethics without Ontology_ (eventually: Mark Timmons)
-- Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
-- Richard Joyce - _The Myth of Morality_
-- Peter Railton - _Facts, Values, and Norms_ (eventually: other naturalists)
-- Russ Shafer-Landau - _Moral Realism: A defense_
-- T.M. Scanlon - _Being Realistic About Reasons_
-- Derek Parfit - _Reasons and Persons_
+- Constructivism - Christine Korsgaard - _The Sources of Normativity_
+- Constructivism - Sharon Street - Various Essays
+- Subjective Naturalism - Michael Smith - _The Moral Problem_ (eventually: Firth)
+- Non-descriptivism - Hilary Putnam - _Ethics without Ontology_ (eventually: Mark Timmons)
+- Non-cognitivism - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
+- Error Theory - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
+- Objective Naturalism - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
+- Non-naturalism - Russ Shafer-Landau - _Moral Realism: A defense_
+- Non-naturalism - T.M. Scanlon - _Being Realistic About Reasons_
+- Non-naturalism - Derek Parfit - _Reasons and Persons_ (eventually: Enoch, Huemer, McDowell & Wiggins)
