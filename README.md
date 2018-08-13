@@ -112,4 +112,4 @@ Current Order:
 - **Objective Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
-- Non-naturalism - Derek Parfit - _Reasons and Persons_ (eventually: Enoch, Huemer, McDowell & Wiggins)
+- **Non-naturalism** - Derek Parfit - _Reasons and Persons_ (eventually: Enoch, Huemer, McDowell & Wiggins)
