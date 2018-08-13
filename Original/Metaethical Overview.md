@@ -87,18 +87,23 @@ Normative Thinking:
 - Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
 - Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
 
-Essential Plattitudes: 
-- Ubiquity
-- Motivation
-- Reasoning 
-- Disagreement 
-- Supervenience 
+Essential Normative Plattitudes: 
+- Ubiquity - All rational creatures invoke normative judgments.
+- Motivation - To invoke a normative judgment favoring X is to express a motivational tendency to X.
+- Reasoning - Normative judgments can be modified/improved via reasoning and argumentation.
+- Disagreement - People genuinely disagree about normative judgments.
 
-Alleged Substantive Platitudes:
+Controversial Normative Platitudes:
 - Truth-aptness
 - Descriptive
 - Objective
-- Non-natural
+- Non-reductive
+
+Moral Plattitudes
+- Moral facts necessarily apply to all rational agents.
+- Moral facts provide reason for action.
+- Moral facts supervene on the descriptive facts.
+- Moral facts differ from practical reasons generally (i.e. they call for blame, shame).
 
 ### Road to Moral Realism
 
