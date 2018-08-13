@@ -65,19 +65,6 @@ Rejections (among truth-apt positions):
 4. Rejected by metaphysical egoists.
 5. Rejected by error-theorists.
 
-### Normative
-
-Incompatible:
-1. Reasons must be intrinsically motivating when judged.
-2. Judgments can be motivating only when tied to desires.
-3. Reasons must be tied to desires.
-
-Rejections:
-1. Rejected by reasons-motivation externalists
-2. Rejected by non-Humean theories of motivation
-3. Rejected by absolutists
-4. Rejected by error-theorists.
-
 # Overview
 
 ### Plattitudes
@@ -89,7 +76,7 @@ Normative Thinking:
 
 Essential Normative Plattitudes: 
 - Ubiquity - All rational creatures invoke normative judgments.
-- Motivation - To invoke a normative judgment favoring X is to express a motivational tendency to X.
+- Motivation - To invoke a normative judgment favoring X is to express a motivational tendency to X. To the extent that somehow fails to do what they judge to have most reason to do, they are acting irrationally.
 - Reasoning - Normative judgments can be modified/improved via reasoning and argumentation.
 - Disagreement - People genuinely disagree about normative judgments.
 
