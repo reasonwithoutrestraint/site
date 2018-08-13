@@ -19,9 +19,10 @@
     - Non-cognitivist judgments are evolutionarily necessary.
     - Non-cognitivism can explain 99% of the normative judgments of humanity and other species.
     - Cognitive judgments cannot be necessarily motivating.
-4. Quasi-cognitivist Revisionist analysis: Some constraints on normative judgments:
+4. Cognitivist Non-descriptivist (Revisionist analysis): 
+    - There are constraints on normative judgments that can be sufficient for "truth".
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
-    - Quasi-cognitivism: normative judgments can be rational/irrational which may be analogous to saying they are true truth, if not identical to truth. Judgments of rationality are siblings to judgments of truth. All the purported values of cognitivism can be withheld:
+    - Normative judgments can be rational/irrational which may be analogous to saying they are true truth, if not identical to truth. Judgments of rationality are siblings to judgments of truth. All the purported values of cognitivism can be withheld:
         - Normative thinking is a rational enterprise.
         - Certain normative judgments are better than others.
         - The better normative judgments are independent of our actual judgments.
@@ -127,7 +128,22 @@ Examples:
     - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
     - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
 
-Cognitivism: The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
+`Non-descriptive cognitivism`
+
+Normative judgments are truth-apt, but not expressive of belief and are not descriptive. Ordinarily, we think that a judgment is true-apt if and only if it expresses a belief, and the truth or falsity of the judgment depends on whether the belief accurately represents reality. This would be a *correspondence* conception of truth which applies to descriptive judgments. But might there be other forms of truth?
+
+Forms of truth:
+- General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
+- Descriptive Judgments: Judgment S expresses the judgment that description D to represent reality. S is true if and only if D represents reality.
+- Logical Judgments: Judgment S expresses . S is true if and only if 
+- Modal Judgments:
+- Probabilistic Judgments:
+- Causal Judgments:
+
+Normative Judgments
+- Epistemic Normativity: 
+- Prudential Normativity: 
+- Moral Normativity: 
 
 #### Normative Truth
 
