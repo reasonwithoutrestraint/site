@@ -105,11 +105,11 @@ Books to read (historical, plus argumentative):
 Current Order:
 - **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
 - **Constructivism** - Sharon Street - Various Essays
-- **Subjective Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
+- **Subjectivism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
 - **Non-descriptivism** - Hilary Putnam - _Ethics without Ontology_ (eventually: Mark Timmons)
 - **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
 - **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
-- **Objective Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
+- **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
 - **Non-naturalism** - Derek Parfit - _Reasons and Persons_ (eventually: Enoch, Huemer, McDowell & Wiggins)
