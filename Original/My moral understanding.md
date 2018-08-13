@@ -134,8 +134,8 @@ Normative judgments are truth-apt, but not expressive of belief and are not desc
 
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
-- Descriptive Judgments: Judgment S expresses the judgment that description D to represent reality. S is true if and only if D represents reality.
-- Logical Judgments: Judgment S expresses . S is true if and only if 
+- Descriptive Judgments: Judgment S expresses a relation involving a description D and reality R, namely that D represents R. S is true if and only if D represents reality.
+- Logical Judgments: Judgment S expresses a relation involving a set of propositions P1 and another set of propositions P2, namely that P1 entails P2, i.e. the truth values constituitive of P1 are also constituiitive of P2. S is true if and only if P1 entails P2.
 - Modal Judgments:
 - Probabilistic Judgments:
 - Causal Judgments:
