@@ -143,21 +143,16 @@ Are they descriptive (i.e. beliefs)? Do they describe entities, properties or re
         - Motivation: Cannot explain intrinsic motivation
         - Phenomenology: Normative judgments are world to mind fit, rather than mind to world fit
         - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
-        - Cognitivism is evolutionarily useless
+        - Cognitivism is evolutionarily useless. 
+        - Arguments often apply to sentences that are clearly non-cognitive.
 
 ### Metaphysics: Objectivism vs Subjectivism
 
-The metaphysical relation between normative truth and normative judgments:
+The metaphysical relation between normative truth and normative judgments. Are the truth-condition of normative judgments attitude-independent?
 
-Are normative truths descriptive of normative facts?
-
-Are the truth-condition of normative facts attitude-independent?
-
-1. Non-descriptive cognitivism: no moral facts
-    - Varieties:
-        - Constructivism: the relation is *entailment* from normativity itself.
-        - Non-descriptive cognitivism: the relation is *accurate* expression of one's attitude. 
-2. Subjectivism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
+(assuming descriptivism)
+ 
+1. Subjectivism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
     - Vareities:
         - Simple subjectivism: Normative facts are grounded in *actual* attitudes judgments.
         - Ideal subjectivism: Normative facts are grounded in the *hypothetical* attitudes of an *ideal* agent.
@@ -166,10 +161,11 @@ Are the truth-condition of normative facts attitude-independent?
         - Cannot account for disagreement.
         - Normative: Cannot explain categorical normative authority (if used to analyze morality directly).
         - Normative: Cannot analyze normativity generally (if analysis depends fully informed judgments, cannot explain epistemic normativity).
-3. Objectivism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
+2. Objectivism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
     - Cons: 
         - Motivation: Cannot explain intrinsic motivation
         - Normative: Cannot ground intrinsic rationality
+        - Arguments often apply to judgments that are clearly objective.
 
 Fourth option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
 
@@ -180,6 +176,7 @@ Fourth option that no one accepts: normative facts are ontologically prior to mo
         - See cons for objectivism & naturalism/non-naturalism
     - Cons:
         - Arguments often apply to normativity generally, which cannot work.
+2. Success Theory
 
 ### Metaphysics: Naturalism vs Non-naturalism:
 
@@ -189,7 +186,7 @@ Some ways to draw the naturalism - non-naturalism divide:
 - Natural facts have spatio-temporal properties. Non-natural facts do not.
 - Natural facts have causal powers. Non-natural facts do not.
 
-1. Naturalism. 
+1. Naturalism:
     - General Cons:
         - Motivation: Cannot explain intrinsic motivation
         - Normative: Cannot ground intrinsic motivation
@@ -204,7 +201,7 @@ Some ways to draw the naturalism - non-naturalism divide:
         - How it differs from non-naturalism?
     - Cons against Irreductionism.
         - How it differs from non-naturalism?
-2. Non-naturalism. 
+2. Non-naturalism: 
     - Cons:
         - Motivation: Cannot explain intrinsic motivation
         - Normative: Cannot ground intrinsic rationality (because of lack of motivation)
