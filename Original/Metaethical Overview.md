@@ -92,44 +92,13 @@ Moral Plattitudes
 - Moral facts supervene on the descriptive facts.
 - Moral facts differ from practical reasons generally (i.e. they call for blame, shame).
 
-### Road to Moral Realism
+# Key Divides
+
+The Road to Moral Realism
 
 The latter one rejects on the road, the more problems they face accommodating external (non-moral) requirements.
 
 The earlier one rejects, the more problems they face accommodating internal (moral) pretensions
-
-1. Semantic: moral statements are truth-apt.
-    - Accepted by cognitivists
-    - Rejected by non-cognitivists (emotivists, prescriptivists, expressivists). Objections:
-        - Semantic: Embedding problem
-        - Phenomonology: Moral attitude problem
-2. Phenomonological: moral statements describe moral facts (moral entities, properties or relations).
-    - Accepted by descriptivists
-    - Rejected by non-descriptive cognitivism (constructivists, pragmatists, minimalist cognitivism). Objections:
-        - Semantic: Problem of creeping minimalism
-3. Moral facts purport to be attitude independent
-    - Accepted by robust cognitive realists
-    - Rejected by subjectivists (ideal observer, simple subjectivism, corrected judgments). Objections:
-        - Semantic: Open-Question Argument
-        - Disagreement: Cannot account for disagreement (simple subjectivism, corrected judgments).
-        - Normative: Doesn't justify categorical normative authority.
-        - Normative: Cannot account for normativity generally.
-4. Moral facts exist.
-    - Accepted by success-theorists
-    - Rejected by error-theorists. Objections:
-        - Normative: Cannot reject normativity generally.
-5. Moral facts are not natural facts.
-    - Accepted by non-naturalists
-    - Rejected by naturalists. Objections: Linguistic/Normative issues
-        - Semantic: Open-Question argument
-        - Motivational: Motivationally inert
-        - Normative: Rationally inert
-6. Moral facts are non-natural facts    
-    - Objections:
-        - Ontological/Epistemological: causal redundancy (ontological bloat, lack of epistemic access, evolutionarily wasteful)
-        - Ontological: Queer Supervenience
-        - Motivational: Motivationally inert
-        - Normative: Rationally inert (unless all normativity is non-natural)
 
 Multidisciplinary issues that cause external accommodation issues as one goes toward realism 
 - Language: What it takes for a statement to be truth-apt?
@@ -138,47 +107,112 @@ Multidisciplinary issues that cause external accommodation issues as one goes to
 - Normativity: What it takes for something to be a reason? To be motivating?
 - Metaphilosophy: What is required for an analysis? Uninformative? Can there be revisionist analysis?
 
-# Key Divides
+### Semantic & Phenomenological: Cognitivism & Descriptivism
 
-### Semantic: Cognitivism, Descriptivism
+Are normative statements truth-apt? 
 
-Are normative statements truth-apt and are they descriptive (express beliefs)?
+Are they descriptive (i.e. beliefs)? Do they describe entities, properties or relations?
 
-1. Non-cognitivism: moral statements are neither truth apt nor descriptive
-    - Expressivist: normative statements express a speaker's attitudes
-    - Emotive: normative statements function to influence the attitudes of others
-    - Prescriptive: normative statements are imperatives
+1. Non-cognitivism: moral statements are neither truth-apt nor descriptive
+    - Components:
+        - Semantic: Robust conception of truth (usually)
+    - Varieties: 
+        - Expressivist: normative statements express a speaker's attitudes
+        - Emotive: normative statements function to influence the attitudes of others
+        - Prescriptive: normative statements are imperatives
+    - Cons:
+        - Semantic: Embedding problem
+        - Phenomenology: Moral attitude problem
+        - Violates pretension of normative discourse
 2. Non-descriptive Cognitivism: moral claims are truth-apt, but not descriptive
-    - A minimalist conception of what is necessary for truth-aptness.
-    - A sentence is truth-apt if they are conditions when it can be asserted.
-    - They are conditions when it can be asserted based on the grammatical rules of the language,
+    - Components:
+        - A minimalist conception of what is necessary for truth-aptness.
+        - A sentence is truth-apt if they are conditions when it can be asserted.
+        - There are conditions when it can be asserted based on the grammatical rules of the language,
+    - Pros:
+        - Other non-descriptive truth-apt linguistic domains: modality, probability, causation.
+    - Con:
+        - Semantic: Problem of creeping minimalism
+        - Phenomenology: moral attitude problem
+        - Violates pretension of normative discourse
 3. Descriptive Cognitivism: moral claims are truth-apt and describe moral entities, relations or properties.
-    - Naturalistism: moral entities are naturalistic.
-    - Non-naturalistism: moral entities are not naturalistic.
+    - Components:
+        - Semantic: Robust conception of truth
+    - Cons:
+        - Semantic: Open-Question argument 
+        - Motivation: Cannot explain intrinsic motivation
+        - Phenomenology: Normative judgments are world to mind fit, rather than mind to world fit
+        - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
+        - Cognitivism is evolutionarily useless
 
-### Metaphysics: Objective (attitude-independent) truth conditions
+### Metaphysics: Objectivism vs Subjectivism
 
 The metaphysical relation between normative truth and normative judgments:
 
+Are normative truths descriptive of normative facts?
+
+Are the truth-condition of normative facts attitude-independent?
+
 1. Non-descriptive cognitivism: no moral facts
-    - The relation is *entailment* from normativity itself (constructivism).
-2. Descriptive Anti-Realism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
-    - Normative facts are grounded in *actual* normative judgments (simple subjectivism).
-    - Normative facts are grounded in *hypothetical* judgments (normative or otherwise) of an *ideal* agent (ideal observer, sophisticated subjectivism).
-3. Descriptive Realism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
-    - Normative facts are grounded in attidude-independent natural facts (naturalism).
-    - Normative facts are grounded in non-natural facts (non-naturalism).
-    - Normative facts are grounded in secondary properties (sensibility theory).
+    - Varieties:
+        - Constructivism: the relation is *entailment* from normativity itself.
+        - Non-descriptive cognitivism: the relation is *accurate* expression of one's attitude. 
+2. Subjectivism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
+    - Vareities:
+        - Simple subjectivism: Normative facts are grounded in *actual* attitudes judgments.
+        - Ideal subjectivism: Normative facts are grounded in the *hypothetical* attitudes of an *ideal* agent.
+    - Cons:
+        - Semantic: Open-Question Argument
+        - Cannot account for disagreement.
+        - Normative: Cannot explain categorical normative authority (if used to analyze morality directly).
+        - Normative: Cannot analyze normativity generally (if analysis depends fully informed judgments, cannot explain epistemic normativity).
+3. Objectivism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
+    - Cons: 
+        - Motivation: Cannot explain intrinsic motivation
+        - Normative: Cannot ground intrinsic rationality
 
 Fourth option that no one accepts: normative facts are ontologically prior to moral views, but cannot explain any moral views. In that case, we are not in causal contact with moral facts. Thus, we have no reason to believe in them.
+
+### Error-Theory vs Success-Theory
+
+1. Error-Theory
+    - Pros:
+        - See cons for objectivism & naturalism/non-naturalism
+    - Cons:
+        - Arguments often apply to normativity generally, which cannot work.
 
 ### Metaphysics: Naturalism vs Non-naturalism:
 
 Some ways to draw the naturalism - non-naturalism divide:
-1. Natural facts are reductive. Non-natural facts are not. (this conflates reductionism and naturalism)
-1. Natural facts must be discovered a posteriori. Non-natural facts can be discovered a priori.
-2. Natural facts have spatio-temporal properties. Non-natural facts do not.
-3. Natural facts have causal powers. Non-natural facts do not.
+- Natural facts are reductive. Non-natural facts are not. (this conflates reductionism and naturalism)
+- Natural facts must be discovered a posteriori. Non-natural facts can be discovered a priori.
+- Natural facts have spatio-temporal properties. Non-natural facts do not.
+- Natural facts have causal powers. Non-natural facts do not.
+
+1. Naturalism. 
+    - General Cons:
+        - Motivation: Cannot explain intrinsic motivation
+        - Normative: Cannot ground intrinsic motivation
+    - Cons against analytic reductionism:
+        - Semantic: Open-Question argument
+        - Semantic: Twin-Earth
+        - Semantic: Translation
+    - Cons against synthetic reductionism:
+        - Semantic: Twin-Earth
+        - Epistemology: Cannot explain a priori normative knowledge
+        - Epistemology: No universally agreed properties of normative facts (unlike, e.g. water is H2O or yellow is wavelength ...). 
+        - How it differs from non-naturalism?
+    - Cons against Irreductionism.
+        - How it differs from non-naturalism?
+2. Non-naturalism. 
+    - Cons:
+        - Motivation: Cannot explain intrinsic motivation
+        - Normative: Cannot ground intrinsic rationality (because of lack of motivation)
+        - Ontology: Queer Supervenience
+        - Ontology: Causal redundancy => ontological bloat
+        - Ontology: Causal redundancy => evolutionarily useless
+        - Epistemology: Causal redundancy => epistemic access
+        - Epistemology: Supervenience detected as a conceptual necessity
 
 ### Normativity: Categorical vs Hypothetical
 
