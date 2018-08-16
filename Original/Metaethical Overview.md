@@ -325,6 +325,8 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### David Brink - Irreducible Naturalism - _Moral Realism_
 
+### Nicholas Sturgeon
+
 ### Paul Bloomfield - Reductionist - _Moral Reality_
 
 ### Philippa Foot - Reductionist - _Natural Goodness_
