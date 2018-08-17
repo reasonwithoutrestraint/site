@@ -14,7 +14,7 @@
 
 ## Rebuttal
 
-Rebuttal against 1:
+Rebuttal against 3:
 - The pro-life argument works only if the fetus is understood as being a full life deserving of full rights to personhood. But if a fetus deserves full rights to personhood, then there are following two hugely unintuitive conclusions:
     - Abortion would be unjustified even when the pregnancy is due to rape: One cannot accept (1) a fetus deserves full rights to personhood, and (2) abortion is justified in the case of rape. Because (1) implies the falsity of (2). In other circumstances, when a person has full rights to personhood, another person cannot revoke those rights just because they were victimized. E.g. I cannot kill you to account for a crime that someone else committed.
     - Abortion would be unjustified even when the mother's life is at risk: One cannot accept (1) a fetus deserves full rights to personhood, and (2) abortion is justified when the mother's life is at risk. Because (1) implies the falsity of (2). In other circumstances, when a person has full rights to personhood, another person cannot revoke those rights just to save their life. E.g. I cannot kill you because I need a heart transplant.
