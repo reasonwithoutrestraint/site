@@ -22,17 +22,10 @@
 4. Cognitivist Non-descriptivist (Revisionist analysis): 
     - There are constraints on normative judgments that can be sufficient for "truth".
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
-    - Normative judgments can be rational/irrational which may be analogous to saying they are true truth, if not identical to truth. Judgments of rationality are siblings to judgments of truth. All the purported values of cognitivism can be withheld:
+    - Normative judgments can be rational/irrational-apt; siblings to truth; Quasi truth-apt:
         - Normative thinking is a rational enterprise.
         - Certain normative judgments are better than others.
         - The better normative judgments are independent of our actual judgments.
-    - What makes truth-apt statements truth-apt?
-    - Some constraints on normative judgments that make them quasi truth-apt
-        - Follows a grammatical structure
-        - Consistency
-        - Coherence
-        - Supervenience
-        - What is missing for truth-aptness?
 5. Nature of normativity:
     - Ideal dispositionalist / Constructivist
     - Kinds of reasons: right kinds and wrong kinds of reason
@@ -51,6 +44,11 @@
         - Other analogues: Scientific reasons are impartial/social reasons for belief (and thus evidentially optional), but that doesn't diminish its authority.
     - Not externally necessarily justifiable, like all normative domains
         - Deduction/induction/abduction/evidence/science cannot be reasonable to someone who doesn't care for those forms of reasoning
+8. Morality is subjective (quasi-objective), but that's a good thing:
+    - People cannot just come with arbitrary principles and claim them as the moral virtues.
+    - They are forced to take into account the interests of others.
+    - They are forced to make their demands reasonable to others. 
+    - Moral reasoning is a process of negotiation rather than of discovery.
 
 Questions:
 1. Requirements for cognitivism (language)
@@ -130,7 +128,7 @@ Examples:
 
 `Non-descriptive cognitivism`
 
-Normative judgments are truth-apt, but not expressive of belief and are not descriptive. Ordinarily, we think that a judgment is true-apt if and only if it expresses a belief, and the truth or falsity of the judgment depends on whether the belief accurately represents reality. This would be a *correspondence* conception of truth which applies to descriptive judgments. But might there be other forms of truth?
+Normative judgments are truth-apt, but not expressive of belief and are not descriptive. Ordinarily, we think that a judgment is true-apt if and only if it expresses a belief, and the truth or falsity of the judgment depends on whether the belief accurately represents reality. This would be a *correspondence* conception of truth which applies to descriptive judgments. But might there be other forms of truth? 
 
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
@@ -144,6 +142,17 @@ Normative Judgments
 - Epistemic Normativity: 
 - Prudential Normativity: 
 - Moral Normativity: 
+
+Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
+- Normative thinking is a rational enterprise.
+- Certain normative judgments are better than others.
+- The better normative judgments are independent of our actual judgments.
+
+Properties of normative judgments that might make them candidates for this quasi truth-aptness:
+- Consistency - Reflective Equilibrium: a general rule cannot co-exist with particular counterexamples. 
+- Coherence - Generalism: not necessarily complete generalism, but radical particularism is bad.
+- Grammatical structure
+- Supervenience
 
 #### Normative Truth
 
