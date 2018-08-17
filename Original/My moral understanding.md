@@ -113,18 +113,30 @@ Examples:
 
 #### Normative Analysis
 
-`Possible analysis of some normative judgments`
-
-- Non-cognitive (pre-reflective normative judgments; not true or false; but can be justified - see below):
-    - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
-    - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
-    - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
-- Cognitive (post-reflective normative judgments; these can be true or false; and these can *justify* non-cognitive normative judgments):
-    - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
-    - *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
-    - *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
-    - *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
-    - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
+- Non-cognitivism:
+    - Components:
+        - Normative judgments are not expressive of beliefs. They are not describing any normative facts, entities, properties or relations.
+        - Normative statements are not truth-apt.
+    - Variations:
+        - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
+        - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
+        - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
+- Non-descriptive Cognitivism:
+    - Components:
+        - Normative judgments are not expressive of beliefs. They are not describing any normative facts, entities, properties or relations.
+        - However, normative statements can be truth-apt for other reasons.
+        - Representationalism is not a requirement for truth-aptness.
+    - Variations:
+        - *Assertoric Nondescriptivism*: Minimalist theory of truth. A staatement is truth-apt merely if there are standards where the statement can be asserted appropriately or not, e.g. a grammatical structure, accurate expression of the speaker's attitudes, etc. 
+        - *Pragmatism*: TBD
+        - *Constructivism*: Coherence theory of truth. There is no normative truth outside of our normative judgments. Normative truth is constructed by our normative judgments. Thus, normative judgments can be true or false with reference to other normative judgments.
+- Descriptive Cognitivism:
+    - Components:
+        - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
+    - Variations: 
+        - *Subjectivist*: When S says "X is P", S is reporting some fact about someone's *judgments*. The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
+        - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular *response* (for A). Truth conditions depend on the agent(s). The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
+        - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
 
 `Non-descriptive cognitivism`
 
@@ -142,6 +154,15 @@ Normative Judgments
 - Epistemic Normativity: 
 - Prudential Normativity: 
 - Moral Normativity: 
+
+#### Normative Truth
+
+Standards of Truth:
+ - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
+- *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
+- *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
+- *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
+- *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
 
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
@@ -169,8 +190,6 @@ A system of prescriptions of any normative domain can be internally critiqued wi
 On Kantian constructivism, there can be standards for particular normative domains that must hold in all normative systems. These would be the constituitive properties of that normative domain. These constituitive properties are also what makes the attitude of valuing distinct from the attitude of mere desire (i.e. if one desires X, it doesn't follow that they desire means they bring about X).
 
 What does it mean to say that certain rules are constituitive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
-
-#### Normative Truth
 
 `Prerequisites of an ontology of normative facts`
 
