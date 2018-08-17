@@ -1,4 +1,4 @@
-# Argument for Abortion
+## Pro-life argument
 
 1. A fetus is a life
     - A. Arbitrariness argument
@@ -11,6 +11,16 @@
         3. [from 1 & 2] Fetuses have a right to life.
 2. It is wrong to terminate a life
 3. Abortion is wrong.
+
+## Rebuttal
+
+Rebuttal against 1:
+- The pro-life argument works only if the fetus is understood as being a full life deserving of full rights to personhood. But if a fetus deserves full rights to personhood, then there are following two hugely unintuitive conclusions:
+    - Abortion would be unjustified even when the pregnancy is due to rape: One cannot accept (1) a fetus deserves full rights to personhood, and (2) abortion is justified in the case of rape. Because (1) implies the falsity of (2). In other circumstances, when a person has full rights to personhood, another person cannot revoke those rights just because they were victimized. E.g. I cannot kill you to account for a crime that someone else committed.
+    - Abortion would be unjustified even when the mother's life is at risk: One cannot accept (1) a fetus deserves full rights to personhood, and (2) abortion is justified when the mother's life is at risk. Because (1) implies the falsity of (2). In other circumstances, when a person has full rights to personhood, another person cannot revoke those rights just to save their life. E.g. I cannot kill you because I need a heart transplant.
+- There are two options: 
+    1. bite the bullet and assert that abortion is unjutsified in the case of rape and danger to the mother.
+    2. Admit that fetus don't really have full rights to personhood, but rather some weird form of pseudo-right to personhood. But what is the nature of the pseudo-rights and why should we believe that it encompasses protection of life only when the mother consented to pregnancy and/or is in danger. These are strange forms of rights not seen anywhere else. The only forms of rights either involve full rights to personhood (i.e. humans) or rights to not be subjected to pain but no rights to life (i.e. animals).
 
 Rebuttal against 1A1:
 - General cases: we can say the same about plenty of things - age when one should be able to consent, vote, work, smoke, drink, run for office, etc. Why the discrepancy?
