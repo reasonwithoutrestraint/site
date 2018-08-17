@@ -156,7 +156,7 @@ Constituitive properties of normative judgments that might make them candidates 
 
 Constituitive properties of particular normative domains:
 - Epistemic judgments: 
-    - Reason to follow principles of deduction: Insofar as one believes P and believes P -> Q, why do they have necessary reason to believe Q? It cannot be because Q is true
+    - Reason to follow principles of deduction: Insofar as one believes P and believes P->Q, why do they have necessary reason to believe Q? It cannot be because Q is true. There are plenty of true statements that we don't have reason to believe, also Q need not be true if either P or P->Q are false.
     - Reason to accord beliefs to perception: Insofar as one perceives entity X with properties P, why do they have necessary reason to believe that X exists with certain properties? Insofar as one perceives a entity with certain properties, there is a tendency to believe that entity exists with those properties. If someone witnessed certain sensation without also having corresponding dispositions of beliefs that they mapped to reality, then they would be perceptions.
 - Prudential judgments:
     - Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
