@@ -158,11 +158,11 @@ Normative Judgments
 #### Normative Truth
 
 Standards of Truth:
- - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular attitude (for A). Truth conditions depend on the agent(s). 
-- *Ideal Dispositional*: When S says "X is P (for A)", S is saying that X would provoke a particular attitude (for A) under idealized circumstances (full information, full rationality, sufficient reflection, etc.). Truth conditions depend on the idealized agent(s).
-- *Constituitive*: When S says "A should fear X", this is saying X is the way that "fear" characterizes it. Maybe similar remarks for blame, shame, etc. Truth conditions depend on the nature of the response.
-- *Constructivist*: When S says "A should X", S expresses a belief that S has reason to X on the basis of particular sorts of considerations, e.g. X is entailed by A's interests, X is entailed by considerations of morality, by considerations of ettiquette, etc. Truth conditions depend on the purpose of the constructed normative system.
-- *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
+- *Constructivist*: The truth conditions for a normative judgment depend on its coherence with other normative judgments. A normative system an only be critiqued internally. Potentially, there may be constituitivist features of a class of domains that produce necessary truths within a normative system.
+- *Dispositional*: The truth conditions for a normative judgment depend on correspondence to some subject or group's responses.
+- *Subjectivist*: The truth conditions for a normative judgment depend on correspondence to some subject or group's judgments.
+- *Naturalist Realism*: The truth conditions for a normative judgment depend on correspondence to some natural facts.
+- *Non-natural*: The truth conditions for a normatve judgment depend on a correspondence to non-natural normative facts.
 
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
