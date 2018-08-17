@@ -184,6 +184,7 @@ Constituitive properties of particular normative domains:
     - Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
 - Moral judgments:
     - Taking into account the interests of others.
+    - Others have reasons to adhere to the moral norms.
 
 A system of prescriptions of any normative domain can be internally critiqued within by applying tests of consistency and coherence. Consistency is constituitive of thinking generally. Coherence is constituitive of normative judgments generally. None of this is enough to get some form of absolute standards, as any principle can be the initiating principle, from which the entirety of the system reduces to. This is what Humean constructivism suggests. 
 
