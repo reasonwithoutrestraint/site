@@ -148,11 +148,23 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 - Certain normative judgments are better than others.
 - The better normative judgments are independent of our actual judgments.
 
-Properties of normative judgments that might make them candidates for this quasi truth-aptness:
-- Consistency - Reflective Equilibrium: a general rule cannot co-exist with particular counterexamples. 
-- Coherence - Generalism: not necessarily complete generalism, but radical particularism is bad.
+Constituitive properties of normative judgments that might make them candidates for this quasi truth-aptness:
+- Consistency - Reflective Equilibrium: a general rule cannot co-exist with particular counterexamples. Insofar as one believes a moral proposition (or any proposition), they cannot believe its negation.
+- Coherence - Generalism: not necessarily complete generalism, but radical particularism is bad. The purpose of normative reasoning is to plan responses to events in the future. But if our normative judgments where radically contextualized to particular times, places, circumstances, etc. then we could never make plans for the future. For there an inconcievably infinite possible circumstances that we could fine ourselves. The only way to have a good chance at having a plan in any future circumstance is if that circumstance was nested under a general class of circumstances that we planned. If we only planned particulars, there is a near certainty that none of those particular circumstances would be realized.
+- Supervenience: The purpose of normative reasoning is to plan responses to circumstances in the future. No such plan can be useful if it gives different responses for the same circumstances.  
 - Grammatical structure
-- Supervenience
+
+Constituitive properties of particular normative domains:
+- Epistemic judgments: 
+    - Reason to follow principles of deduction: Insofar as one believes P and believes P -> Q, why do they have necessary reason to believe Q? It cannot be because Q is true
+    - Reason to accord beliefs to perception: Insofar as one perceives entity X with properties P, why do they have necessary reason to believe that X exists with certain properties? Insofar as one perceives a entity with certain properties, there is a tendency to believe that entity exists with those properties. If someone witnessed certain sensation without also having corresponding dispositions of beliefs that they mapped to reality, then they would be perceptions.
+- Prudential judgments:
+    - Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
+    - Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
+- Moral judgments:
+    - Taking into account the interests of others.
+
+A system of prescriptions of any normative domain can be internally critiqued within by applying tests of consistency and coherence. Consistency is constituitive of thinking generally. Coherence is constituitive of normative judgments generally. None of this is enough to get some form of absolute standards, as any principle can be the initiating principle, from which the entirety of the system reduces to. This is what Humean constructivism suggests. On Kantian constructivism, there can be standards for particular normative domains that must hold in all normative systems. These would be the constituitive properties of that normative domain. These constituitive properties are also what makes the attitude of valuing distinct from the attitude of mere desire (i.e. if one desires X, it doesn't follow that they desire means they bring about X).
 
 #### Normative Truth
 
