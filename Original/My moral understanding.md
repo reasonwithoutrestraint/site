@@ -10,7 +10,7 @@
     - reasoning 
     - disagreement 
     - supervenience 
-2. Normative reduction: 
+2. Normative Unification: 
     - Relation between agents and behaviors.
     - Kinds of reasons: wrong kinds of reasons.
     - Nature of resaons: internalism vs externalism. 
@@ -81,7 +81,7 @@ Showing these plattitudes:
 1. See Korsgaard's work: animals believe what they perceive, and act based on their desires. Humans don't just take perceptions and desires at face-value; we reason and think about whether these perceptions/desires justify beliefs/actions. There is a cognitive, conscious process of normative reasoning standing between perceptions/desires and actions. This is normative reason. This doesn't necessarily commit me to saying that normative truth consists in what is entailed from this, but only that we all participate in normative reasoning. Normative truth might, e.g. consist in what is entailed from normative reason under proper conditions.
 2. All synthetic judgments beliefs stem from normative reasoning, either deductive reasoning (e.g. for a priori judgments) or inductive reasoning (e.g. for a posteriori judgments). Not only is there the normative approval or deductive/inductive reasoning as a form of reasoning, but also the normative judgment that particular propositions follow from inductive reasoning. E.g. a person might think they accept inductive reasoning for non-normative reasons; fine, but it is still a normative question whether a particular belief inductively follows in any non-trivial set of experiences.
 
-#### Normative Reduction
+#### Normative Unification
 
 `How to systematize normative systems?`
 
@@ -129,7 +129,7 @@ Examples:
     - Variations:
         - *Assertoric Nondescriptivism*: Minimalist theory of truth. A staatement is truth-apt merely if there are standards where the statement can be asserted appropriately or not, e.g. a grammatical structure, accurate expression of the speaker's attitudes, etc. 
         - *Pragmatism*: TBD
-        - *Constructivism*: Coherence theory of truth. There is no normative truth outside of our normative judgments. Normative truth is constructed by our normative judgments. Thus, normative judgments can be true or false with reference to other normative judgments.
+        - *Constructivism*: Coherence theory of truth. Normative truth is constructed by our normative judgments. Thus, normative judgments can be true or false with reference to other normative judgments. Normative judgments express a world-to-mind fit attitude - but an attitude of *valuing* rather than *desiring*. Valuing something has constituitive features other than mere *desiring*.
 - Descriptive Cognitivism:
     - Components:
         - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
@@ -182,6 +182,10 @@ Constituitive properties of particular normative domains:
 - Prudential judgments:
     - Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
     - Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
+    - Desires/motivations: Desires and motivations are not the same as values and reasons. 
+        - For one, one can desire X or be motivated to bring about X without valuing X or judging that they have reson to bring about X.
+        - Desires and motivations are not subject to the constituitive features of normative judgments. E.g. it doesn't follow from the mere fact that one desires X that they have reason to bring about X. It is not constituitive of desiring X that one also desires the means to bring about X (e.g. if X is have healthy teeth and the means is performing a painful dental operation)
+        - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
 - Moral judgments:
     - Taking into account the interests of others.
     - Others have reasons to adhere to the moral norms.
