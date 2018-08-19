@@ -162,9 +162,12 @@ Do normative judgments express beliefs? I.e. do they describe entities, properti
 
 The metaphysical relation between normative truth and normative judgments. Are the truth-condition of normative judgments attitude-independent?
 
-(assuming descriptivism)
-
-1. Constructivism: there are no normative facts. Normative truth is a construction of our normative judgments. Normative propositions can only be true contextualized to a given set of normative propositions.
+1. Constructivism: 
+    - Components:
+        - There are no normative facts. 
+        - Normative truth is a construction of our normative judgments. 
+        - Normative propositions can only be true contextualized to a given set of normative propositions.
+        - Analogy: legal truth is a construction of legislature.
     - Variations:
         - Humean constructivism: there are no constituitive necessary propositions that must feature in one's set of normative judgments.
         - Kantian constructivism: there are some constiuitive necessary propositions.
