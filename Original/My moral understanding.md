@@ -44,7 +44,7 @@
         - Other analogues: Scientific reasons are impartial/social reasons for belief (and thus evidentially optional), but that doesn't diminish its authority.
     - Not externally necessarily justifiable, like all normative domains
         - Deduction/induction/abduction/evidence/science cannot be reasonable to someone who doesn't care for those forms of reasoning
-8. Morality is subjective (quasi-objective), but that's a good thing:
+8. There are no judgment-independent standards of moral truth, but that's a good thing:
     - People cannot just come with arbitrary principles and claim them as the moral virtues.
     - They are forced to take into account the interests of others.
     - They are forced to make their demands reasonable to others. 
@@ -113,31 +113,6 @@ Examples:
 
 #### Normative Analysis
 
-- Non-cognitivism:
-    - Components:
-        - Normative judgments are not expressive of beliefs. They are not describing any normative facts, entities, properties or relations.
-        - Normative statements are not truth-apt.
-    - Variations:
-        - *Expressive*: When S says "A should X", S expresses a pro-attitude towards A doing X. "Yay to giving to charity!"
-        - *Emotive*: When S says "A should X", S tries to persuade others to hold a pro-attitude towards A doing X.
-        - *Imperative*: When S says "A should X", S issues a command for A to do X. "Give to charity!"
-- Non-descriptive Cognitivism:
-    - Components:
-        - Normative judgments are not expressive of beliefs. They are not describing any normative facts, entities, properties or relations.
-        - However, normative statements can be truth-apt for other reasons.
-        - Representationalism is not a requirement for truth-aptness.
-    - Variations:
-        - *Assertoric Nondescriptivism*: Minimalist theory of truth. A staatement is truth-apt merely if there are standards where the statement can be asserted appropriately or not, e.g. a grammatical structure, accurate expression of the speaker's attitudes, etc. 
-        - *Pragmatism*: TBD
-        - *Constructivism*: Coherence theory of truth. Normative truth is constructed by our normative judgments. Thus, normative judgments can be true or false with reference to other normative judgments. Normative judgments express a world-to-mind fit attitude - but an attitude of *valuing* rather than *desiring*. Valuing something has constituitive features other than mere *desiring*.
-- Descriptive Cognitivism:
-    - Components:
-        - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
-    - Variations: 
-        - *Subjectivist*: When S says "X is P", S is reporting some fact about someone's *judgments*. The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
-        - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular *response* (for A). Truth conditions depend on the agent(s). The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
-        - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
-
 `Non-descriptive cognitivism`
 
 Normative judgments are truth-apt, but not expressive of belief and are not descriptive. Ordinarily, we think that a judgment is true-apt if and only if it expresses a belief, and the truth or falsity of the judgment depends on whether the belief accurately represents reality. This would be a *correspondence* conception of truth which applies to descriptive judgments. But might there be other forms of truth? 
@@ -156,13 +131,6 @@ Normative Judgments
 - Moral Normativity: 
 
 #### Normative Truth
-
-Standards of Truth:
-- *Constructivist*: The truth conditions for a normative judgment depend on its coherence with other normative judgments. A normative system an only be critiqued internally. Potentially, there may be constituitivist features of a class of domains that produce necessary truths within a normative system.
-- *Dispositional*: The truth conditions for a normative judgment depend on correspondence to some subject or group's responses.
-- *Subjectivist*: The truth conditions for a normative judgment depend on correspondence to some subject or group's judgments.
-- *Naturalist Realism*: The truth conditions for a normative judgment depend on correspondence to some natural facts.
-- *Non-natural*: The truth conditions for a normatve judgment depend on a correspondence to non-natural normative facts.
 
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
