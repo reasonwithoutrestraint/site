@@ -111,11 +111,13 @@ Multidisciplinary issues that cause external accommodation issues as one goes to
 
 Are normative statements truth-apt? 
 
-Are they descriptive (i.e. beliefs)? Do they describe entities, properties or relations?
+Do normative judgments express beliefs? I.e. do they describe entities, properties or relations?
 
 1. Non-cognitivism: moral statements are neither truth-apt nor descriptive
     - Components:
         - Semantic: Robust conception of truth (usually)
+        - Normative judgments are not truth-apt
+        - Normative judgments are not expressive of beliefs (they do not describe any normative facts, entities, properties or relations).
     - Varieties: 
         - Expressivist: normative statements express a speaker's attitudes
         - Emotive: normative statements function to influence the attitudes of others
@@ -128,7 +130,12 @@ Are they descriptive (i.e. beliefs)? Do they describe entities, properties or re
     - Components:
         - A minimalist conception of what is necessary for truth-aptness.
         - A sentence is truth-apt if they are conditions when it can be asserted.
-        - There are conditions when it can be asserted based on the grammatical rules of the language,
+        - There are conditions when it can be asserted based on the grammatical rules of the language.
+        - Normative judgments are not expressive of beliefs (they do not describe any normative facts, entities, properties or relations).
+    - Varieties:
+        - *Assertoric Nondescriptivism*: Minimalist theory of truth. A staatement is truth-apt merely if there are standards where the statement can be asserted appropriately or not, e.g. a grammatical structure, accurate expression of the speaker's attitudes, etc. 
+        - *Pragmatism*: TBD
+        - *Constructivism*: Coherence theory of truth. Normative truth is constructed by our normative judgments. Thus, normative judgments can be true or false with reference to other normative judgments. Normative judgments express a world-to-mind fit attitude - but an attitude of *valuing* rather than *desiring*. Valuing something has constituitive features other than mere *desiring*.
     - Pros:
         - Other non-descriptive truth-apt linguistic domains: modality, probability, causation.
     - Con:
@@ -138,6 +145,7 @@ Are they descriptive (i.e. beliefs)? Do they describe entities, properties or re
 3. Descriptive Cognitivism: moral claims are truth-apt and describe moral entities, relations or properties.
     - Components:
         - Semantic: Robust conception of truth
+        - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
     - Cons:
         - Semantic: Open-Question argument 
         - Motivation: Cannot explain intrinsic motivation
@@ -145,23 +153,33 @@ Are they descriptive (i.e. beliefs)? Do they describe entities, properties or re
         - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
         - Cognitivism is evolutionarily useless. 
         - Arguments often apply to sentences that are clearly non-cognitive.
+    - Variations: 
+        - *Subjectivist*: When S says "X is P", S is reporting some fact about someone's *judgments*. The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
+        - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular *response* (for A). Truth conditions depend on the agent(s). The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
+        - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
 
 ### Metaphysics: Objectivism vs Subjectivism
 
 The metaphysical relation between normative truth and normative judgments. Are the truth-condition of normative judgments attitude-independent?
 
 (assuming descriptivism)
- 
-1. Subjectivism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
+
+1. Constructivism: there are no normative facts. Normative truth is a construction of our normative judgments. Normative propositions can only be true contextualized to a given set of normative propositions.
+    - Variations:
+        - Humean constructivism: there are no constituitive necessary propositions that must feature in one's set of normative judgments.
+        - Kantian constructivism: there are some constiuitive necessary propositions.
+    - Cons:
+        - There may not be constituitive features of certain classes normative judgments. 
+2. Subjectivism: normative truth based on correspondence with normative facts, which are identical to some actual or hypothetical judgments.
     - Vareities:
-        - Simple subjectivism: Normative facts are grounded in *actual* attitudes judgments.
-        - Ideal subjectivism: Normative facts are grounded in the *hypothetical* attitudes of an *ideal* agent.
+        - Subjectivism: Normative facts are grounded in the normative judgments of some actual or hypothetical agent(s).
+        - Dispositionalism: Normative facts are gounded in the relevant attiudes of some actual or hypothetical agent(s).
     - Cons:
         - Semantic: Open-Question Argument
         - Cannot account for disagreement.
         - Normative: Cannot explain categorical normative authority (if used to analyze morality directly).
         - Normative: Cannot analyze normativity generally (if analysis depends fully informed judgments, cannot explain epistemic normativity).
-2. Objectivism: normative facts based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
+3. Objectivism: normative truth based on correspondence with normative facts, which are ontologically prior to, and can explain, normative judgments.
     - Cons: 
         - Motivation: Cannot explain intrinsic motivation
         - Normative: Cannot ground intrinsic rationality
