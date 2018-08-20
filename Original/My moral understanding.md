@@ -195,6 +195,14 @@ Some features that might distinguish moral norms from other normative norms:
     - To stand in a certain relation to someone (e.g. friend, lover, partner, cooperator, self-respecting individuals, etc.) has certain expectations for behavior by the parties involved. To the extent that someone violates these expectations, it is appropriate to not extend those behaviors to them, since they would now stand outside of the relationship. 
     - This might work for friends and ettiquette (i.e. to the extent that someone doesn't uphold the standards of good friendship, ettiquette, it is appropriate to not treat them as a friend, or with ettiquette). Maybe it also works for aesthetic morality. But maybe this doesn't work for forceful morality (maybe if someone is immoral, we still have moral obligations towards them, i.e. we can exclude them from society, but we cannot kill them).
 
+Some notes on features of moral judgments:
+1. What determines the content of the norms? Consequentialist or deontologist? If consequences, what consequences?
+2. What determines the appropriateness of blame/praise in enforcing a norm in a particular circumstance? Is it based on whether the application is beneficial (consequentialist), or whether the agent deserves the blame/praise (deontological)?
+3. The many functions of moral judgments:
+    - Expressing the speaker's sentiments. E.g. express blame.
+    - Modify the sentiments of the object of the judgment. E.g. invoke guilt.
+    - Modify the sentiments of the broader society. E.g. invoke blame among society, both toward the particular agent and toward the relevant behavior in general.
+
 Some analysis:
 
 1. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
@@ -208,8 +216,6 @@ Some analysis:
     - There is no valid distinction to make between different individuals, metaphysical egoism is false.
 
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
-
-`Possibly multiple, distinct, valid analysis of morality`
 
 Aesthetic morality: 
 - This is a system for evaluating actions generally. 
