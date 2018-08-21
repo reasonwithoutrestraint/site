@@ -132,6 +132,13 @@ Normative Judgments
 
 #### Normative Truth
 
+Ways for accounting for normative truth in a non-descriptivist sense:
+- Explanatory: Normative reasons are explanations for our *idealized attitudes*.
+    - Analogy with descriptive judgments: Naturalistic facts are explanations of our *idealized perceptions*. A naturalistic fact is said to be true if it best explains our idealized perceptions. A base level, when we refer to a naturalistic fact, we are referring to some entity that explains our experience. Such a fact really would be true if it best explained our experience.
+    - Analogy with motivating reasons: Motivating reasons are explanations of our *actual attitudes*.
+- Motivating: the characteristic feature of normative judgments is that if one sincerely makes a normative judgment to X, they are necessarily motivated in some degree to do X. Therefore, the truth of whether a consideration (expressed in the form of a natural fact) counts as a normative reason to do X depends on whether an agent who learns of that consideration becomes motivated to do X.
+- Constructivist/Constituitivist: the truth of a normative judgment is contextualized to the truth of other normative jugdments an agent makes.
+
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
 - Certain normative judgments are better than others.
