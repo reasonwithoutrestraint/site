@@ -75,11 +75,11 @@ Books to read (historical, plus argumentative):
 - Constructivism:
     - Christine Korsgaard - _The Sources of Normativity_
     - Sharon Street - Various Essays
+- Subjectivism:
+    - Michael Smith - _The Moral Problem_
 - Error Theory:
     - J.L. Mackie - _Ethics: Inventing Right and Wrong_
     - Richard Joyce - _The Myth of Morality_
-- Subjectivism:
-    - Michael Smith - _The Moral Problem_
     - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
 - Naturalism: 
     - Peter Railton - _Facts, Values, and Norms_
