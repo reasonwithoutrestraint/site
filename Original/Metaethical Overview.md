@@ -293,8 +293,6 @@ The truth-conditions are attitude-dependent. Very similar to simple subjectivism
 
 ### John Rawls - "Kantian Constructivism"
 
-1. Seems too dependent on us
-
 # ERROR-THEORY
 
 Moral statements are truth-apt and aim at describing moral facts. But such facts do not exist. 
@@ -305,32 +303,21 @@ Moral statements are truth-apt and aim at describing moral facts. But such facts
 
 ### Objection
 
-1. Most objections to success-theories are equal problems for normativity broadly
-2. If not (1), then the requirements for morality are too strong
-
-# ANTI-REALISM SUCCESS-THEORY
-
-Moral statements are truth-apt and aim at describing moral facts. The moral facts are grounded in our current or hypothetical moral judgments.
-
 ## Relativism
 
 ### Gilbert Harman 
 
-### Objection
+### Objections
 
-## Subjectivism
+# Subjectivism
+
+Moral statements are truth-apt and aim at describing moral facts. The moral facts are grounded in our current or hypothetical moral judgments.
 
 ### Roderick Firth - _Ideal Observer Theory_
 
 ### Michael Smith - Idealized Observer - _The Moral Problem_
 
 ### Objection
-
-1. Open Question Argument
-2. Too agent dependent (some theories)
-    - Cannot account for disagreement
-    - Seems to not justify normative authority
-3. Cannot account for normativity generally, specifically epistemic rationality (some theories).
 
 # REALISM
 
@@ -352,17 +339,9 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ### Philippa Foot - Reductionist - _Natural Goodness_
 
-### Objection
-
-1. Motivationally Inert (OQA)
-2. Twin Earth
+### Objections
 
 ## Non-naturalism
-
-Possible characterizations:
-1. A priori access
-2. No Spatiotemporal properties
-3. Causal redundanch
 
 ## Classical
 
@@ -382,14 +361,7 @@ Possible characterizations:
 
 ### T. M. Scanlon - _Being Realistic about Reasons_
 
-### Objection
-
-1. Unexplained Supervenience
-2. Causal Redundancy
-    - Lack epistemic access
-    - No evolutionar5y advantage
-    - Bloated ontology
-3. Motivationally Inert (OQA)
+### Objections
 
 ## Sensibility Theories
 
@@ -399,4 +371,4 @@ Possible characterizations:
 
 ### Justin D'Arms - _Sentimentalism_
 
-### Objection
+### Objections
