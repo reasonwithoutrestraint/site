@@ -362,6 +362,8 @@ Contemporary moral issues:
     - Docter-assisted
     - Abortion
     - Eugenics
+    - Euthanasia
+    - Suicide
 - Crime
     - Retribution / Rehabilitation
     - Death Penalty
