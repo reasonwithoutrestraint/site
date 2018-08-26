@@ -361,6 +361,7 @@ Contemporary moral issues:
 - Bio-ethics
     - Docter-assisted
     - Abortion
+    - Eugenics
 - Crime
     - Retribution / Rehabilitation
     - Death Penalty
@@ -374,7 +375,13 @@ Contemporary moral issues:
 - Moral scope
     - Animal Rights
     - Environmental Rights
-- Gay Relations / Marriage
+- Sex
+    - Transgenerism
+    - Homosexuality
+    - Polygamy 
+    - Incest 
+    - Pedophilia
+    - Zoophilia
 - Gun Control
 - Immigration
 - Discrimination / Affirmative Action
