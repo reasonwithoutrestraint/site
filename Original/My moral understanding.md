@@ -357,25 +357,23 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 
 #### Particulars
 
-Major Stance:
-- Abortion
+Contemporary moral issues:
+- Bio-ethics
+    - Docter-assisted
+    - Abortion
+- Crime
+    - Retribution / Rehabilitation
+    - Death Penalty
+    - Drugs
 - Welfare
-- Criminal Justice
-- Education
+    - Welfare
+    - Healthcare
+    - Universal Basic Incon
+    - Social Security
+- Gay Relations / Marriage
+- Gun Control
 - Immigration
-- Gay Marriage
-- Subsidized higher education 
-
-Minor Stance
-- Healthcare
-- Discrimination
-
-No Stance:
-- Border walls
-- Economics (merely empirical)
-- Tax Rates
-- Gun Control (don't care)
-- Drug Legalization
+- Discrimination / Affirmative Action
 
 Left-Leaning:
 - Abortion
