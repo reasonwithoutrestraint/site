@@ -365,11 +365,15 @@ Contemporary moral issues:
     - Retribution / Rehabilitation
     - Death Penalty
     - Drugs
-- Welfare
+- Redistribution
+    - Taxation
     - Welfare
     - Healthcare
     - Universal Basic Incon
     - Social Security
+- Moral scope
+    - Animal Rights
+    - Environmental Rights
 - Gay Relations / Marriage
 - Gun Control
 - Immigration
