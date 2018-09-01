@@ -7,7 +7,7 @@
 1. Plattitudes of normativity: 
     - ubiquity
     - motivation - Debatable whether normative judgments necessarily motivate. Maybe not, but I'm only interested in normative judgments insofar as they are motivating.
-    - reasoning 
+    - rational 
     - disagreement 
     - supervenience 
 2. Normative Unification: 
@@ -69,7 +69,7 @@ Questions:
 As agents:
 1. Ubiquity - We cannot rid ourselves of normative judgments.
 2. Motivational - Our normative judgments influence our behavior.
-3. Reasoning - Normative argumentation/reasoning influences our normative judgments.
+3. Reasoning - Normative argumentation/reasoning influences our normative judgments (possibly for the better, possibly based on an objective standard).
 4. Disagreement - We have genuine non-linguistic normative disagreements.
 5. Supervenience - Apt normative predication supervenes on descriptive facts.
 
