@@ -1,7 +1,3 @@
-# Positive Arguments
-
-# Negative Arguments
-
 ## Against naturalism 
 
 See conceptual open-question argument against analytic naturalism.
