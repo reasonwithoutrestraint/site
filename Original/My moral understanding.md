@@ -115,7 +115,9 @@ Examples:
 
 `Non-descriptive cognitivism`
 
-Normative judgments are truth-apt, but not expressive of belief and are not descriptive. Ordinarily, we think that a judgment is true-apt if and only if it expresses a belief, and the truth or falsity of the judgment depends on whether the belief accurately represents reality. This would be a *correspondence* conception of truth which applies to descriptive judgments. But might there be other forms of truth? 
+Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constituitive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
+
+Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth.
 
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
@@ -163,8 +165,7 @@ Constituitive properties of particular normative domains:
         - Desires and motivations are not subject to the constituitive features of normative judgments. E.g. it doesn't follow from the mere fact that one desires X that they have reason to bring about X. It is not constituitive of desiring X that one also desires the means to bring about X (e.g. if X is have healthy teeth and the means is performing a painful dental operation)
         - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
 - Moral judgments:
-    - Taking into account the interests of others.
-    - Others have reasons to adhere to the moral norms.
+    - Taking into account the interests of others: insofar as one advances a moral judgment X, why do they have necessary reason to take into account the interests of others? Insofar as one advances a moral judgment, they are making an attempt to modify the behaviors and attitudes of others. If a person has no interest in modifying the judgments of others, they are not playing the morality game. To play the morality game well, they moral judgments that they advance must be judgments that others would accept if they were fully rational, i.e. they would need to advocate for moral norms that all persons have reason to respect.
 
 A system of prescriptions of any normative domain can be internally critiqued within by applying tests of consistency and coherence. Consistency is constituitive of thinking generally. Coherence is constituitive of normative judgments generally. None of this is enough to get some form of absolute standards, as any principle can be the initiating principle, from which the entirety of the system reduces to. This is what Humean constructivism suggests. 
 
