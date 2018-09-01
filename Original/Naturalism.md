@@ -1,7 +1,3 @@
-# Positive Arguments
-
-# Negative Arguments
-
 # Reductionist Objections
 
 ### Against Analytic Reductionism
@@ -26,9 +22,9 @@ On a different interpretation of "Good means N", when someone says this they are
 
 ### Against Synthetic Reductionism
 
-*A Priori Argument*. It seems we can come to learn about normative truths a priori. This is inexplicable if there is an a posteriori synthetic relationship between normative facts and non-normative facts. I.e. we cannot learn a priori that yellow is such and such wavelength, or that water is H2O. Yet how can it be the case that we can learn a priori than, e.g. some natural property *necessarily* co-instantiates a normative property? 
+*A Priori Argument*. It seems we can come to learn about normative truths a priori. This is inexplicable if there is an a posteriori synthetic relationship between normative facts and non-normative facts. I.e. we cannot learn a priori that yellow is such and such wavelength, or that water is H2O. Yet how can it be the case that we can learn a priori that, e.g. some natural property *necessarily* co-instantiates a normative property? 
 
-*Plattitudes Argument*. Synthetic identities can be found in other domains because we can find trivial essential characteristics of the entites described, e.g. water or yellow. But the only essential characteristics of normative judgments are motivational force.
+*Dispositional Analysis*. Synthetic identities can be found in other domains because we can easily fix the referrents of terms like "water" or "yellow", and then we can find that property that is always instantiated with that referrent. One strategy for doing this is to present a dispositional analysis: an entity is "yellow" just in case it causes sensation that we normally perceive as "yellow". Such a dispositional analysis is not promising for moral terms. Imagine that two societies are lingustically identical except when one society used the word "good" they referred to pleasure and the other society referred to God's will. On this reading, the two cultures wouldn't even disagree with each other, since the content of "good" in these two societies are different - they are using the same word to track different phenomenon. But it seems that these cultures can coherently disagree with each other, especailly if they each act in accordance with what is good.
 
 ### Subjectivist Reductionism
 
@@ -41,5 +37,3 @@ On a different interpretation of "Good means N", when someone says this they are
 *Motivational Argument*. Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are *necessarily* action-guiding whereas attributions of R are only *contingently* action-guiding suggests that goodness and R are not analytically equivalent. The naturalist can respond by rejecting judgment internalism or rejecting analytic naturalism in favor of synthetic naturalism (or maintaining that some naturalistic properites *are* intrinsically motivating, which seems strange). This argument should also be used against analytic non-natural reductionism and perhaps even some forms of synthetic naturalism that are focused on finding what referrents track or guide our *linguistic* use of moral terms.
 
 *Normative Argument*. No non-subjective naturalist state of affairs could ever provide reason for action.
-
-# Irreductionist Objections
