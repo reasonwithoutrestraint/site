@@ -204,29 +204,23 @@ Some ways to draw the naturalism - non-naturalism divide:
 - Natural facts have causal powers. Non-natural facts do not.
 
 1. Naturalism:
-    - General Cons:
-        - Motivation: Cannot explain intrinsic motivation
-        - Normative: Cannot ground intrinsic motivation
     - Cons against analytic reductionism:
-        - Semantic: Open-Question argument
+        - Semantic: Open-Question argument (has response)
         - Semantic: Twin-Earth
         - Semantic: Translation
     - Cons against synthetic reductionism:
-        - Semantic: Twin-Earth
+        - Semantic: Moral Twin-Earth
         - Epistemology: Cannot explain a priori normative knowledge
-        - Epistemology: No universally agreed properties of normative facts (unlike, e.g. water is H2O or yellow is wavelength ...). 
-        - How it differs from non-naturalism?
+        - Epistemology: No trivial, objective entities to fix the reference of moral terms (unlike, e.g. 'water' or 'yellow'). 
     - Cons against Irreductionism.
         - How it differs from non-naturalism?
 2. Non-naturalism: 
     - Cons:
-        - Motivation: Cannot explain intrinsic motivation
-        - Normative: Cannot ground intrinsic rationality (because of lack of motivation)
-        - Ontology: Queer Supervenience
+        - Supervenience: supervenience is unexplained as a conceptual necessity
+        - Supervenience: how we learn supervening relations a priori, i.e. maybe natural property X co-instantiates normative property Y in one circumstances but not the other.  
         - Ontology: Causal redundancy => ontological bloat
         - Ontology: Causal redundancy => evolutionarily useless
-        - Epistemology: Causal redundancy => epistemic access
-        - Epistemology: Supervenience detected as a conceptual necessity
+        - Epistemology: Causal redundancy => lack of epistemic access
 
 ### Normativity: Categorical vs Hypothetical
 
