@@ -15,7 +15,8 @@ There are three components of any constructivist view:
 
 Restricted Constructivism state that the truth of a claim within a certain restricted set of normative claims (e.g. social justice, moral rightness/wrongness, etc.) consists in being entailed from within a substantively characterized practical point of view. An account of the truth is some limited subset of normative claims is reduced to what is entailed from a further set of substantive normative claim, which are taken for granted. 
 
-*Rawl's Conception of Justice*: 
+##### Rawl's Conception of Justice
+
 * Target set of normative judgments: judgments about social and political justice in a liberal democratic society.
 * Results of construction: Rawl's two principles of political justice. 
 * Procedure of construction: Original Position - rational agents, conceived of as representatives of a liberal democratic society and subject to what Rawls calls "reasonable conditions", select principles of justice to regulate the basic structure of society.
@@ -23,3 +24,22 @@ Restricted Constructivism state that the truth of a claim within a certain restr
 * Grounding set of normative judgments: our judgments endorsing the two normative conceptions of the materials of construction.
 
 The standard of correctness in question is a standard of *reasonableness* rather than a standard of *truth*. 
+
+##### Scanlon's Contractualism
+
+* Target set of normative judgments: judgments about right and wrong, judgments of morality concerning "what we owe to each other".
+* Results of construction: an indefinite number of moral principles, which specify which facts are permissibly counted as reasons when we deliberate about what we owe to each other.
+* Procedure of construction: the contractualist formula under which 'an act is wrong if its performance under the circumstances would be disallowed by any set of principles for the general regulation of behavior that no one could reasonably reject as a basis for informed, unforced general agreement.'
+* Materials of construction: See below
+* Grounding set of normative judgments: the judgment that we have reason to 'live with others on terms that they could not reasonably reject insofar as they are motivated by this ideal.'
+
+### Observations about Restricted Constructivism
+
+1. When assessing the correctness of the target set of normative judgments, the question is not whether anyone thinks the judgments withstands the specified scrutiny; the question is whether it does. 
+2. These specific restricted constructivist theories may or may not be circular, but restricted constructivist need not necessarily be circular. To avoid circularity, a version of restricted constructivism must simply avoid including the results of construction among its materials of construction. 
+3. In many cases, it is thought that in many cases (though not all) the question whether a given target normative judgment stands up to the specified procedure of scrutiny has a determinate answer.
+4. Radical choices plays no role in restricted constructivist views. The results of construction and the materials of construction are decided via reflection based on further judgments about reasons.
+5. The method of reflective equilibrium is employed throughout the process of fashioning the overall restricted constructivist view, e.g. identifying the relevant set of grounding normative judgments, in formulating the constructivist procedure, assessing the results of the procedure, etc.
+6. Restricted constructivist theories are in principle compatible with any metaethics views as they are agnostic about the correctness conditions of the grounding set of normative judgments. However, they do give a limited expression of a metaethical insight - they express that the standards of correctness for normative judgments should not be understood as set by an indpendent order that holds apart from agents' normative commitments, but rather from the standpoint of someone who accepts further normative judgments. From nowhere, there are no normative facts.
+
+
