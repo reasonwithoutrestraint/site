@@ -1,5 +1,3 @@
-# What is Constructivism in Ethics and Metaethics?
-
 ## Proceduralist vs Practical Standpoint Characterizations
 
 One interpretation of constructivism in ethics is the **proceduralist characterization**: There are no moral facts independent of the finding that a certain hypothetical procedure would have a certain output. Normative truth is not merely discovered by or coinciding with the outcome of a certain procedure, but as constituted by emergence from the procedure. In other words, their truth is not independent of the procedure. Rawl's "veil of ignorance" is an example of such a constructivist view.
