@@ -79,6 +79,7 @@ Essential Normative Plattitudes:
 - Motivation - To invoke a normative judgment favoring X is to express a motivational tendency to X. To the extent that somehow fails to do what they judge to have most reason to do, they are acting irrationally.
 - Reasoning - Normative judgments can be modified/improved via reasoning and argumentation.
 - Disagreement - People genuinely disagree about normative judgments.
+- Supervenience 
 
 Controversial Normative Platitudes:
 - Truth-aptness
@@ -148,11 +149,9 @@ Do normative judgments express beliefs? I.e. do they describe entities, properti
         - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
     - Cons:
         - Semantic: Open-Question argument 
-        - Motivation: Cannot explain intrinsic motivation
-        - Phenomenology: Normative judgments are world to mind fit, rather than mind to world fit
+        - Motivation (for objective theories): Cannot explain intrinsic motivation/practicality.
+        - Disagreement (for subjective theories): Cannot explain disagreement.
         - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
-        - Cognitivism is evolutionarily useless. 
-        - Arguments often apply to sentences that are clearly non-cognitive.
     - Variations: 
         - *Subjectivist*: When S says "X is P", S is reporting some fact about someone's *judgments*. The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
         - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular *response* (for A). Truth conditions depend on the agent(s). The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
