@@ -62,9 +62,7 @@ Questions:
 
 ### Normativity
 
-#### Normative Authority
-
-`Importance/usage of normative jugdments`
+#### Normative Plattitudes
 
 As agents:
 1. Ubiquity - We cannot rid ourselves of normative judgments.
@@ -73,7 +71,7 @@ As agents:
 4. Disagreement - We have genuine non-linguistic normative disagreements.
 5. Supervenience - Apt normative predication supervenes on descriptive facts.
 
-A theory of normative meaning must explain these.
+Any successful analysis of normative judgments must be able to account for these plattitudes. Normative propositions can be said to be true just in case these requirements are respected.  
 
 A theory of normative truth will be non-deflationary (even if anti-realist/revisionary) for a particular normative domain so long as it provides interpersonal standards for (3) normative argumentation/reasoning. So long as there are solid interpersonal standards for normative argumentation/reasoning, it can be said that normative truth/warrant is whatever follows from those standards.
 
@@ -83,41 +81,37 @@ Showing these plattitudes:
 
 #### Normative Unification
 
-`How to systematize normative systems?`
-
---> Create structures that allow us to distinguish different normative domains.
-
---> Find what is common among all normative domains (i.e. a special relation)
-
 Some tasks:
 1. Find essential characteristics of normative judgments, i.e. are the judgments about properties or relations? If relations, concerning what objects?
 2. Reduce all normative terms to one term or relation.
-3. Find constrants on that relation, e.g. it must be guiding in some way, so it must be possilbe to met by the agent.
+3. Find constrants on that relation, e.g. it must be guiding in some way, so it must be possilbe to be met by the agent.
 4. Determine how to distinguish different normative systems (e.g. epistemology, justice, morality, ettiquette, rationality, etc.).
 
-The *cognitive* normative judgments all express proposition involving a *relation* on a triple consisting of an agent A, a partilcular response R, and a specified set of circumstances C. Whenever one makes a normative or evaluative claim they are saying that when A is in circumstances C, it is typical of (certain) actual people, typical of (certain) idealized persons or otherwise fitting for A to invoke R. Sometimes the agents are universal or individual, sometimes real or hypothetical. Sometimes the circumstances are categorical or specific. So normative judgments express propositions about *relations*, not *properties*.
+All normative judgments can be expressed in the form of a prescription that recommends a particular behavior X for an agent A under circumstances C. This can also be expressed in declarative form via some relation that involves entities A, X, C. The basic terms underlying this relation can be any term that supports this relation grammatically, i.e. "A ought to X in circumstances C", "A has reason to X in circumstances C", "A is justified in X in circumstances C", "It is fitting for A to X in circumstances C", etc.
 
-A *cognitive* normative system can be understood by the following components:
+A normative system can be understood by the following components:
 - T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
 - R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
 - S - The actual norms of the normative system. These are entailed from whatever the relevant considerations are plus any observational content.
-		
-For a given normative system, there is a set of norms S(N) that regulates the behaviors of type T(N) on the basis of certain kinds of relevant considerations C(N). 
-
-Examples:
-- Rational norms regulate actions by advocating for whatever actions are entailed from *rational* considerations, i.e. whatever ends the agent is contigently committed to.
-- Epistemic norms regulate beliefs by advocating for whatever beleifs are entailed from *epistemic* considerations, i.e. whatever perceptions, experiences, memories count in favor of.
-- Ettiquette norms regulate actions by advocating for actions that are entailed from *ettiquette* considerations, i.e. a concern with pleasant engagements in a community
-- Moral norms regulate actions by advocating for actions that are entailed from *moral* considerations, i.e. ??? . Or perhaps moral norms are not constuitive. Rather, these norms are emotive and are justified insofar as they prohibit actions that others have constituitive reason (moral reason, rational reason?) to shame/blame.
 
 #### Normative Analysis
 
-`Non-descriptive cognitivism`
-
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constituitive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
-Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth.
+Descriptive theories of normative judgments fail to account for the following plattitudes:
+- Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
+- Motivational (against objectivist theories) - No non-subjective description can be inherently motivating. No mind-to-world fit can ever motivate a being to action. A world-to-mind fit is needed.
+- Disagreement (against subjectivist theories) - Two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
+
+Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
+- Similar to unreflective attitudes (e.g. desires, dispositions, etc). but are linguistically infused and endorsed under rational reflection and deliberation.
+- Are not merely personal sentiments (i.e. aesthetic judgments), but also dispositions to act in certain ways (i.e. prudential judgments) and dispositions to modify the behavior, attiudes of others (i.e. moral judgments).
+- Can often conflict with and lose out to lower-level unreflective attitudes (weakness of will).
+
+Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
+
+#### Normative Truth
 
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
@@ -131,8 +125,6 @@ Normative Judgments
 - Epistemic Normativity: 
 - Prudential Normativity: 
 - Moral Normativity: 
-
-#### Normative Truth
 
 Ways for accounting for normative truth in a non-descriptivist sense:
 - Explanatory: Normative reasons are explanations for our *idealized attitudes*.
@@ -186,8 +178,6 @@ Other considerations that deal with systematizing our normative concepts:
 4. Supervenience on the physical world.
 
 #### Morality
-		
-`Distinctive features of morality`
 
 Some features that might distinguish moral norms from other normative norms:
 1. Moral norms = reasons for action with some interpersonal/social constraint (e.g. science = interpsonal reasons for belief).
@@ -288,8 +278,6 @@ Collective Goodness:
 
 #### The Right - Fundamental moral principles 
 
-`Fundamental moral principles`
-
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
 - A implicitly consents, while informed/rational
@@ -303,8 +291,6 @@ Applying FORCEFUL action F to agent A is morally prohibited, unless:
 ## Political Philosophy
 
 #### Analysis of political legitimacy & Justice
-
-`An analysis of political legitimacy & Justice`
 
 Can it be reduced to morality? The moral justification of force?
 
