@@ -1,35 +1,32 @@
 ## Summary
 
-0. Normative Thinking
+1. Normative Thinking
     - Some behaviors are independent of thought (involuntary actions)
     - Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
     - Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
-1. Plattitudes of normativity: 
+2. Plattitudes of normativity: 
     - ubiquity
     - motivation - Debatable whether normative judgments necessarily motivate. Maybe not, but I'm only interested in normative judgments insofar as they are motivating.
     - rational 
     - disagreement 
     - supervenience 
-2. Normative Unification: 
+3. Normative Unification: 
     - Relation between agents and behaviors.
     - Kinds of reasons: wrong kinds of reasons.
-    - Nature of resaons: internalism vs externalism. 
-3. Non-cognitive analysis: 
-    - Emotive, expressive, prescriptive.
-    - Non-cognitivist judgments are evolutionarily necessary.
-    - Non-cognitivism can explain 99% of the normative judgments of humanity and other species.
-    - Cognitive judgments cannot be necessarily motivating.
-4. Cognitivist Non-descriptivist (Revisionist analysis): 
-    - There are constraints on normative judgments that can be sufficient for "truth".
+    - Ought implies can and cannot
+4. Cognitivist Non-descriptivist:
+    - Not descriptivist
+        - Emotive, expressive, prescriptive.
+        - Descriptions judgments cannot be necessarily motivating.
+    - Options:
+        - Constructivist
+        - Ideal dispositionalist (compatible?)
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
-    - Normative judgments can be rational/irrational-apt; siblings to truth; Quasi truth-apt:
-        - Normative thinking is a rational enterprise.
-        - Certain normative judgments are better than others.
-        - The better normative judgments are independent of our actual judgments.
-5. Nature of normativity:
+5. Normative Truth:
+    - Truth Conditions: existence internalism
     - Ideal dispositionalist / Constructivist
-    - Kinds of reasons: right kinds and wrong kinds of reason
-    - Quasi-Objectivism: All purported values of robust objectivity can be met:
+    - Quasi-truth-apt (rationality-apt) and Quasi-Objectivism: All purported values of robust objectivity & truth-aptness can be met:
+        - Normativity is rational
         - Certain normative judgments are better than others.
         - Better normative judgments are independent of our actual judgments (dependent on hypothetical judgments or constiuitive features of judgments).
 6. Establishing meaning/plattiudes of different normative domains
