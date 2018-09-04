@@ -15,16 +15,19 @@
     - Kinds of reasons: wrong kinds of reasons.
     - Ought implies can and cannot
 4. Cognitivist Non-descriptivist:
+    - Judgment Internalism:
+        - If A judges that they ought to X, then A has some motivation to X insofar as they are rational.
     - Not descriptivist
         - Emotive, expressive, prescriptive.
         - Descriptions judgments cannot be necessarily motivating.
-    - Options:
-        - Constructivist
-        - Ideal dispositionalist (compatible?)
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
 5. Normative Truth:
-    - Truth Conditions: existence internalism
-    - Ideal dispositionalist / Constructivist
+    - Existence Internalism:
+        - If A ought to X because of reason R, then A's awareness of R will motivate A to X insofar as A is rational.
+        - Thus, R is a reason for agent A if and only if R is the upshot of informed rational deliberation.
+    - Possible theories:
+        - Ideal dispositionalist
+        - Constructivist
     - Quasi-truth-apt (rationality-apt) and Quasi-Objectivism: All purported values of robust objectivity & truth-aptness can be met:
         - Normativity is rational
         - Certain normative judgments are better than others.
@@ -127,11 +130,17 @@ Normative Judgments
 - Moral Normativity: 
 
 Ways for accounting for normative truth in a non-descriptivist sense:
-- Explanatory: Normative reasons are explanations for our *idealized attitudes*.
-    - Analogy with descriptive judgments: Naturalistic facts are explanations of our *idealized perceptions*. A naturalistic fact is said to be true if it best explains our idealized perceptions. A base level, when we refer to a naturalistic fact, we are referring to some entity that explains our experience. Such a fact really would be true if it best explained our experience.
-    - Analogy with motivating reasons: Motivating reasons are explanations of our *actual attitudes*.
-- Motivating: the characteristic feature of normative judgments is that if one sincerely makes a normative judgment to X, they are necessarily motivated in some degree to do X. Therefore, the truth of whether a consideration (expressed in the form of a natural fact) counts as a normative reason to do X depends on whether an agent who learns of that consideration becomes motivated to do X.
-- Constructivist/Constituitivist: the truth of a normative judgment is contextualized to the truth of other normative jugdments an agent makes.
+- Existence Internalism: 
+    - Judgment Internalism: the characteristic feature of normative judgments is this: if A judges that they ought to X, then A has some motivation to X insofar as they are rational.
+    - Existence Internalism: if A ought to X because of reason R, then A's awareness of R will motivate A to X insofar as A is rational.
+    - Thus, R is a reason for agent A if and only if R is the upshot of informed rational deliberation.
+- Possible conceptions:
+    - Constructivism/Constituitivism: 
+        - The truth of a normative judgment is contextualized to the truth of other normative jugdments an agent makes.
+    - Subjective Naturalistism 
+        - Same truth conditions as constructivism, but now with the existence of descriptive normative entities. 
+        - Normative reasons are naturalistic entities posited to explain our informed, rational attitudes (motivating reasons explain actual attitudes).
+        - Analogy: naturalistic non-normative entities posited to explain our idealized perceptions.
 
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
@@ -141,7 +150,7 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 Constituitive properties of normative judgments that might make them candidates for this quasi truth-aptness:
 - Reflective Equilibrium:
     - Consistency - Insofar as one believes a moral proposition (or any proposition), they cannot believe its negation.
-    - Explanatory - Beliefs shouldn't just be unrelated consistent propositions; some propositions should explain the others. This favors a form of generalism: not necessarily complete generalism, but radical particularism is bad. The purpose of normative reasoning is to plan responses to events in the future. But if our normative judgments where radically contextualized to particular times, places, circumstances, etc. then we could never make plans for the future. For there an inconcievably infinite possible circumstances that we could fine ourselves. The only way to have a good chance at having a plan in any future circumstance is if that circumstance was nested under a general class of circumstances that we planned. If we only planned particulars, there is a near certainty that none of those particular circumstances would be realized.
+    - Explanatory - Beliefs shouldn't just be unrelated consistent propositions; some propositions should explain the others. If our normative judgments where radically contextualized to particular times, places, circumstances, etc. then we could never make plans for the future.
 - Supervenience: The purpose of normative reasoning is to plan responses to circumstances in the future. No such plan can be useful if it gives different responses for the same circumstances.  
 - Grammatical structure
 
@@ -158,10 +167,6 @@ Constituitive properties of particular normative domains:
         - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
 - Moral judgments:
     - Taking into account the interests of others: insofar as one advances a moral judgment X, why do they have necessary reason to take into account the interests of others? Insofar as one advances a moral judgment, they are making an attempt to modify the behaviors and attitudes of others. If a person has no interest in modifying the judgments of others, they are not playing the morality game. To play the morality game well, they moral judgments that they advance must be judgments that others would accept if they were fully rational, i.e. they would need to advocate for moral norms that all persons have reason to respect.
-
-A system of prescriptions of any normative domain can be internally critiqued within by applying tests of consistency and coherence. Consistency is constituitive of thinking generally. Coherence is constituitive of normative judgments generally. None of this is enough to get some form of absolute standards, as any principle can be the initiating principle, from which the entirety of the system reduces to. This is what Humean constructivism suggests. 
-
-On Kantian constructivism, there can be standards for particular normative domains that must hold in all normative systems. These would be the constituitive properties of that normative domain. These constituitive properties are also what makes the attitude of valuing distinct from the attitude of mere desire (i.e. if one desires X, it doesn't follow that they desire means they bring about X).
 
 What does it mean to say that certain rules are constituitive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
 
