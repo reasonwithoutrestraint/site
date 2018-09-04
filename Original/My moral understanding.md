@@ -60,8 +60,6 @@ Questions:
 
 ## Metaethics
 
-### Normativity
-
 #### Normative Plattitudes
 
 As agents:
@@ -94,6 +92,11 @@ A normative system can be understood by the following components:
 - R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
 - S - The actual norms of the normative system. These are entailed from whatever the relevant considerations are plus any observational content.
+
+Other considerations concerning the content of normative judgments
+- Right/Wrong kinds of reason
+- Ought implies can & cannot
+- Is/Ought gap -> logical/analytic/synthetic
 
 #### Normative Analysis
 
@@ -164,18 +167,6 @@ A system of prescriptions of any normative domain can be internally critiqued wi
 On Kantian constructivism, there can be standards for particular normative domains that must hold in all normative systems. These would be the constituitive properties of that normative domain. These constituitive properties are also what makes the attitude of valuing distinct from the attitude of mere desire (i.e. if one desires X, it doesn't follow that they desire means they bring about X).
 
 What does it mean to say that certain rules are constituitive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
-
-`Prerequisites of an ontology of normative facts`
-
-1. Must explain normative supervenience.
-2. Must explain epistemic access.
-3. Must explain rationality of normative facts.
-
-Other considerations that deal with systematizing our normative concepts:
-1. Particularism vs Generalism.
-2. Reduction of normative judgments to a normative relation between agents and behaviors. 
-3. Ought implies can. ||=> ought implies can and cannot. Not can or not cannot (or must or must not) implies not ought and not ought not.
-4. Supervenience on the physical world.
 
 #### Morality
 
