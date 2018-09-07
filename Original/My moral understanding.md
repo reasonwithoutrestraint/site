@@ -32,7 +32,11 @@
         - Normativity is rational
         - Certain normative judgments are better than others.
         - Better normative judgments are independent of our actual judgments (dependent on hypothetical judgments or constiuitive features of judgments).
-6. Establishing meaning/plattiudes of different normative domains
+6. Constituents of different normative domains
+    - rationality
+        - consistency
+        - coherence
+        - priority to deliberative
     - morality
         - prudential reasons with an impartiality/social constriant
         - reasons for distinctively moral attitudes
@@ -100,7 +104,7 @@ Other considerations concerning the content of normative judgments
 
 #### Normative Analysis
 
-Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constituitive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
+Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
 Descriptive theories of normative judgments fail to account for the following plattitudes:
 - Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
@@ -119,7 +123,7 @@ Normative Cognitivism: Normative judgments are truth-apt, even though they are n
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
 - Descriptive Judgments: Judgment S expresses a relation involving a description D and reality R, namely that D represents R. S is true if and only if D represents reality.
-- Logical Judgments: Judgment S expresses a relation involving a set of propositions P1 and another set of propositions P2, namely that P1 entails P2, i.e. the truth values constituitive of P1 are also constituiitive of P2. S is true if and only if P1 entails P2.
+- Logical Judgments: Judgment S expresses a relation involving a set of propositions P1 and another set of propositions P2, namely that P1 entails P2, i.e. the truth values constitutive of P1 are also constitutive of P2. S is true if and only if P1 entails P2.
 - Modal Judgments:
 - Probabilistic Judgments:
 - Causal Judgments:
@@ -133,9 +137,9 @@ Ways for accounting for normative truth in a non-descriptivist sense:
 - Existence Internalism: 
     - Judgment Internalism: the characteristic feature of normative judgments is this: if A judges that they ought to X, then A has some motivation to X insofar as they are rational.
     - Existence Internalism: if A ought to X because of reason R, then A's awareness of R will motivate A to X insofar as A is rational.
-    - Thus, R is a reason for agent A if and only if R is the upshot of informed rational deliberation.
+    - Thus, R is a reason for agent A if and only if R is the upshot of informed rational/informed deliberation.
 - Possible conceptions:
-    - Constructivism/Constituitivism: 
+    - Constructivism/Constitutivism: 
         - The truth of a normative judgment is contextualized to the truth of other normative jugdments an agent makes.
     - Subjective Naturalistism 
         - Same truth conditions as constructivism, but now with the existence of descriptive normative entities. 
@@ -147,28 +151,37 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 - Certain normative judgments are better than others.
 - The better normative judgments are independent of our actual judgments.
 
-Constituitive properties of normative judgments that might make them candidates for this quasi truth-aptness:
-- Reflective Equilibrium:
+#### Constituents of Normativity
+
+Constitutive properties of judgments/thinking in various normative domains
+
+Normativity/rationality generally:
+- Capacities of agents as such:
+    - Form beliefs - have a mind-to-world state of mind.
+    - Perform intentional actions - have a world-to-mind state of mind.
+- Requirements on normative thinking:
     - Consistency - Insofar as one believes a moral proposition (or any proposition), they cannot believe its negation.
     - Explanatory - Beliefs shouldn't just be unrelated consistent propositions; some propositions should explain the others. If our normative judgments where radically contextualized to particular times, places, circumstances, etc. then we could never make plans for the future.
-- Supervenience: The purpose of normative reasoning is to plan responses to circumstances in the future. No such plan can be useful if it gives different responses for the same circumstances.  
-- Grammatical structure
+    - Supervenience: The purpose of normative reasoning is to plan responses to circumstances in the future. No such plan can be useful if it gives different responses for the same circumstances.  
 
-Constituitive properties of particular normative domains:
-- Epistemic judgments: 
-    - Reason to follow principles of deduction: Insofar as one believes P and believes P->Q, why do they have necessary reason to believe Q? It cannot be because Q is true. There are plenty of true statements that we don't have reason to believe, also Q need not be true if either P or P->Q are false.
-    - Reason to accord beliefs to perception: Insofar as one perceives entity X with properties P, why do they have necessary reason to believe that X exists with certain properties? Insofar as one perceives a entity with certain properties, there is a tendency to believe that entity exists with those properties. If someone witnessed certain sensation without also having corresponding dispositions of beliefs that they mapped to reality, then they would be perceptions.
-- Prudential judgments:
-    - Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
-    - Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
-    - Desires/motivations: Desires and motivations are not the same as values and reasons. 
-        - For one, one can desire X or be motivated to bring about X without valuing X or judging that they have reson to bring about X.
-        - Desires and motivations are not subject to the constituitive features of normative judgments. E.g. it doesn't follow from the mere fact that one desires X that they have reason to bring about X. It is not constituitive of desiring X that one also desires the means to bring about X (e.g. if X is have healthy teeth and the means is performing a painful dental operation)
-        - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
-- Moral judgments:
-    - Taking into account the interests of others: insofar as one advances a moral judgment X, why do they have necessary reason to take into account the interests of others? Insofar as one advances a moral judgment, they are making an attempt to modify the behaviors and attitudes of others. If a person has no interest in modifying the judgments of others, they are not playing the morality game. To play the morality game well, they moral judgments that they advance must be judgments that others would accept if they were fully rational, i.e. they would need to advocate for moral norms that all persons have reason to respect.
+Reasons = judgments that would be formed following exercise of the above capacities with full respect to the above requirements, conditioned on any judgments which are constitutive of the normative domain in question.
 
-What does it mean to say that certain rules are constituitive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
+Epistemic reasons
+- Reason to follow principles of deduction: Insofar as one believes P and believes P->Q, why do they have necessary reason to believe Q? It cannot be because Q is true. There are plenty of true statements that we don't have reason to believe, also Q need not be true if either P or P->Q are false.
+- Reason to accord beliefs to perception: Insofar as one perceives entity X with properties P, why do they have necessary reason to believe that X exists with certain properties? Insofar as one perceives a entity with certain properties, there is a tendency to believe that entity exists with those properties. If someone witnessed certain sensation without also having corresponding dispositions of beliefs that they mapped to reality, then they would be perceptions.
+
+Prudential reasons
+- Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
+- Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
+- Desires/motivations: Desires and motivations are not the same as values and reasons. 
+    - For one, one can desire X or be motivated to bring about X without valuing X or judging that they have reson to bring about X.
+    - Desires and motivations are not subject to the constitutive features of normative judgments. E.g. it doesn't follow from the mere fact that one desires X that they have reason to bring about X. It is not constitutive of desiring X that one also desires the means to bring about X (e.g. if X is have healthy teeth and the means is performing a painful dental operation)
+    - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
+
+Moral reasons
+- Taking into account the interests of others: insofar as one advances a moral judgment X, why do they have necessary reason to take into account the interests of others? Insofar as one advances a moral judgment, they are making an attempt to modify the behaviors and attitudes of others. If a person has no interest in modifying the judgments of others, they are not playing the morality game. To play the morality game well, they moral judgments that they advance must be judgments that others would accept if they were fully rational, i.e. they would need to advocate for moral norms that all persons have reason to respect.
+
+What does it mean to say that certain rules are constitutive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
 
 #### Morality
 
@@ -179,7 +192,7 @@ Some features that might distinguish moral norms from other normative norms:
     - Moral norms = norms no one could reasonably reject if they were motivated to find norms to regulate cooperation. Agent A can reasonably reject norm N if A's decreased individual goodness from N is more important than others' increased individual goodness.
 2. Norms for the appropriateness of distinctively moral attitudes (e.g. blame, shame, guilt, praise, etc.).
     - Moral attitudes are generic evaluative attiudes expressing approval or disapproval.
-    - Moral attitudes are particular evaluative attitudes with constituitive features.
+    - Moral attitudes are particular evaluative attitudes with constitutive features.
         - Only directed at the features of an agent's character, not necessarily the effect of their actions.
         - A blames B if B's behavior impaired their relationship and A modifies his attitudes toward B. 
     - Moral attitudes are sanctions/rewards for modifying social behavior.
@@ -200,7 +213,7 @@ Some analysis:
 1. Morality is a system of norms administering blame/guilt. X is morally wrong = it is rational to blame one for doing X and it is rational to feel guilty for doing X.
 2. Morality is a system of norms promoting social rationality - what actions would be rational when considering as equals the interests of all affected parties.
 3. Morality properties are the natural facts that track and guide our use of moral concepts.
-4. Morality consists in what is entailed from the constituitive features of morality
+4. Morality consists in what is entailed from the constitutive features of morality
     - Morality is a system of norms that no one could rationally reject as a basis for unenforced, informed cooperation.
 5. Moral truth consist in what an idealized otherwise normal agent would morally endorse. 
 6. Morality follows from pure rationality
@@ -211,10 +224,10 @@ Each of these are probably illuminating features of morality. They are each refe
 
 Aesthetic morality: 
 - This is a system for evaluating actions generally. 
-- Judgments can be given either a constituitivist or dispositionalist analysis, found in all human cultures/societies.
+- Judgments can be given either a constitutivist or dispositionalist analysis, found in all human cultures/societies.
 - The actions are evaluated based on whether they warrant blame/praise. 
-- On one reading, the rationality of these emotions depends on the nature of these emotions (which is relative and contingent). Thus, this morality itself is relative and contingent (similar to aesthetics, a la secondary qualities). Probably in line with the constituitivist analysis. This may be relative to contingent sensibilities.
-- On another reading, these emotions have no constituitive meaning per se. They are mere tools to regulate society. As such, these emotions are warranted insofar as they promote the good of society (just as with individual rationality), i.e. positive states of consciousness, etc. The good of society should also be constrained in some way by consideration of the interests the agents who are issued duties, for it is assumed that all agents have reason to be moral.
+- On one reading, the rationality of these emotions depends on the nature of these emotions (which is relative and contingent). Thus, this morality itself is relative and contingent (similar to aesthetics, a la secondary qualities). Probably in line with the constitutivist analysis. This may be relative to contingent sensibilities.
+- On another reading, these emotions have no constitutive meaning per se. They are mere tools to regulate society. As such, these emotions are warranted insofar as they promote the good of society (just as with individual rationality), i.e. positive states of consciousness, etc. The good of society should also be constrained in some way by consideration of the interests the agents who are issued duties, for it is assumed that all agents have reason to be moral.
 - Sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette. 
 - If a moral statement is true in this sense for a person, then they would be motivated to respect its law if they were informed/rational.
 
@@ -235,7 +248,7 @@ Three types of norms regulating behavior:
 
 Three types of reasons in favor of a norm:
 1. Private consequentialist: Consequentialist reason to follow the norm; depends on personal interests that would be promoted by the individual following the norm. 
-2. Private constituitive: Constituitive reason to follow the norm (i.g. "right" kind of reason); depends on personal, contingent sentiments, etc. a la secondary qualities. I think describes ettiquette, morality and aesthetics. If true reasons, people will be motivated to respect it in particular circumstances.
+2. Private constitutive: Constitutive reason to follow the norm (i.g. "right" kind of reason); depends on personal, contingent sentiments, etc. a la secondary qualities. I think describes ettiquette, morality and aesthetics. If true reasons, people will be motivated to respect it in particular circumstances.
 3. Public constructive: Reason to support societal construction of the norm; depends on desire to live in a certain sort of society with certain accepted rules. Can apply to people regardless of personal sentiments. I think describes forceful morality (i.e. justice, law) and possibly aeshtetic morality and ettiquette. People might not be motivated to respect it in any particular circumstance, but they will be motivated to support it as a rule that society agrees to respect.
 
 On this understanding, we can still call animal cruelty wrong on the basis of aesthetic moral sentiments of normal humans. But could we be justified in using force to stop animal cruelty? Can aesthetic moral sentiments justify imposing force on others? Or can there be a constructive reason to enact norms to protect animal cruelty? In general, how can we support using force to stop the harm of individuals (animals or humans) outside of our social contract? This does afford the libertarian protective rights for people in society (as is desired), but it does not provide even minimum rights for people outside of society, i.e. it never justifies us to use force to stop them from being harmed.
