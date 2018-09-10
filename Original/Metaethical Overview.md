@@ -303,9 +303,9 @@ Moral statements are truth-apt and aim at describing moral facts. But such facts
 
 Moral statements are truth-apt and aim at describing moral facts. The moral facts are grounded in our current or hypothetical moral judgments.
 
-### Roderick Firth - _Ideal Observer Theory_
+### Roderick Firth - Non-reductive - _Ideal Observer Theory_
 
-### Michael Smith - Idealized Observer - _The Moral Problem_
+### Michael Smith - Non-reductive - Idealized Observer - _The Moral Problem_
 
 ### Objection
 
@@ -315,19 +315,23 @@ Moral statements are truth-apt and aim at describing moral facts. The moral fact
 
 ## Naturalism
 
-### Anayltic Reductionist Naturalism
+Non-reductive
 
-### Peter Railton - Synthetic Reductionist Naturalism - _Moral Realism_
+### Richard Boyd - Non-reductive (Cornell Realism) - _How to be a Moral Realist_
 
-### Richard Boyd - Irreducible Naturalism (Cornell Realism) - _How to be a Moral Realist_
-
-### David Brink - Irreducible Naturalism - _Moral Realism_
+### David Brink - Non-reductive - _Moral Realism_
 
 ### Nicholas Sturgeon
 
-### Paul Bloomfield - Reductionist - _Moral Reality_
+Reductive
 
-### Philippa Foot - Reductionist - _Natural Goodness_
+### Anayltic Reductive
+
+### Peter Railton - Synthetic Reductive - _Moral Realism_
+
+### Paul Bloomfield - Reductive - _Moral Reality_
+
+### Philippa Foot - Reductive - _Natural Goodness_
 
 ### Objections
 
