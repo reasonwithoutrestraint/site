@@ -112,9 +112,19 @@ Descriptive theories of normative judgments fail to account for the following pl
 - Disagreement (against subjectivist theories) - Two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
-- Similar to unreflective attitudes (e.g. desires, dispositions, etc). but are linguistically infused and endorsed under rational reflection and deliberation.
-- Are not merely personal sentiments (i.e. aesthetic judgments), but also dispositions to act in certain ways (i.e. prudential judgments) and dispositions to modify the behavior, attiudes of others (i.e. moral judgments).
-- Can often conflict with and lose out to lower-level unreflective attitudes (weakness of will).
+- Relation between desiring and valuing.
+- Similarities
+    - Have propositional content, i.e. value/desire that p be the case, unlike bare sensations.
+    - Have a mind-to-world fit, i.e. dispositional rather than representational nature.
+    - Desires explain intentions. Insofar as we are rational, values explain intentions.
+- Differences
+    - Desires explain intentional action, can be unreflective. Values are the upshots of deliberation. Reflective endorsement.
+    - Desires are present in all animals that perform intentional actions, values only in animals with metacognition. Desires require intention. Values require thoughts about intentions.
+    - Desires can conflict with values. What might not value what we desire. We might not desire what we value. 
+    - Valuing can have constitutive constraints.
+- Possible analysis:
+    - Valuing X = Desiring to desire X. 
+    - Valuing X = Believing that X would be desired if one were fully rational.
 
 Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
 
