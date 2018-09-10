@@ -174,7 +174,7 @@ The metaphysical relation between normative truth and normative judgments. Are t
         - Subjectivism: Normative facts are grounded in the normative judgments of some actual or hypothetical agent(s).
         - Dispositionalism: Normative facts are gounded in the relevant attiudes of some actual or hypothetical agent(s).
     - Cons:
-        - Semantic: Open-Question Argument
+        - Semantic: Open-Question Argument (against reductivism)
         - Cannot account for disagreement.
         - Normative: Cannot explain categorical normative authority (if used to analyze morality directly).
         - Normative: Cannot analyze normativity generally (if analysis depends fully informed judgments, cannot explain epistemic normativity).
@@ -204,15 +204,15 @@ Some ways to draw the naturalism - non-naturalism divide:
 - Natural facts have causal powers. Non-natural facts do not.
 
 1. Naturalism:
-    - Cons against analytic reductionism:
-        - Semantic: Open-Question argument (has response)
+    - Cons against analytic reductivism:
+        - Semantic: Open-Question argument
         - Semantic: Twin-Earth
         - Semantic: Translation
-    - Cons against synthetic reductionism:
+    - Cons against synthetic reductivism:
         - Semantic: Moral Twin-Earth
         - Epistemology: Cannot explain a priori normative knowledge
         - Epistemology: No trivial, objective entities to fix the reference of moral terms (unlike, e.g. 'water' or 'yellow'). 
-    - Cons against Irreductionism.
+    - Cons against non-reductivism:
         - How it differs from non-naturalism?
 2. Non-naturalism: 
     - Cons:
