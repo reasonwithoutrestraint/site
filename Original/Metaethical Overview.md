@@ -150,9 +150,14 @@ Do normative judgments express beliefs? I.e. do they describe entities, properti
     - Cons:
         - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
     - Variations: 
-        - *Subjectivist*: When S says "X is P", S is reporting some fact about someone's *judgments*. The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
-        - *Dispositional*: When S says "X is P (for A)", S is saying that X tends to provoke a particular *response* (for A). Truth conditions depend on the agent(s). The judgments can be normative or non-normative, actual or hypothetical, individual or collective.
-        - *Non-natural*: When S says "A should X", this references a non-natural concept of "should" (or justification, appropriateness, etc.) that cannot be reduced to natural, non-normative terms. Truth conditions depend on some ontologically strange property/relation (that must be apprehended by some strange epistemic faculty like intuition). 
+        - *Irreducible*: When one says "X is M", this cannot be understood in nonnormative terms.
+            - *non-naturalism*: the referrent of the predicate M is not a natural property. Normative propositions are synthetic a priori. 
+            - *naturalism*: the referrent of the preidcate M is a natural, but normative, property.
+        - *Analytic reductionism (naturalism)*: When one says "X is M", the moral predicate M means the same as some natural predicate N, knowable a priori.
+        - *Synthetic reductionism (naturalism)*: When one says "X is M", the referrent of the predicate M is identical to some natural property N. Variants:
+            - *a priori*: the referrent of the predicate M is knowable a priori.
+            - *a posteriori*: the referrent of the predicate M is knowable a posteriori.
+        
 
 ### Metaphysics: Objectivism vs Subjectivism
 
