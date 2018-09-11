@@ -198,10 +198,9 @@ Fourth option that no one accepts: normative facts are ontologically prior to mo
 ### Metaphysics: Naturalism vs Non-naturalism:
 
 Some ways to draw the naturalism - non-naturalism divide:
-- Natural facts are reductive. Non-natural facts are not. (this conflates reductionism and naturalism)
-- Natural facts must be discovered a posteriori. Non-natural facts can be discovered a priori.
-- Natural facts have spatio-temporal properties. Non-natural facts do not.
-- Natural facts have causal powers. Non-natural facts do not.
+- Reductive: naturalistic theories reduce the normative to the non-normative (not necessarily true)
+- Metaphysical: naturalistic facts have spatio-temporal properties, causal effects, etc.
+- Epistemological: natural facts must be discovered a posteriori.
 
 1. Naturalism:
     - Cons against analytic reductivism:
