@@ -6,8 +6,8 @@
     - Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
 2. Plattitudes of normativity: 
     - ubiquity
-    - motivation - Debatable whether normative judgments necessarily motivate. Maybe not, but I'm only interested in normative judgments insofar as they are motivating.
-    - rational 
+    - motivation
+    - rational/deliberative 
     - disagreement 
     - supervenience 
 3. Normative Unification: 
@@ -17,6 +17,8 @@
 4. Cognitivist Non-descriptivist:
     - Judgment Internalism:
         - If A judges that they ought to X, then A has some motivation to X insofar as they are rational.
+        - Reflective/deliberative endorsement
+        - Neither belief nor desire
     - Not descriptivist
         - Emotive, expressive, prescriptive.
         - Descriptions judgments cannot be necessarily motivating.
@@ -36,7 +38,6 @@
     - rationality
         - consistency
         - coherence
-        - priority to deliberative
     - morality
         - prudential reasons with an impartiality/social constriant
         - reasons for distinctively moral attitudes
@@ -123,6 +124,7 @@ Rather, normative judgments are expressive of values, which are attitudes with t
     - Desires can conflict with values. What might not value what we desire. We might not desire what we value. 
     - Valuing can have constitutive constraints.
 - Possible analysis:
+    - Valuing X = some form of reflective/deliberative endorsement. What is a reflective/deliberative endorsement? Neither belief nor desire.
     - Valuing X = Desiring to desire X. 
     - Valuing X = Believing that X would be desired if one were fully rational.
 
