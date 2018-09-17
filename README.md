@@ -89,9 +89,9 @@ Books to read (historical, plus argumentative):
     - Paul Bloomberg - _Moral Reality_
     - Kevin DeLapp - Moral Realism
 - Non-naturalism:
-    - Derek Parfit - _Reasons and Persons_, _On what Matters_
-    - T.M. Scanlon - _Being Realistic About Reasons_ (also "What we owe to each other" and "Metaphysics and Morals")
     - Russ Shafer-Landau - _Moral Realism: A defense_
+    - Derek Parfit - _On what Matters_
+    - T.M. Scanlon - _Being Realistic About Reasons_ (also "What we owe to each other" and "Metaphysics and Morals")
     - David Enoch - _Taking Morality Seriously_
     - Michael Huemer - _Ethical Intuitionism_
 - Sensibility Theory:
@@ -112,4 +112,4 @@ Current Order:
 - **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
-- **Non-naturalism** - Derek Parfit - _Reasons and Persons_ (eventually: Enoch, Huemer, McDowell & Wiggins)
+- **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
