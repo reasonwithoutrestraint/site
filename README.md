@@ -62,9 +62,8 @@ Companion:
 
 -----
 
-See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
+Contemporary works:
 
-Books to read (historical, plus argumentative):
 - Non-cognitivism:
     - Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
     - Simon Blackburn - _Essays in Quasi-realism_
@@ -101,21 +100,7 @@ Books to read (historical, plus argumentative):
 
 ----
 
-Contemporary reads:
-- **Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
-- **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
-- **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
-- **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
-- **Constructivism** - Sharon Street - Various Essays
-- **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
-- **Non-descriptivism** - Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
-- **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
-- **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
-- **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
-
----
-
-Reading Syllabus
+Historical/Introductory
 
 Naturalists
 - (3) Bentham, Mill
@@ -140,14 +125,18 @@ Reasons
 Error Theory
 - (1) J.L. Mackie, Ethics: Inventing Right and Wrong
 
+---
+
+Contemporary
+
 New Naturalists
-- (1) Michael Smith, The Moral Problem
+- (1) Michael Smith, from The Moral Problem
 - (2) Peter Railton, “Moral Realism”
 - (3) R.M. Firth, “Ethical Absolutism and the Ideal Observer”
 
 New Non-naturalists
-- (2) John McDowell, “Values and Secondary Qualities”
 - (2) David Wiggins, “A Sensible Subjectivism?”
+- (2) John McDowell, “Values and Secondary Qualities”
 
 New Expressivists
 - (1) Allan Gibbard, from Wise Choices, Apt Feelings
@@ -158,3 +147,18 @@ New Expressivists
 Constructivism
 - (1) Street, “Sharon Street, "What is Constructivism in Ethics and Metaethics?"
 - (1) Christine Korsgaard, “The Sources of Normativity”
+
+---
+
+Contemporary reads:
+- **Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
+- **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
+- **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
+- **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
+- **Constructivism** - Sharon Street - Various Essays
+- **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
+- **Non-descriptivism** - Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
+- **Non-cognitivism** - Allan Gibbard - _Wise Choices, Apt Feelings, _Thinking How to Live_
+- **Non-cognitivism** - Simon Blackburn - _Essays in Quasi-Reaslism_, _Ruling Passions_
+- **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
+- **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
