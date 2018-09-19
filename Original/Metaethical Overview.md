@@ -1,5 +1,6 @@
 Important modern works in moral philosophy:
 
+Metaethics
 - Also add David Hume, Kant, Mill, Sigwick
 - G. E. M. Anscombe, Modern Moral Philosophy
 - Philippa Foot, Virtues and Vices and Natural Goodness
@@ -7,21 +8,23 @@ Important modern works in moral philosophy:
 - Alan Gewirth, Reason and Morality
 - Allan Gibbard, Thinking How to Live
 - Susan Hurley, Natural Reasons
-- Shelly Kagan, The Limits of Morality
 - Christine Korsgaard, The Sources of Normativity
 - John McDowell, Values as Secondary Qualities
 - Alasdair MacIntyre, After Virtue
 - J. L. Mackie, Ethics: Inventing Right and Wrong
 - G. E. Moore, Principia Ethica
 - Martha Nussbaum, The Fragility of Goodness
-- Derek Parfit, Reasons and Persons
 - Derek Parfit, On What Matters
 - Peter Railton, Facts, Values, and Norms
 - W. D. Ross, The Right and the Good
-- Thomas M. Scanlon, What We Owe to Each Other
-- Samuel Scheffler, The Rejection of Consequentialism
 - Michael A. Smith, The Moral Problem
 - Bernard Williams, Ethics and the Limits of Philosophy
+
+Normative Ethics
+- Shelly Kagan, The Limits of Morality
+- Derek Parfit, Reasons and Persons
+- Thomas M. Scanlon, What We Owe to Each Other
+- Samuel Scheffler, The Rejection of Consequentialism
 - Peter Singer, Practical Ethics
 
 Important modern works in political philosophy:
