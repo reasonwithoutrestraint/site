@@ -106,7 +106,7 @@ Current Order:
 - **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
 - **Constructivism** - Sharon Street - Various Essays
 - **Subjectivism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
-- **Non-descriptivism** - Mark Timmons __Morality without Foundation__ (eventually: Hilary Putnam)
+- **Non-descriptivism** - Mark Timmons _Morality without Foundation_ (eventually: Hilary Putnam)
 - **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
 - **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
 - **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
