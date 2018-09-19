@@ -89,10 +89,10 @@ Books to read (historical, plus argumentative):
     - Kevin DeLapp - Moral Realism
 - Non-naturalism:
     - Russ Shafer-Landau - _Moral Realism: A defense_
-    - Derek Parfit - _On what Matters_
     - T.M. Scanlon - _Being Realistic About Reasons_ (also "What we owe to each other" and "Metaphysics and Morals")
     - David Enoch - _Taking Morality Seriously_
     - Michael Huemer - _Ethical Intuitionism_
+    - Derek Parfit - _On what Matters_
 - Sensibility Theory:
     - John McDowell - _Mind, Value, and Reality_
     - David Wiggins - _Needs, Values, Truth_
@@ -101,14 +101,14 @@ Books to read (historical, plus argumentative):
 
 ----
 
-Current Order:
-- **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
-- **Constructivism** - Sharon Street - Various Essays
+Contemporary reads:
 - **Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
 - **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
-- **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
-- **Non-descriptivism** - Mark Timmons _Morality without Foundation_ (eventually: Hilary Putnam)
+- **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
+- **Constructivism** - Sharon Street - Various Essays
+- **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
+- **Non-descriptivism** - Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
 - **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
 - **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
 - **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
