@@ -75,14 +75,13 @@ Books to read (historical, plus argumentative):
 - Constructivism:
     - Christine Korsgaard - _The Sources of Normativity_
     - Sharon Street - Various Essays
-- Subjectivism:
-    - Michael Smith - _The Moral Problem_
 - Error Theory:
     - J.L. Mackie - _Ethics: Inventing Right and Wrong_
     - Richard Joyce - _The Myth of Morality_
     - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
 - Naturalism: 
     - Peter Railton - _Facts, Values, and Norms_
+    - Michael Smith - _The Moral Problem_
     - Richard Boyd - _How to be a Moral Realist_
     - David Brink - _Moral Realism_
     - Phillipa Foot - _Natural Goodness_
@@ -105,13 +104,13 @@ Books to read (historical, plus argumentative):
 Current Order:
 - **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
 - **Constructivism** - Sharon Street - Various Essays
-- **Subjectivism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
-- **Non-descriptivism** - Mark Timmons _Morality without Foundation_ (eventually: Hilary Putnam)
-- **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
-- **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
+- **Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
 - **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
+- **Non-descriptivism** - Mark Timmons _Morality without Foundation_ (eventually: Hilary Putnam)
+- **Non-cognitivism** - Allan Gibbard - _Thinking How to Live_ (eventually: Blackburn)
+- **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
 - **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
 
 ---
