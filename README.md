@@ -134,7 +134,6 @@ Expresssivists
 - (3) R.M. Hare, The Language of Morals (as excerpted in CP).
 
 Reasons
-- (3) Philippa Foot, “Moral Beliefs”
 - (1) Stephen Darwall, “Reasons, Motives, and the Demands of Morality”
 - (1) Bernard Williams, “Internal and External Reasons”
 - (2) Philippa Foot, “Morality as a System of Hypothetical Imperatives”
