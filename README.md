@@ -113,3 +113,50 @@ Current Order:
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _Being Realistic About Reasons_
 - **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
+
+---
+
+Reading Syllabus
+
+Naturalists
+- (3) Bentham, Mill
+- (2) David Hume
+
+Non-naturalists
+- (1) Henry Sidgwick, The Methods of Ethics
+- (1) G.E. Moore, Principia Ethica
+- (3) W.D. Ross, The Right and the Good
+- (2) A.C. Ewing, “A Suggested Non-Naturalistic Definition of Good”
+
+Expresssivists
+- (1) A.J. Ayer, “Critique of Ethics and Theology”, from Language, Truth, and Logic, chapter 6
+- (1) C.L. Stevenson, “The Emotive Meaning of Ethical Terms”
+- (3) R.M. Hare, The Language of Morals (as excerpted in CP).
+
+Reasons
+- (3) Philippa Foot, “Moral Beliefs”
+- (1) Stephen Darwall, “Reasons, Motives, and the Demands of Morality”
+- (1) Bernard Williams, “Internal and External Reasons”
+- (2) Philippa Foot, “Morality as a System of Hypothetical Imperatives”
+
+Error Theory
+- (1) J.L. Mackie, Ethics: Inventing Right and Wrong
+
+New Naturalists
+- (1) Michael Smith, The Moral Problem
+- (2) Peter Railton, “Moral Realism”
+- (3) R.M. Firth, “Ethical Absolutism and the Ideal Observer”
+
+New Non-naturalists
+- (2) John McDowell, “Values and Secondary Qualities”
+- (2) David Wiggins, “A Sensible Subjectivism?”
+
+New Expressivists
+- (1) Allan Gibbard, from Wise Choices, Apt Feelings
+- (2) Simon Blackburn, “How to Be an Ethical Antirealist”
+- (3) Gideon Rosen, “Blackburn’s Essays in Quasi-Realism”
+- (3) Allan Gibbard, from Thinking How to Live
+
+Constructivism
+- (1) Street, “Sharon Street, "What is Constructivism in Ethics and Metaethics?"
+- (1) Christine Korsgaard, “The Sources of Normativity”
