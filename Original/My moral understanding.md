@@ -3,8 +3,8 @@
 Brief
 1. Plattitudes of normativity
 2. Normative Unification
-3. Normative analysis - deliberative endorsement
-4. Standards of correctness for deliberation
+3. Normative analysis
+4. Standards of correctness
 5. Constituents of normative domains
 6. Objectivity
 7. Morality versus normativity
@@ -79,6 +79,9 @@ Questions:
 
 #### Normative Plattitudes
 
+`Questions`
+1. What are the essential requirements that any decent analysis of normativity/morality must meet?
+
 As agents:
 1. Ubiquity - We cannot rid ourselves of normative judgments.
 2. Motivational - Our normative judgments influence our behavior.
@@ -96,11 +99,10 @@ Showing these plattitudes:
 
 #### Normative Unification
 
-Some tasks:
+`Questions`
 1. Find essential characteristics of normative judgments, i.e. are the judgments about properties or relations? If relations, concerning what objects?
 2. Reduce all normative terms to one term or relation.
-3. Find constrants on that relation, e.g. it must be guiding in some way, so it must be possilbe to be met by the agent.
-4. Determine how to distinguish different normative systems (e.g. epistemology, justice, morality, ettiquette, rationality, etc.).
+3. Determine how to distinguish different normative systems (e.g. epistemology, justice, morality, ettiquette, rationality, etc.).
 
 All normative judgments can be expressed in the form of a prescription that recommends a particular behavior X for an agent A under circumstances C. This can also be expressed in declarative form via some relation that involves entities A, X, C. The basic terms underlying this relation can be any term that supports this relation grammatically, i.e. "A ought to X in circumstances C", "A has reason to X in circumstances C", "A is justified in X in circumstances C", "It is fitting for A to X in circumstances C", etc.
 
@@ -116,6 +118,11 @@ Other considerations concerning the content of normative judgments
 - Is/Ought gap -> logical/analytic/synthetic
 
 #### Normative Analysis
+
+`Questions`
+1. What is the phenomonelogical/psychological status of normative judgments, in particular judgments where someone judges that they themselves have reason to perform an action?
+2. How do these states of mind relate to desires or beliefs?
+3. What are competing analysis of this state of mind? How do they differ? What do they have in common? 
 
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
@@ -143,6 +150,10 @@ Rather, normative judgments are expressive of values, which are attitudes with t
 Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
 
 #### Normative Truth
+
+`Questions`
+1. What does it take for a statement or judgment to be truth-apt?
+2. What are the standards of correctness for normative statements/judgments?
 
 Forms of truth:
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
@@ -177,7 +188,9 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 
 #### Constituents of Normativity
 
-Constitutive properties of judgments/thinking in various normative domains
+`Questions`
+1. What are the constituent features of normativity, epistemology, prudence, morality, etc?
+2. Is morality rationally necessary?
 
 Normativity/rationality generally:
 - Capacities of agents as such:
@@ -208,6 +221,11 @@ Moral reasons
 What does it mean to say that certain rules are constitutive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
 
 #### Morality
+
+`Questions`
+1. What does objectivity mean?
+2. Why does objectivity matter?
+3. When, if ever, can normativity/morality be objective?
 
 Some features that might distinguish moral norms from other normative norms:
 1. Moral norms = reasons for action with some interpersonal/social constraint (e.g. science = interpsonal reasons for belief).
