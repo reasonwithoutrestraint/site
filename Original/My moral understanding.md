@@ -1,5 +1,17 @@
 ## Summary
 
+Brief
+1. Plattitudes of normativity
+2. Normative Unification
+3. Normative analysis - deliberative endorsement
+4. Standards of correctness for deliberation
+5. Constituents of normative domains
+6. Objectivity
+7. Morality versus normativity
+8. Justice versus morality/normativity
+
+Outline
+
 1. Normative Thinking
     - Some behaviors are independent of thought (involuntary actions)
     - Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
