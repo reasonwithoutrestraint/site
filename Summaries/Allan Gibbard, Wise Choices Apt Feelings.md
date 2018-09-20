@@ -24,7 +24,4 @@ Within the normative motivational system, we can distinguish between *internaliz
 
 This allows for another kind of motivational conflict, this time a conflict with the normative control system. Oftentimes, we may *internalize* norm X at the expense of norm Y even though we *accept* that norm Y outweighs X in that situation, i.e. we judge it rational to follow norm Y but we are moved most by norm X (e.g. consider the Milgram's experiments). Judging something to be rational, then, need not involve being motivated most by that norm compared with other norms..
 
-
-TODO: emphasize the role of social cooperation/discussion.
-
 # Objections
