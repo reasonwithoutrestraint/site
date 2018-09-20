@@ -1,8 +1,8 @@
-# Objections
+# Metaphysical Non-naturalist Objections
 
 ### Evolution
 
-No evolutionary reason to perceive non-natural properties -> non-natural properties are not the referrents of our language: There is no evolutionary benefit to developing a capacity to perceive non-natural properties, as the only perceptions that are beneficial are perceptions of natural properties, as natural facts are the only sorts of facts that would be evolutionary advantageous.
+There is no evolutionary benefit to developing a psychological capacity to perceive non-natural properties, as the only perceptions that are beneficial are perceptions of natural properties, as natural facts are the only sorts of facts that would be evolutionary advantageous.
 
 ### Ontological Parsimony
 
