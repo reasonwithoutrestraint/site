@@ -67,7 +67,7 @@ This explains how there can be standards of scrutiny which might allow for one t
 
 Normative judgments are different from both beliefs and desires. Normative judgments differ from beliefs in that they are by their nature motivating. Yet they also differ from desire in virtue of the constituitive features mentioned earlier. For example, while judging that one has reason to live constituitively requires judging that one has reason to undergo leg amputation that one knows is necessary, the attitude of desire is not analgous: one can desire to live while having no desire to undergo leg amputation. 
 
-### Observations about Restricted Constructivism
+### Observations about Metaethical Constructivism
 
 1. As with restricted forms, when assessing the correctness of the target set of normative judgments, the question is not whether anyone thinks the judgments withstands the specified scrutiny; the question is whether it does. 
 2. Whether a given normative judgment withstands scrutiny makes no normative assumptions, but instead uses the constituitive features making a normative judgment. Insofar as someone fails to meet these standards in full awareness, they are not determined to be wrong; rather, they aren't making normative judgments to begin with.
