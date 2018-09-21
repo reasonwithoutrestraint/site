@@ -4,11 +4,12 @@ Brief
 1. Plattitudes of normativity
 2. Normative Unification
 3. Normative analysis
-4. Standards of correctness
-5. Constituents of normative domains
-6. Objectivity
-7. Morality versus normativity
-8. Justice versus morality/normativity
+4. Constituents of rationality
+5. Standards of correctness
+6. Constituents of normative domains
+7. Objectivity
+8. Morality versus normativity
+9. Justice versus morality/normativity
 
 Outline
 
@@ -28,7 +29,7 @@ Outline
     - Ought implies can and cannot
 4. Cognitivist Non-descriptivist:
     - Judgment Internalism:
-        - If A judges that they ought to X, then A has some motivation to X insofar as they are rational.
+        - A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational.
         - Reflective/deliberative endorsement
         - Neither belief nor desire
     - Not descriptivist
@@ -37,7 +38,7 @@ Outline
     - We may be capable of revising our normative discourse (e.g. see judgments of epistemic rationality).
 5. Normative Truth:
     - Existence Internalism:
-        - If A ought to X because of reason R, then A's awareness of R will motivate A to X insofar as A is rational.
+        - X is a normative reason for A iff X would be a motivating reason for A insofar as A is rational
         - Thus, R is a reason for agent A if and only if R is the upshot of informed rational deliberation.
     - Possible theories:
         - Ideal dispositionalist
@@ -126,10 +127,10 @@ Other considerations concerning the content of normative judgments
 
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
-Descriptive theories of normative judgments fail to account for the following plattitudes:
+Plattitudes not met by descriptive theories:
 - Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
-- Motivational (against objectivist theories) - No non-subjective description can be inherently motivating. No mind-to-world fit can ever motivate a being to action. A world-to-mind fit is needed.
-- Disagreement (against subjectivist theories) - Two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
+- Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational.
+- Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
 - Relation between desiring and valuing.
@@ -150,6 +151,9 @@ Rather, normative judgments are expressive of values, which are attitudes with t
         - If the theory is reductive, i.e. judging something rational is to believe XYZ, then it could have just used XYZ as the analysis to begin with.
     - Valuing X = Believing that X would be desired if one had unqualified cognitive/imaginitive powers and full factual/nomological information. This may also be compatible with the judgment internalism thesis, but:
         - Even though its sufficient to invoke a normative judgment, it doesn't seem necessary. This is not what we're doing when we make normative judgments. 
+    - (general criticism) Valuing X = X would be desired if one were rational
+        - These might give the correct truth conditions, but they miss the point.
+        - When someone rationally endorse X, they aren't thinking about what they would desire in such and such circumstances.
 
 Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
 
@@ -174,8 +178,8 @@ Normative Judgments
 
 Ways for accounting for normative truth in a non-descriptivist sense:
 - Existence Internalism: 
-    - Judgment Internalism: the characteristic feature of normative judgments is this: if A judges that they ought to X, then A has some motivation to X insofar as they are rational.
-    - Existence Internalism: if A ought to X because of reason R, then A's awareness of R will motivate A to X insofar as A is rational.
+    - Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational.
+    - Existence Internalism: X is a normative reason for A iff X would be a motivating reason for A insofar as A is rational.
     - Thus, R is a reason for agent A if and only if R is the upshot of informed rational/informed deliberation.
 - Possible conceptions:
     - Constructivism/Constitutivism: 
@@ -185,6 +189,8 @@ Ways for accounting for normative truth in a non-descriptivist sense:
         - Normative reasons are naturalistic entities posited to explain our informed, rational attitudes (motivating reasons explain actual attitudes).
         - Analogy: naturalistic non-normative entities posited to explain our idealized perceptions.
 
+The naturalists, constructivists no-descriptivists need not disagree here about the truth conditions. They all agree that the truth of a normative judgment consists in it being rationally derivable.
+
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 - Normative thinking is a rational enterprise.
 - Certain normative judgments are better than others.
@@ -193,7 +199,8 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 #### Constituents of Normativity
 
 `Questions`
-1. What are the constituent features of normativity, epistemology, prudence, morality, etc?
+1. What are the constituent features of rational deliberation?
+1. What are the constituent features of epistemic norms, prudence, morality, etc?
 2. Is morality rationally necessary?
 
 Normativity/rationality generally:
