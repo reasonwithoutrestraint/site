@@ -145,7 +145,11 @@ Rather, normative judgments are expressive of values, which are attitudes with t
 - Possible analysis:
     - Valuing X = some form of reflective/deliberative endorsement. What is a reflective/deliberative endorsement? Neither belief nor desire.
     - Valuing X = Desiring to desire X. 
-    - Valuing X = Believing that X would be desired if one were fully rational.
+    - Valuing X = Believing that X would be desired if one were fully rational/informed. It may possible that this is compatible with the judgment internalism thesis (as a person would be moved to desire what they believed they would desire if they were fully rational/informed, insofar as they are rational), but there are still two issues:
+        - If the theory is non-reductive (i.e. doesn't reduce what it is to judge something rational), then it does not accomplish the primary goal of normative analysis, which is to explain what it is to form a normative judgment in the first place. Surely, an analysis cannot be informative it does the following analysis: to judge that X is good is to believe that one would desire X if one were good. This is not informative.
+        - If the theory is reductive, i.e. judging something rational is to believe XYZ, then it could have just used XYZ as the analysis to begin with.
+    - Valuing X = Believing that X would be desired if one had unqualified cognitive/imaginitive powers and full factual/nomological information. This may also be compatible with the judgment internalism thesis, but:
+        - Even though its sufficient to invoke a normative judgment, it doesn't seem necessary. This is not what we're doing when we make normative judgments. 
 
 Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
 
