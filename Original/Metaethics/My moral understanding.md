@@ -341,7 +341,9 @@ Applying FORCEFUL action F to agent A is morally prohibited, unless:
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
 - A implicitly consents, while informed/rational
 	- A implicitly suggests that they desire F (e.g. cues in romantic situations).
-	- A doesn't desire F, but they engage in an informal agreement that clearly indicated that F would be done to them (honor cultures, gangs, etc.).
+	- A doesn't desire F, but they engage in an informal agreement that clearly indicated that F would be done to them (honor cultures, gangs, etc.). A implicit agrees to F iff they perform a behavior X whereby:
+	    - There is a clear standard that F is the consequence for X,
+	    - Performing X is optional, and they are not coerced into doing X.
 - A is too ignorant/irrational to decide whether to have F done, and we believe that doing F promote's A's interests (maybe this isn't sufficient, maybe we also need A to prefer to be coerced under the condition that they are irrational/uninformed; otherwise, this force may not be permissible).
 > A is causally responsible for a gap in wellfare between himself and others; F is permissible insofar as it is the only reasonable method to diminish this gap. IMPORTANT: this is not just a matter of saying all actions must maximize our interests equally; you can favor your own interets; the point is, you cannot be causally responsible for diminishing someone else's interests
 	- A directly impedes the interests of others (e.g. theft, assault, etc.)
