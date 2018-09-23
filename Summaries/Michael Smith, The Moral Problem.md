@@ -48,9 +48,18 @@ One response to Ayer denies that naturalism is a metaphysical thesis rather than
 
 A similar strategy can be done by identifying color properties with certain surface reflectance properties. This identity need not be definitional, and can be handled in the way we handle proper names. For example, we could say that the word "red" refers to the surface reflectance property of objects that is causally responsible for our usage of the word red. This would be identifying the *property* redness with some surface reflectance property, but it would not be to identifying the *concepts* of redness with any surface reflectance property (surely, our *concepts* of redness was prior to any concepts of surface reflectance properties regarding light wavelengths). The general strategy to give a property identity of X is to posit a reference fixing description of X, which allows us to learn *a posteriori* which property that picks out that description and therefore X.
 
-This strategy fails because naturalists would have to choose a description to fix the reference of moral terms. However, they must do so in a way that moral terms do not have different content in different contexts. But this is impossible if, for example, moral terms are used to refer to the naturalistic feature of properties that are causally responsible for our usage of those moral terms. It's possible that two persons' (or two societies') uses of moral terms are caused by different naturalistic properties. In that case, when these two persons or societies use moral terms different (say, to criticize each other), then they wouldn't even be disagreeing (i.e. their assertions would not be incompatible), because their terms would have different referents.
+This strategy fails because naturalists would have to choose a description to fix the reference of moral terms. However, they must do so in a way that moral terms do not have different content in different contexts. But this is impossible if, for example, moral terms are used to refer to the naturalistic feature of properties that are causally responsible for our usage of those moral terms. It's possible that two persons' (or two societies') uses of moral terms are caused by different naturalistic properties. In that case, when these two persons or societies use moral terms different (say, to criticize each other), then they wouldn't even be disagreeing (i.e. their assertions would not be incompatible), because their terms would have different referents. This is promotes a radical relativism, which is inconsistent with the *objectivity* of morality.
 
-### Definitional (Analytic) Naturalism
+### Conceptual Analysis
+
+How analysis is possible even if a straight definition is not (see earlier chapter).
+
+### Reductive Definitional (Analytic) Naturalism
+
+
+### Non-Reductive Definitional (Analytic) Naturalism
+
+Promise
 
 # The Externalist Challenge
 
