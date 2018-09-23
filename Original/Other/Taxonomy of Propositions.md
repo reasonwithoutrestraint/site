@@ -1,6 +1,6 @@
 Relationship of Analytic, A Priori, Necessary:
 - Analytic, A Priori, Necessary
-    - *Definitional*: A triangle has three sides
+    - *Definitional*: "A triangle has three sides".
 - Analytic, A Priori, Contingent:
     - Impossible
 - Analytic, A Posteriori, Necessary
@@ -8,10 +8,11 @@ Relationship of Analytic, A Priori, Necessary:
 - Analytic, A Posteriori, Contingent
     - Impossible
 - Synthetic, A Priori, Necessary
-    - *Logical*: A triangle's angles sum to 180 degrees
+    - *Logical*: "A triangle's angles sum to 180 degrees".
 - Synthetic, A Priori, Contingent
-    - *Non-dual Rigid Designator*: The meter stick is one meter
+    - *Contingent Rigid Designator*: "The meter stick is one meter"
+    - We create terms (e.g. "one meter") which both (1) rigidly designate a direct reference (e.g. the length one meter), and (2) designate the references that they do because of something contingent (e.g. the length of the meter stick at the time we created the term). 
 - Synthetic, A Posteriori, Necessary
-    - *Dual Rigid Designator*: Water is H2O
+    - *Rigid Designator*: "Water is H2O".
 - Synthetic, A Posteriori, Contingent
-    - *Empirical*: Donald Trump is the president
+    - *Empirical*: "Donald Trump is the president".
