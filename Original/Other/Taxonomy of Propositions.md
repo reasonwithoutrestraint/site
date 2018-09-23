@@ -1,0 +1,17 @@
+Relationship of Analytic, A Priori, Necessary:
+- Analytic, A Priori, Necessary
+    - *Definitional*: A triangle has three sides
+- Analytic, A Priori, Contingent:
+    - Impossible
+- Analytic, A Posteriori, Necessary
+    - Impossible
+- Analytic, A Posteriori, Contingent
+    - Impossible
+- Synthetic, A Priori, Necessary
+    - *Logical*: A triangle's angles sum to 180 degrees
+- Synthetic, A Priori, Contingent
+    - *Non-dual Rigid Designator*: The meter stick is one meter
+- Synthetic, A Posteriori, Necessary
+    - *Dual Rigid Designator*: Water is H2O
+- Synthetic, A Posteriori, Contingent
+    - *Empirical*: Donald Trump is the president
