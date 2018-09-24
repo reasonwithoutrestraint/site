@@ -81,8 +81,8 @@ Contemporary works:
 - Naturalism: 
     - Peter Railton - _Facts, Values, and Norms_
     - Michael Smith - _The Moral Problem_
+    - David Brink - _Moral Realism and the Foundations of Ethics_
     - Richard Boyd - _How to be a Moral Realist_
-    - David Brink - _Moral Realism_
     - Phillipa Foot - _Natural Goodness_
     - Paul Bloomberg - _Moral Reality_
     - Kevin DeLapp - Moral Realism
@@ -151,8 +151,9 @@ Constructivism
 ---
 
 Contemporary reads:
-- **Naturalism** - Michael Smith - _The Moral Problem_ (eventually: Firth)
-- **Naturalism** - Peter Railton - _Facts, Values, and Norms_ (eventually: Boyd, Brink, Foot, Bloomberg & DeLapp)
+- **Naturalism** - Michael Smith - _The Moral Problem_
+- **Naturalism** - David Brink - _Moral Realism and the Foundations of Ethics_
+- **Naturalism** - Peter Railton - _Facts, Values, and Norms_
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
 - **Constructivism** - Sharon Street - Various Essays
