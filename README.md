@@ -72,17 +72,15 @@ Contemporary works:
 - Non-descriptivism:
     - Mark Timmons - _Morality without Foundations_
     - Hilary Putnam - _Ethics without Ontology_
-- Constructivism:
+- Constructivist & Response-dependence:
     - Christine Korsgaard - _The Sources of Normativity_
     - Sharon Street - Various Essays
-    - David Lewis - 'Dispositional Theories of Value'
-- Error Theory:
-    - J.L. Mackie - _Ethics: Inventing Right and Wrong_
-    - Richard Joyce - _The Myth of Morality_
-    - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
-- Naturalism: 
-    - Peter Railton - _Facts, Values, and Norms_
     - Michael Smith - _The Moral Problem_
+    - David Lewis - 'Dispositional Theories of Value'
+    - Julia Marokovits - Moral Reason
+    - Roderick Firth - "Ethical Absolutism and the Ideal Observer"
+- Naturalism (Realism): 
+    - Peter Railton - _Facts, Values, and Norms_
     - David Brink - _Moral Realism and the Foundations of Ethics_
     - Richard Boyd - _How to be a Moral Realist_
     - Phillipa Foot - _Natural Goodness_
@@ -98,6 +96,9 @@ Contemporary works:
 - Sensibility Theory:
     - John McDowell - _Mind, Value, and Reality_
     - David Wiggins - _Needs, Values, Truth_
+- Error Theory:
+    - J.L. Mackie - _Ethics: Inventing Right and Wrong_
+    - Richard Joyce - _The Myth of Morality_
 
 ----
 
