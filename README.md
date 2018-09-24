@@ -68,6 +68,7 @@ Contemporary works:
     - Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
     - Simon Blackburn - _Essays in Quasi-realism_
     - Allan Gibbard - _Thinking How to Live_
+    - Andrew Schroeder - _Noncognitivism in Ethics_
 - Non-descriptivism:
     - Mark Timmons - _Morality without Foundations_
     - Hilary Putnam - _Ethics without Ontology_
@@ -90,13 +91,12 @@ Contemporary works:
     - Russ Shafer-Landau - _Moral Realism: A defense_
     - T.M. Scanlon - _Being Realistic About Reasons_ (also "What we owe to each other" and "Metaphysics and Morals")
     - David Enoch - _Taking Morality Seriously_
+    - Terence Cuneo - _The Normative Web_ 
     - Michael Huemer - _Ethical Intuitionism_
     - Derek Parfit - _On what Matters_
 - Sensibility Theory:
     - John McDowell - _Mind, Value, and Reality_
     - David Wiggins - _Needs, Values, Truth_
-- Non-Humean Motivation
-    - Stephen Finlay - "Responding to Normativity"
 
 ----
 
@@ -156,10 +156,10 @@ Contemporary reads:
 - **Naturalism** - Peter Railton - _Facts, Values, and Norms_
 - **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
 - **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
+- **Non-naturalism** - David Enoch - _Taking Morality Seriously_
 - **Constructivism** - Sharon Street - Various Essays
 - **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
 - **Non-descriptivism** - Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
 - **Non-cognitivism** - Allan Gibbard - _Wise Choices, Apt Feelings, _Thinking How to Live_
 - **Non-cognitivism** - Simon Blackburn - _Essays in Quasi-Reaslism_, _Ruling Passions_
 - **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
-- **Non-naturalism** - Derek Parfit - _On What Matters_ (eventually: Enoch, Huemer, McDowell & Wiggins)
