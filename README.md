@@ -75,6 +75,7 @@ Contemporary works:
 - Constructivism:
     - Christine Korsgaard - _The Sources of Normativity_
     - Sharon Street - Various Essays
+    - David Lewis - 'Dispositional Theories of Value'
 - Error Theory:
     - J.L. Mackie - _Ethics: Inventing Right and Wrong_
     - Richard Joyce - _The Myth of Morality_
