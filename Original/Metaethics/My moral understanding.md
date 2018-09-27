@@ -134,10 +134,15 @@ Other considerations concerning the content of normative judgments
 
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
-Plattitudes not met by descriptive theories:
+Plattitudes:
 - Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
 - Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational. Required for a few reasons: (1) the capacity to form normative judgments would not have been evolutionarily advantageous if they were not linked to motivation, (2) the normative judgments a person made would not matter if they were not linked to motivation; rather, it would be whatever those judgments were that were linked to motivation (which would should be termed REAL normative judgments).
 - Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
+
+Cognitivist descriptive theories can work, but they must have the following constraints:
+- Attitudinal: They must related to properties tied to normative attitudes. E.g. "X is good" means "X has attitude-independent property Y" will not work. But "X is good" means "X produces attitude Y" could work.
+- Internal Disagreement: They must allow for coherent questioning of one's present attitudes. E.g. "X produces attitude Y" will not work. But "X is good" means "X produces attitude Y under normal circumstances" could work.
+- Non-reductive (maybe): The ideal conditions must not be purely non-normative. E.g. "X produces attitude Y under typical circumstances" will not work. But "X produces Y under ideal, rational circumstances" could work.
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
 - Relation between desiring and valuing.
