@@ -122,9 +122,15 @@ Other considerations concerning the content of normative judgments
 
 `Questions`
 1. What is the phenomonelogical/psychological status of normative judgments, in particular judgments where someone judges that they themselves have reason to perform an action?
-2. How do these states of mind relate to desires or beliefs?
+2. How do these states of mind relate to desires or beliefs? Some possibilities
+	- Desires, sentiments, pro/con attitudes, (dis)approving attitudes
+	- Dispositions to have those attitudes
+	- Dispositions to express those attitudes in normative discussion / negotiation
+	- Beliefs about whether those attitudes would be held under ideal conditions (subjective).
+	- Beliefs about the non-attitudinal state of affairs about an entity (objective).
 3. What are competing analysis of this state of mind? How do they differ? What do they have in common? 
 4. A two-level analysis? First level analysis: expressions of non-cognitivist state of mind, e.g. desires, sentiments, (dis)approval, (dispositions to) resent/blame others, etc. Second level analysis: expressions of beliefs about holding those responses under full information, full reflection, full rationality. Second level introduces standards of correctness and refinement.
+5. Much of our normative discourse practically rational, where we use thick ethical concepts to guide our discussions. E.g. saying an action is racist is both descriptive and evaluative at the same time. In principle, though, we can separate the evaluative from the descriptive (which is not to say that evaluative is not itself a belief).
 
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
