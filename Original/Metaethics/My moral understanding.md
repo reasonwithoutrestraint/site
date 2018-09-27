@@ -124,12 +124,13 @@ Other considerations concerning the content of normative judgments
 1. What is the phenomonelogical/psychological status of normative judgments, in particular judgments where someone judges that they themselves have reason to perform an action?
 2. How do these states of mind relate to desires or beliefs?
 3. What are competing analysis of this state of mind? How do they differ? What do they have in common? 
+4. A two-level analysis? First level analysis: expressions of non-cognitivist state of mind, e.g. desires, sentiments, (dis)approval, (dispositions to) resent/blame others, etc. Second level analysis: expressions of beliefs about holding those responses under full information, full reflection, full rationality. Second level introduces standards of correctness and refinement.
 
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
 Plattitudes not met by descriptive theories:
 - Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
-- Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational.
+- Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational. Required for a few reasons: (1) the capacity to form normative judgments would not have been evolutionarily advantageous if they were not linked to motivation, (2) the normative judgments a person made would not matter if they were not linked to motivation; rather, it would be whatever those judgments were that were linked to motivation (which would should be termed REAL normative judgments).
 - Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
