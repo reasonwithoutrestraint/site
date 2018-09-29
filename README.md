@@ -1,7 +1,9 @@
 Historical/Introductory
 
 Naturalists
-- (3) Bentham, Mill
+- (3) Divine Command - Proponents(?), Euthyphro
+- (3) Utilitarians - Bentham, Mill
+- (3) Aristotle
 - (2) David Hume - is/ought problem
 
 Non-naturalists
@@ -45,6 +47,8 @@ New Expressivists
 Constructivism
 - (1) Street, “Sharon Street, "What is Constructivism in Ethics and Metaethics?"
 - (1) Christine Korsgaard, “The Sources of Normativity”
+
+---
 
 Anthologies to read:
 - Darwall, Gibbard and Railton - Moral Discourse and Practice
