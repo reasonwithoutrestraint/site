@@ -1,44 +1,50 @@
-Academic reading order:
-- Early Expressivists and Critics
-    - Opt: Stevenson
-    - Opt: R.M. Hare
-    - Opt: Foot, Moral Beliefs
-    - Opt: Geach, Ascryptivism
-    - Opt: Searle, Meaning and Speech Acts
-- Error Theory
-    - Mackie
-- Sensibility Perception
-    - McDowell, Values and Secondary Properties
-    - Wiggins
-        - Opt: McDowell, Projection
-- Projectivists (Quasi-Realists)
-    - Gibbard
-        - Opt: Allan Gibbard, from Thinking How to Live   
-    - Blackburn
-        - Opt: Rosen, “Blackburn’s Essays in Quasi-Realism” 
-        - Opt: Jamie Dreier, “Meta-Ethics and the Problem of Creeping Minimalism”
-- Realists
-    - Boyd, Moral Realism
-    - Railton, Moral Realism
-    - Stephen Finlay's Four Faces of Moral Realism
-    - Katia Vavova's Debunking Evolutionary Debunking
-- Constructivists
-    - Street:
-        - What is Constructivism in Ethics and Metaethics?
-        - A Darwinian Dilemma for Realist Theories of Value
-        - Constructivism About Reasons
-        - Coming to Terms with Contingency : Humean Constructivism About Practical Reason
-        - Evolution and the Normativity of Epistemic Reasons
-    - (Opt) J. Rawls, “Kantian Constructivism in Moral Theory” 
-    - Christine Korsgaard, “The Sources of Normativity” 
-    - (Opt) Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+Historical/Introductory
 
-- Humean Theory of Motivation
-    - (against) Finlay 2007, (see "Four Faces of Moral Realism" for citation)
-    - (against) Michael Smith
-    - (for) ???
+Naturalists
+- (3) Bentham, Mill -is/ought
+- (2) David Hume
 
-----
+Non-naturalists
+- (1) Henry Sidgwick, The Methods of Ethics
+- (1) G.E. Moore, Principia Ethica
+- (3) W.D. Ross, The Right and the Good
+- (2) A.C. Ewing, “A Suggested Non-Naturalistic Definition of Good”
+
+Expresssivists
+- (1) A.J. Ayer, “Critique of Ethics and Theology”, from Language, Truth, and Logic, chapter 6
+- (1) C.L. Stevenson, “The Emotive Meaning of Ethical Terms”
+- (3) R.M. Hare, The Language of Morals (as excerpted in CP).
+
+Reasons
+- (1) Stephen Darwall, “Reasons, Motives, and the Demands of Morality”
+- (1) Bernard Williams, “Internal and External Reasons”
+- (2) Philippa Foot, “Morality as a System of Hypothetical Imperatives”
+
+Error Theory
+- (1) J.L. Mackie, Ethics: Inventing Right and Wrong
+
+---
+
+Contemporary
+
+New Naturalists
+- (1) Michael Smith, from The Moral Problem
+- (2) Peter Railton, “Moral Realism”
+- (3) R.M. Firth, “Ethical Absolutism and the Ideal Observer”
+
+New Non-naturalists
+- (2) David Wiggins, “A Sensible Subjectivism?”
+- (2) John McDowell, “Values and Secondary Qualities”
+
+New Expressivists
+- (1) Allan Gibbard, from Wise Choices, Apt Feelings
+- (2) Simon Blackburn, “How to Be an Ethical Antirealist”
+- (3) Gideon Rosen, “Blackburn’s Essays in Quasi-Realism”
+- (3) Allan Gibbard, from Thinking How to Live
+
+Constructivism
+- (1) Street, “Sharon Street, "What is Constructivism in Ethics and Metaethics?"
+- (1) Christine Korsgaard, “The Sources of Normativity”
 
 Anthologies to read:
 - Darwall, Gibbard and Railton - Moral Discourse and Practice
@@ -99,56 +105,6 @@ Contemporary works:
 - Error Theory:
     - J.L. Mackie - _Ethics: Inventing Right and Wrong_
     - Richard Joyce - _The Myth of Morality_
-
-----
-
-Historical/Introductory
-
-Naturalists
-- (3) Bentham, Mill
-- (2) David Hume
-
-Non-naturalists
-- (1) Henry Sidgwick, The Methods of Ethics
-- (1) G.E. Moore, Principia Ethica
-- (3) W.D. Ross, The Right and the Good
-- (2) A.C. Ewing, “A Suggested Non-Naturalistic Definition of Good”
-
-Expresssivists
-- (1) A.J. Ayer, “Critique of Ethics and Theology”, from Language, Truth, and Logic, chapter 6
-- (1) C.L. Stevenson, “The Emotive Meaning of Ethical Terms”
-- (3) R.M. Hare, The Language of Morals (as excerpted in CP).
-
-Reasons
-- (1) Stephen Darwall, “Reasons, Motives, and the Demands of Morality”
-- (1) Bernard Williams, “Internal and External Reasons”
-- (2) Philippa Foot, “Morality as a System of Hypothetical Imperatives”
-
-Error Theory
-- (1) J.L. Mackie, Ethics: Inventing Right and Wrong
-
----
-
-Contemporary
-
-New Naturalists
-- (1) Michael Smith, from The Moral Problem
-- (2) Peter Railton, “Moral Realism”
-- (3) R.M. Firth, “Ethical Absolutism and the Ideal Observer”
-
-New Non-naturalists
-- (2) David Wiggins, “A Sensible Subjectivism?”
-- (2) John McDowell, “Values and Secondary Qualities”
-
-New Expressivists
-- (1) Allan Gibbard, from Wise Choices, Apt Feelings
-- (2) Simon Blackburn, “How to Be an Ethical Antirealist”
-- (3) Gideon Rosen, “Blackburn’s Essays in Quasi-Realism”
-- (3) Allan Gibbard, from Thinking How to Live
-
-Constructivism
-- (1) Street, “Sharon Street, "What is Constructivism in Ethics and Metaethics?"
-- (1) Christine Korsgaard, “The Sources of Normativity”
 
 ---
 
