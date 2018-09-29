@@ -139,10 +139,19 @@ Plattitudes:
 - Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational. Required for a few reasons: (1) the capacity to form normative judgments would not have been evolutionarily advantageous if they were not linked to motivation, (2) the normative judgments a person made would not matter if they were not linked to motivation; rather, it would be whatever those judgments were that were linked to motivation (which would should be termed REAL normative judgments).
 - Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
-Cognitivist descriptive theories can work, but they must have the following constraints:
+Requirements for a descriptivist theory:
+- Must be in some way descriptive of our attitudes to be motivating
+- Must not be too tied to our actual attitudes to allow for internal criticism and external criticism
+- Must not be reduced to non-normative idealized circumstances, to prevent ....
+
+Two possibilities: dispositional theories (X has tendency to proke attitude Z in A) and desire-based theories (A has disposition Z - desire, values, etc. - towards X)
+
+Dispositional theories:
 - Attitudinal: They must related to properties tied to normative attitudes. E.g. "X is good" means "X has attitude-independent property Y" will not work. But "X is good" means "X produces attitude Y" could work.
 - Internal Disagreement: They must allow for coherent questioning of one's present attitudes. E.g. "X produces attitude Y" will not work. But "X is good" means "X produces attitude Y under normal circumstances" could work.
 - Non-reductive (maybe): The ideal conditions must not be purely non-normative. E.g. "X produces attitude Y under typical circumstances" will not work. But "X produces Y under ideal, rational circumstances" could work.
+
+Desire-based theories: 
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
 - Relation between desiring and valuing.
