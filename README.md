@@ -1,8 +1,8 @@
 Historical/Introductory
 
 Naturalists
-- (3) Bentham, Mill -is/ought
-- (2) David Hume
+- (3) Bentham, Mill
+- (2) David Hume - is/ought problem
 
 Non-naturalists
 - (1) Henry Sidgwick, The Methods of Ethics
