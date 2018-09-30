@@ -1,0 +1,59 @@
+site_name: My Thoughts
+
+# Naviation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Original:
+    - Metaethics:
+      - Cognitivism: Original/Metaethics/Debate1 - cognitivism.md
+      - Metaphysics: Original/Metaethics/Debate2 - metaphysics.md
+      - Literature Overview: Original/Metaethics/Metaethical Overview.md
+      - My Understanding: Original/Metaethics/My moral understanding.md
+    - Ethics:
+      - Original/Other/Abortion.md
+      - Original/Other/Affirmative Action In Universities.md
+      - Original/Other/Against Libertarianism.md
+    - Other Philosophy:
+      - Compatibilism: Original/Other/Free Will.md
+      - Original/Other/Objective Morality.md
+      - Original/Other/Against Presuppositionalism.md
+      - Original/Other/Cosmological Argument For God.md
+      - Original/Other/Destiny.md
+      - Original/Other/The Problem of Evil.md
+    - Random Reddit Posts:
+      - Original/Other/Equality.md
+      - Original/Other/Race and IQ.md
+    - Other:
+      - Original/Other/Taxonomy of Propositions.md
+  - Summaries:
+    - Summaries/G.E. Moore, from Principia Ethica.md
+    - Summaries/A.J. Ayer, Critique of Ethics.md
+    - Summaries/Bernard Williams, Internal and External Reasons.md
+    - Summaries/Philippa Foot, Morality as a System of Hypothetical Imperatives.md
+    - "Summaries/J.L. Mackie, From Ethics: Inventing Right and Wrong.md"
+    - Summaries/Allan Gibbard, Wise Choices Apt Feelings.md
+    - Summaries/Michael Smith, The Moral Problem.md
+    - Summaries/Peter Railton, Moral Realism.md
+    - Summaries/Christine Korsgaard, The Sources of Normativity.md
+    - Summaries/Sharon Street, Constructivism about Reasons.md
+    - Summaries/Sharon Street, What is Constructivism in Ethics and Metaethics.md
+  - Outlines:
+      - Outlines/Libertarianism.md
+      - Outlines/Political.md 
+
+# Theme configuration
+theme: 
+  name: null
+  custom_dir: '/Users/jaymoss520/Private/mkdocs-material/material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: false

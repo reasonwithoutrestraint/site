@@ -1,6 +1,7 @@
 ## Summary
 
 Brief
+
 1. Plattitudes of normativity
 2. Normative Unification
 3. Normative analysis
@@ -69,6 +70,7 @@ Outline
     - Moral reasoning is a process of negotiation rather than of discovery.
 
 Questions:
+
 1. Requirements for cognitivism (language)
 2. Requirements for descriptivism (mind)
 3. Requirements for motivational/rational force (normativity)
@@ -81,9 +83,11 @@ Questions:
 #### Normative Plattitudes
 
 `Questions`
+
 1. What are the essential requirements that any decent analysis of normativity/morality must meet?
 
 As agents:
+
 1. Ubiquity - We cannot rid ourselves of normative judgments.
 2. Motivational - Our normative judgments influence our behavior.
 3. Reasoning - Normative argumentation/reasoning influences our normative judgments (possibly for the better, possibly based on an objective standard).
@@ -95,12 +99,14 @@ Any successful analysis of normative judgments must be able to account for these
 A theory of normative truth will be non-deflationary (even if anti-realist/revisionary) for a particular normative domain so long as it provides interpersonal standards for (3) normative argumentation/reasoning. So long as there are solid interpersonal standards for normative argumentation/reasoning, it can be said that normative truth/warrant is whatever follows from those standards.
 
 Showing these plattitudes:
+
 1. See Korsgaard's work: animals believe what they perceive, and act based on their desires. Humans don't just take perceptions and desires at face-value; we reason and think about whether these perceptions/desires justify beliefs/actions. There is a cognitive, conscious process of normative reasoning standing between perceptions/desires and actions. This is normative reason. This doesn't necessarily commit me to saying that normative truth consists in what is entailed from this, but only that we all participate in normative reasoning. Normative truth might, e.g. consist in what is entailed from normative reason under proper conditions.
 2. All synthetic judgments beliefs stem from normative reasoning, either deductive reasoning (e.g. for a priori judgments) or inductive reasoning (e.g. for a posteriori judgments). Not only is there the normative approval or deductive/inductive reasoning as a form of reasoning, but also the normative judgment that particular propositions follow from inductive reasoning. E.g. a person might think they accept inductive reasoning for non-normative reasons; fine, but it is still a normative question whether a particular belief inductively follows in any non-trivial set of experiences.
 
 #### Normative Unification
 
 `Questions`
+
 1. Find essential characteristics of normative judgments, i.e. are the judgments about properties or relations? If relations, concerning what objects?
 2. Reduce all normative terms to one term or relation.
 3. Determine how to distinguish different normative systems (e.g. epistemology, justice, morality, ettiquette, rationality, etc.).
@@ -108,12 +114,14 @@ Showing these plattitudes:
 All normative judgments can be expressed in the form of a prescription that recommends a particular behavior X for an agent A under circumstances C. This can also be expressed in declarative form via some relation that involves entities A, X, C. The basic terms underlying this relation can be any term that supports this relation grammatically, i.e. "A ought to X in circumstances C", "A has reason to X in circumstances C", "A is justified in X in circumstances C", "It is fitting for A to X in circumstances C", etc.
 
 A normative system can be understood by the following components:
+
 - T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.
 - R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
 Then we can determine the content of the normative system:
 - S - The actual norms of the normative system. These are entailed from whatever the relevant considerations are plus any observational content.
 
 Other considerations concerning the content of normative judgments
+
 - Right/Wrong kinds of reason
 - Ought implies can & cannot
 - Is/Ought gap -> logical/analytic/synthetic
@@ -121,6 +129,7 @@ Other considerations concerning the content of normative judgments
 #### Normative Analysis
 
 `Questions`
+
 1. What is the phenomonelogical/psychological status of normative judgments, in particular judgments where someone judges that they themselves have reason to perform an action?
 2. How do these states of mind relate to desires or beliefs? Some possibilities
 	- Desires, sentiments, pro/con attitudes, (dis)approving attitudes
@@ -135,16 +144,19 @@ Other considerations concerning the content of normative judgments
 Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
 Plattitudes:
+
 - Ubiquity - Linguistic flexibility. Normative judgments can be expressed in a variety of different ways, "X is wrong", "we ought not do X", "Boo X!", "X is disgusting", "X is crappy", "we must not do X", "don't do X!", etc. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity. More likely, they are expressive of a certain motivating attitude in the being. 
 - Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational. Required for a few reasons: (1) the capacity to form normative judgments would not have been evolutionarily advantageous if they were not linked to motivation, (2) the normative judgments a person made would not matter if they were not linked to motivation; rather, it would be whatever those judgments were that were linked to motivation (which would should be termed REAL normative judgments).
 - Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
 Cognitivist descriptive theories can work, but they must have the following constraints:
+
 - Attitudinal: They must related to properties tied to normative attitudes. E.g. "X is good" means "X has attitude-independent property Y" will not work. But "X is good" means "X produces attitude Y" could work.
 - Internal Disagreement: They must allow for coherent questioning of one's present attitudes. E.g. "X produces attitude Y" will not work. But "X is good" means "X produces attitude Y under normal circumstances" could work.
 - Non-reductive (maybe): The ideal conditions must not be purely non-normative. E.g. "X produces attitude Y under typical circumstances" will not work. But "X produces Y under ideal, rational circumstances" could work.
 
 Rather, normative judgments are expressive of values, which are attitudes with the following characteristics:
+
 - Relation between desiring and valuing.
 - Similarities
     - Have propositional content, i.e. value/desire that p be the case, unlike bare sensations.
@@ -172,10 +184,12 @@ Normative Cognitivism: Normative judgments are truth-apt, even though they are n
 #### Normative Truth
 
 `Questions`
+
 1. What does it take for a statement or judgment to be truth-apt?
 2. What are the standards of correctness for normative statements/judgments?
 
 Forms of truth:
+
 - General: Judgment S expresses state of mind M. S is _ if and only if M is _. 
 - Descriptive Judgments: Judgment S expresses a relation involving a description D and reality R, namely that D represents R. S is true if and only if D represents reality.
 - Logical Judgments: Judgment S expresses a relation involving a set of propositions P1 and another set of propositions P2, namely that P1 entails P2, i.e. the truth values constitutive of P1 are also constitutive of P2. S is true if and only if P1 entails P2.
@@ -184,11 +198,13 @@ Forms of truth:
 - Causal Judgments:
 
 Normative Judgments
+
 - Epistemic Normativity: 
 - Prudential Normativity: 
 - Moral Normativity: 
 
 Ways for accounting for normative truth in a non-descriptivist sense:
+
 - Existence Internalism: 
     - Judgment Internalism: A judges that X is a normative reason iff X is a motivating reason for A insofar as A is rational.
     - Existence Internalism: X is a normative reason for A iff X would be a motivating reason for A insofar as A is rational.
@@ -204,6 +220,7 @@ Ways for accounting for normative truth in a non-descriptivist sense:
 The naturalists, constructivists no-descriptivists need not disagree here about the truth conditions. They all agree that the truth of a normative judgment consists in it being rationally derivable.
 
 Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
+
 - Normative thinking is a rational enterprise.
 - Certain normative judgments are better than others.
 - The better normative judgments are independent of our actual judgments.
@@ -211,11 +228,13 @@ Normative judgments are rationalility-apt. Normative propositions have the prope
 #### Constituents of Normativity
 
 `Questions`
+
 1. What are the constituent features of rational deliberation?
 1. What are the constituent features of epistemic norms, prudence, morality, etc?
 2. Is morality rationally necessary?
 
 Normativity/rationality generally:
+
 - Capacities of agents as such:
     - Form beliefs - have a mind-to-world state of mind.
     - Perform intentional actions - have a world-to-mind state of mind.
@@ -227,10 +246,12 @@ Normativity/rationality generally:
 Reasons = judgments that would be formed following exercise of the above capacities with full respect to the above requirements, conditioned on any judgments which are constitutive of the normative domain in question.
 
 Epistemic reasons
+
 - Reason to follow principles of deduction: Insofar as one believes P and believes P->Q, why do they have necessary reason to believe Q? It cannot be because Q is true. There are plenty of true statements that we don't have reason to believe, also Q need not be true if either P or P->Q are false.
 - Reason to accord beliefs to perception: Insofar as one perceives entity X with properties P, why do they have necessary reason to believe that X exists with certain properties? Insofar as one perceives a entity with certain properties, there is a tendency to believe that entity exists with those properties. If someone witnessed certain sensation without also having corresponding dispositions of beliefs that they mapped to reality, then they would be perceptions.
 
 Prudential reasons
+
 - Reason to satisfy ends: insofar as one values end X, why do they have necessary reason to act to bring about X? Insofar as one performs an intentional or voluntary action, it is done with the intention to bring about some end, i.e. it is done because one believes they have reason to perform it. Otherwise, it would be a nonvoluntary action.
 - Reason to apply means-ends reasoning: Insofar as one take themselves to have reason to promote X, why do they have necessary reason to promote Y given that Y promotes X? Part of what it is to take oneself to have reason to promote X is to take oneself to have reason to perform the means to promote it. If one didn't take oneself to have reason to promote those means, they wouldn't think they have reason to promote X.
 - Desires/motivations: Desires and motivations are not the same as values and reasons. 
@@ -239,6 +260,7 @@ Prudential reasons
     - Judgments of value and judgments of reasons do bear an interesting relationship to desires and motivations. It may be that normative judgments are the product of motivational features plus the following features: endorsement, reflection/deliberation, full consciousness/awareness, full information 
 
 Moral reasons
+
 - Taking into account the interests of others: insofar as one advances a moral judgment X, why do they have necessary reason to take into account the interests of others? Insofar as one advances a moral judgment, they are making an attempt to modify the behaviors and attitudes of others. If a person has no interest in modifying the judgments of others, they are not playing the morality game. To play the morality game well, they moral judgments that they advance must be judgments that others would accept if they were fully rational, i.e. they would need to advocate for moral norms that all persons have reason to respect.
 
 What does it mean to say that certain rules are constitutive of a normative domain? It is not to say that people are incapable of violating that rule within that domain. Clearly people make normative errors. Rather, it is to say that people are incapable of violating that rule in full consciousness and awareness of what they are doing. For example, people can clearly hold contradictory beliefs. But they cannot hold those contradictory beliefs while in full consciousness and awareness of the implications of those beliefs. This can explain the motivation of normative judgments. A normative judgment is true for an agent if and only if the agent would hold that judgment in full consciousness (or some other circumstances), and valuing full consciousness (or those other circumstances) just is what it is to be a rational creature. For example, we are incapable of believing P and not P. This explains why it is irrational to believe propositions with contradictory implications, because if we were in full consciousness, we would/could not hold those beliefs. 
@@ -246,11 +268,13 @@ What does it mean to say that certain rules are constitutive of a normative doma
 #### Morality
 
 `Questions`
+
 1. What does objectivity mean?
 2. Why does objectivity matter?
 3. When, if ever, can normativity/morality be objective?
 
 Some features that might distinguish moral norms from other normative norms:
+
 1. Moral norms = reasons for action with some interpersonal/social constraint (e.g. science = interpsonal reasons for belief).
     - Moral norms = individual practical reasons that everyone has.
     - Moral norms = reasons that follow after considering everyone's individual goodness equally.
@@ -266,6 +290,7 @@ Some features that might distinguish moral norms from other normative norms:
     - This might work for friends and ettiquette (i.e. to the extent that someone doesn't uphold the standards of good friendship, ettiquette, it is appropriate to not treat them as a friend, or with ettiquette). Maybe it also works for aesthetic morality. But maybe this doesn't work for forceful morality (maybe if someone is immoral, we still have moral obligations towards them, i.e. we can exclude them from society, but we cannot kill them).
 
 Some notes on features of moral judgments:
+
 1. What determines the content of the norms? Consequentialist or deontologist? If consequences, what consequences?
 2. What determines the appropriateness of blame/praise in enforcing a norm in a particular circumstance? Is it based on whether the application is beneficial (consequentialist), or whether the agent deserves the blame/praise (deontological)?
 3. The many functions of moral judgments:
@@ -288,6 +313,7 @@ Some analysis:
 Each of these are probably illuminating features of morality. They are each referring to distinct realms of evaluations that can be coherently called "morality". Thus, morality doesn't have one distinct meaning, but multiple. 
 
 Aesthetic morality: 
+
 - This is a system for evaluating actions generally. 
 - Judgments can be given either a constitutivist or dispositionalist analysis, found in all human cultures/societies.
 - The actions are evaluated based on whether they warrant blame/praise. 
@@ -297,6 +323,7 @@ Aesthetic morality:
 - If a moral statement is true in this sense for a person, then they would be motivated to respect its law if they were informed/rational.
 
 Justice morality: 
+
 - This is a system for evaluating uses of force, but not on evaluating them in the same way as aesthetic morality.
 - Judgments can be given a constructivist analysis, not necessarily found in all human cultures/societies.
 - The evaluation here does not depend on the nature of our emotions. To say that force is (un)justified in this sense is not just to say that the force warrants blame/praise, since doing so depends on contingent nature of blame/praise. Indeed, there might be just uses of force that warrant blame, or unjust uses of force that warrant praise (depending on the nature of our emotions). 
@@ -307,11 +334,13 @@ Justice morality:
 [Ettiquette (aesthetics)] <----> [Optional Morality (aesthetics; justifies praise/blame)] <----> [Forceful Morality (justifies law & force)]
 
 Three types of norms regulating behavior:
+
 1. Ettiquette - violations call for irritation
 2. Morality - violations call for shame
 3. Justice - violations call for force
 
 Three types of reasons in favor of a norm:
+
 1. Private consequentialist: Consequentialist reason to follow the norm; depends on personal interests that would be promoted by the individual following the norm. 
 2. Private constitutive: Constitutive reason to follow the norm (i.g. "right" kind of reason); depends on personal, contingent sentiments, etc. a la secondary qualities. I think describes ettiquette, morality and aesthetics. If true reasons, people will be motivated to respect it in particular circumstances.
 3. Public constructive: Reason to support societal construction of the norm; depends on desire to live in a certain sort of society with certain accepted rules. Can apply to people regardless of personal sentiments. I think describes forceful morality (i.e. justice, law) and possibly aeshtetic morality and ettiquette. People might not be motivated to respect it in any particular circumstance, but they will be motivated to support it as a rule that society agrees to respect.
@@ -323,16 +352,19 @@ On this understanding, we can still call animal cruelty wrong on the basis of ae
 #### Types of moral arguments
 
 To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
+
 - Appeal to some fundamental principle that provides a determinate answer to the rightness/wrongness of X in circumstance C. See below for arguments in favor of fundamental principles. Of course, this is assuming that the fundamental moral principles form determinate answers, which need not be the case. This also assumes that there are fundamental moral principles, which need not be the case.
 - Appeal to the obvious rightness/wrongness of an analogous act X' in an analogous circumstance C'. This theory can remain agnostic to the truth/weight of any fundamental moral principles (if any such principles even exist). This strategy is committed only to the fact that there clearly is a constraint on which *considerations* are morally relevant (regardless of whether and how those considerations can be reduced to certain principles). Considerations such as happiness, desires, autonomy, responsibility, etc. are potentially relevant moral considerations (i.e. humans clearly use these considerations in ordinary moral thinking; whether they really should be used and/or whether some of these are only instrumentally valuable is a further question). But there are clearly considerations that don't count as morally relevant. This style of argument works if it can be shown that the differences between C and C' are definitely not potentially relevant moral considerations.
 
 To argue for certain fundamental principles:
+
 - Reflective Equilibrium: Argue that these principles best explain, or cohere with, our considered moral judgments. The problem here is that the best principles that explain our moral judgments might not be nonconflicting, i.e. the considerations that explain our considered moral judgments might not reduce to the same principles (which means it might not provide determinate answers in all circumstances), and/or different people might have fundamentally different irreconcilable considered moral judgments.
 - Foundational: Build these principles from the ground up, either from a metaethical theory, or pure rationality, or pure consistency, or from minimal constraints on any coherent moral theory. This may be too ambitious.
 
 #### The Good
 
 Possibilties for individual goodness:
+
 - Narrow hedonism (sensory pleasure): states of consciousness marked by some distinctive feature
 - Preference hedonism (attitudinal pleasure): preferred states of consciousness
 - Unrestricted preference satisfaction: satisfaction of whatever preferences
@@ -341,6 +373,7 @@ Possibilties for individual goodness:
 - Other constraints: S taking attitudinal pleasure in state of affairs P, only when S deserves that pleasure and P deserves to happen.
 
 Collective Goodness:
+
 - Summation over everyone's individual goodness.
 - Average over everyone's individual goodness.
 - No reducible metrics; only pareto optimal solutions.
@@ -350,6 +383,7 @@ Collective Goodness:
 #### The Right - Fundamental moral principles 
 
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
+
 - A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
 - A implicitly consents, while informed/rational
 	- A implicitly suggests that they desire F (e.g. cues in romantic situations).
@@ -410,6 +444,7 @@ My theory does not prioritize self-ownership in the sense that people should nec
 I'm not sure what these "special circumstances" consist in, but one trivial example where such force can be exerted is this: when A is intoxicated or when is uninformed. Perhaps the circumstance is this: whenever A's values/interests commits himself to be controlled by others in a certain situation. The reason this allows for force is because people can be wrong about their values/interests and therefore force (rather than, say, reason) may be the only way to promote their values/interests.
 
 Nevertheless, equal-share libertarianism is probably a close approximation of my own view. If I were to try to modify this conception to be in agreement with my view, it would have the following caveats: 
+
 1. rather than compensation being required whenever one uses/appropriates more than their per capita share, compensation is required when an initial agent uses/appropriates so much that others actually attempt to, but are prevented from, attaining an equal share as the initial agent. It is necessary but not sufficient that others be unable to use/appropriate an equal share. It must also be shown that such individuals actually attempted to get such a share. If they never tried to use/appropriate such a share to begin with, then they are owed nothing, since their interests/values were never limited in promotion of someone else's.
 2. some sort of communal property is possible. People can join together and form communities where they own all the property within that community amongst themselves (which includes SOME control over the bodies of the individuals living there). Within these communities, the extent to which people can then enforce more positive, substantive laws, is based on the extent to which: (a) people are free to exit the community, (b) there is sufficient equal valuable resources outside of the community, and (c) the impact of these laws has significant effects on the lives of others. Note that this communal property probably isn't justified on any self-ownership principle; rather, it's justified because such property may be necessary for promotion of certain peoples' values/interests. In fact, there are levels to the extent that property is communal vs. private:
 	- The larger the scope of a region that's communally owned, the more communal it is and the less private it is. Communal properties that are mostly private (e.g. small neighborhoods) can enforce larger constraints on behavior than larger communal properties that are mostly communal (e.g. cities). The reason smaller communities are afforded by restrictions is because conditions (a), (b) and (c) are more likely to be met. Smaller, more restricting communities, may be required to pay into a federal fund that that acts to sustain areas of the land where only libertarian laws are enforced, so that (a) and (b) are truly satisfied. Insofar as one cannot escape such a community (or if all available property is used up), compensation is obligatory for individuals (in the form of safety net, welfare, redistribution, etc.). 
@@ -418,6 +453,7 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 #### Particulars
 
 Contemporary moral issues:
+
 - Bio-ethics
     - Docter-assisted
     - Abortion
@@ -449,6 +485,7 @@ Contemporary moral issues:
 - Discrimination / Affirmative Action
 
 Left-Leaning:
+
 - Abortion
     - No restrictions
 - Universal Healthcare
@@ -463,6 +500,7 @@ Left-Leaning:
     - Only have to be paid off after acquiring a certain income level
 
 Right-Leaning:
+
 - Welfare 
     - Provide a means of living for the poor. 
     - Maybe enough for a limited number of children. 
@@ -476,6 +514,7 @@ Right-Leaning:
     - Don't care otherwise
 
 Other:
+
 - Education 
     - Make impractical subjects optional
     - Less encouragement for college

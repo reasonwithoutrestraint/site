@@ -1,4 +1,6 @@
-# Metaphysical Non-naturalism
+# Metaphysics
+
+## Metaphysical Non-naturalism
 
 ### Evolution
 
@@ -24,11 +26,11 @@ When we see an action that we judge to be wrong, we don't just judge it to be wr
 
 (new OQA) Non-naturalism fails to account for the motivational feature of normative judgments for the very same reasons that naturalism fails. The fact that moral properties move from the natural realm to the non-natural realm does not increase the motivational weight. Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any non-naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are necessarily action-guiding whereas attributions of R are only contingently action-guiding suggests that goodness and R are not analytically equivalent. 
 
-# Metaphysically Naturalistic Non-naturalism
+## Metaphysically Naturalistic Non-naturalism
 
 ?????
 
-# Reductive Naturalism
+## Reductive Naturalism
 
 ### Analytic
 
@@ -44,11 +46,11 @@ When we see an action that we judge to be wrong, we don't just judge it to be wr
 
 Response: deny that all analytic reductions must be trivial and uninformative.
 
-##### Objective
+#### Objective
 
 *Lack of Normativity/Motivation Argument*. Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are *necessarily* action-guiding whereas attributions of R are only *contingently* action-guiding suggests that goodness and R are not analytically equivalent. The naturalist can respond by rejecting judgment internalism or rejecting analytic naturalism in favor of synthetic naturalism (or maintaining that some naturalistic properites *are* intrinsically motivating, which seems strange). This argument should also be used against analytic non-natural reductionism and perhaps even some forms of synthetic naturalism.
 
-##### Subjective
+#### Subjective
 
 *Disagreement Argument*. Assume two people do agree that the meaning of moral terms reduces to some subjective account, e.g. "X is good" means "I approve of X" or "I desire X". When these two people disagree about whether X is good, they aren't even disagreeing. One is saying "I desire X" and the other is saying "I desire X". But these are not incompatible claims.
 
@@ -58,6 +60,6 @@ Response: deny that all analytic reductions must be trivial and uninformative.
 
 *Lack of Disagreement*. Synthetic identities can be found in other domains because we can easily fix the referrents of terms like "water" or "yellow", and then we can find that property that is always instantiated with that referrent. One strategy for doing this is to present a dispositional analysis: an entity is "yellow" just in case it causes sensation that we normally perceive as "yellow". Such a dispositional analysis is not promising for moral terms. Imagine that two societies are lingustically identical except when one society used the word "good" they referred to pleasure and the other society referred to God's will. On this reading, the two cultures wouldn't even disagree with each other, since the content of "good" in these two societies are different - they are using the same word to track different phenomenon. But it seems that these cultures can coherently disagree with each other, especailly if they each act in accordance with what is good.
 
-# Irreducible Naturalism
+## Irreducible Naturalism
 
 ??????

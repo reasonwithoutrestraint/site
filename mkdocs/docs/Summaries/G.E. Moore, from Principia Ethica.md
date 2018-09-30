@@ -1,4 +1,4 @@
-# Summary
+# G.E. Moore, from Principia Ethica.md
 
 ### Introduction
 
