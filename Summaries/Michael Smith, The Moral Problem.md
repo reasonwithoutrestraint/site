@@ -62,10 +62,15 @@ The plattitudes about the concept of 'rightness', descriptions of the inferences
 
 ### Reductive Definitional (Analytic) Naturalism
 
+The naturalistic analysis pondered by Ayer do fail because they miss some key plattitudes of moral terms. Subjective definitional naturalism can capture moral supervenience and the practicality of morality, but not the objectivity. Non-subjective definitional naturalism can capture moral supervenience and the objectivity of morality, but not the practicality. But there can be other possibilities for a reductive definitional analysis.
 
-### Non-Reductive Definitional (Analytic) Naturalism
+A non-reductive dispositional analysis is just one kind of definitional naturalistic analysis. Another analysis could be a network analysis. A network analysis of moral terms is a reductive, explicit (i.e. non-summary style) analysis that simply says that moral properties are the natural properties that are related to each other in the ways that moral plattitudes purport (if such natural properties do exist). It doesn't follow that there are any moral properties, for there may not be any natural properties that meet the plattitudes demanded by morality.
 
-Promise for non-reductive summary-style analysis
+Network analyses about a realm of concepts can face a permutation in that they risk being unable to explain the uniqueness of certain properties. For example, on a network analysis of colors, color properties would be reduced to natural properties that stand in relation to each other in a manner appropriate for the plattitudes of colors (i.e. red objects are just those that appear red, oranage those that appear to be orange, etc.). The problem is that there may be a property that stands in set of relations isomorphic to the set of relations that red stands in to, but this property could equally well be isomorphic to orange, or green, etc. And so it wouldn't be able to distinguish *which* properties were which color. There are no *a priori* plattitudes that can fix exactly which physical properties ground which color properties (plattitudes like "red is the color of blood" is not an *a priori* plattitude.
+
+The problem with network analyses regarding colors is that we learn many of our colors *a posteriori* via paradigmatic examples of physical properties that exhibit certain colors. These are not any *a priori* plattitudes central to our color concepts. This is why network analyses concerning colors. But the same issue arises for moral terms. Our moral terms are highly interconnected and dependent on each other. We learn of rightness and wrongness, good and bad procedures, etc. by reference to *a posteriori* paradigmatic examples of things with those features. This cannot be met by a reductive, explicit network analysis.
+
+The only solution to avoid the expressivist challenge is to provide a non-reductive, summary-style naturalistic analysis of moral concepts. This shall be given later.
 
 # The Externalist Challenge
 
