@@ -18,11 +18,11 @@ These two features plus the Humean psychology creates the following three claims
 
 1. Moral judgments express a belief about an objective fact.
 2. If A judges that it is morally right X then he is motivated to X
-3. An agent is morivated to X only if he has some appropriate desire.
+3. An agent is motivated to X only if he has some appropriate desire.
 
 (1) suggests that moral judgments express beliefs. (2) and (3) suggest that moral judgments express desires. But, according to the standard Humean picture, beliefs and desires are distinct experiences, so this cannot be possible. This creates the Moral Problem, which is the organizing problem explaining much disagreement in metaethics. Different metaethical positions reject different claims in this dilemma. The expressivists deny (1), the externalists deny (2) and the non-Humeans deny (3).
 
-This books argues that we can accept (1) and (2) and much of the spirit of (3). The major sub-plot of the book concerns how much of the Humean theory of motivation can be rejected or accepted. The argument turns on a distinction between kinds of reasons: normative and motivating. We should accept Hume's claim that beliefs and desires are distinct experience that are essential to explaining the motivating reasons behind every human action. But we should reject his claims that desires are beyond rational criticism. This will be based on an anti-Humean theory of normative reasons.
+This books argues that we can accept (1) and (2) and much of the spirit of (3). The major sub-plot of the book concerns how much of the Humean theory of motivation can be rejected or accepted. The argument turns on a distinction between kinds of reasons: normative and motivating. We should accept Hume's claim that beliefs and desires are distinct experience that are essential to explaining the motivating reasons behind every human action. But we should reject his claims that desires are beyond rational criticism. This will be based on an anti-Humean theory of normative reasons. In essence, moral judgments express desires that an agent believes they would have if they were fully rational.
 
 ## The Expressivist Challenge
 
@@ -121,13 +121,66 @@ The distinction between motivating reasons and normative reasons should be noted
 
 One can have a normative reason to X without a motivating reason to X. Likewise, one can have a motivating reason to X without a normative reason to X. Both cases can be due to ignorance or irrationality.
 
-### Desirse and Phenomenology
+### Desires as dispositions
 
 According to Hume, desire are a certain kind of feeling, an emotion that we are directly aware of which is phenomenologically salient. This would be a strong phenomenlogical conception of desires, where desires are sensations with a certain phenomenological content. The problem with this conception is that it is incompatible with a plausible epistemology of desire. According to this conception, just as a subject is in pain if and only if he believes he is in pain, a subject desires to X if and only if he believes that he desires X. There are two problems with this conception:
 
-1. There can be cases where an agent desires something without believing that they do. For example, consider cases where an agent's voluntary, deliberate behavior is influenced some feature that the agent is not aware of. This is easiest to see in young children, e.g. children who lash out or cry for seemingly no reason and then settle when they recieve attention. It is fair to say that these children have a desire for attention, but they need not *beleive* that they desire attention; they might genuinely feel that they have a different reason for their outbursts. Such a phenomenon happens less often with adults because adults tend to be more self-aware, but it need not disappear.
-2. There can be cases where someone believes that they desire something without actually desiring it. For example, consider a case where someone believes they have a fundamental desire to X, when really they have a fundamentally desire to Y and they have implicitly associated X with a means to do Y. This is easiest to see with socially valued goods, e.g. imagine someone believes they fundamentally desire to have a certain brand of shoes. However, it turns out that they were in a social structure that valued those shoes and when the social conventions changed so that those shoes lost social value, the individual lost the desire for the shoes. In this case, they didn't really fundamentally desire the shoes; they fundamentally desired social acceptance and their brain implicitly associated the shoes with social acceptance.
+1. People can be fallible about their desires. Firstly, an agent desires something without believing that they do, e.g. children who lash out or cry for seemingly no reason and then calm down when they recieve attention. Secondly, an agent can falsy believe that they desire something, e.g. someone who believes they fundamentally desire to have a certain brand of brand of clothing, when its actually a derivative desire that derives from a fundamental desire for social acceptance and an implicit association between the brand with social acceptance.
+2. Desires have propositional content whereas sensations do not. Ascriptions of desires may be given in the form 'A desires p' where 'p' is a proposition. Ascriptions of sensations do not have this constraint.
+
+An superior alternative conception of desire can be given based on focusing on its direction of fit. There are two directions of fit of mental states with the world. Beliefs are a kind of mind-to-world fit state of mind; they aim at truth and their being true is their fitting with the world. Desires are a kind of world-to-mind fit state of mind. They aim at realization and their realization is the world fitting with them. Whereas a belief that p tends to vanish upon perceiving that not-p, a desire to p tends to persist upon perceiving that not-p.
+
+More precisely, desires are states with a functional, dispositional role. To desire to G is to be disposed to X in conditions where they believe they can G by X-ing.
+
+### Desires as Motivating Reasons
+
+The following argument can be given to show that motivating reasons are constituted by, among other things, desires.
+
+1. Having a motivating reasons is having a goal.
+2. Having a goal is a world-to-mind fit.
+3. Having a world-to-mind fit is a desire.
+4. Therefore, motivating reasons are constituted by desires.
+
+(1) cannot be reasonably rejected because reasons as explanations are teological explanations. The *function* of a motivating reason is to motivate someone *towards* some state, which can be characterized as a goal. (2) cannot be rejected because a goal to p is not automatically dismissed upon perceiving that p is not true, so it cannot be a mind-to-world fit. (3) might be rejected by rejected for two different reasons.
+
+1. The first objection states that desires are not the only world-to-fit state of mind. This objection can be dismissed by broadening the concept of desire to include all world-to-mind states of mind. This would not change the spirit of the Humean Theory of Motivation.
+2. The second objection states that there can be a state with both directions of fit, e.g. a *besire*. But this doesn't work when considering what happens when one besires that p and perceives that not-p. If this tends to cause the besire to vanish, then the besire can't be a world-to-mind fit, but if this allows the besire to persist, then the besire can't be a mind-to-world fit. It might be objected that the attitude has two directions of fit but at different content. But this implies that there can be cases where someone has a besire and the desire and belief can never be pulled apart. This seems implausible, for it seems possible that one can have besire at one time and then have their motivation sapped later without losing their initial belief.
 
 ## Anti-Humean Theory of Normative Reasons
+
+Hume believed that whereas our beliefs can be assessed in terms of truth or falsehood, and so could be rationally assessed baed on their truth, our desires could not be assessed in those terms. Therefore, desires are beyond rational criticism. What it is rational for an agent to do is to simply maximize his present desires. This section rejects the Humean theory of normative reasons in favor of an anti-Humean theory.
+
+### Valuing
+
+Intentional action can be explained from two perspectives, the *intentional* and the *deliberative*. From the intentional perspective, intentional action can be explained by citiing *motivating reasons*, i.e. by citing a belief-desire pair that fits into a pattern of teleological explanation. From the deliberative perspective, intentional action can be explained by citing *normative reasons*, i.e. by citing a pattern of rational deliberation that either did, or could have, produced it. This involves citing the considerations that one reflects over in deciding what to do. 
+
+The deliberative perspective must be explanatory because when decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes, call them *values*, towards the propositions that figure in our deliberations must be capable of figuring an explanation of our action. This introduces a conflict, for it must be explained how deliberative explanation in terms of *valuing* and believing relates to the intentional explanation in terms of *desiring* and believing.
+
+We must think there is some connection bewteen desires and values because, again, values in deliberation must be capable of explanation and the only explanation of action must be desires. However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). There is an imperfect connection between what an agent judges to be a normative reasons for action (i.e. what they value) and the agent's motivating reasons for action (i.e. what they desire). The puzzle is to explain the psychology of valuing that can respect these platitudes. It would seem that conceptualizing valuing as a belief cannot explain how normative reasons can be motivating, but it also seems that conceptualizing valuing as a desire cannot explain how one's values conflict with their desires.
+
+### Valuing as Desiring
+
+The simplest explanation would be to say that valuing simply is desiring. Judging something valuable is to desire it. In other words, when one expresses that they have normative reason to X (e.g. that they value X), they are merely expressing a desire. The problem with this is it doesn't allow for the cases where desire and valuing come apart (e.g. cases of weakness of will, depression, addiction, etc.), where someone has no desire corresponding to their values, or vice-versa.
+
+Another explanation states that valuing is a mode of desiring. An agent values X if and only if she desires X after certain tests of reflection and experience, without interference from psychological compulsion, addictions, depressions, emotional distress, etc. Valuing is a kind of reflectively endorsed, informed desire in a psychologically sound state of mind. This may be sufficient to explain how we can desire something without valuing it (e.g. if we desired it in the inappropriate state of mind), but it would do nothing to show how we could value something without desiring it. 
+
+Finally, one might say that valuing can be reduced to a desire for a desire. This conception satisfies the earlier requirements for a conception of values. It can explain how someone can desire X without valuing X (for one can desire X without having a higher-order desire in favor of that desire), and it can explain how one can value X without desiring X (for one can desire to desire X without actually desiring X). However, there are two separate problems with this:
+
+But first, note one constraint on a conception of normative reasons: 
+
+> C1: if A judges that he has normative reason to X, then he rationally should desire to X.
+
+1. The reduction of valuing to desiring to desire cannot meet C1. If an agent has a conflicting second-order and first-order desire, it is equally rational for him to abandon either desire. In fact, on Hume's conception of rationality, he should mantain whichever desire is the strongest, which could be the first-order desire. One could object and state that instead of appealing solely to the *strength* of a desire as suggested by Hume, we also appeal to its *content*; it is rational to favor a second-order desire over a first-order desire, regardless of strength. But there are no independent arguments in favor of this conception of the rationality of desire; this is an ad-hoc rationalization to reconcile this theory of value with the constraint on normative reasons.
+2. There is no reason to identify valuing with second-order desires as opposed to third- or fourth-order desires. There is no non-arbitrary reason to identify valuing with any particular level of desiring. Each level of desiring seems as plausible as the other, which means all identifications are equally implausible.
+
+### Valuing as Believing
+
+The question is how to conceptualize valuing as believing in a way that meets the defeasible connection between valuing and desiring mentioned above, and in a way that meets constraint C1. Re-articulated in the form of a belief, C1 can be expressed as C2
+
+> C2: if A believes that he has normative reason to X, then he rationally should desire to X.
+
+This can be met with an analysis based on the following platitude: what we have normative reason to do is what we would desire that we do if we were fully rational. This can be transformed into a complete analysis as follows: for A to judge that he has normative reason to do X in circumstances C is for A to judge that a fully rational version of himself, A+, would desire A to X in C.
+
+### The Analysis
 
 ## Solution to the Moral Problem
