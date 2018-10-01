@@ -1,4 +1,4 @@
-# J.L. Mackie, From Ethics: Inventing Right and Wrong.md
+# J.L. Mackie, From Ethics: Inventing Right and Wrong
 
 ## Moral Skepticism
 

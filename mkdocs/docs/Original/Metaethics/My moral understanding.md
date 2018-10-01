@@ -150,11 +150,13 @@ Plattitudes:
 - Disagreement: two distinct descriptions of a subjective state of mind cannot explain why people disagree over normative judgments.
 
 Requirements for a descriptivist theory:
+
 - Must be in some way descriptive of our attitudes to be motivating
 - Must not be too tied to our actual attitudes to allow for internal criticism and external criticism
 - Must not be reduced to non-normative idealized circumstances, to prevent ....
 
 A descriptivist analysis of moral judgments is possible only if it has the following components (attitude-dispositionalist theory).
+
 - Attitudinal: They must related to properties tied to normative attitudes. E.g. "X is good" means "X has attitude-independent property Y" will not work. But "X is good" means "X produces attitude Y" could work.
 - Internal Criticism: They must allow for coherent questioning of one's present attitudes. E.g. "X produces attitude Y" will not work. But "X is good" means "X produces attitude Y under normal circumstances" could work.
 - Non-reductive (maybe): The ideal conditions must not be purely non-normative. E.g. "X produces attitude Y under typical circumstances" will not work. But "X produces Y under ideal, rational circumstances" could work.
@@ -162,6 +164,7 @@ A descriptivist analysis of moral judgments is possible only if it has the follo
 The attitudes which are diposed can be variable: desires, resentment, etc. Other dispositional theories do not work. E.g. moral language dispositionalism doesn't work (i.e. the properties that are causally responsible for our usage of the terms 'good' and 'right', etc.) because the causes of our moral terms are completely arbitrary social conventions. Also, we wouldn't be able to analyze the moral terms of a foreign language. Theories which aren't even dispositional (e.g. objective theories) are not plausible. 
 
 Instead, normative judgments could be expressive of a non-cognitive state, which are attitudes with the following characteristics:
+
 - Relation between desiring and valuing.
 - Similarities
     - Have propositional content, i.e. value/desire that p be the case, unlike bare sensations.

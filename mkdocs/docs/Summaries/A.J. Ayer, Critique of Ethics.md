@@ -1,4 +1,4 @@
-# A.J. Ayer, Critique of Ethics.md
+# A.J. Ayer, Critique of Ethics
 
 ### Introduction
 

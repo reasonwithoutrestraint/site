@@ -1,4 +1,4 @@
-# G.E. Moore, from Principia Ethica.md
+# G.E. Moore, from Principia Ethica
 
 ### Introduction
 

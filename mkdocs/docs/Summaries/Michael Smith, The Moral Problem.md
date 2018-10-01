@@ -1,8 +1,9 @@
-# Michael Smith, The Moral Problem.md
+# Michael Smith, The Moral Problem
 
-# What is the Moral Problem
+## What is the Moral Problem
 
 Consider the following two distinctive features of moral discourse:
+
 1. The *practicality* of morality.
     - *Rationality* - judging that an act is morally right implies that one has reason to perform the act.
     - *Motivation* - judging that an act is morally right (because of the rationality of moral judgments) implies that one has some motivation to perform the act.
@@ -23,7 +24,7 @@ These two features plus the Humean psychology creates the following three claims
 
 This books argues that we can accept (1) and (2) and much of the spirit of (3). The major sub-plot of the book concerns how much of the Humean theory of motivation can be rejected or accepted. The argument turns on a distinction between kinds of reasons: normative and motivating. We should accept Hume's claim that beliefs and desires are distinct experience that are essential to explaining the motivating reasons behind every human action. But we should reject his claims that desires are beyond rational criticism. This will be based on an anti-Humean theory of normative reasons.
 
-# The Expressivist Challenge
+## The Expressivist Challenge
 
 ### Alleged Dilemma of Descriptivism
 
@@ -74,9 +75,10 @@ The problem with network analyses regarding colors is that we learn many of our 
 
 The only solution to avoid the expressivist challenge is to provide a non-reductive, summary-style naturalistic analysis of moral concepts. This shall be given later.
 
-# The Externalist Challenge
+## The Externalist Challenge
 
 Consider two forms of internalism:
+
 1. Practicality of moral judgment: if A judges that it is right to do X, then either A has some motivation to do X, or A is practically irrational (e.g. absent weakness of will, depression, etc.).
 2. Rationalism: it is right for A to do X only if there is a reason for A to do X.
 
@@ -106,8 +108,26 @@ The controversial premise is premise (2) that we expect rational agents to do wh
 
 Another argument can be given for premise (2). The appropriateness of a range of moral attitudes requires premise (2) to be true and, therefore, also the the rationalist conceptual claim. We approve and disapprove of what people do when moral matters are at stake. But such attitudes presuppose an expectation that rational agents act rightly. Note that approval and disapproval differ remarkedly from liking and disliking something. There are no restrictions on liking or disliking something, but it seems that approval or disapproval require that the object of the (dis)approval take into account the attitude of the (dis)approver in forming their decisions, e.g. it makes sense for me to (dis)like your consumption of strawberry ice-cream with no restriction, but it only makes sense for me to (dis)approve of your consumption only if I'm evaluating your behavior against a standard which there is a legitimate expectation that you will consider. Therefore, approval and disapproval only exist when there are grounds for legitimate expectations for someone else's behavior. Because we (dis)approve of rational agents insofar as they behave (im)morally, we have legitimate expectations that rational agents behave morally. What grounds these legitimate expectations must be that we conceive of moral requirements as requirements of rationality.
 
-# Humean Theory of Motivation
+## Humean Theory of Motivation
 
-# Anti-Humean Theory of Normative Reasons
+There are two forms of principles that characterize the Humean theory of motivation, a weaker and a stronger principle.
 
-# Solution to the Moral Problem
+- Strong principle: R at t constitutes a motivating reason of agent A to X iff there is some G such that R at t consists of an appropriately related desire of A to G and a belief that were she to X she would G. In other words, a motivating reason to do X consists of a desire-belief pair such that the agent believes that doing X would satisfy the desire.
+- Weak principle: Agent A at t has a motivating reason to X only if there is some G such that, at t, A desires to G and believes that were she to X she would G. In other words, a motivating reason to X exists only if there exists a desire-belief pair such that the agent believes that doing X would satisfy the desire.  
+
+The weaker principle represents an *existence* criterion, whereas the stronger principle represents a *constitution* criterion. The weaker principle merely states that all motivating reasons *require* an appropriate desire-belief; the stronger principle states that all motivating reasons are *constituted* by an appropriate desire-belief pair. All anti-Humeans are united against the stronger principle.
+
+The distinction between motivating reasons and normative reasons should be noted. The concept of a reason for action is loosely defined by two dimensions of explanation and justification. A motivating reason emphasizes the explanatory dimension, whereas a normative reason emphasizes the justificatory dimension. Both kinds of reasons are similar in that they render an agent's action intelligible. To say that someone has normative reason to do X is to utter a *truth* stating that her X-ing is justified from the perspective of the normative system (i.e. from rationality, prudence, morality, etc.) that generates the requirement. To say that someone has a motivating reason to X is to describe a *psychological state* which is explanatory of her X-ing, other things being equal.
+
+One can have a normative reason to X without a motivating reason to X. Likewise, one can have a motivating reason to X without a normative reason to X. Both cases can be due to ignorance or irrationality.
+
+### Desirse and Phenomenology
+
+According to Hume, desire are a certain kind of feeling, an emotion that we are directly aware of which is phenomenologically salient. This would be a strong phenomenlogical conception of desires, where desires are sensations with a certain phenomenological content. The problem with this conception is that it is incompatible with a plausible epistemology of desire. According to this conception, just as a subject is in pain if and only if he believes he is in pain, a subject desires to X if and only if he believes that he desires X. There are two problems with this conception:
+
+1. There can be cases where an agent desires something without believing that they do. For example, consider cases where an agent's voluntary, deliberate behavior is influenced some feature that the agent is not aware of. This is easiest to see in young children, e.g. children who lash out or cry for seemingly no reason and then settle when they recieve attention. It is fair to say that these children have a desire for attention, but they need not *beleive* that they desire attention; they might genuinely feel that they have a different reason for their outbursts. Such a phenomenon happens less often with adults because adults tend to be more self-aware, but it need not disappear.
+2. There can be cases where someone believes that they desire something without actually desiring it. For example, consider a case where someone believes they have a fundamental desire to X, when really they have a fundamentally desire to Y and they have implicitly associated X with a means to do Y. This is easiest to see with socially valued goods, e.g. imagine someone believes they fundamentally desire to have a certain brand of shoes. However, it turns out that they were in a social structure that valued those shoes and when the social conventions changed so that those shoes lost social value, the individual lost the desire for the shoes. In this case, they didn't really fundamentally desire the shoes; they fundamentally desired social acceptance and their brain implicitly associated the shoes with social acceptance.
+
+## Anti-Humean Theory of Normative Reasons
+
+## Solution to the Moral Problem

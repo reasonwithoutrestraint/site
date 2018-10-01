@@ -2,16 +2,9 @@
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## Commands
+## Quick Links on Metaethics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [My Moral Understanding](Original/Metaethics/zMy moral understanding.md)
+- [Cognitivism](Cognitivism: Original/Metaethics/Debate1 - cognitivism.md)
+- [Metaphysics](Metaphysics: Original/Metaethics/Debate2 - metaphysics.md)
+- [Literature Overview](Original/Metaethics/Metaethical Overview.md)

@@ -1,4 +1,4 @@
-# Allan Gibbard, Wise Choices Apt Feelings.md
+# Allan Gibbard, Wise Choices Apt Feelings
 
 ### Morality and Rationality
 
