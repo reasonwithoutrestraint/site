@@ -141,7 +141,7 @@ The following argument can be given to show that motivating reasons are constitu
 3. Having a world-to-mind fit is a desire.
 4. Therefore, motivating reasons are constituted by desires.
 
-(1) cannot be reasonably rejected because reasons as explanations are teological explanations. The *function* of a motivating reason is to motivate someone *towards* some state, which can be characterized as a goal. (2) cannot be rejected because a goal to p is not automatically dismissed upon perceiving that p is not true, so it cannot be a mind-to-world fit. (3) might be rejected by rejected for two different reasons.
+(1) cannot be reasonably rejected because reasons as explanations are teological explanations. The *function* of a motivating reason is to motivate someone *towards* some state, which can be characterized as a goal. (2) cannot be rejected because a goal to p is not automatically dismissed upon perceiving that p is not true, so it cannot be a mind-to-world fit. (3) might be rejected for two different reasons.
 
 1. The first objection states that desires are not the only world-to-fit state of mind. This objection can be dismissed by broadening the concept of desire to include all world-to-mind states of mind. This would not change the spirit of the Humean Theory of Motivation.
 2. The second objection states that there can be a state with both directions of fit, e.g. a *besire*. But this doesn't work when considering what happens when one besires that p and perceives that not-p. If this tends to cause the besire to vanish, then the besire can't be a world-to-mind fit, but if this allows the besire to persist, then the besire can't be a mind-to-world fit. It might be objected that the attitude has two directions of fit but at different content. But this implies that there can be cases where someone has a besire and the desire and belief can never be pulled apart. This seems implausible, for it seems possible that one can have besire at one time and then have their motivation sapped later without losing their initial belief.
@@ -180,7 +180,5 @@ The question is how to conceptualize valuing as believing in a way that meets th
 > C2: if A believes that he has normative reason to X, then he rationally should desire to X.
 
 This can be met with an analysis based on the following platitude: what we have normative reason to do is what we would desire that we do if we were fully rational. This can be transformed into a complete analysis as follows: for A to judge that he has normative reason to do X in circumstances C is for A to judge that a fully rational version of himself, A+, would desire A to X in C.
-
-### The Analysis
 
 ## Solution to the Moral Problem

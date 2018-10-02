@@ -10,7 +10,7 @@ There is no evolutionary benefit to developing a psychological capacity to perce
 
 Theories with fewer assumptions and better explanatory power are superior. Imagine a world without any non-natural properties but with all the same natural properties. These two worlds would have equal explanatory power, but the world without unneeded properties would have less assumptions and would therefore be superior. The reason is because non-natural properties must be causally inert.
 
-### Lack of Episteic Access
+### Lack of Epistemic Access
 
 Non-naturalism cannot explain how we have a faculty that detects non-natural moral facts. The difference between empirical perception and moral perception (of non-natural facts) is this: there is an intimate *causal relationship* between empirical perception and empirical facts; empirical facts *cause* can cause our perceptions, which explains how we can *detect* empirical facts. Therefore, our empirical perceptions serve as a good evidence of the empirical facts. However, there is no such intimate *causal relationship* between moral perception and non-natural moral "facts"; no non-natural moral fact can ever *cause* our perceptions (as they can't cause any natural phenomenon), which means they cannot explain how we *detect* moral facts. Therefore, we have no way of establishing good evidence of moral facts.
 

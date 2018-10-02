@@ -152,6 +152,8 @@ Do normative judgments express beliefs? I.e. do they describe entities, properti
         - Normative judgments are expressive of beliefs tracking normative facts, and can be truth-apt insofar as they accurately represent the normative facts.
     - Cons:
         - Flexibility of language: A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
+		- Normative Education: we teach children to form certain moral judgments by molding their non-cognitive attitudes; and this is done by rewarding/punishing behavior with various non-cognitive attitudes, and by showing examples of appropriate attitudes in certain circumstances.
+		- Motivational content: many descriptive theories fail to meet the motivational constraint.
     - Variations: 
         - *Irreducible*: When one says "X is M", this cannot be understood in nonnormative terms.
             - *non-naturalism*: the referrent of the predicate M is not a natural property. Normative propositions are synthetic a priori. 
