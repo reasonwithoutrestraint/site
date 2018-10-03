@@ -5,6 +5,7 @@ There is no value independently of our valuing. Things are ultimately valuable b
 Constructivist views in ethics understand the correctness or incorrectness of some (specified) set of normative judgments as constituted by whether those judgments withstand some (specified) procedure of scrutiny from the standpoint of some (specified) set of further normative judgments. Importantly, the correctness is *constituted* by the constructivist procedure, not merely *indicated*, *discovered* or *coincident* with the constructivist procedure (for, if the latter were true, there could be a constructivist procedure that was coincident with any ethical theory). It is not that there is truth out there independently that the constructivist procedure discovers; rather, being the upshot of the constructivist position just is what it is for a normative judgment to be correct.
 
 There are three components of any constructivist view:
+
 1. Target set of normative judgments: the set of normative judgments to which the account of correctness is meant to apply. The reasons that are the subject matter of these normative judgments are the *results* of construction.
 2. Procedure of construction: the procedure of reflective scrutiny that is involved.
 3. Grounding set of normative judgments: the set of normative judgments from the standpoint of which the procedure of reflection is undertaken. The reasons that are the subject matter of these normative judgments are the *materials* of construction.
@@ -48,11 +49,12 @@ The standard of correctness in question is a standard of *reasonableness* rather
 
 ### Formal Characterization
 
-Restricted constructivism does not specify a conception of correctness for the grounding judgments. Metaethical constructivism affirms that the correctness of the grounding judgments is constituted by withstanding scrutiny from other normative judgments. It is a mistake to ask about the correctness of any normative judgment in the utter abstract, without making references to a standpoint constituted by some further set of normative judgments. This is because there are not judgment-independent standards of correctness in the normative domain. 
+Restricted constructivism does not specify a conception of correctness for the grounding judgments. Metaethical constructivism affirms that the correctness of the grounding judgments is constituted by withstanding scrutiny from other normative judgments. It is a mistake to ask about the correctness of any normative judgment in the utter abstract, without making references to a standpoint constituted by some further set of normative judgments. This is because there are no judgment-independent standards of correctness in the normative domain. 
 
 Formal characterization: the fact that X is a reason to Y for agent A is constituted by the fact that the judgment that X is a reason to Y (for A) withstands scrutiny from the standpoint of A's other judgments about reasons. Note that X is never a reason in favor of Y, absolutely. X can only be in favor of Y for some particular agent, as determined by the standards set by the normative judgments of A himself. This does not rule out the possibility that for a given X and Y, X is a reason to Y for every agent, no matter what his or her particular normative judgments.
 
 Here is how metaethical constructivism specifies the various elements of all constructivist views:
+
 - Target set of normative judgments: all normative judgments.
 - Resutls of construction: all reasons.
 - Procedure of construction: a purely formal characterization that does not presume any substantive content.
