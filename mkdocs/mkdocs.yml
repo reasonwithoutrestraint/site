@@ -5,12 +5,12 @@ nav:
   - Home: index.md
   - About: about.md
   - Original:
-    - Metaethics:
-      - Normative Psychology: Original/Metaethics/Normative Psychology.md
-      - Normative Truth: Original/Metaethics/Normative Truth.md
-      - Literature Overview: Original/Metaethics/Metaethical Overview.md
-      - My Metaethics: Original/Metaethics/My moral understanding.md
-      - Original/Metaethics/Substantive Moral Theory.md
+    - Moral Theory:
+      - Arguments on Normative Psychology: Original/Metaethics/Normative Psychology.md
+      - Arguments on Normative Truth: Original/Metaethics/Normative Truth.md
+      - Literature Overview: Original/Metaethics/Literature Overview.md
+      - Original/Metaethics/My Metaethics.md
+      - Original/Metaethics/My Substantive Morality.md
     - Ethics:
       - Original/Other/Abortion.md
       - Original/Other/Affirmative Action In Universities.md
