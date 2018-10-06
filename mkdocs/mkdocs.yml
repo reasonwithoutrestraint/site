@@ -28,17 +28,24 @@ nav:
     - Other:
       - Original/Other/Taxonomy of Propositions.md
   - Summaries:
-    - Summaries/G.E. Moore, from Principia Ethica.md
-    - Summaries/A.J. Ayer, Critique of Ethics.md
-    - Summaries/Bernard Williams, Internal and External Reasons.md
-    - Summaries/Philippa Foot, Morality as a System of Hypothetical Imperatives.md
-    - "Summaries/J.L. Mackie, From Ethics: Inventing Right and Wrong.md"
-    - Summaries/Allan Gibbard, Wise Choices Apt Feelings.md
-    - Summaries/Michael Smith, The Moral Problem.md
-    - Summaries/Peter Railton, Moral Realism.md
-    - Summaries/Christine Korsgaard, The Sources of Normativity.md
-    - Summaries/Sharon Street, Constructivism about Reasons.md
-    - Summaries/Sharon Street, What is Constructivism in Ethics and Metaethics.md
+    - Completed:
+      - Summaries/G.E. Moore, from Principia Ethica.md
+      - Summaries/A.J. Ayer, Critique of Ethics.md
+      - "Summaries/J.L. Mackie, From Ethics: Inventing Right and Wrong.md"
+      - Summaries/Allan Gibbard, Wise Choices Apt Feelings.md
+      - Summaries/Michael Smith, The Moral Problem.md
+      - Summaries/Sharon Street, Constructivism about Reasons.md
+      - Summaries/Sharon Street, What is Constructivism in Ethics and Metaethics.md
+    - In Progress:
+      - Summaries/Bernard Williams, Internal and External Reasons.md
+      - Summaries/Philippa Foot, Morality as a System of Hypothetical Imperatives.md
+      - Summaries/Peter Railton, Moral Realism.md
+      - Summaries/Christine Korsgaard, The Sources of Normativity.md
+      - Simon Blackburn, How to be an Ethical Antirealist: index.md 
+      - John McDowell, Values and Secondary Qualities: index.md
+      - David Wiggins, A Sensible Subjectivism: index.md
+      - Thomas Scanlon, What we owe to each other: index.md
+
   - Outlines:
       - Outlines/Libertarianism.md
       - Outlines/Political.md 
@@ -58,3 +65,9 @@ theme:
     icon: 'cloud'
   feature:
     tabs: false
+
+markdown_extensions:
+  - markdown_include.include:
+      base_path: docs
+
+extra_css: [extra.css]
