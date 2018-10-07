@@ -86,10 +86,11 @@ Companion:
     - Michael Smith - _The Moral Problem_
     - Julia Marokovits - Moral Reason
 - Naturalism (Realism): 
-    - Peter Railton - _Facts, Values, and Norms_
+    - Peter Railton - _Facts, Values, and Norms_ (Cornell Realists)
+    - Phillipa Foot - _Natural Goodness_ (Neo-Aristotelian)
+	- Frank Jackson - "Moral Functionalism and Moral Motivation" (Functionalism)
     - David Brink - _Moral Realism and the Foundations of Ethics_
     - Richard Boyd - "How to be a Moral Realist"
-    - Phillipa Foot - _Natural Goodness_
     - Paul Bloomberg - _Moral Reality_
     - Kevin DeLapp - Moral Realism
 - Non-naturalism:
@@ -108,18 +109,24 @@ Companion:
 
 ## Book List
 
-- **Naturalism** - Michael Smith - _The Moral Problem_
-- **Naturalism** - David Brink - _Moral Realism and the Foundations of Ethics_
-- **Naturalism** - Peter Railton - _Facts, Values, and Norms_
-- **Non-naturalism** - Russ Shafer-Landau - _Moral Realism: A defense_
-- **Non-naturalism** - T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
-- **Non-naturalism** - David Enoch - _Taking Morality Seriously_
-- **Constructivism** - Sharon Street - Various Essays
-- **Constructivism** - Christine Korsgaard - _The Sources of Normativity_
-- **Non-descriptivism** - Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
-- **Non-cognitivism** - Allan Gibbard - _Wise Choices, Apt Feelings, _Thinking How to Live_
-- **Non-cognitivism** - Simon Blackburn - _Essays in Quasi-Reaslism_, _Ruling Passions_
-- **Error Theory** - Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
+- Naturalism 
+	- Michael Smith - _The Moral Problem_
+	- Peter Railton - _Facts, Values, and Norms_
+	- David Brink - _Moral Realism and the Foundations of Ethics_
+	- Frank Jackson - "Moral Functionalism and Moral Motivation" 
+- Non-naturalism 
+	- Russ Shafer-Landau - _Moral Realism: A defense_
+	- T.M. Scanlon - _What we owe to each other_, _Being Realistic About Reasons_
+	- David Enoch - _Taking Morality Seriously_
+- Constructivism 
+	- Sharon Street - Various Essays
+	- Christine Korsgaard - _The Sources of Normativity_
+- Non-descriptivism -
+	- Mark Timmons - _Morality without Foundation_ (eventually: Hilary Putnam)
+	- Allan Gibbard - _Wise Choices, Apt Feelings, _Thinking How to Live_
+	- Simon Blackburn - _Essays in Quasi-Reaslism_, _Ruling Passions_
+- Error Theory 
+	- Richard Joyce - _The Myth of Morality_ (eventually: J.L. Mackie)
 
 ## General works list
 
@@ -210,3 +217,45 @@ Summarized:
 
 - AJ Ayer - "Critique of Ethics"
 - GE Moore - from _Principia Ethica
+
+--- 
+
+Important modern works in moral philosophy:
+
+Metaethics
+
+- Also add David Hume, Kant, Mill, Sigwick
+- G. E. M. Anscombe, Modern Moral Philosophy
+- Philippa Foot, Virtues and Vices and Natural Goodness
+- David Gauthier, Morals by Agreement
+- Alan Gewirth, Reason and Morality
+- Allan Gibbard, Thinking How to Live
+- Susan Hurley, Natural Reasons
+- Christine Korsgaard, The Sources of Normativity
+- John McDowell, Values as Secondary Qualities
+- Alasdair MacIntyre, After Virtue
+- J. L. Mackie, Ethics: Inventing Right and Wrong
+- G. E. Moore, Principia Ethica
+- Martha Nussbaum, The Fragility of Goodness
+- Derek Parfit, On What Matters
+- Peter Railton, Facts, Values, and Norms
+- W. D. Ross, The Right and the Good
+- Michael A. Smith, The Moral Problem
+- Bernard Williams, Ethics and the Limits of Philosophy
+
+Normative Ethics
+
+- Shelly Kagan, The Limits of Morality
+- Derek Parfit, Reasons and Persons
+- Thomas M. Scanlon, What We Owe to Each Other
+- Samuel Scheffler, The Rejection of Consequentialism
+- Peter Singer, Practical Ethics
+
+Important modern works in political philosophy:
+
+- Also, add Hobbes, Locke, Rousseau
+- Karl Popper, The Open Society and Its Enemies
+- John Rawls, A Theory of Justice, 1971
+- Robert Nozick, Anarchy, State, and Utopia
+- Isaiah Berlin, Two Concepts of Liberty
+- Michael Sandel, Liberalism and the Limits of Justice
