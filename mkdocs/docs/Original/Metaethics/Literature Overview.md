@@ -1,52 +1,18 @@
-Important modern works in moral philosophy:
+# Literature Overview
 
-Metaethics
-- Also add David Hume, Kant, Mill, Sigwick
-- G. E. M. Anscombe, Modern Moral Philosophy
-- Philippa Foot, Virtues and Vices and Natural Goodness
-- David Gauthier, Morals by Agreement
-- Alan Gewirth, Reason and Morality
-- Allan Gibbard, Thinking How to Live
-- Susan Hurley, Natural Reasons
-- Christine Korsgaard, The Sources of Normativity
-- John McDowell, Values as Secondary Qualities
-- Alasdair MacIntyre, After Virtue
-- J. L. Mackie, Ethics: Inventing Right and Wrong
-- G. E. Moore, Principia Ethica
-- Martha Nussbaum, The Fragility of Goodness
-- Derek Parfit, On What Matters
-- Peter Railton, Facts, Values, and Norms
-- W. D. Ross, The Right and the Good
-- Michael A. Smith, The Moral Problem
-- Bernard Williams, Ethics and the Limits of Philosophy
-
-Normative Ethics
-- Shelly Kagan, The Limits of Morality
-- Derek Parfit, Reasons and Persons
-- Thomas M. Scanlon, What We Owe to Each Other
-- Samuel Scheffler, The Rejection of Consequentialism
-- Peter Singer, Practical Ethics
-
-Important modern works in political philosophy:
-
-- Also, add Hobbes, Locke, Rousseau
-- Karl Popper, The Open Society and Its Enemies
-- John Rawls, A Theory of Justice, 1971
-- Robert Nozick, Anarchy, State, and Utopia
-- Isaiah Berlin, Two Concepts of Liberty
-- Michael Sandel, Liberalism and the Limits of Justice
-
-# Problems 
+## Problems 
 
 ### Semantic
 
 Incompatible:
+
 1. Moral judgments are truth-apt.
 2. Truth-apt judgments must be beliefs (i.e. descriptive).
 3. Moral judgments are intrinsically motivating.
 4. Beliefs are not sufficient for intrinsic motivation.
 
 Rejections:
+
 1. Rejected by non-cognitivists.
 2. Rejected by cognitivist non-descriptivists (non-cognitivst with minimal truth theories, pragmatists, constructivists).
 3. Rejected by morality-motivation externalists.
@@ -55,6 +21,7 @@ Rejections:
 ### Metaphysical
 
 Incompatible:
+
 1. Moral truths provide duties independent of any agent's contingent desires.
 2. Moral truths provide duties necessary practical reasons (perhaps even overriding).
 3. Practical reasons are necessarily dependent on desires.
@@ -62,22 +29,25 @@ Incompatible:
 5. There are moral truths.
 
 Rejections (among truth-apt positions): 
+
 1. Rejected by subjectivists.
 2. Rejected by morality-reasons externalists.
 3. Rejected by non-Humean theories of rationality.
 4. Rejected by metaphysical egoists.
 5. Rejected by error-theorists.
 
-# Overview
+## Overview
 
 ### Plattitudes
 
 Normative Thinking:
+
 - Some behaviors are independent of thought (involuntary actions)
 - Some behaviors are motivated by thoughts, call these motivational thoughts (undeliberate voluntary actions).
 - Some motivational thoughts are reformed via deliberation, call this deliberation normative reasoning (deliberate voluntary actions).  
 
 Essential Normative Plattitudes: 
+
 - Ubiquity - All rational creatures invoke normative judgments.
 - Motivation - To invoke a normative judgment favoring X is to express a motivational tendency to X. To the extent that somehow fails to do what they judge to have most reason to do, they are acting irrationally.
 - Reasoning - Normative judgments can be modified/improved via reasoning and argumentation.
@@ -85,18 +55,20 @@ Essential Normative Plattitudes:
 - Supervenience 
 
 Controversial Normative Platitudes:
+
 - Truth-aptness
 - Descriptive
 - Objective
 - Non-reductive
 
 Moral Plattitudes
+
 - Moral facts necessarily apply to all rational agents.
 - Moral facts provide reason for action.
 - Moral facts supervene on the descriptive facts.
 - Moral facts differ from practical reasons generally (i.e. they call for blame, shame).
 
-# Key Divides
+## Key Divides
 
 The Road to Moral Realism
 
@@ -105,11 +77,6 @@ The latter one rejects on the road, the more problems they face accommodating ex
 The earlier one rejects, the more problems they face accommodating internal (moral) pretensions
 
 Multidisciplinary issues that cause external accommodation issues as one goes toward realism 
-- Language: What it takes for a statement to be truth-apt?
-- Mind: What state characterizes belief? Desire? Other states?
-- Metaphysics: What explains supervenience, reduction, grounding, etc.
-- Normativity: What it takes for something to be a reason? To be motivating?
-- Metaphilosophy: What is required for an analysis? Uninformative? Can there be revisionist analysis?
 
 ### Semantic & Phenomenological: Cognitivism & Descriptivism
 
@@ -236,89 +203,93 @@ Some ways to draw the naturalism - non-naturalism divide:
 Ways of addressing the normative status of morality, and the motivational status of normativity.
 
 Normativity:
+
 1. Normative judgments must be *necessarily* motivational (though not always overriding)
 2. Normative judgments must be *usually* motivational.
 3. Normative judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
 
 Moral Rationalism:
+
 1. Moral facts must provide *necessary* practical reasons (apply to all rational agents necessarily).  
 2. Moral facts must provide *necessarily overriding* practical reasons.
 
 Moral Motivation:
+
 1. Moral judgments must be *necessarily* motivational (though not always overriding)
 2. Moral judgments must be *usually* motivational.
 3. Moral judgments must be *intrinsically* motivational, *capable* of motivating without any (additional) desires.
 
-# NON-COGNITIVISM
+## Positions
 
-Moral statements are not truth-apt.
+These positions are categorized with regard to their stance regarding general normativity, i.e. normative reasons or rationality generally, rather than moral normativity specifically. Thus, even though Railton's account of morality is realists (as the moral facts are independent of any agent's personal attitude), his position is classified as "attitude dependent descriptivism" as his account of rationality is subjective to the desires of an ideal observer.
 
-## Classical
+### Non-cognitivism
 
-### A.J Ayer - Expressivism
+Normative statements are not truth-apt.
 
-### C.L. Stevenson - Emotivism
+#### Classical
 
-### R.M. Hare - Universal Prescriptivism
+##### A.J Ayer - Expressivism
 
-### Objection - Frege-Geach Problem
+##### C.L. Stevenson - Emotivism
 
-## Modern
+##### R.M. Hare - Universal Prescriptivism
 
-### Simon Blackburn - _Essays in Quasi-realism_
+##### Objection - Frege-Geach Problem
 
-### Allan Gibbard - Plan-Expressivism - _Thinking How to Live_
-Planning
+#### Modern
 
-### Timmons
+##### Simon Blackburn - _Essays in Quasi-realism_
 
-### Objection
+##### Allan Gibbard - Plan-Expressivism - _Thinking How to Live_
 
-# NON-DESCRIPTIVISM
+#### Objections
 
-Moral statements are truth-apt, but do not aim at describing or reporting moral facts, i.e. moral entities, properties or relations.
+### Non-descriptivism
+
+Normative statements are truth-apt, but do not aim at describing or reporting normative facts, i.e. normative entities, properties or relations.
 
 See "Creeping Minimalism" and "Four faces of moral realism" for more on non-descriptivism.
 
-The truth-conditions are attitude-dependent. Very similar to simple subjectivism, except it denies that moral judgments are descriptive. They lies somewhere between reports and mere expression (as with non-cognitivism).
+The truth-conditions are attitude-dependent. Very similar to simple subjectivism, except it denies that normative judgments are descriptive. They lies somewhere between reports and mere expression (as with non-cognitivism).
 
-### Mark Timmons - Assertoric Nondescriptivism - _Morality without Foundations_
+#### Mark Timmons - Assertoric Nondescriptivism - _Morality without Foundations_
 
-### Hilary Putnam - Pragmatism - _Ethics without Ontology_
+#### Hilary Putnam - Pragmatism - _Ethics without Ontology_
 
-### Sharon Street - Constructivism - Various Essays
+#### Sharon Street - Constructivism - Various Essays
 
-### Korsgaard - Kantian Constructivism - _Sources of Normativity_
+#### Korsgaard - Kantian Constructivism - _Sources of Normativity_
 
-### John Rawls - "Kantian Constructivism"
+#### John Rawls - "Kantian Constructivism"
 
-# ERROR-THEORY
+#### Objections
 
-Moral statements are truth-apt and aim at describing moral facts. But such facts do not exist. 
+### Attitude Dependent Descriptivism
 
-### J.L. Mackie - _Ethics: Inventing Right and Wrong_
+Normative statements are truth-apt and aim at describing normative facts. The normative facts are grounded in our current or hypothetical normative judgments. Value is the result of our conferring value to them, rather than us conferring value to them because they are valuable.
 
-### Richard Joyce - _The Myth of Morality_
+#### Gilbert Harman - Relativism
 
-### Objection
+#### Roderick Firth - Non-reductive - _Ideal Observer Theory_
 
-## Relativism
+#### Michael Smith - Non-reductive - Idealized Observer - _The Moral Problem_
 
-### Gilbert Harman 
+#### Peter Railton - Synthetic Reductive - Idealized Observer - _Moral Realism_
 
-### Objections
+#### Objections
 
-# Subjectivism
+### Error Theory
 
-Moral statements are truth-apt and aim at describing moral facts. The moral facts are grounded in our current or hypothetical moral judgments.
+Normative statements are truth-apt and aim at describing normative facts. But such facts do not exist. 
 
-### Roderick Firth - Non-reductive - _Ideal Observer Theory_
+#### J.L. Mackie - _Ethics: Inventing Right and Wrong_
 
-### Michael Smith - Non-reductive - Idealized Observer - _The Moral Problem_
+#### Richard Joyce - _The Myth of Morality_
 
-### Objection
+#### Objections
 
-# REALISM
+### REALISM
 
 Moral statements are truth-apt and aim at describing moral facts. The moral facts are ontologically independent of our actual or hypothetical moral judgments. Further, moral facts can explain our moral judgments.
 
@@ -335,8 +306,6 @@ Non-reductive
 Reductive
 
 ### Anayltic Reductive
-
-### Peter Railton - Synthetic Reductive - _Moral Realism_
 
 ### Paul Bloomfield - Reductive - _Moral Reality_
 
