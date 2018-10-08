@@ -17,13 +17,13 @@ Expresssivists
 - (1) C.L. Stevenson, “The Emotive Meaning of Ethical Terms”
 - (3) R.M. Hare, The Language of Morals (as excerpted in CP).
 
+Error Theory
+- (1) J.L. Mackie, Ethics: Inventing Right and Wrong
+
 Reasons
 - (1) Stephen Darwall, “Reasons, Motives, and the Demands of Morality”
 - (1) Bernard Williams, “Internal and External Reasons”
 - (2) Philippa Foot, “Morality as a System of Hypothetical Imperatives”
-
-Error Theory
-- (1) J.L. Mackie, Ethics: Inventing Right and Wrong
 
 ## Contemporary (PHIL 429 Syllabus)
 
@@ -57,13 +57,6 @@ Critical overview of works in metaethics
 - Alexander Miller - Contemporary Metaethics: An Introduction
 - Mark van Roojen - Metaethics: A Contemporary Introduction
 - Andrew Fisher - Metaethics: An Introduction
-    - Recommended Surveys:
-        - Blackburn 2001, "Being Good"
-        - Benn 1998, "Ethics"
-        - Sayre-McCord 1986, "The many moral realisms"
-        - Darwall, Gibbard and Railton 1992, "Toward fin de siecle ethics: some trends"
-        - Little 1994a, 1994b; " Moral realism I: naturalism", "Moral realism II: non-naturalism"
-        - Railton 1996a. "Moral realism: prospects and problems"
 
 Companion:
 - The Routledge Handbook of Metaethics
@@ -200,23 +193,6 @@ Companion:
 	- Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
 	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
 	- Essay: Erik J. Wielenberg - "On the Evolutionary Debunking of Morality"
-
-Read:
-- Christine Korsgard - "The Sources of Normativity"
-- Peter Railton - "Moral Realism"
-- Bernard Williams - "Internal and External Reasons"
-
-- CS Stevenson - "The Emotive Meaning of Ethical Terms"
-
-Summarized:
-- Sharon Street - "What is Constructivism in Metaethics"
-- Sharon Street - "Constructivism about Reasons"
-- Allan Gibbard - _Wise Choices, Apt Feelings_
-- Michael Smith - _The Moral Problem_
-- JL Mackie - "The Subjectivity of Values"ß
-
-- AJ Ayer - "Critique of Ethics"
-- GE Moore - from _Principia Ethica
 
 --- 
 

@@ -1,5 +1,7 @@
 # G.E. Moore, from Principia Ethica
 
+## Summary
+
 ### Introduction
 
 This piece is concerned with the definition of good and bad, not with what things are good and what things are bad. It will be shown that goodness is the only simple concepts in ethics. While knowing the definition of goodness might not be necessary to form a particular correct moral judgment, it is necessary to establish the *reasons* underlying any particular moral judgment, and it is highly unlikely that one can develop a theory of *general* moral principles without knowing the meaning of goodness. In this context, the desired definition of goodness is not intended to be the substituting of one word for other words based on ordinary usage. While any appropriate definition of good must cohere with the sense in which it is ordinarily used, this is not the primary interest. The primary interest is in determining the nature of the *object* or *idea* that the word is generally used to stand for. In other words, he is concerned with the philosophical practice of *conceptual analysis*, which is distinct from the purely sociological practice of describing a word's usage.
@@ -16,7 +18,7 @@ When one philosopher asserts that "good *means* pleasure" and another asserts th
 
 If good does not define an irreducible simple property, then there are two alternatives: either (1) good denotes a complex notion or object, or (2) good denotes nothing at all and is meaningless. Consider (1). Consider the question "Is X good". Now, imagine that a proposed complex analysis of goodness states that all questions of the form 'Is X good' are questions of the form 'Does X have naturalistic property Y' (e.g. is X desired, is X pleasurable, etc.). However, we can always further ask "Is it good that X has property Y" ('e.g. "Is it good to desire X", "Is it good that X is pleasurable", etc.). This further question is clearly intelligible. But, if X was a complex object that could be analyzed in terms of Y, then such a question would not be intelligible, i.e. the question *makes sense* and does not reveal any conceptual confusion. Thus, X is not such a complex object. Now consider (2). Consider again the question "Is X Good". Everyone actually understands the question as meaningful, and the state of mind expressed by the question is different from the state of mind expressed by "Is X pleasurable, desired approved, etc." Thus, there is an obvious awareness of the object goodness present in everyone's mind. Therefore, goodness cannot be meaningless. 
 
-# Objections
+## Objections
 
 ### Begging the Question
 
@@ -33,23 +35,17 @@ consists in the possession of knowledge how, whereas knowledge of a correct anal
 
 ### Unconsidered possibilities
 
-Moore seemed to assume that an ethical theory had only two options: analytic naturalism and non-naturalism. Needless to say, this is terribly inadequate. There is synthetic naturalism as well as non-cognitivism.
+Moore does not address the following:
 
-### My Objections
+1. Synthetic naturalism
+2. Non-cognitivism
+3. Error Theory
 
-1. The argument attacks reductionism not naturalism. But there can be irreducible natural properties and (presumably) reducible non-natural properties.
-2. Normativity: The OQA or the modified OQA (based on the lack of motivation) can be levied at non-naturalism. Removing certain properties (i.e. saying that its not natural) doesn't close the open question.
-3. Ontology: How can the normative supervene on the non-normative, if the normative are non-natural and the non-normative are natural. This can be explained by naturalism: the normative supervenes on the non-normative because both sets of properties just as natural properties.
-4. Epistemology:
-    - Causal Inertion: 
-        1. No evolutionary reason to perceive non-natural properties -> non-natural properties are not the referrents of our language: There is no evolutionary benefit to developing a capacity to perceive non-natural properties, as the only perceptions that are beneficial are perceptions of natural properties, as natural facts are the only sorts of facts that would be evolutionary advantageous.
-        2. No ability to perceive non-natural properties -> no claim about non-natural properties can be justified: Non-natural properties do not influence natural properties (otherwise, they wouldn't be non-natural), but we can only perceive natural properties. Thus, it is impossible for us to have any justification for any normative claims. It may be suggested that our intuitions track non-natural properties, but there is no reason to believe that to be the case.
-        3. Theories with fewer assumptions and better explanatory power are superior. Imagine a world without any non-natural properties but with all the same natural properties. These two worlds would have equal explanatory power, but the world without unneeded properties would have less assumptions and would therefore be superior.
-    - Reflection:
-        - When we see an action that we judge to be wrong, we don't just judge it to be wrong in that particular circumstance. We judge that a particular action with certain natural properties always coinstantiates normative properties (i.e. we judge suffering and we judge badness, where the badness supervenes on the suffering). But this supervenience relation couldn't be perceived, for have only perceived the one circumstance, so how can we make a universal judgment about certain normative properties necessarily supervening on certain natural properties? The best explanation for judging necessary supervenience relation is that normative judgments are not perceptions of non-natural properties, but perceptions of natural properties, constructions of thinking, or non-cognitive expressions or prescriptions.
-5. Evolution: There is no evolutionary reason to develop a capacity to perceive non-natural properties
+### Against Non-naturalism
 
-# Salvaging the Open Question Argument
+[See my objections here](!Original/Metaethics/Non-naturalism.md!)
+
+## Salvaging the Open Question Argument
 
 #### Darwall, Gibbard and Railton
 
@@ -59,12 +55,4 @@ Sure, conceptual analysis in theory can be informative and interesting, but such
 
 G.E. Moore's argument is actually an argument against analytic reductionism (naturalistic or non-naturalistic) rather than naturalism itself. His open question argument defeats both analytic naturalistic reductionism and analytic non-naturalistic reductionism. For any non-natural property 'N' (e.g. God's divine command), it is always intelligible to ask "is 'N' good". Such a question does not reveal a conceptual or linguistic confusion. Conversely, his open question argument does *not* defeat irreducible naturalism. For, if good just is a natural property, then we *can* say that it is not intelligible to ask whether natural property 'N' really is good, where 'N' just is goodness. Therefore, neither analytically irreducible naturalism and analytically irreduible non-naturalism are vulnerable to the analytic open question argument, and both naturalistic analytic reductionism non-naturalistic analytic reductionism are defeated by this argument.
 
-### Pumping up intuitions against analytic reductionism
-
-Some people might accept the above arguments and still maintain that moral properties can be analytically reduced to non-moral properties. This could be due to simply not appreciating the force of the open question argument. No analytic reduction of goodness could ever account for substantive disagreement. The reason is because a merely linguistic disagreement can never account for a substantive genuine disagreement. Consider the following two possible accounts of analytic reductionism.
-
-On one interpretation of "Good means N", someone is expressing their own personal definition of Good. But this cannot itself explain why they would disagree with someone else who advanced a different definition of Good. For example, imagine Alan advanced meanings of "Ork" and "Shaw" whereby Orks referred to bears and Shaws referred to deer, and Bob advanced the reverse meaning of those words. When Alan and Bob do a perfect survey of all the animals in the area, they might give different answers to the questions "How many Orks are in the area?" and "Are there more Orks than Shaws?", but this would be the result of a merely linguistic disagreement. There wouldn't be a substantive disagreement. That is, they would have the exact same view of the world, assuming they agree with all of the relevant physical facts. They're just using different terms to express their identical views. On the other hand, when people give different answers to the questions "Is abortion immoral?" or "Is homosexuality bad?", it seems like there *would* be a substantive disagreement. Even if people agree on all of the relevant physical facts in these circumstances, if they gave different answers to these questions, it seems they would have different views of the world. And these different views cannot be explained by merely semantic differences. 
-
-On a different interpretation of "Good means N", when someone says this they are describing the societal meaning of the word. This analysis *could* explain how individuals could have substantive disagreements, since two people who gave different answers to goodness would have different views of the world (namely, views relating to what the rest of society beleived). But this analysis is wrong for two reasons. Firstly, that would make it a strictly incoherent contradiction to say "My society is incorrect in thinking that N is good/bad". But people are clearly not always incorrect, let alone contradictory, when they say this.
-
-Secondly, this wouldn't be able to account for substantive disagreements across cultures. Definitions are purely relative. They are ascriptions of arbitrary utterances and symbols to particular concepts or objects in the world. They are appropriate only to the extent that they are supported by a particular linguistic community. Two groups can form separate linguistic communities with different definitions of moral terms, and we wouldn't say that one of the communities were *linguistically* incorrect or mistaken. For example, imagine another linguistic community that was linguistically identical to our own except that their moral terms were switched, i.e. 'good' in their society referred to what we refer to as 'bad' in our society, and so forth. Let's also say that they acted in ways that promoted what they considered to be 'good'. It seems like it is *intelligible* for us to say that they are mistaken in their behavior. But in this case, their mistake cannot be attributed to a linguistic mistake. Instead, their mistake must be attributed to a mistaken action. This reveals tha analytic reductionism ignores the conceptual link between moral judgments/facts and motivation/reason to act. The problem is that no *contingently* given linguistic structures can necessarily explain motivation/reason to action in the way that terms like 'good' seem to. Note that if this conceptual link was not present, it would not be intelligible to say that their society was mistaken (e.g. we don't think the French are mistaken just because they use the term 'grape' to refer to what we mean by 'raisin' and use 'raisin' to refer to what we mean by 'grape'). This argument should also be used against analytic non-natural reductionism and perhaps even some forms of synthetic naturalism that are focused on finding what referrents track or guide our *linguistic* use of moral terms.
+[See more arguments against analytic naturalism here](!Original/Metaethics/Naturalism!)
