@@ -1,6 +1,13 @@
 # Naturalism
 
-This concerns *reductive* naturalism, the view that reduces normative concepts/terms to non-normative concepts/terms or that reduces normative properties to non-normative properties.
+This concerns *reductive* naturalism the view that contains the following components:
+
+1. Normative concepts refer to normative properties (against non-cognitivism).
+2. Normative properties can be reduced to entities which are the subject matter of physics (synthetic naturalism).
+3. Normative properties can be reduced to non-normative properties (reductive synthetic naturalism) (optional).
+4. Normative concepts can be reduced to non-normative concepts (analytic naturalism) (optional).
+
+Forms of non-reductive naturalism, which deny 3 and 4 (e.g. David Brink and Nicholas Sturgeon), are edge cases not considered here.
 
 ## Analytic Naturalism
 

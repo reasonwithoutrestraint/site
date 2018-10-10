@@ -5,21 +5,28 @@ nav:
   - Home: index.md
   - About: about.md
   - Original:
-    - Moral Theory:
-      - Original/Metaethics/Naturalism.md
-      - Original/Metaethics/Non-naturalism.md
-      - Original/Metaethics/Descriptivism.md
-      - Original/Metaethics/Non-descriptivism.md
-      - Literature Overview: Original/Metaethics/Literature Overview.md
-      - Original/Metaethics/My Metaethics.md
-      - Original/Metaethics/My Substantive Morality.md
-    - Ethics:
+    - Metaethics:
+      - Original/Metaethics/Literature Overview.md
+      - Objections:
+        - Original/Metaethics/Naturalism.md
+        - Original/Metaethics/Non-naturalism.md
+        - Original/Metaethics/Descriptivism.md
+        - Original/Metaethics/Non-descriptivism.md
+      - My Position:
+        - Original/Metaethics/Normativity.md
+        - Original/Metaethics/Normative Psychology.md
+        - Original/Metaethics/Normative Correctness.md
+        - Original/Metaethics/Moral Psychology.md
+        - Original/Metaethics/Moral Correctness.md
+    - Ethical Theory: 
+      - My Position: Original/Metaethics/My Substantive Morality.md
+    - Applied Ethics:
       - Original/Other/Abortion.md
       - Original/Other/Affirmative Action In Universities.md
       - Original/Other/Against Libertarianism.md
+      - Original/Other/Objective Morality.md
     - Other Philosophy:
       - Compatibilism: Original/Other/Free Will.md
-      - Original/Other/Objective Morality.md
       - Original/Other/Against Presuppositionalism.md
       - Original/Other/Cosmological Argument For God.md
       - Original/Other/Destiny.md

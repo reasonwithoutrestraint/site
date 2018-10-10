@@ -43,7 +43,7 @@ Moore does not address the following:
 
 ### Against Non-naturalism
 
-[See my objections here](!Original/Metaethics/Non-naturalism.md!)
+[See my objections here](/Original/Metaethics/Non-naturalism.md)
 
 ## Salvaging the Open Question Argument
 
@@ -55,4 +55,4 @@ Sure, conceptual analysis in theory can be informative and interesting, but such
 
 G.E. Moore's argument is actually an argument against analytic reductionism (naturalistic or non-naturalistic) rather than naturalism itself. His open question argument defeats both analytic naturalistic reductionism and analytic non-naturalistic reductionism. For any non-natural property 'N' (e.g. God's divine command), it is always intelligible to ask "is 'N' good". Such a question does not reveal a conceptual or linguistic confusion. Conversely, his open question argument does *not* defeat irreducible naturalism. For, if good just is a natural property, then we *can* say that it is not intelligible to ask whether natural property 'N' really is good, where 'N' just is goodness. Therefore, neither analytically irreducible naturalism and analytically irreduible non-naturalism are vulnerable to the analytic open question argument, and both naturalistic analytic reductionism non-naturalistic analytic reductionism are defeated by this argument.
 
-[See more arguments against analytic naturalism here](!Original/Metaethics/Naturalism!)
+[See more arguments against analytic naturalism here](/Original/Metaethics/Naturalism)
