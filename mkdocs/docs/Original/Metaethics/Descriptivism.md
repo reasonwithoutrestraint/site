@@ -26,7 +26,7 @@ General problems with ignoring non-cognitive attitudes
 
 ### Arguments
 
-*Flexibility of language*. A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions.
+*Flexibility of language*. A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity, and if they were, then how would we know?
 
 *Normative education/expressions*. We teach children to form certain moral judgments by molding their non-cognitive attitudes; and this is done by rewarding/punishing behavior with various non-cognitive attitudes, and by showing examples of appropriate attitudes in certain circumstances.
 

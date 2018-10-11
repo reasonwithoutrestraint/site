@@ -6,7 +6,7 @@ Intentional action can be explained from two perspectives, the *intentional* and
 
 The deliberative perspective must be explanatory because when we decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes towards the propositions that figure in our deliberations must be capable of figuring an explanation of our action. However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action and the agent's motivating reasons for action.
 
-Vaguely, to judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement*. Contrast this with undeliberative or unreflective endorsement, which are the sources of one's *motivating reasons*, the explanation of their intentional behavior. The question is to determine what it is to form deliberative endorsement of an action. Is it a desire, belief of some sort, etc.
+Vaguely, to judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which are the sources of one's *motivating reasons*, the explanation of their intentional behavior. The question is to determine what it is to form deliberative endorsement of an action. Is it a desire, belief of some sort, etc.
 
 ## Competing Analyses
 
@@ -24,7 +24,7 @@ Currently, these just include desires. Desires are states with a functional, dis
 
 Might there be other forms of world-to-mind fit not adequately characterized as a desire? Goals and preferences seem to be a distinctive form of world-to-mind fit. Deliberative endorsements might also be a unique form of world-to-mind fit. It seems like the distinction between desires and goals and similar to the distinction between desires and values.
 
-- Desire X = disposition to M in conditions where one believes M -> X.
+- Desire X = disposition to voluntarily M in conditions where one believes M -> X.
 - Prefer X = desire X and is conscious of this desire.
 - Goal X = Conscious endorsement of X.
 - Value X = Deliberative endorsement of X.
@@ -42,25 +42,16 @@ Currently, these include just counterfactual beliefs about one's desires:
 
 To serve as a useful analysis, fully rational must be given a reductive account, i.e. in explaining what it is to judge that one has a normative reason, we should not have to refer back to an unexplained normative judgment. some components of rationality include the following:
 
+- The agent holds no false beliefs and all relavent true beliefs.
 - Correct means-end deliberation (generation of a desire to X as a result of combining a desire to Y and a belief that X -> Y).
 - Deciding which desires one places most weight.
 - Uusing imagination to determine how a desire would be satisfied.
 - Being free of psychological compulsions, physical addictions, emotional disturbances.
 - Systematically unified desires.
 
+The characterization of full rationality should not make reference to any normative terms. Otherwise, it doesn't really illuminate what normativity reasons consist in. Michael Smith's characterization does make use of normative terms (he thinks the concept of "unity" and "truth" is normative), but this is because his account of rationality is irreductive.
+
 ## My Position
-
-1. How do these states of mind relate to desires or beliefs? Some possibilities
-	- Desires, sentiments, pro/con attitudes, (dis)approving attitudes
-	- Dispositions to have those attitudes
-	- Dispositions to express those attitudes in normative discussion / negotiation
-	- Beliefs about whether those attitudes would be held under ideal conditions (subjective).
-	- Beliefs about the non-attitudinal state of affairs about an entity (objective).
-2. What are competing analysis of this state of mind? How do they differ? What do they have in common? 
-3. A two-level analysis? First level analysis: expressions of non-cognitivist state of mind, e.g. desires, sentiments, (dis)approval, (dispositions to) resent/blame others, etc. Second level analysis: some sort of deliberative, reflective endorsement of those states (e.g. beliefs that such states would be held ideal circumstances, higher-order desires, etc.). Second level introduces standards of correctness and refinement, and are motivating insofar as one is reflective, deliberative, rational, etc. This is similar to the distinction between *perceiving* something to be red (i.e. having a certain physiological sensation) and *believing* something to be red (i.e. believing that such sensations would be produced under ideal circumstances). Do the standards of correctness need to be implicit in the initial non-cognitive attitude?
-4. Much of our normative discourse practically rational, where we use thick ethical concepts to guide our discussions. E.g. saying an action is racist is both descriptive and evaluative at the same time. In principle, though, we can separate the evaluative from the descriptive (which is not to say that evaluative is not itself a belief).
-
-Normative Phenomenology: normative judgments are neither expressive of beliefs nor desires. They are not expressive of beliefs because they entail a world-to-mind fit rather than a mind-to-world fit. No mind-to-world (descriptive) state of mind can be motivational, yet normative judgments are motivational. They are not expressive of desires because there are constitutive standards for normative judgments that are not true of desires, e.g. if one judges that they ought to X above anything else, they necessarily also judge that they ought to M if they believe M is the necessary means to achieve X. This is not true of desire. Rather, normative judgments express values. Values are our linguistically infused base desires and dispositions idealized by rational reflection.
 
 Plattitudes:
 
@@ -105,5 +96,3 @@ Instead, normative judgments could be expressive of a non-cognitive state, which
     - (general criticism) Valuing X = X would be desired if one were rational
         - These might give the correct truth conditions, but they miss the point.
         - When someone rationally endorse X, they aren't thinking about what they would desire in such and such circumstances.
-
-Normative Cognitivism: Normative judgments are truth-apt, even though they are not descriptive. The conditions for truth is not based on a correspondence theory of truth. A normative judgment X can be said to be true of an agent A just in case an A could not reject X after idealization of his rational faculty, i.e. X is the upshot of rational idealization. For example, people cannot believe strictly contradictory propositions (i.e. P and ~P), thus it is irrational to believe in inconsistent propositions (i.e. P and Q where, without being realized by A, Q -> ~P) because if one's rational faculties where idealized (i.e. one believed that Q -> ~P), then one could not believe in the inconsistent propositions.
