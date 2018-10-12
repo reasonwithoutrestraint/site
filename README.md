@@ -19,7 +19,7 @@ Expresssivists
 - (1) C.L. Stevenson, "The Emotive Meaning of Ethical Terms"
 - (3) R.M. Hare, "Meaning and Criteria" and "Description and Evaluation", from _The Language of Morals_
 - (1) P.T. Geach, “Ascriptivism”
-- {2) Philippa Foot, “Moral Beliefs”
+- (1) Philippa Foot, “Moral Beliefs”
 
 Error Theory
 - (1) J.L. Mackie, "The Subjectivity of Values", from _Ethics: Inventing Right and Wrong_
@@ -30,33 +30,34 @@ Reasons
 - (1) Stephen Darwall, "Reasons, Motives, and the Demands of Morality", from _Moral Discourse & Practice_
 - (1) Bernard Williams, "Internal and External Reasons", from _Moral Luck_
 - (2) Philippa Foot, "Morality as a System of Hypothetical Imperatives"
+- (2) Michael Smith, "The Externalist Challenge", from _The Moral Problem_
 
-Naturalists
+Naturalism
 - (1) Michael Smith, "The Expressivist Challenge", from _The Moral Problem_
 - (1) Michael Smith, "An Anti-Humean Theory of Normative Reasons", from _The Moral Problem_
 - (1) Peter Railton, "Moral Realism", from _Facts, Values, and Norms_
-- (1) Mark Timmons & Terry Horgan - "New Wave Moral Realism meets Moral Twin Earth"
+- (1) Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
 - (2) Frank Jackson, "Moral Functionalism and Moral Motivation"
 - (3) R.M. Firth, "Ethical Absolutism and the Ideal Observer"
 
-Non-Naturalists
+Non-Naturalistm
 - (1) Russ Shafer-Landau, _Moral Realism: A defense_ (chs. 1-3)
 - (2) T.M. Scanlon, _Being Realistic About Reasons_ (ch. 2)
 - (2) Terence Cuneo, _The Normative Web_ (ch. 3)
 - (2) David Enoch, _Taking Morality Seriously_ (ch. 3)
 
-Sensibility Theorists
+Sensibility Theory
 - (2) David Wiggins, "A Sensible Subjectivism?"
 - (2) John McDowell, "Values and Secondary Qualities"
 - (2) Justin D'Arms, "Two Arguments for Sentimentalism"
 
-Non-Cognitivists
+Non-Cognitivism
 - (1) Allan Gibbard, "Analyses" from _Wise Choices, Apt Feelings_
 - (2) Simon Blackburn, "How to Be an Ethical Antirealist", from _Essays in Quasi-Realism_
 - (2) Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
 - (2) Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
 
-Constructivists
+Constructivism
 - (1) Sharon Street, "What is Constructivism in Ethics and Metaethics?"
 - (1) Christine Korsgaard, "The Sources of Normativity"
 - (2) Sharon Street, "A Darwinian Dilemma for Realist Theories of Value"

@@ -23,7 +23,7 @@ Normative Judgments
 
 According to existence internalism with regard to reasons: A has normative reason to X iff X would be a motivating reason for A insofar as A is rational. Thus, R is a reason for agent A if and only if R is the upshot of informed rational/informed deliberation. Normative reasons are the output of correct deliberation from one's motivational reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C.
 
-Everyone agrees that "sound deliberative route" requires that the deliberation not be based on false beliefs. Some conceptions of what counts as a "sound deliberative route" include:
+Everyone agrees that "sound deliberative route" requires that the deliberation not be based on false beliefs, btu some give more substantive accounts as what counts as correct deliberation. Mich Smith, for example, appears eerily externalists in that he believes that he believes there are some non-self-defeating desires (e.g. considering only one's personal desires at the expense of everyone else's) that would not be held by fully rational creatures.
 
 ### Constructivism
 
@@ -46,12 +46,14 @@ An agent A has a reason to X in circumstances C if and only if an ideal version 
 - Being free of psychological compulsions, physical addictions, emotional disturbances.
 - Systematically unified desires.
 
+Williams and Smith think this allows for the creation and destruction of underived desires via imagination and, for Smith, the focus on unification. Smith takes a more radical approach in that he believes certain seemingly arational desires (e.g. desiring value only one's interests at the expense of others) are irrational.
+
 ### Problems 
 
 The characterization of full rationality should not make reference to any normative terms and not make too many substantive assumptions about what this consists in. Otherwise, it doesn't really inform us of what to do. That said, some problems with the proposals so far, and existence internalism in general, are that they don't seem to be able to account for the following actions that it seems we have reason to follow, independent of what is in our motivational set: 
 
 * Preparing oneself to satisfy future ends.
-* Preferring intrinsic desires that are more likely to be satisfied. This may be accounted for if the given conception of full rationality allows for the creation and destruction of new underived desires, which Williams and Smith think it does (Williams thinks imagination can create new intrinsic desires, Smith extends the ability to the process of unification).
+* Preferring intrinsic desires that are more likely to be satisfied. This may be accounted for if the given conception of full rationality allows for the creation and destruction of new underived desires, which Williams and Smith think it does.
 
 ## Quasi-truth-apt
 
