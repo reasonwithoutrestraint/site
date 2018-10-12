@@ -49,7 +49,7 @@ The characterization of full rationality should not make reference to any normat
 Some general requirements:
 
 - Judgment Internalism: if A judges that they have normative reason to X, then this usually explains and produces a motivating reason to X.
-- Normative Universalization: the account of normative reasons must apply to reasons for actions, beliefs, and attitudes. Conceivably, these are all attitudes for beliefs are attitudes and reasons for actions are usually characterized in terms of reasons for desires/intentions which are also attitudes.
+- Normative Universalization: the account of normative reasons must apply to reasons for actions, beliefs, and attitudes. Conceivably, these are all attitudes for beliefs are attitudes and reasons for actions are usually characterized in terms of reasons for desires/intentions which are also attitudes. The reason the analysis should be universal is because when we endorse one class of attitudes (e.g. desires or intentions) under deliberation, this seems similar to when we endorse another (e.g. beliefs) under deliberation.
 
 I endorse the world-to-mind fit conception, but I also consider mind-to-world fit possibilities.
 
