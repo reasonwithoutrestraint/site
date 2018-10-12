@@ -50,6 +50,13 @@ Williams and Smith think this allows for the creation and destruction of underiv
 
 ### Problems 
 
+### Structual Problems
+
+- They cannot account for degenerate idealized counterparts. What if a fully idealized counterpart, A+, desired that his less idealized counterpart, A, do something that he didn't have reason to do. What if A+ was viscious? The only way to avoid this conclusion is by assuming that some desire or concern for the sake of others is somehow constitutive of a fully rational agent. But this seems dubious. This is especially dubious for theories that allow any non-self-defeating desire in principle to be rational (unlike, e.g. Smith who thinks that something like this might be constitutive of a fully rational agent). But these seem like poor candidates for an analysis as they are assuming substantive desires as being rational in their analysis.
+- They cannot account for rationality in general. Take an analysis of reasons for belief. A world-to-mind fit analysis might say "A has reason to believe X in C iff an idealized version of himself, A+, would desire that A believed X in C". But this certainly does not seem to be true. Let's assume A+ is concerned ultimately with the welfare of A above all else (which is a dubious assumption as mentioned earlier). Then this certainly makes it possible for there to be cases where A+ desires that A believes X even though A has normative reason to not believe X, e.g. if believing X made A's life worse, even though it was justified. Theories about the direct beliefs of A+ (i.e. "A has reason to believe X iff an idealized version of himself, A+, would believe X in those circumstances") fail because (1) insofar as the idealization involves full information, this is flawed because the reasons to hold a belief are not determined by the truth of that belief, and (2) insofar as the idealization involves full rationality, it is circular.
+
+### Substantive Problems
+
 The characterization of full rationality should not make reference to any normative terms and not make too many substantive assumptions about what this consists in. Otherwise, it doesn't really inform us of what to do. That said, some problems with the proposals so far, and existence internalism in general, are that they don't seem to be able to account for the following actions that it seems we have reason to follow, independent of what is in our motivational set: 
 
 * Preparing oneself to satisfy future ends.
