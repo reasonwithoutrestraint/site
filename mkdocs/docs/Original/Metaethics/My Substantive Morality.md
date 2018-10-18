@@ -14,7 +14,9 @@ To argue for certain fundamental principles:
 
 ## The Good
 
-Possibilties for individual goodness:
+### Individual Instantaneous Goodness
+
+Only one constraint that I'm convinced of for now: in order for something to be good or bad for someone, that person has to be alive. Possibilties for individual goodness:
 
 - Narrow hedonism (sensory pleasure): states of consciousness marked by some distinctive feature
 - Preference hedonism (attitudinal pleasure): preferred states of consciousness
@@ -23,7 +25,11 @@ Possibilties for individual goodness:
 - Objective list theory: knowledge, friendship, etc.
 - Other constraints: S taking attitudinal pleasure in state of affairs P, only when S deserves that pleasure and P deserves to happen.
 
-Collective Goodness:
+### Individual Lifetime Goodness
+
+Faces similar problems as collective goodness. See below:
+
+### Collective Goodness:
 
 - Summation over everyone's individual goodness.
 - Average over everyone's individual goodness.
@@ -32,6 +38,12 @@ Collective Goodness:
 - Small diminishes to someone with high well-being for a large increase to someone with low well-being.
 
 ## The Right - Fundamental moral principles 
+
+Necessary conditions for an action to be morally wrong:
+
+- It must be bad for someone. This is agnostic with respect to one's theory of goodness.
+- It must be the right kind of badness. The following sources of badness don't count:
+    - Someone arbitrarily opposed to an action
 
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 
@@ -51,6 +63,13 @@ Applying FORCEFUL action F to agent A is morally prohibited, unless:
 ### Analysis of political legitimacy & Justice
 
 Can it be reduced to morality? The moral justification of force?
+
+Whether people should have a right to do X cannot reduce to whether X is immoral. Consider the following:
+
+- There are times when X is immoral but people should still have the right to do X. Lying, adultery, cheating in a game with friends, being disloyal, manipulating someone's emotions, being an overall asshole, etc. 
+- There are times when X is not immoral but it can be justified to retract someone's right to do X. These are instances where an individual doing X wouldn't be immoral or even bad, but legalizing X would significantly harm the lives of people in society or a particular group in society. Certain forms of racial discrimination, hard drug usage, selling dangerous products, etc. 
+
+Whether people should have a right to do X cannot reduce to whether it is moral to stop people from doing X. This may handle the above cases, but there are also some exceptions. There are cases where a person should have the right to do X, even though it would be moral to stop him from doing X. And there are cases where a person should not have the right to do X, even though it would be immoral to stop him from doing X.
 
 ### Variations of Libertarianism
 

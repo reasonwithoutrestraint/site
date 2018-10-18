@@ -67,7 +67,7 @@ It seems like we can distinguish different world-to-mind fits based on their rel
 - Desire to X + awareness of the desire (preference to X)
 - Conscious endorsement to X, regardless of desire (goal to X)
 
-Might a goal to X adequately capture a judgment of normative reason? Does conscious endorsement of X amount to a deliberative endoresment of X? What is conscious endorsement? What is deliberative endorsement? Deliberative endorsement can be explained as conscious endorsement after deliberation. The question the is what constitutes conscious endorsement?
+Might a goal to X adequately capture a judgment of normative reason? Does conscious endorsement of X amount to a deliberative endoresment of X? What is conscious endorsement? What is deliberative endorsement? Deliberative endorsement can be explained as conscious endorsement after deliberation. The question the is, what constitutes conscious endorsement?
 
 ### Candidates for a mind-to-world
 
