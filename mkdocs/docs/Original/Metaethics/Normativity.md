@@ -33,3 +33,8 @@ Other considerations concerning the content of normative judgments
 - Right/Wrong kinds of reason
 - Ought implies can & cannot
 - Is/Ought gap -> logical/analytic/synthetic
+
+There are a few different classes of normative judgments:
+- Rational judgments - A has reason to do X
+- Aesthetic judgments - A expresses attitude with regard to X
+- Moral judgments - A encourages the attitudes of others

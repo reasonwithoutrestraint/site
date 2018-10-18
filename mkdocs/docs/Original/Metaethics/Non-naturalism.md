@@ -19,9 +19,10 @@ These objections must not prove too much. Some or all of these features are also
 Each of the above class of statements can be given a constructivist/anti-realist analysis.
 
 Noteably, Hume found that the following cannot be derived from statements about the way the world is:
+
 - Statements about the way the world will be.
 - Statements about the way the world ought to be.
-- Statements about the what caused what.
+- Statements about what caused what.
 
 ## Causal Inertness
 

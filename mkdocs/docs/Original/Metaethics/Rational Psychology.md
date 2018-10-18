@@ -1,4 +1,4 @@
-# Normative Psychology
+# Rational Psychology
 
 ## The Deliberative Perspective
 
@@ -33,16 +33,16 @@ Currently, these include just counterfactual beliefs about one's desires:
 
 #### Fully Rational
 
-To serve as a useful analysis, fully rational must be given a reductive account, i.e. in explaining what it is to judge that one has a normative reason, we should not have to refer back to an unexplained normative judgment. some components of rationality include the following:
+To serve as a useful analysis, fully rational must be given a reductive account, i.e. in explaining what it is to judge that one has a normative reason, we should not have to refer back to an unexplained normative judgment. Some components of rationality include the following:
 
 - The agent holds no false beliefs and all relavent true beliefs.
 - Correct means-end deliberation (generation of a desire to X as a result of combining a desire to Y and a belief that X -> Y).
 - Deciding which desires one places most weight.
-- Uusing imagination to determine how a desire would be satisfied.
+- Using imagination to determine how a desire would be satisfied.
 - Being free of psychological compulsions, physical addictions, emotional disturbances.
 - Systematically unified desires.
 
-The characterization of full rationality should not make reference to any normative terms. Otherwise, it doesn't really illuminate what normativity reasons consist in. Michael Smith's characterization does make use of normative terms (he thinks the concept of "unity" and "truth" is normative), but this is because his account of rationality is irreductive.
+The characterization of full rationality should not make reference to any normative terms. Otherwise, it doesn't really illuminate what normative reasons consist in. Michael Smith's characterization does make use of normative terms (he thinks the concept of "unity" and "truth" is normative), but this is because his account of rationality is irreductive.
 
 ## My Position
 

@@ -1,4 +1,4 @@
-# Normative Correctness
+# Rational Correctness
 
 Forms of truth:
 
@@ -13,11 +13,11 @@ There are plenty of other domains of propositions whereby truth is based on some
 - Causal judgments:
 - Counterfactual judgments: 
 
-Normative Judgments
+Rational Judgments
 
-- Epistemic Normativity: 
-- Prudential Normativity: 
-- Moral Normativity: 
+- Epistemic Rationality: 
+- Prudential Rationality: 
+- Moral Rationality: 
 
 ## Existence Internalism
 
