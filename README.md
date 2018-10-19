@@ -1,3 +1,68 @@
+## Plan
+
+To Read/Summarize:
+- Constructivism
+	- Sharon Street
+		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- "Evolution and the Normativity of Epistemic Reasons"
+	- Gilbert Harman, "Moral Relativism Defended"
+	- David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+	- Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
+- Non-Descriptivism
+	- Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
+	- Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
+	- P.T. Geach, "Ascriptivism"
+	- Allan Gibbard, "Thinking how to Live"
+- Naturalism
+	- Frank Jackson, "Moral Functionalism and Moral Motivation" (Analytic)
+	- Philippa Foot, 
+		- "Moral Beliefs", from _Virtues and Vices_
+		- "Moral Arguments", from _Virtues and Vices_
+		- "Approval and Disapproval", from _Virtues and Vices_
+		- _Natural Goodness_ (Analytic)
+	- Richard Boyd, "How to be a Moral Realist" (Synthetic)
+	- David Brink, _Moral Realism and the Foundations of Ethics_ (ch. 7) (Synthetic)
+- Non-naturalism
+	- Russ Shafer-Landau, _Moral Realism: A defense_ (chs. 1-3)
+	- T.M. Scanlon, _Being Realistic About Reasons_ (ch. 2)
+	- Terence Cuneo, _The Normative Web_ (ch. 3)
+	- David Enoch, _Taking Morality Seriously_ (ch. 3)
+- Sensibility
+	- David Wiggins, "A Sensible Subjectivism?"
+	- John McDowell, "Values and Secondary Qualities"
+	- Justin D'Arms, "Two Arguments for Sentimentalism"
+- Error Theory
+	- JL Mackie - "The Subjectivity of Values"
+
+Read:
+- Constructivism
+	- Christine Korsgard, "The Sources of Normativity"
+	- Sharon Street, "A Darwinian Dilemma for Realist Theories of Value"
+	- Christine Korsgaard, "Skepticism about Practical Reasons"
+- Naturalism
+	- Peter Railton - "Moral Realism" (Synthetic)
+	- Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
+- Reasons
+	- Bernard Williams, "Internal and External Reasons"
+- Non-Descriptivism
+	- CS Stevenson, "The Emotive Meaning of Ethical Terms"
+	- Simon Blackburn, "How to Be an Ethical Antirealist",
+
+Summarized:
+
+- Constructivism
+	- Sharon Street, "What is Constructivism in Metaethics"
+	- Sharon Street, "Constructivism about Reasons"
+- Non-Descriptivism
+	- Allan Gibbard, Wise Choices, Apt Feelings
+	- AJ Ayer, "Critique of Ethics"
+- Naturalism
+	- Michael Smith, The Moral Problem (irreductive)
+- Error Theory
+	- JL Mackie, "The Subjectivity of Values"
+- Non-naturalism
+	- GE Moore, "The Subject Matter of Ethics"
+
 ## Introduction
 
 ### Historical
@@ -18,8 +83,9 @@ Expresssivists
 - (1) A.J. Ayer, "Critique of Ethics and Theology", from _Language, Truth, and Logic_ (ch 6)
 - (1) C.L. Stevenson, "The Emotive Meaning of Ethical Terms"
 - (3) R.M. Hare, "Meaning and Criteria" and "Description and Evaluation", from _The Language of Morals_
-- (1) P.T. Geach, “Ascriptivism”
-- (1) Philippa Foot, “Moral Beliefs”
+- (1) P.T. Geach, "Ascriptivism"
+- (1) Philippa Foot, "Moral Beliefs"
+- (2) Philippa Foot, "Moral Arguments"
 
 Error Theory
 - (1) J.L. Mackie, "The Subjectivity of Values", from _Ethics: Inventing Right and Wrong_
@@ -73,7 +139,7 @@ Constructivism
 	- Essays: Simon Blackburn - _Essays in Quasi-realism_
 	- Chapter: Mark Schroeder - _Noncognitivism in Ethics_ (chs 6-8)
 	- Chapter: Huw Price - _Naturalism without Mirrors_ (ch. 11)
-	- Chapter: Michael Ridge - _Impassioned Belief (chs. 4 & 7)
+	- Chapter: Michael Ridge - _Impassioned Belief_ (chs. 4 & 7)
 - Non-descriptivism
     - Book: Mark Timmons - _Morality without Foundations_
     - Book: Hilary Putnam - _Ethics without Ontology_
@@ -98,11 +164,13 @@ Constructivism
     	- Essays: Richard Boyd - _Essays on Moral Realism_ (esp "How to be a Moral Realist")
 		- Book: David Brink - _Moral Realism and the Foundations of Ethics_ (ch. 7) (nonreductive)
 		- Essay: David Brink - "A posterriori objections to moral realism" 
+		- ??? Sturgeon
 		- Essay: Mark Timmons & Terry Horgan - "New Wave Moral Realism meets Moral Twin Earth"
 	- Analytic Naturalism
 		- Essay: Frank Jackson - "Moral Functionalism and Moral Motivation"
 	- Neo-Aristotelian
     	- Book: Phillipa Foot - _Natural Goodness_
+		- Essays: Phillipa Foot - _Virtues and Vices_
     	- Book: Paul Bloomberg - _Moral Reality_
 - Non-naturalism
 	- Book: Russ Shafer-Landau - _Moral Realism: A defense_ (chs. 1-3)
