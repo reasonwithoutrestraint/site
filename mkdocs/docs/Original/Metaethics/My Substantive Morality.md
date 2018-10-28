@@ -158,14 +158,14 @@ Left-Leaning:
 
 - Abortion
     - No restrictions
-- Universal Healthcare
-    - If its effective, go for it
-- Gay marriage
-    - Federally legal
 - Criminal justice
     - Rehabilitation and safety, not retribution
     - Decriminalize drugs, don't care if legal
-- Subsidized higher education loans
+- Gay marriage
+    - Federally legal
+- Subsidized Healthcare
+    - If its effective, go for it
+- Subsidized Education
     - Only awarded to those likely to repay them (based on e.g. test scores, grades, etc.)
     - Only have to be paid off after acquiring a certain income level
 

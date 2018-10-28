@@ -17,23 +17,15 @@ Forms of non-reductive naturalism, which deny 3 and 4 (e.g. David Brink and Nich
 
 *Normativity reduced to Tautology*. While it may be appropriate for an analytic reduction to be nontrivial, it is not appropriate that an analytic reduction could ever provide one with a *reason* for action. If normative concept M can be analytically reduced to natural concept N, then saying "N is M" would be a tautology, and thus could provide no reason for action. For example, if goodness could be analytically reduced to pleasure, then if someone said "pleasure is good", then this would be equivalent to saying "pleasure is pleasure" or "goodness is goodness". But presumably the claim "pleasure is good" is supposed to provide someone with reason for action. But no tautology such as "pleasure is pleasure" or "goodness is goodness" could ever provide a reason or motive for someone to promote pleasure.
 
+*Additional information of Normative Terms*. If we know that A believes that X has natural property N and he later says that "X has moral property M", then we have always learned something new about A.
+
 Response: deny that all analytic reductions must be trivial and uninformative. Counter: Explain why the normative instance of the paradox of analysis differs from other cases. Normative judgments are supposed to provide reasons for action. In other cases, we would be fine to abandon the terms being analyzed (i.e. no problem switching from "knowledge" to "justified true belief"). But this is not true in the normative case.
-
-### Agent Attitude Independent
-
-*Lack of Normativity/Motivation*.
 
 ### Agent Attitude Dependent
 
 #### Actual Attitudes
 
 *Lack of normative-motivational failures*. There must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action (i.e. what they value) and the agent's motivating reasons for action (i.e. what they desire). A theory that merely reduces normative judgments to mere desires cannot account for this.
-
-#### Moral Analysis
-
-This concerns theories that analyze "X is morally good" in the form of one's (idealized, hypothetical, or actual) personal desires, preferences, sentiments, etc.
-
-*Lack of Moral Disagreement*. Assume two people do agree that the meaning of moral terms reduces to some subjective account, e.g. "X is morally right" means "I approve of X" or "I desire X" or even "I would approve of X were I fully rational" (Where X is a determinate action). When these two people disagree about whether X is to be done, they aren't even disagreeing. One is saying "I desire doing X" and the other is saying "I do not desire doing X". But these are not incompatible claims. Even assuming they're making claims about their fully rational desires, and even assuming fully rational agents always formed the same desires in the same circumstances, these two claims would not necessarily be in conflict, since the differing *circumstances* of the two agents could justify having different desires. In general, a judgment that A do X, where predicating X is understood as a subjective belief, tends to vanish as one learns that A's reluctance to X is not caused by any sources of irrationally, i.e. free of psychological compulsions, emotional disturbances, physical addictions (think art, humor, taste, etc.). However, a judgment that A morally ought to X tends to persist despite learning that A's reluctance to X is not caused by irrationality.
 
 #### Idealized or Hypothetical Attitudes
 
@@ -53,6 +45,6 @@ This may be satisfactory as a theory of the truth conditions of normative judgme
 
 ### Cornell Realism
 
-These take a *causal reference theory* for moral terms, because a causal reference theory is the standard theory of reference for natural kind terms. This rejects the *description theory of reference*. What determines whether a natural property is good is not whether it has the attributes ascribed to it by the term "good", but whether it causally regulates our use of the word "good". We are looking not at the semantic attribution behind the term, but rather at the properties causally responsible for that word. This is similar to how we use the word "health". When we say that someone is "healthy", it's unclear what the *meaning* of that might be. However, we can determine what property "healthy" *refers to* by finding what causally regulates our use of the term "health".
+These take a *causal reference theory* for moral properties, because a causal reference theory is the standard theory of reference for natural kind terms. This rejects the *description theory of reference*. What determines whether a natural property is good is not whether it has the attributes ascribed to it by the term "good", but whether it causally regulates our use of the word "good". We are looking not at the semantic attribution behind the term, but rather at the properties causally responsible for that word. 
 
-These arguments attack theories of the following form: A judges that he has normative reason to do X iff descriptive relation R holds involving A and X *because* of some contingent linguistic practice of his culture of his own personal definition, i.e. A judges that he has normative reason to do X iff he judges that X has the properties which causally explain our use of a "normative reason". Contrast this with analytic naturalistic theories that are not based on contingent linguistic conventions: e.g. A judges that he has normative reason to do X iff A believes that he would desire to do X if he were fully informed, consistent, etc. *because* this is constituitive of rational agency (regardless of any linguistic conventions).
+This is similar to how we use the word "health". When we say that someone is "healthy", it's unclear what the *meaning* of that might be. "Healthiness" is a complex natural property that is not directly observable. Thus, "healthiness" cannot be *equated* with any simpler set of properties that are directly observable. However, we can determine what property "healthy" *refers to* by finding what causally regulates our use of the term "health". This can be done by looking at the simpler set of properties that *are* directly observable; these would be *indicators* of "healthiness" rather than *equivalent*. "Healthiness" thus has a robust causal profile, which means the property of being healthy can figure into causal explanations of our observations. Much the same is true of moral properties.

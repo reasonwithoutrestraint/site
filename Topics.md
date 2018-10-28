@@ -8,6 +8,19 @@ Philosophy
 - DarkMatter2525 - 650k
 - TheThinkingAtheist - 260k
 
+Left Political
+- Kyle Kulinski - 600k
+- David Pakman - 500k
+- Sam Seder - 400k
+- Contrapoints - 300k
+
+Right Political
+- Louder with Crowder - 2.8m
+- Jordan Peterson - 1.5m
+- The Daily Wire - 1.1m
+- Stefan Molyneux - 900k
+- Lauren Southern - 700k
+
 General
 - CGPGrey - 3.5M
 - Kurzgesagt - 6.6M

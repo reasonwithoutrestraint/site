@@ -25,12 +25,16 @@ Some uses of language
 (3) Express attitudes (not report)
 (4) Evoke/shapes attitudes
 
+Expressing vs Reporting
+
 Examples
 
-Necessity of shoaping attitudes/beliefs
+Necessity of shaping attitudes/beliefs
 
 (1) Evolutionary need (see: Gibbard)
 (2) Modern need
+
+### Subconscious versus conscious uses of language 
 
 ### Dynamic and descriptive meaning
 

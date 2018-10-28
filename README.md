@@ -1,18 +1,29 @@
 ## Plan
 
 To Read/Summarize:
-- Constructivism
-	- Sharon Street
-		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
-		- "Evolution and the Normativity of Epistemic Reasons"
-	- Gilbert Harman, "Moral Relativism Defended"
-	- David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-	- Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
+- Reasons
+	- (Summarize) Bernard Williams, "Internal and External Reasons"
 - Non-Descriptivism
-	- Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
-	- Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
 	- P.T. Geach, "Ascriptivism"
 	- Allan Gibbard, "Thinking how to Live"
+	- CS Stevenson, 
+		- (Summarize) "The Emotive Meaning of Ethical Terms"
+		- (Summarize) "Ethical Disagreement"
+	- (Summarize) Simon Blackburn, "How to Be an Ethical Antirealist",
+	- Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
+	- (Summarize) Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
+- Constructivism
+	- Essays: _Constructivism in Practical Philosophy_
+	- Christine Korsgard 
+		- (Summarize) "The Sources of Normativity"
+		- (Summarize) "Skepticism about Practical Reasons"
+	- Sharon Street
+		- (Summarize) "A Darwinian Dilemma for Realist Theories of Value"
+		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- "Evolution and the Normativity of Epistemic Reasons"
+	- (Summarize) Gilbert Harman, "Moral Relativism Defended"
+	- David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+	- Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
 - Naturalism
 	- Frank Jackson, "Moral Functionalism and Moral Motivation" (Analytic)
 	- Philippa Foot, 
@@ -20,8 +31,11 @@ To Read/Summarize:
 		- "Moral Arguments", from _Virtues and Vices_
 		- "Approval and Disapproval", from _Virtues and Vices_
 		- _Natural Goodness_ (Analytic)
-	- Richard Boyd, "How to be a Moral Realist" (Synthetic)
-	- David Brink, _Moral Realism and the Foundations of Ethics_ (ch. 7) (Synthetic)
+	- Cornell Realists
+		- (Summarize) Peter Railton - "Moral Realism"
+		- Richard Boyd, "How to be a Moral Realist"
+		- David Brink, _Moral Realism and the Foundations of Ethics_ (ch. 7)
+		- (Summarize) Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
 - Non-naturalism
 	- Russ Shafer-Landau, _Moral Realism: A defense_ (chs. 1-3)
 	- T.M. Scanlon, _Being Realistic About Reasons_ (ch. 2)
@@ -33,20 +47,6 @@ To Read/Summarize:
 	- Justin D'Arms, "Two Arguments for Sentimentalism"
 - Error Theory
 	- JL Mackie - "The Subjectivity of Values"
-
-Read:
-- Constructivism
-	- Christine Korsgard, "The Sources of Normativity"
-	- Sharon Street, "A Darwinian Dilemma for Realist Theories of Value"
-	- Christine Korsgaard, "Skepticism about Practical Reasons"
-- Naturalism
-	- Peter Railton - "Moral Realism" (Synthetic)
-	- Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
-- Reasons
-	- Bernard Williams, "Internal and External Reasons"
-- Non-Descriptivism
-	- CS Stevenson, "The Emotive Meaning of Ethical Terms"
-	- Simon Blackburn, "How to Be an Ethical Antirealist",
 
 Summarized:
 
@@ -71,6 +71,7 @@ Early Works
 - (3) Divine Command - Proponents(?), Euthyphro
 - (3) Aristotle
 - (3) Utilitarians - Bentham, Mill
+- (2) Thomas Hobbes
 - (1) David Hume - "Moral distinctions not deriv'd from reason" and "Moral distinctions deriv'd from a moral sense" from _A Treatise of Human Nature_ "Book 3: Of Morals"
 
 Non-naturalists
@@ -144,14 +145,16 @@ Constructivism
     - Book: Mark Timmons - _Morality without Foundations_
     - Book: Hilary Putnam - _Ethics without Ontology_
 	- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
+	- Essays: _Constructivism in Practical Philosophy_
 - Constructivism
 	- Lecture: Christine Korsgard - "The Sources of Normativity"
 	- Essays: Sharon Street
 		- "What is Constructivism in Ethics and Metaethics"
 		- "Constructivism about Reasons"
 		- "A Darwinian Dilemma for Realist Theories of Value"
-		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 		- "Evolution and the Normativity of Epistemic Reasons"
+		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- "In Defense of Future Tuesday Indifference"
 	- Chapter: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
 	- Essay: David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
 	- Essay: Jay Wallace - "Constructivism About Normativity: Some Pitfalls"
@@ -231,7 +234,7 @@ Companion:
 
 Metaethics
 
-- Also add David Hume, Kant, Mill, Sigwick
+- Also add Hobbes, David Hume, Kant, Mill, Sigwick
 - G. E. M. Anscombe, Modern Moral Philosophy
 - Philippa Foot, Virtues and Vices and Natural Goodness
 - David Gauthier, Morals by Agreement
