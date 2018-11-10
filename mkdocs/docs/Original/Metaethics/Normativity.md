@@ -1,5 +1,61 @@
 # Normativity
 
+## Overview
+
+1. Normative Plattitudes
+	- Ubiquity
+	- Deliberative
+	- Motivational
+	- Disagreement
+	- Supervenience
+2. Normative Unification
+	- Reasons
+3. Normative Psychology
+	- World-to-mind fit
+		- Non-cognitivist
+	- Mind-to-world fit
+		- Ideal Observer
+		- Dispositionalism
+4. Normative Correctness
+	- Existence Internalism
+		- Constructivist
+		- Humean Theory
+		- Ideal Observer
+5. Moral Psychology 
+	- Expressions of sentiment
+	- Attempts to invoke sentiments
+6. Moral Correctness
+	- Reasons for moral attitudes
+	- Social rationality
+	- Reasons deriving from relationships
+	- Aesthetic morality and justice morality 
+7. Objectivity
+	- Contingent upon interests
+	- Not externally justified
+8. Moral Principles
+	- Goodness/Badness
+		- Reason for an individual to promote/desire
+		- Individual Instantaneous Goodness
+		- Lifetime Goodness
+		- Collective Goodness
+	- Rightness/Wrongness
+		- Reason for a society to approve/praise/disapprove/resent
+		- Wrongness requires something bad for someone
+		- Large increases justify small deficits   
+9. Political Principles
+	- Egalitarian Libertarian
+	- Social Ownership
+10. Political Views
+	- Abortion: Radical Pro-choice
+	- Education: Robust Subsidization
+	- Healthcare: Robust Subsidization
+	- Gay Marriage: Mandated Legalized
+	- Crimally Justice: Radical Rehabilitation
+	- Welfare: Non-dsygenic
+	- Affirmative Action: Ineffective
+	- Immigration: Skilled, Required labor only
+	- Discrimination: Legal in some circumstances
+
 ## Normative Plattitudes
 
 The following features are constituitive of normative judgments:
@@ -14,6 +70,14 @@ Showing these plattitudes:
 
 1. See Korsgaard's work: animals believe what they perceive, and act based on their desires. Humans don't just take perceptions and desires at face-value; we reason and think about whether these perceptions/desires justify beliefs/actions. There is a cognitive, conscious process of normative reasoning standing between perceptions/desires and actions. This is normative reason. This doesn't necessarily commit me to saying that normative truth consists in what is entailed from this, but only that we all participate in normative reasoning. Normative truth might, e.g. consist in what is entailed from normative reason under proper conditions.
 2. All synthetic judgments beliefs stem from normative reasoning, either deductive reasoning (e.g. for a priori judgments) or inductive reasoning (e.g. for a posteriori judgments). Not only is there the normative approval or deductive/inductive reasoning as a form of reasoning, but also the normative judgment that particular propositions follow from inductive reasoning. E.g. a person might think they accept inductive reasoning for non-normative reasons; fine, but it is still a normative question whether a particular belief inductively follows in any non-trivial set of experiences.
+
+General requirements for a theory of truth for any domain
+
+- Epistemic:
+	- Explanatory: In order for A to be justified in believing P, it must be the case that P's being true explains why A believes P.
+- Ontology
+	- Explanatory: theory P is more credible than theory Q if P better explains our observations.
+	- Parsimony: theory P is more credible than theory Q if it invokes fewer assumptions.
 
 ## Normative Unification
 
@@ -38,3 +102,20 @@ There are a few different classes of normative judgments:
 - Rational judgments - A has reason to do X
 - Aesthetic judgments - A expresses attitude with regard to X
 - Moral judgments - A encourages the attitudes of others
+
+## General Strategy
+
+Strategy for determining normative truth
+- Non-cognitivism about rationality
+- Constructivism for rational truth (coherence)
+- Quasi-cognitivism for emotional appropriateness
+- Non-cognitivism about morality
+- Constituitive features of moral reasoning/discussion
+- Social Constructivism for moral truth
+- Truth conditions for regulating approval/disapproval
+	- ???
+- Truth conditions for coercive laws for any given scope of government
+	- Widespread Disagreement
+		- Social Constructivism -> Libertarianism
+	- Widespread Agreement
+		- Social Constructivism -> Optional: Libertarianist, Socialist, Authoritarian, etc.

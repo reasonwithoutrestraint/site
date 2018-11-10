@@ -1,26 +1,17 @@
-
-Conceptually irreducible domains of propositions:
-
-- Logical
-- Descriptive
-- Normative
-- Modal
-- Counterfactual
-- Probabilistic
-- Causation
-
-
 Epistemically irreducible domains:
 
-- Logical
-- Descriptive
-    - Current Descriptions
-    - Subjective Skepticism
-        - Perceptions -> Current Descriptions
-        - Memories -> Past Descriptions
-    - Inductive Skepticism
-        - Past Descriptions -> Future Descriptions
-        - Observed Descriptions -> Unobserved Descriptions
+- Subjective
+    - Perceptions -> Reality
+    - Memories -> Past
+- Deductive
+- Inductive
+    - Past -> Future
+    - Observed -> Unobserved
+- Abductive
+	- Falsifiability
+	- Generality
+	- Parisomony
+	- Explanatory
 - Normative
     - Goals -> Reasons
     - Future Reasons -> Current Reasons
@@ -30,3 +21,9 @@ Epistemically irreducible domains:
     - Counterfactual
     - Probabilistic
     - Causation
+
+Some distinctions
+- Analytic vs Synthetic reductions
+- Obvious vs non-obvious analytic reductions
+- Perceiving/feeling X and judging X
+- Holding attitude X and judging X to be reasonable

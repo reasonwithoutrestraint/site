@@ -4,7 +4,7 @@ Relationship of Analytic, A Priori, Necessary:
     - A Priori
         - Necessary
             - *Definitional*: "A triangle has three sides".
-- Synthetic, A Priori
+- Synthetic,
     - A Priori
         - Necessary
             - *Logical*: "A triangle's angles sum to 180 degrees".

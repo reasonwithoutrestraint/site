@@ -101,13 +101,55 @@ Political Issues
 Political
 - Group Success - Degeneracy is the norm, positive efforts must be made to reverse the trend. 
 - Group Success - Determined by internal factors, behavior/characteristics resembles narrow culture.
+	1. Success not determined by broader society
+	2. IQ determines success
+	3. IQ fixed after adulthood
+	4. IQ inherited
+	5. Success inherited
+		- Chinese/Jews/Igbo successful across all regions
+		- Blacks unsuccessful across countries, states, cities
+		- Indigeneous groups unsuccessful ubiquitously
+	6. IQ changes track cultural changes
 - Group Differences - Genetic component of racial IQ differences, and changes.
-- Group Differences - Disparities does not imply discrimination. Disparities between groups of the same race (can't be discrimination). Disparities always persist.
-- Black America: State of Disparities - IQ, Poverty, Imprisonment, Education, Income, Wealth, Health.
-- Black America: State of Cultural Failures - Violence, Anti-intellectualism, Unfit Reproduction. Materialism, Wealth building. Main cause of death homicide for young black men. "Acting white". Teenage births, births before marriage, births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. Similar income, different wealth.
-- Black America: Cause of Cultural Failures - jim crow, slavery, lack of policing or govenrment support, welfare, discrimination, no skills after slavery.
-- Black America: Solutions to Cultural Failures - Internal economic success trumps external political support. Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement
-- Black America: Solutions for Cultural Failures - Mild preference/separation. see Jews, Chinese, etc. American Blacks would be 10th richest nation. America can't seem to find middleground between oppression and paternalism. Both are harmful so long as Blacks are dependent on America. So seperate.
+- Group Differences: 
+	- Disparities does not imply discrimination. 
+	- Disparities between groups of the same race (can't be discrimination). 
+	- Disparities always persist.
+- Black America: State of Disparities: 
+	- IQ, 
+	- Poverty/Income/Wealth, 
+	- Crime/Imprisonment, 
+	- Education, 
+	- Health.
+- Black America: Cause of Disparities:
+	- Not white supremacy: Asian Americans continuously successful
+	- Not racism against Blacks: African immigrants successful
+	- Not (mere) poverty: poor Asians/Whites do well.
+	- Not (mere) poverty + racism: poor high-IQ blacks do well.
+	- Internal factors (e.g. IQ, work ethic) determines success, see above for more info on this. (Poverty can be an internal factor). Dual Parent Households influence poverty/success.
+- Black America: State of Cultural Failures:
+	- Anti-intellectualism. "Acting white"
+	- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
+	- Violence. Homicide = main cause of death for young black men.
+	- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
+	- Wealth building. Similar income, different wealth.
+	- Impulsivity.   
+- Black America: Cause of Cultural Failures:
+	- Slavery, 
+	- No skills after slavery.
+	- Jim crow,
+	- Lack of policing or government support, 
+	- welfare, 
+	- Discrimination
+- Black America: Solutions to Cultural Failures 
+	- Internal economic success trumps external political support. 
+	- Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement
+- Black America: Solutions for Cultural Failures 
+	- Mild preference/separation. 
+	- See Jews, Chinese, etc. 
+	- American Blacks would be 10th richest nation. 
+	- America can't seem to find middleground between oppression and paternalism. 
+	- Both are harmful so long as Blacks are dependent on America. So seperate.
 - Affirmative Action (consequences)
 - White Nationalists, they don't matter.
 

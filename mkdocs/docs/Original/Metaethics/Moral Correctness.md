@@ -32,13 +32,33 @@ This is kind of siimilar to "thick" ethical concepts, except with sentimentalism
 
 ### Distinctively moral attitudes
 
-One feature of moral norms, as opposed to other norms, is that they are concerned with the appropriateness of distinctively moral attitudes, as opposed to non-moral attitudes such as beliefs, amusement, fear, etc. Some characterizations of moral attitudes
+One feature of moral norms, as opposed to other norms, is that they are concerned with the appropriateness of distinctively moral attitudes, as opposed to non-moral attitudes such as beliefs, amusement, fear, etc. Some characterizations of moral attitudes.
 
-- Moral attitudes are generic evaluative attiudes expressing approval or disapproval.
-- Moral attitudes are particular evaluative attitudes with constitutive features.
-    - Only directed at the features of an agent's character, not necessarily the effect of their actions.
-    - A blames B if B's behavior impaired their relationship and A modifies his attitudes toward B. 
-- Moral attitudes are sanctions/rewards for modifying social behavior.
+Two classes of moral attitudes:
+1. Generic attitudes of approval/disapproavl
+2. Specific natural emotions: anger, guilt, shame, etc.
+
+Non-cognitive features of generic attitudes:
+- *Expressive*: Moral attitudes are generic evaluative attiudes expressing approval or disapproval.
+- *Prescriptive*: Moral attitudes are tools for modifying social behavior.
+
+Quasi-cognitive features of generic attitudes: moral attitudes may have constitutive standards of correctness:
+- *Moral engagement implies receptivity*. It doesn't make sense for A to disapprove of B doing X unless B is receptive to A's opinion on B's doing X. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense it B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make senes for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, alien,s etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
+- *Moral engagement implies consistency*. When one sincerely issues a moral judgment, it is taken that they are willing to hold themselves to that judgment.
+- *Moral engagement implies reasons for others to accept*. This is similar to the receptivity point. Except this is saying that A not only expects B to be receptive when A issues a moral norm, but also that A believes it is rational for B to follow the norm, at least contingent upon certain interests, desire, etc.
+
+Specific Natural Emotions:
+- While some natural emotions (e.g. fear) have specific constitutive conditions for their appropriateness, it seems moral emotions might not. E.g. the appropriateness of anger can not be understood in purely non-normative terms; fear is appropriate only when someone has been wronged.
+
+### Norms deriving from constructed relationships
+
+- Morality is a constructed game that we choose to play. (1) it is not rationally required that we play the game, and (2) there is no method that can 100% persuade someone to play the game if they are not interested. Fortunately, most people play the morality game. So while there are no independent norms to be moral, there may be norms that follow from anyone who is concerned with morality (i.e. Kantian constructivism). This can be shown by considering the constituitive aspects of moral discussion and moral reasoning:
+	- Moral discussion implies a willingness to cooperate and negotiate from all parties. If no parties are concerned with cooperation or negotiation, then there can be no moral discussion.
+	- Moral discussion implies that people will respect the norms which they agree to.
+	- More discussion implies a search for reasons that all can accept.
+	- Analogy with other domains: there are no independent norms telling people how to move small pieces on a small checkered board. However, to the extent that someone is concerned with playing chess, there are certain standards of correct/incorrect conduct for those behaviors. Another example, to engage in a *discussion* or *conversation* with someone, one implies that they will listen to the other party, not cut them off, etc. even though there may be no independent reason to do thees things. To engage in a *negotiation* implies that people are willing to sacrifice or deviate from their most preferred plan to help satisfy the interests of others. Now, one might have no reason to do these things (i.e. if they had full power), but then they wouldn't be negotiating. They would be bad negotiators. 
+- To stand in a certain relation to someone (e.g. friend, lover, partner, cooperator, self-respecting individuals, etc.) has certain expectations for behavior by the parties involved. To the extent that someone violates these expectations, it is appropriate to not extend those behaviors to them, since they would now stand outside of the relationship. 
+- This might work for friends and ettiquette (i.e. to the extent that someone doesn't uphold the standards of good friendship, ettiquette, it is appropriate to not treat them as a friend, or with ettiquette). Maybe it also works for aesthetic morality. But maybe this doesn't work for forceful morality (maybe if someone is immoral, we still have moral obligations towards them, i.e. we can exclude them from society, but we cannot kill them).
 
 ### Reasons with an interpersonal/social constraint
 
@@ -48,11 +68,6 @@ Moral reasons can be distinguished from practical reasons in that the moral reas
 - Moral norms = reasons that follow after considering everyone's individual goodness equally.
 - Moral norms = norms no one could reasonably reject as a basis for unenforced, informed cooperation. Agent A can reasonably reject norm N if A's decreased individual goodness from N is more important than others' increased individual goodness.
 
-### Norms deriving from constructed relationships
-
-- To stand in a certain relation to someone (e.g. friend, lover, partner, cooperator, self-respecting individuals, etc.) has certain expectations for behavior by the parties involved. To the extent that someone violates these expectations, it is appropriate to not extend those behaviors to them, since they would now stand outside of the relationship. 
-- This might work for friends and ettiquette (i.e. to the extent that someone doesn't uphold the standards of good friendship, ettiquette, it is appropriate to not treat them as a friend, or with ettiquette). Maybe it also works for aesthetic morality. But maybe this doesn't work for forceful morality (maybe if someone is immoral, we still have moral obligations towards them, i.e. we can exclude them from society, but we cannot kill them).
-
 ### Moral reasons = practical reasons
 
 - Valuing anything requires valuing the capacity to value.
@@ -61,8 +76,9 @@ Moral reasons can be distinguished from practical reasons in that the moral reas
 ### Some notes
 
 - Moral reasons become actual prudential reasons contingent upon an agent taking into account the interests of others.
-- This makes blaming/shaming a tool rather than evaluation. Thus, they would be appropriate insofar as the agent in question could be motivated by the attitudes. This may seem to focus too much on the utility of blame/shame at the expense of whether blame/shame is truly *appropriate* (i.e. whether the blame is warranted or deserved). However, it seems that we already have an intuition that blame is only warranted/deserved when an agent could be motivated by the considerations prompting the blame. For example, you wouldn't blame animals, children, aliens or bonified human enemies. Not only does blame seem inappropriate in those cases, it also doesn't seem that the concept of warranted/deserved blame applies in those circumstances. Blame/shame is reserved for persons who have already implicitly agreed to coordinate with us and take into account our interests. The same goes for social approval/disapproval generally.
+- This makes blaming/shaming a tool rather than evaluation. Thus, they would be appropriate insofar as the agent in question could be motivated by the attitudes. This may seem to focus too much on the utility of blame/shame at the expense of whether blame/shame is truly *appropriate* (i.e. whether the blame is warranted or deserved). However, it seems that we already have an intuition that blame is only warranted/deserved when an agent could be motivated by the considerations prompting the blame. For example, you wouldn't blame animals, children, aliens or bonified human enemies. Blame/shame is reserved for persons who have already implicitly agreed to coordinate with us and take into account our interests. The same goes for social approval/disapproval generally.
 - Rational requirements are not binding for all agents. They are binding only for *rational* agents. Likewise, moral requirements are not binding for all agents or all rational agents. They are binding only for *moral* agents, i.e. those who happen to already take an interest in the coordination/cooperation involved in fitting with society.
+
 
 ## Two forms of moral norms
 

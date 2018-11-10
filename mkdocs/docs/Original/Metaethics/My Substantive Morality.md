@@ -31,9 +31,9 @@ Faces similar problems as collective goodness. See below:
 
 ### Collective Goodness:
 
-- Summation over everyone's individual goodness.
-- Average over everyone's individual goodness.
-- No reducible metrics; only pareto optimal solutions.
+- *Summation*
+- *Average*
+- *Pareto optimality*
 - Distributions that would be preferred by everyone if they didn't know where they would fall within the distribution.
 - Small diminishes to someone with high well-being for a large increase to someone with low well-being.
 
@@ -119,6 +119,28 @@ Nevertheless, equal-share libertarianism is probably a close approximation of my
 2. some sort of communal property is possible. People can join together and form communities where they own all the property within that community amongst themselves (which includes SOME control over the bodies of the individuals living there). Within these communities, the extent to which people can then enforce more positive, substantive laws, is based on the extent to which: (a) people are free to exit the community, (b) there is sufficient equal valuable resources outside of the community, and (c) the impact of these laws has significant effects on the lives of others. Note that this communal property probably isn't justified on any self-ownership principle; rather, it's justified because such property may be necessary for promotion of certain peoples' values/interests. In fact, there are levels to the extent that property is communal vs. private:
 	- The larger the scope of a region that's communally owned, the more communal it is and the less private it is. Communal properties that are mostly private (e.g. small neighborhoods) can enforce larger constraints on behavior than larger communal properties that are mostly communal (e.g. cities). The reason smaller communities are afforded by restrictions is because conditions (a), (b) and (c) are more likely to be met. Smaller, more restricting communities, may be required to pay into a federal fund that that acts to sustain areas of the land where only libertarian laws are enforced, so that (a) and (b) are truly satisfied. Insofar as one cannot escape such a community (or if all available property is used up), compensation is obligatory for individuals (in the form of safety net, welfare, redistribution, etc.). 
 	- Rather than thinking of (a) private property and (b) communal property in this binary fashion, it may be more useful to think of all property on a scale that goes from private to communal. The more private the property is, the stronger the full ownership rights will be. The more communal the property is, the weaker the rights will be. Note that nothing is fully private, not even a person's body (since I have shown that one's body may sometimes be controlled by others if it promotes the agent's values/interests). The extent to which property is private versus communal (i.e. the nature/strength of the ownership rights of that property) depends on the extent to which ownership of said property influences the values/interests of others. The more impactful ownership of certain property is to certain people (e.g. the only lake in the country), the more communal that property ought to be, among those people. The less impactful ownership of that property is to certain people (e.g. one of many empty plots of land in the city), the more property that property ought to be. Handling use of communal property should be done via a mechanism that best promotes the values/interests of the subjects involved, giving more weight to individuals influenced more by the property.
+
+- When coercion can be used against an agent. One of the following conditions
+	- Libertarian Principles
+		- Explicit/Implicit Consent
+		- The agent is too irrational/uninformed to consent.
+		- The agent coerces a different agent. E.g. violence, fraud, theft, etc.
+		- The agent uses more than their fair share of resources AND this causally stifles attempts from others to use their fair share. Monopoly,
+	- Extra-libertarian principles
+		- Necessities for a basic standard of life in exchange for small taxation/regulation of others. Police, Firefighting, Education, Healthcare, *some* Anti-discrimination laws 
+		- Optional, democratic choices from local communities for a way of life (e.g. Regulation, ). More requirements
+			- People must be free to exit the communities freely.
+			- There is sufficient valuable resources outside of the community.
+			- The lack of said laws must make people in some way materially worse off.
+			- The laws should be necessary achieve said goal. 
+
+Broader laws are mandatory, non-negotiable. Local laws are decided democratically. Note also that the broader laws tend to be more libertarian whereas the local laws have the potential to be more authoritarian. In principle, the broader laws could be more authoritarian in different countries where there is homogenous culture where everyone agrees to some authoritarian rules. 
+
+Perhaps, the ideal laws for a given region are simply the upshot of norms of the culture of that region. For homogenous societies, they are free to enforce whatever rules they prefer. However, when a region has a large diversity of opinion, then the range of acceptable laws narrows. The ideal laws for a region are the laws that it would be rational for that region to accept. However, if the views of a region are so diverse, then the only laws that it would be rational for a region to accept would be minimal libertarian laws that emphasized freedom and liberty. Laws regulating international affairs are the extreme of this: the only international laws there are are basic respect for the sovereignty of nations, protection from genocide, etc.
+
+Coercive laws for members of group G are justified if and only if such laws would be approved of by fully informed and fully rational members of group G assuming they sought coercive laws to regulate behavior. A law is appropriate for group G only if it is the upshot of ideal social construction. Whent here is broad disagreement
+
+Question: how to show that disagreement implies that libertarianism and freedom are the proper ideals.
 
 ## Particulars
 
