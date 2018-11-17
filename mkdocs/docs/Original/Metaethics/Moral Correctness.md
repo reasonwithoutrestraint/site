@@ -96,6 +96,7 @@ Aesthetic morality:
 - On another reading, these emotions have no constitutive meaning per se. They are mere tools to regulate society. As such, these emotions are warranted insofar as they promote the good of society (just as with individual rationality), i.e. positive states of consciousness, etc. The good of society should also be constrained in some way by consideration of the interests the agents who are issued duties, for it is assumed that all agents have reason to be moral.
 - Sits somewhere between ettiquette and objective morality below, and is probably blurred in some way with ettiquette. 
 - If a moral statement is true in this sense for a person, then they would be motivated to respect its law if they were informed/rational.
+- Based on positive/negative states of consciousness.
 
 Justice morality: 
 
@@ -104,7 +105,8 @@ Justice morality:
 - The evaluation here does not depend on the nature of our emotions. To say that force is (un)justified in this sense is not just to say that the force warrants blame/praise, since doing so depends on contingent nature of blame/praise. Indeed, there might be just uses of force that warrant blame, or unjust uses of force that warrant praise (depending on the nature of our emotions). 
 - This is objective and universal across all rational beings, even those lacking our particular emotions of blame/praise, even those lacking consciousness or an experience of well-being. So a group of rational beings may have no basis for morality in the aesthetic sense, yet they would have it in this justice sense.
 - This would also be the sort of action that grounds political authority. 
-- Moral statements might be true in this sense, but a person need not have any motivation or even reason to respect its law in any particular circumstances (even if they were fully informed/rational). They would have a reason, rather, to support the construction of rules which society agrees to respect.
+- Moral statements might be true in this sense, but a person need not have any motivation or even reason to respect its law in any particular circumstances (even if they were fully informed/rational). They would have a reason, rather, to support the construction of rules which society agrees to respect contingent upon an interest for such rules.
+- Based on liberty, not any states of consciousness.
 
 Three types of norms regulating behavior:
 

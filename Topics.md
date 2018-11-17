@@ -13,6 +13,7 @@ Left Political
 - David Pakman - 500k
 - Sam Seder - 400k
 - Contrapoints - 300k
+- Shaun - 150k
 
 Right Political
 - Louder with Crowder - 2.8m
@@ -98,7 +99,7 @@ Political Issues
 - Affirmative Action (principle)
 - Discrimination
 
-Political
+Group Success
 - Group Success - Degeneracy is the norm, positive efforts must be made to reverse the trend. 
 - Group Success - Determined by internal factors, behavior/characteristics resembles narrow culture.
 	1. Success not determined by broader society
@@ -122,18 +123,24 @@ Political
 	- Education, 
 	- Health.
 - Black America: Cause of Disparities:
-	- Not white supremacy: Asian Americans continuously successful
-	- Not racism against Blacks: African immigrants successful
-	- Not (mere) poverty: poor Asians/Whites do well.
-	- Not (mere) poverty + racism: poor high-IQ blacks do well.
-	- Internal factors (e.g. IQ, work ethic) determines success, see above for more info on this. (Poverty can be an internal factor). Dual Parent Households influence poverty/success.
+	- Not Oppression
+		- Not white supremacy: Asian Americans continuously successful
+		- Not racism against Blacks: African immigrants successful
+	- Not individual/household poverty
+		- Poor Asians/Whites do well.
+		- Poor high-IQ individuals (including blacks) do well.
+	- Communal Poverty? Maybe
+	- Internal factors (e.g. IQ, work ethic, Single-parenthood influence poverty/success.) determines success, see above for more info on this. (Poverty can be an internal factor). 
 - Black America: State of Cultural Failures:
-	- Anti-intellectualism. "Acting white"
-	- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
-	- Violence. Homicide = main cause of death for young black men.
-	- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
-	- Wealth building. Similar income, different wealth.
-	- Impulsivity.   
+	- Specifics, can be measured
+		- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
+		- Violence. Homicide = main cause of death for young black men.
+		- Anti-intellectualism. "Acting white"
+		- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
+		- Wealth building. Similar income, different wealth.
+	- General, constituted by the specifics
+		- Impulsivity   
+		- Hedonism
 - Black America: Cause of Cultural Failures:
 	- Slavery, 
 	- No skills after slavery.
@@ -150,8 +157,6 @@ Political
 	- American Blacks would be 10th richest nation. 
 	- America can't seem to find middleground between oppression and paternalism. 
 	- Both are harmful so long as Blacks are dependent on America. So seperate.
-- Affirmative Action (consequences)
-- White Nationalists, they don't matter.
 
 Metaphysics
 - Determinism/Free Will/Compatibilism
@@ -256,14 +261,6 @@ Normatively, several ways to justify:
 	    It should be up to the people to decide. How SHOULD the people decide?:
 		    1. Necessary conditions for them to value AA: It is empirically effective.
 		    2. Plus, one of the following: (a) they value equal opportunity AND race differences exceed class differences, and (b) they value diversity for its own sake.
-
-### Success/Failure of Groups
-- Internal Acts vs External Acts
-- Oppression
-    - Useful versus non-Useful definitions 
-    - How to respond under any definition
-- Interracial Relations: costs and benefits
-- Default of groups is degeracy; force is needed to be pulled out
 
 ### IQ & Academic Achievement
 

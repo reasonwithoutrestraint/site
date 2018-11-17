@@ -25,7 +25,17 @@ Some uses of language
 (3) Express attitudes (not report)
 (4) Evoke/shapes attitudes
 
-Expressing vs Reporting
+Ways to communicate attitudes
+1. Descriptive (precludes disagreement)
+	- Reporting the attitude (e.g. "X seems yellow")
+	- Reporting how certain people are disposed to have the attitude in certain conditions (e.g. "X is yellow because it would seem yellow to normal humans").
+2. Direct Expressive (too simple)
+	- Expressing the attitude (expressing the seemingness of yellow)
+	- Expressing a disposition to have the attitude
+3. Higher Order Expressive
+	- Expressing a judgment that a certain attitude is appropriate. (sensibility theory, compatible with cognitivism or non-cognitivism).
+	- *That* judgment would itself be an attitude. I.e. expressing a pro-attitude towards a certain attitude being had in response to a certain stimuli.
+Expressing vs Reporting an attitude.
 
 Examples
 

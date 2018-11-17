@@ -1,4 +1,6 @@
-Epistemically irreducible domains:
+Epistemic First Principles:
+
+Rules of inference
 
 - Subjective
     - Perceptions -> Reality
@@ -23,7 +25,8 @@ Epistemically irreducible domains:
     - Causation
 
 Some distinctions
-- Analytic vs Synthetic reductions
-- Obvious vs non-obvious analytic reductions
-- Perceiving/feeling X and judging X
-- Holding attitude X and judging X to be reasonable
+- Non-obvious conceptual reductions - The concept "yellow" is the concept of having the surface reflectance properties to invoke the sensation of yellow in normal human observers.
+- Non-conceptual property reductions - The property "yellow" *is* the property of reflecting light of wavelength XYZ.
+- Necessary property coextension versus property reduction - some argue that the only way that property P is necessarily coextensive with property Q is if they are the same property.
+- Perceiving/feeling X and judging X - Perceiving X to be yellow (having a certain sensation) =/= Believing X to be yellow (believing that normal humans are disposed to have the sensation).
+- Holding attitude X and judging X to be reasonable. 
