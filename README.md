@@ -13,7 +13,7 @@ To Read/Summarize:
 	- Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
 	- (Summarize) Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
 - Constructivism
-	- Essays: _Constructivism in Practical Philosophy_
+	- Essays: _Constructivism in Practical Philosophy_ (book)
 	- Christine Korsgard 
 		- (Summarize) "The Sources of Normativity"
 		- (Summarize) "Skepticism about Practical Reasons"

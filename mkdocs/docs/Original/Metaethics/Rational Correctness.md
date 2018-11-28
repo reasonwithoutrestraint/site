@@ -1,5 +1,13 @@
 # Rational Correctness
 
+The Moral Problem
+
+1. Rational: Moral duties provide agents with reason for action.
+2. Categorical: Moral duties apply to all agents (some infer an independence of any agent's desires). 
+3. Internalism: Practical reasons are necessarily dependent on desires.
+4. Contingency: There are no necessary desires in all rational agents
+5. Success Theory: There are moral truths.
+
 Forms of truth:
 
 ## Alternative conceptions of truth
@@ -34,6 +42,29 @@ See: Christine Korsgaard, Sharon Street, (Bernard Williams?)
 The fact that X is a reason to Y for agent A is constituted by the fact that the judgment that X is a reason to Y (for A) withstands scrutiny from the standpoint of A's other judgments about reasons. Note that X is never a reason in favor of Y, absolutely. X can only be in favor of Y for some particular agent, as determined by the standards set by the normative judgments of A himself. 
 
 A normative judgment withstands scrutiny for an agent only if the agent could mantain the judgment in full awareness, which is determined by the constituitive standards of the attitude in question. For example, someone who judges that X is a reason to Y cannot also simultaneously and in full awareness judge that X is not a reason to Y (consistency is constitutive of normative judgments). Also, one cannot take oneself to have conclusive reason to Y without taking oneself to have reason to take the means to Y (means-end reasoning is constituitive of normative judgments). The force of *cannot* is not rational, but what is *constituitive* of the concept of forming normative judgments. These standards of correctness are legislated by the very person making the normative judgments. This allows that one can be genuinely mistaken about their normative judgments only insofar as they are not in full awareness of certain relevant features of their judgments.
+
+### Constituitive Features
+
+The central question is how to determine what requirements are constitutive of a type of behavior. One candidate is this: a requirement is constituitive of a behavior if no agent could consciously reject the requirement in full awareness.
+
+Logical Consistency. One basic constituitive feature of normative judgments (and thuoghts generally) is logical consistency. No person can consciously believe X and believe not-X in full awareness.
+
+#### Epistemic
+
+- Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
+- Abduction: 
+- Induction: 
+- Causation: 
+
+#### Prudential
+
+- Desires: the reason that a desire to X tends to provide one with reason to X is (1) people tend to judge that they have reason to X if they desire to X, and (2) all intentional actions are done because of some desire; if they are not done because of a desire, then they would be involuntary actions. 
+- Instrumental Reasoning: one cannot take oneself to have conclusive reason to X without taking oneself to have reason to take the means to X. Part of what it is to judge one has a reason to X consists of judging one to have a reason to adopt the means.
+- Pain/Suffering: the reason that pain/suffering provides one with reason to avoid it is precisely because people judge that they have reason to avoid it (or they have an unreflective aversion towards it). If a person had no aversion toward pain and didn't judge that they had reason to avoid it, then there would be no actual reason to avoid it. It is not the pure sensation of pain that provides us with reason to avoid it. 
+
+### Competing reasons
+
+The most fundamental question is how to determine what one ought to do when there are some considerations that give one reason to X and some considerations that give one reason to not-X. This is especially important for moral considerations when weighing reasons from different agents.
 
 ## Human Theory of Rationality
 

@@ -1,14 +1,23 @@
 # Rational Psychology
 
-## The Deliberative Perspective
+The Moral Problem
 
-*Maybe there is a third perspective, in between the deliberative and the intentional, the notion of a non-deliberative decision that does not manifest itself into an intention. For example, consider someone lying their bed who decides to grab a piece of cake to eat, but this doesn't manifest itself in the form of an intention because the person is too lazy. This would be a consciously endorsed desire, but not the active desire (i.e. intention). Further, we can imagine that this is not a deliberatively endorsed desire, if e.g. the person also believed that he shouldn't eat the cake.
+1. Moral judgments are truth-apt.
+2. Truth-apt judgments must be beliefs (i.e. descriptive).
+3. Moral judgments are intrinsically motivating.
+4. Beliefs are not sufficient for intrinsic motivation.
+
+## The Deliberative Perspective
 
 Intentional action can be explained from two perspectives, the *intentional* and the *deliberative*. From the intentional perspective, intentional action can be explained by citiing *motivating reasons*, i.e. by citing a belief-desire pair that fits into a pattern of teleological explanation. From the deliberative perspective, intentional action can be explained by citing *normative reasons*, i.e. by citing a pattern of rational deliberation that either did, or could have, produced it. This involves citing the considerations that one reflects over in deciding what to do. 
 
-The deliberative perspective must be explanatory because when we decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes towards the propositions that figure in our deliberations must be capable of figuring an explanation of our action. However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action and the agent's motivating reasons for action.
+The deliberative perspective must be explanatory because when we decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes towards the propositions that figure in our deliberations must be capable of figuring an explanation of our action. 
 
-Vaguely, to judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which are the sources of one's *motivating reasons*, the explanation of their intentional behavior. The question is to determine what it is to form deliberative endorsement of an action. Is it a desire, belief of some sort, etc.
+However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action and the agent's motivating reasons for action.
+
+To judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which are the sources of one's *motivating reasons*, the explanation of their intentional behavior. Voluntary actions can be explained by a belief and desire; these actions are done on the basis of normative reasnoing insofar as deliberation and reflection play a role in how the belief and desire manifest into action, e.g. if deliberation influences what one desires, which desires are actualized, etc. The question is to determine what it is to form deliberative endorsement of an action. Is it a desire, belief of some sort, etc?
+
+*Maybe there is a third perspective, in between the deliberative and the intentional, the notion of a non-deliberative decision that does not manifest itself into an intention. For example, consider someone lying in their bed who decides to grab a piece of cake to eat, but this doesn't manifest itself in the form of an intention because the person is too lazy. This would be a consciously endorsed desire, but not the active desire (i.e. intention). Further, we can imagine that this is not a deliberatively endorsed desire, if e.g. the person also believed that he shouldn't eat the cake.
 
 ## Competing Analyses
 
@@ -57,7 +66,7 @@ I endorse the world-to-mind fit conception, but I also consider mind-to-world fi
 
 ### World-to-mind
 
-Normative judgments, or deliberative endorsement, is a world-to-mind state of mind. This best explains why people who judge that they have normative reason to X are disposed to X. If it was a mere mind-to-world state of mind, then there would have to be some additional world-to-mind state of mind that explained why one's deliberation influences their motivation. 
+Normative judgments, or deliberative endorsement, is a world-to-mind state of mind. This best explains why people who judge that they have normative reason to X are disposed to X. If it was a mere mind-to-world state of mind, then there would have to be some additional world-to-mind state of mind that explained why one's deliberation influences their motivation, and *this* state of mind would be the core feature of normative judgments.
 
 However, it doesn't seem that they are best characterized as desires. It seems clear that normative judgments and desires can sometimes diverge. Might there be other forms of world-to-mind fit not adequately characterized as a desire? Goals and preferences seem to be a distinctive form of world-to-mind fit. And we can clearly understand how one might not have a desire to achieve one of their goals. It seems like the distinction between desires and goals and similar to the distinction between desires and values.
 
@@ -83,7 +92,8 @@ This may be able to satisfy the judgment internalism thesis. As a person would b
 
 However, it doesn't seem that this is what we're doing when we deliberate. It seems we're figuring out what to do, we're searching for an answer to a practical problem, not trying to discover what we would do in some far off circumstances.
 
-Further, there are two problems with general mind-to-world fit strategies:
+Further, there are problems with general mind-to-world fit strategies:
 
 - They cannot account for degenerate idealized counterparts. What if a fully idealized counterpart, A+, desired that his less idealized counterpart, A, do something that he didn't have reason to do. What if A+ was viscious? The only way to avoid this conclusion is by assuming that some desire or concern for the sake of others is somehow constitutive of a fully rational agent. But this seems dubious. This is especially dubious for theories that allow any non-self-defeating desire in principle to be rational. Smith thinks that something like this might be constitutive of a fully rational agent. But these seem like poor candidates for an analysis as they are assuming substantive desires as being rational in their analysis.
 - They cannot account for rationality in general. Take an analysis of reasons for belief. A world-to-mind fit analysis might say "A judges that he has normative reason to believe X in C iff he believes that an idealized version of himself, A+, would desire that A believed X in C". But this certainly does not seem to be true. Let's assume A+ is concerned ultimately with the welfare of A above all else (which is a dubious assumption as mentioned earlier). Then this certainly makes it possible for there to be cases where A+ desires that A believes X even though A has normative reason to not believe X, e.g. if believing X made A's life worse, even though it was justified. Theories about the direct beliefs of A+ (i.e. "A judges that he has normative reason to believe X iff he believes that an idealized version of himself, A+, would believe X in those circumstances") fail because (1) insofar as the idealization involves full information, this is flawed because the reasons to hold a belief are not determined by the truth of that belief, and (2) insofar as the idealization involves full rationality, it is circular.
+- It seems conceivable that an agent could believe that they would do X under any circumstance C without judging themselves to have a normative reason to X.

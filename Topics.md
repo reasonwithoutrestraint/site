@@ -59,22 +59,7 @@ Some insights that I haven't seen explored elsewhere
 Topics where I have enough substance/content to make a video/essay:
 
 Metaethics:
-- Ubiquity of normative judgments
-- Goal of metaethics: meaning, psychology, epistemology, ontology
-- Normative reduction
-- Non-cognitive analysis
-    - The Central Problem
-    - Against Non-Naturalism
-    - Against Naturalism (OQA)
-    - OQA against cognitivism, no inherent motivation
-    - Non-cognitive expressions/prescriptions are evolutionarily necessary.
-- Cognitive revision
-    - See our judgments regarding whether an argument is rational. 
-    - Quasi-Truth: Judgments can be rational, but not true. Supervenience, Consistency, Coherence, etc. may be enough for "truth".
-    - Standards: Constructivist/Constituitive standards for some dispositions, Ideal Dispositionist for others.
-    - Objectivity: Rationality of a judgment independent of our belief in its rationality. Not robust objectivity, not independent of any minds.
-- Morality as a normative domain
-- Morality as rationally optional, cannot be externally justified
+- Several videos
 
 Normative Philosophy
 - Against Utilitarianism.
@@ -175,27 +160,6 @@ Metaphysics
 
 Other
 - Unnecessary Linguistic disputes - meanings of racism, moral terms, free will, knowledge, atheism, etc.
-
- 
-## Entertainment
-
-* Time travel: going to different universes or changing the actual universe.
-* Omnipotence/afterlife: 
-	1. What if there was an afterlife?
-    2. In the afterlife you were omnipotent?
-	3. What would you do after achieving all of your goals?
-	4. Repeat life fresh?
-	5. Delete memory?
-* Talking to God
-
-## Philosophical Argumentation
-
-### Intro Philosophical
-
-* Logical tautology/validity/satisfiability/soundness
-* Linguistic: Analytic vs Synthetic
-* Ontological: Necessary vs Contingent
-* Epistemological: A priori vs experiential
 	
 ### Metaphilosophical:
 

@@ -1,5 +1,36 @@
 # Substantive morality
 
+- Reasons are contingent, subjective constructions.
+- Moral discussions committed to reasons for all.
+- Moral discussions committed to methodological objectivity.
+- Moral obligations exist only for those contingently engaged in moral discussions.
+- Moral truth = socially constructed.
+- More disagreement -> more libertarian principles.
+
+- Moral Principles
+	- Goodness/Badness
+		- Reason for an individual to promote/desire
+		- Individual Instantaneous Goodness
+		- Lifetime Goodness
+		- Collective Goodness
+	- Rightness/Wrongness
+		- Reason for a society to approve/praise/disapprove/resent
+		- Wrongness requires something bad for someone
+		- Large increases justify small deficits   
+- Political Principles
+	- Egalitarian Libertarian
+	- Social Ownership
+- Political Views
+	- Abortion: Radical Pro-choice
+	- Education: Robust Subsidization
+	- Healthcare: Robust Subsidization
+	- Gay Marriage: Mandated Legalized
+	- Crimally Justice: Radical Rehabilitation
+	- Welfare: Non-dsygenic
+	- Affirmative Action: Ineffective
+	- Immigration: Skilled, Required labor only
+	- Discrimination: Legal in some circumstances
+
 ### Types of moral arguments
 
 To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
@@ -204,6 +235,10 @@ Right-Leaning:
 - Affirmative Action
     - Ineffective insofar as it admits students of low standards
     - Don't care otherwise
+- Discrimination
+    - Not inherently wrong
+    - Wrong if its arbitrary
+    - Wrong as a means of systematic oppression
 
 Other:
 
@@ -212,7 +247,3 @@ Other:
     - Less encouragement for college
     - Add practical skills
     - Add values.
-- Discrimination
-    - Not inherently wrong
-    - Wrong if its arbitrary
-    - Wrong as a means of systematic oppression

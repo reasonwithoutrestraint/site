@@ -41,3 +41,9 @@ Rebuttal against 2:
     - They bite the bullet and say that we should force people to donate blood in these circumstances. Okay, but the impact of the responsibility is different. In the case of abortion, no being has their life deprived whereas in the case of the voluntary danger, someone's life has been deprived.
     - They bite the bullet and say that we should be forced to donate blood to people when we put them in circumstances where they need blood, even if they would not have been alive anyway.
 - Philosophical first principles: liberty
+
+(1) There is no morally relevant difference between detaching in the Modified Blood Transfusion Hypothetical and and detaching in pregnancy.
+(2) If there is no morally relevant difference between action X and Y, then X and Y must be given the same moral evaluation.
+(3) It is morally permissible to detach in the Modified Blood Transfusion Hypothetical.
+(4) (from 1 & 2) Detaching in the Modified Blood Transfusion Hypothetical must be given the same moral evaluation as detaching in pregnancy.
+(5) (from 3 & 4) Detaching in pregnancy is morally permissible.

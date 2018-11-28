@@ -22,16 +22,16 @@ Rejections:
 
 Incompatible:
 
-1. Moral truths provide duties independent of any agent's contingent desires.
-2. Moral truths provide duties necessary practical reasons (perhaps even overriding).
+1. Moral duties provide agents with reason for action.
+2. Moral duties apply to all agents (some infer an independence of any agent's desires). 
 3. Practical reasons are necessarily dependent on desires.
 4. There are no necessary desires in all rational agents
 5. There are moral truths.
 
 Rejections (among truth-apt positions): 
 
-1. Rejected by subjectivists.
-2. Rejected by morality-reasons externalists.
+1. Rejected by morality-reasons externalists.
+2. Rejected by subjectivists.
 3. Rejected by non-Humean theories of rationality.
 4. Rejected by metaphysical egoists.
 5. Rejected by error-theorists.

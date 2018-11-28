@@ -1,10 +1,42 @@
 # Moral Correctness
 
-## Moral Reasons
+- Ascriptive
+	- Non-naturalist
+	- Naturalist
+		- Asentimentalism
+		- Sentimentalism
+			- Simple Subjectivism
+			- Dispositionalism
+			- Rational Sentimentalism
+- Constructivist
 
-### Constructivism
+Two kinds of moral reasons and two different standards of truth
+1. Aesthetic morality: truth predicated on the appropriateness of moral attitudes. This will be rational sentimentalism (assuming there is anything constituitive of moral attitudes) or dispositionalism.
+2. Constructivist morality: truth predicated not on the appropriateness of moral *attitudes*, but on the standards implicit in moral *discussion*. Implicit in moral discussion is that the considerations that each parties presents counts as *reasons* for the other party to take into account.
+
+## Constructivism
 
 Moral propositions are not true based on some *correspondence*. We *construct* moral truth.
+
+Now, there is no reason for an action that is not the rational extension of an agent's desires, ends, goals, etc. So there can be no morality that provides reasons independent of contingent aims, goals, etc. This is fine. Science works like this as well. Moral reasons are reasons that follow contingent on certain ends. The question is, what are the ends that are constituitive of morality? It is important that we do not arbitrarily choose certain ends that seem favorable, as there would be no basis for this. We cannot choose ends that are constituitive of a moral *feeling* or *judgment*, as there are no restrictions implicit in such an emotion. Instead, we look to moral *argument* and moral *discussion* and find what is implicit in such discussions.
+
+Standards of correctness. Some examples:
+* Explicit: if someone says "X is P", then we can look at the *content* of that proposition to determine some standards of correctness. E.g. if we were to also say "X is not P", then by merely looking at the *content*, we could deduce that the proposition must be incorrect.
+* Hard Implication: if someone were to speak "I am not speaking", we could not look purely at the *content* of the proposition to determine whether it were false. If we know nothing about a person, then such a proposition could be true or false. Instead, we look at the *assertion* of the statement, whether than the *content* of the statement, to determine that the statement must be false.
+* Soft Implication: in moral discussion, the *issuing* of a moral command implies that the receiver has reason to follow the rule. 
+	- What's implicit in *moral* discussion
+	- Discussions generally?
+	- Negotiations?
+
+Implications of A advocating for a norm in moral discussion:
+- (Regulative) A thinks the the norm should regulate our actions, our societal standards for shame/praise, and individual standards for guilt/pride. 
+- (Impartial) A thinks the norm applies to everyone, including himself.
+- (Individual Motivational) A *is disposed to* regulate his behavior as prescribed by the norm.
+- (Individual Rationality) A *thinks that he has reason to* regulate his behavior as prescribed by the norm.
+- (Communal Motivation) A thinks others are *capable* of being motivated to regulate their behavior in accord with the norm; they are capable of being receptive to the reasons favoring the norm.
+- (Communal Reason) A thinks others have *reason to* regulate their behavior in accord with the norm.
+
+## Sentimentalism
 
 ### Dispositionalism
 
