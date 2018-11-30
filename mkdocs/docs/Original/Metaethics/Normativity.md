@@ -1,22 +1,31 @@
 # Normativity
 
+## Introduction
+
+### Applies Ethics, Normative Ethics and Metaethics
+
+### The failure of reflective equilibrium and the need for metaethics
+
 ## Metaethical Positions
 
-- ? Truth-apt?
-	- No, Non-cognitivism
-	- Yes, Cognitivism
-		- ? Normative Properties?
-			- No, Non-descriptivism / Constructivism
-			- Yes, Descriptivism
-				- ? Natural Properties?
-					- No, Non-naturalism
-					- Yes, Naturalism
-						- ? Analytic Reduction?
-							- Yes, Analytic Naturalism
-							- No, Synthetic Naturalism
-						- ? Objective ?
-							- No, Dispositionalism / Subjectivism
-							- Yes, Realism / Objectivism
+Framework
+
+1. Plattitudes of normativity
+2. Psychology of reasons
+	- Non-cognitivism
+	- Connection between explanatory and normative reasons
+3. Nature of reasons
+	- Constructivism
+	- Internalism (reasons internal to rationality)
+4. Nature of rationality
+	- Deliberation/Reflective
+5. Moral psychology
+	- Non-cognitivism
+6. Moral correctness
+	- Constructivism
+	- Implicit commitments of moral argument
+	- Sentimentalism
+7. Objectivity
 
 ## Plattitudes
 
@@ -122,7 +131,7 @@ However, normative judgments are not best characterized as desires. It seems cle
 
 ### Existence Internalist
 
-A has normative reason to X iff X would be a motivating reason for A insofar as A is rational. Thus, R is a reason for agent A if and only if R is the upshot of sound rational deliberation. In other wrods, normative reasons are the rational extensions of one's motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C. 
+R is a normative reason for A to X iff R would be a motivating reason for A to X insofar as A is rational and A was aware of R. Thus, R is a reason for agent A if and only if R is the upshot of sound rational deliberation. In other wrods, normative reasons are the rational extensions of one's motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C. 
 
 The question is then how to account for what "rational extension" and "sound deliberative route" consists in. At the very least, this seems to require logical consistency. A constructivist account of normativity can explain what rational extension consists in generally.
 

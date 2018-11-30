@@ -140,38 +140,87 @@ Radical right libertarianism (not lockean; unilateralist): holds that that there
 
 ### My Theory
 
+#### Equal Share Libertarianism
+
+Note: might wanna change "values/interests" to "material opportunity". Since (1) cases of compensation are not focused per se on increasing the welfare of the agents, but on compensating for their lost negative liberty; and (2) people are free to form more substantive communal laws not because this necessarily increases their welfare, but because not allowing them to do that (and forcing them to live in a libertarian society) deprives them of some negative liberty.
+
 My theory does not prioritize self-ownership in the sense that people should necessarily have full control over their bodies (and therefore property) as indicated above. Rather, I prioritize the values/interests of individuals. I believe that an individual's values/interests cannot be significantly suppressed/limited in promotion of someone else's values/interests. Note that supressing/limiting values/interests is not the same as controlling one's body. There may be instances where controlling one's body does not significantly suppress/limit their values/interests, or even where controlling one's body actually promotes their values/interests. This means that, under special circumstances, others can control A's body against A's will, but only it is in the promotion of A's interests or values. 
 
 I'm not sure what these "special circumstances" consist in, but one trivial example where such force can be exerted is this: when A is intoxicated or when is uninformed. Perhaps the circumstance is this: whenever A's values/interests commits himself to be controlled by others in a certain situation. The reason this allows for force is because people can be wrong about their values/interests and therefore force (rather than, say, reason) may be the only way to promote their values/interests.
 
+#### Equal Share + Communal Property
+
 Nevertheless, equal-share libertarianism is probably a close approximation of my own view. If I were to try to modify this conception to be in agreement with my view, it would have the following caveats: 
 
-1. rather than compensation being required whenever one uses/appropriates more than their per capita share, compensation is required when an initial agent uses/appropriates so much that others actually attempt to, but are prevented from, attaining an equal share as the initial agent. It is necessary but not sufficient that others be unable to use/appropriate an equal share. It must also be shown that such individuals actually attempted to get such a share. If they never tried to use/appropriate such a share to begin with, then they are owed nothing, since their interests/values were never limited in promotion of someone else's.
-2. some sort of communal property is possible. People can join together and form communities where they own all the property within that community amongst themselves (which includes SOME control over the bodies of the individuals living there). Within these communities, the extent to which people can then enforce more positive, substantive laws, is based on the extent to which: (a) people are free to exit the community, (b) there is sufficient equal valuable resources outside of the community, and (c) the impact of these laws has significant effects on the lives of others. Note that this communal property probably isn't justified on any self-ownership principle; rather, it's justified because such property may be necessary for promotion of certain peoples' values/interests. In fact, there are levels to the extent that property is communal vs. private:
-	- The larger the scope of a region that's communally owned, the more communal it is and the less private it is. Communal properties that are mostly private (e.g. small neighborhoods) can enforce larger constraints on behavior than larger communal properties that are mostly communal (e.g. cities). The reason smaller communities are afforded by restrictions is because conditions (a), (b) and (c) are more likely to be met. Smaller, more restricting communities, may be required to pay into a federal fund that that acts to sustain areas of the land where only libertarian laws are enforced, so that (a) and (b) are truly satisfied. Insofar as one cannot escape such a community (or if all available property is used up), compensation is obligatory for individuals (in the form of safety net, welfare, redistribution, etc.). 
-	- Rather than thinking of (a) private property and (b) communal property in this binary fashion, it may be more useful to think of all property on a scale that goes from private to communal. The more private the property is, the stronger the full ownership rights will be. The more communal the property is, the weaker the rights will be. Note that nothing is fully private, not even a person's body (since I have shown that one's body may sometimes be controlled by others if it promotes the agent's values/interests). The extent to which property is private versus communal (i.e. the nature/strength of the ownership rights of that property) depends on the extent to which ownership of said property influences the values/interests of others. The more impactful ownership of certain property is to certain people (e.g. the only lake in the country), the more communal that property ought to be, among those people. The less impactful ownership of that property is to certain people (e.g. one of many empty plots of land in the city), the more property that property ought to be. Handling use of communal property should be done via a mechanism that best promotes the values/interests of the subjects involved, giving more weight to individuals influenced more by the property.
+Note that "local community" means "more local than the global community", so a country counts as a "local community".
 
-- When coercion can be used against an agent. One of the following conditions
-	- Libertarian Principles
-		- Explicit/Implicit Consent
-		- The agent is too irrational/uninformed to consent.
-		- The agent coerces a different agent. E.g. violence, fraud, theft, etc.
-		- The agent uses more than their fair share of resources AND this causally stifles attempts from others to use their fair share. Monopoly,
-	- Extra-libertarian principles
-		- Necessities for a basic standard of life in exchange for small taxation/regulation of others. Police, Firefighting, Education, Healthcare, *some* Anti-discrimination laws 
-		- Optional, democratic choices from local communities for a way of life (e.g. Regulation, ). More requirements
-			- People must be free to exit the communities freely.
-			- There is sufficient valuable resources outside of the community.
-			- The lack of said laws must make people in some way materially worse off.
-			- The laws should be necessary achieve said goal. 
+1. Rather than compensation being required whenever one uses/appropriates more than their per capita share, compensation is required in a local community when an initial agent uses/appropriates so much that others *actually attempt to*, but are prevented from, attaining an equal share as the initial agent. 
+	- Examples of those forced to compensate
+		- Monopolies that own all the resources. Individual companies physically hogging resources.
+		- Economic societies as a whole that materially value only certain traits, e.g. certain cognitive ability (under capitalism), certain race (under racist capatilistic society), etc.; people without these characteristics cannot have a decent life. People who benefit from a system must compensate those who were harmed by the system.
+	- Examples of compensation
+		- Redistribution
+		- Safety nets: disability, unemployment
+		- Anti-discrimination laws
+2. Some sort of communal property is possible. People can join together and form communities where they own all the property within that community amongst themselves (which includes SOME control over the bodies of the individuals living there). 
+	- Within these communities, the extent to which people can then enforce more positive, substantive laws, is based on the extent to which:
+		- (a) the extent to which there is agreement in values within the community
+		- (b) people are free to exit the community, 
+		- (c) there is sufficient equal valuable resources outside of the community, and 
+		- (d) the impact of these laws has significant effects on the lives of those in the community.
+		- (e) it is infeasible achieve the same effect by enforcing laws on a smaller scale.
+	- These are optional, democratic choices from local communities for a way of life. This is usually justified by promoting a basic standard of life in exchange for small taxation/regulation of others. 
+		- Police
+		- Firefighting 
+		- Education
+		- Food/drug regulation
+		- Certain anti-discrimination laws (if the harm is material disadvantage, not psychological pain of seeing racism).
+		- Healthcare
+
+#### Disagreement
 
 Broader laws are mandatory, non-negotiable. Local laws are decided democratically. Note also that the broader laws tend to be more libertarian whereas the local laws have the potential to be more authoritarian. In principle, the broader laws could be more authoritarian in different countries where there is homogenous culture where everyone agrees to some authoritarian rules. 
 
 Perhaps, the ideal laws for a given region are simply the upshot of norms of the culture of that region. For homogenous societies, they are free to enforce whatever rules they prefer. However, when a region has a large diversity of opinion, then the range of acceptable laws narrows. The ideal laws for a region are the laws that it would be rational for that region to accept. However, if the views of a region are so diverse, then the only laws that it would be rational for a region to accept would be minimal libertarian laws that emphasized freedom and liberty. Laws regulating international affairs are the extreme of this: the only international laws there are are basic respect for the sovereignty of nations, protection from genocide, etc.
 
-Coercive laws for members of group G are justified if and only if such laws would be approved of by fully informed and fully rational members of group G assuming they sought coercive laws to regulate behavior. A law is appropriate for group G only if it is the upshot of ideal social construction. Whent here is broad disagreement
+Coercive laws for members of group G are justified if and only if such laws would be approved of by fully informed and fully rational members of group G assuming they sought coercive laws to regulate behavior. A law is appropriate for group G only if it is the upshot of ideal social construction. When there is broad disagreement, the only laws that overlap with everyone's fully rational interest would be minimal libertarian laws.
 
-Question: how to show that disagreement implies that libertarianism and freedom are the proper ideals.
+Must explain the relationship between disagreement and ideal socially constructed norms in a way that explains:
+1. That widespread disagreement implies that minarchism.
+2. That minimal, but existent, disagreement does not imply minarchism.
+
+#### Layers of force
+
+Remember the types of force that can be justified
+- Explicit/Implicit Consent
+- Lack of rationality/informed
+- Retaliation against physical coercion
+- Compensation for coercion and/or someone using more than their fair share
+- Optional democratic communal laws 
+
+Here are the types of force that can be justified in reality as it actually is.
+
+Global: types of force that can be justified:
+- Basically anarchism.
+- Respect for the sovereignty of other countries.
+- Retaliation against those that violate the sovereignty.
+Diverse community (e.g. U.S.). All above plus
+- Minarchism
+- Military
+- Courts for federal laws
+- Police to enforce federal laws
+- Food/drug regulation
+- Compensation for monopolies
+	- Redistribution
+- Compensation for societal disadvantage
+	- Safety nets: low cognitive functioning, disability, unemployment
+	- Anti-discrimination laws
+Homogeneous community (e.g. US city or European countries). Any of these could be valued (could even be minarchist). All above plus
+- Courts for local laws
+- Police to enforce local laws
+- Firefighters
+- Education
+- Healthcare
 
 ## Particulars
 
