@@ -1,22 +1,26 @@
 # Substantive morality
 
-- Reasons are contingent, subjective constructions.
-- Moral discussions committed to reasons for all.
-- Moral discussions committed to methodological objectivity.
-- Moral obligations exist only for those contingently engaged in moral discussions.
-- Moral truth = socially constructed.
-- More disagreement -> more libertarian principles.
+- Constructivism
+	- Reasons are contingent, subjective constructions.
+	- Moral discussions committed to reasons for all.
+	- Moral discussions committed to methodological objectivity.
+	- Moral obligations exist only for those contingently engaged in moral discussions.
+	- Moral truth = socially constructed.
+- Moral principles
+	- Regulating societal approval/disapproval
+- Legal principles
+	- Regulating coercion
+	- More disagreement -> more libertarian principles. Why?
 
-- Moral Principles
-	- Goodness/Badness
-		- Reason for an individual to promote/desire
-		- Individual Instantaneous Goodness
-		- Lifetime Goodness
-		- Collective Goodness
-	- Rightness/Wrongness
-		- Reason for a society to approve/praise/disapprove/resent
-		- Wrongness requires something bad for someone
-		- Large increases justify small deficits   
+- Goodness/Badness
+	- Reason for an individual to promote/desire
+	- Individual Instantaneous Goodness
+	- Lifetime Goodness
+	- Collective Goodness
+- Rightness/Wrongness
+	- Reason for a society to approve/praise/disapprove/resent
+	- Wrongness requires something bad for someone
+	- Large increases justify small deficits   
 - Political Principles
 	- Egalitarian Libertarian
 	- Social Ownership
@@ -106,37 +110,22 @@ Whether people should have a right to do X cannot reduce to whether it is moral 
 
 From SEP: https://plato.stanford.edu/entries/libertarianism/
 
-joint-ownership left-libertarianism (not lockean; not unilateralist): maximally strong version of a constraint on original appropriation. 
-	
-- A radical version holds that initially no one has any liberty right to use, or any moral power to appropriate, natural resources; individuals may use natural resources only with the collective consent (e.g., majority or unanimous) of the members of society.
-	
-- A less radical version holds that agents may use natural resources, but holds that they have no moral power to appropriate natural resources without the collective consent of the members of society (e.g., Grunebaum 1987). This leaves agents with  little security in their plans of action. They have the security that others are not permitted to use their person (e.g., assault them) without their consent, but they have only limited security in their possessions of external things (except with the consent of others). 
-
-equal opportunity left-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that one leave enough for others to have an opportunity for well-being that is at least as good as the opportunity for well-being that one obtained in using or appropriating natural resources. 
-	
-- Individuals who leave less than this are required to pay the full competitive value of their excess share to those deprived of their fair share. Unlike the equal share view, those whose initial internal endowments provide less favorable effective opportunities for well-being are entitled to larger shares of natural resources. 
-	
-- Although this version of libertarianism is highly egalitarian, it limits the egalitarianism to the distribution of the value of the natural resources. Full self-ownership still places constraints on the promotion of equality: individuals are not morally required to provide personal services or body parts merely because they have more valuable personal endowments. This is what makes it libertarian.
-
-Equal share left-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that one leave an equally valuable share of natural resources for others. 
-	
-- Individuals are morally free to use or appropriate natural resources, but those who use or appropriate more than their per capita share owe others compensation for their excess share.
-
-Sufficientarian (centrist) libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that others be left an adequate share of natural resources (on some conception of adequacy). 
-	
-- There are different criteria that can be invoked for adequacy, but the most plausible ones are based on the quality of one's life prospects: enough for life prospects worth living, enough for basic subsistence life prospects, or enough for “minimally decent” life prospects. 
-	
-- Depending on the nature of the world and the conception of adequacy, the sufficientarian proviso may be more, or less, demanding than the Nozickean proviso. If natural resources are sufficiently abundant relative to the individuals, then the Nozickean proviso will be more demanding (since many individuals would get more than an adequate share without the use or appropriation), but if natural resources are sufficiently scarce, then the sufficientarian proviso will be more demanding than the Nozickean one.
-
-Nozickean right-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that no individual be made worse off by the use or appropriation of a natural resource, compared with non-use or non-appropriation. 
-
-- One might object that this sets the compensation payment too low. It bases compensation on each person's reservation price, which is the lowest payment that would leave the individual indifferent with non-use or non-appropriation. Use or appropriation of natural resources typically brings significant benefits even after providing such compensation. There is little reason, one might argue, to hold that those who first use or claim rights over a natural resource should reap all the excess benefits that those resources provide.
-
-Radical right libertarianism (not lockean; unilateralist): holds that that there are no fair share constraints on use or appropriation. 
-	
-- Agents may appropriate, use, or even destroy whatever natural resources they want (as long as they violate no one's self-ownership). On this view, natural resources are initially not merely unprotected by a property rule (i.e., permissible use does not require anyone else's permission); they are also unprotected by a compensation liability rule (i.e., no compensation is owed if one uses). 
-	
-- One objection points out that appropriation without restrictions makes it possible that one person could own the entire world, thereby effectively putting the remaining propertyless persons in the problematic condition of requiring the owner's permission to do anything. Nor is there any reason to think the individuals are morally permitted to ruin natural resources as they please. Some sort of fair share condition restricts use and appropriation.
+- Joint-ownership left-libertarianism (not lockean; not unilateralist): maximally strong version of a constraint on original appropriation. 
+	- A radical version holds that initially no one has any liberty right to use, or any moral power to appropriate, natural resources; individuals may use natural resources only with the collective consent (e.g., majority or unanimous) of the members of society.
+	- A less radical version holds that agents may use natural resources, but holds that they have no moral power to appropriate natural resources without the collective consent of the members of society (e.g., Grunebaum 1987). This leaves agents with  little security in their plans of action. They have the security that others are not permitted to use their person (e.g., assault them) without their consent, but they have only limited security in their possessions of external things (except with the consent of others). 
+- Equal opportunity left-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that one leave enough for others to have an opportunity for well-being that is at least as good as the opportunity for well-being that one obtained in using or appropriating natural resources.
+	- Individuals who leave less than this are required to pay the full competitive value of their excess share to those deprived of their fair share. Unlike the equal share view, those whose initial internal endowments provide less favorable effective opportunities for well-being are entitled to larger shares of natural resources. 
+	- Although this version of libertarianism is highly egalitarian, it limits the egalitarianism to the distribution of the value of the natural resources. Full self-ownership still places constraints on the promotion of equality: individuals are not morally required to provide personal services or body parts merely because they have more valuable personal endowments. This is what makes it libertarian.
+- Equal share left-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that one leave an equally valuable share of natural resources for others. 
+	- Individuals are morally free to use or appropriate natural resources, but those who use or appropriate more than their per capita share owe others compensation for their excess share.
+- Sufficientarian (centrist) libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that others be left an adequate share of natural resources (on some conception of adequacy). 
+	- There are different criteria that can be invoked for adequacy, but the most plausible ones are based on the quality of one's life prospects: enough for life prospects worth living, enough for basic subsistence life prospects, or enough for “minimally decent” life prospects. 
+	- Depending on the nature of the world and the conception of adequacy, the sufficientarian proviso may be more, or less, demanding than the Nozickean proviso. If natural resources are sufficiently abundant relative to the individuals, then the Nozickean proviso will be more demanding (since many individuals would get more than an adequate share without the use or appropriation), but if natural resources are sufficiently scarce, then the sufficientarian proviso will be more demanding than the Nozickean one.
+- Nozickean right-libertarianism (lockean, unilaterist): interprets the Lockean proviso as requiring that no individual be made worse off by the use or appropriation of a natural resource, compared with non-use or non-appropriation. 
+	- One might object that this sets the compensation payment too low. It bases compensation on each person's reservation price, which is the lowest payment that would leave the individual indifferent with non-use or non-appropriation. Use or appropriation of natural resources typically brings significant benefits even after providing such compensation. There is little reason, one might argue, to hold that those who first use or claim rights over a natural resource should reap all the excess benefits that those resources provide.
+- Radical right libertarianism (not lockean; unilateralist): holds that that there are no fair share constraints on use or appropriation. 
+	- Agents may appropriate, use, or even destroy whatever natural resources they want (as long as they violate no one's self-ownership). On this view, natural resources are initially not merely unprotected by a property rule (i.e., permissible use does not require anyone else's permission); they are also unprotected by a compensation liability rule (i.e., no compensation is owed if one uses). 
+	- One objection points out that appropriation without restrictions makes it possible that one person could own the entire world, thereby effectively putting the remaining propertyless persons in the problematic condition of requiring the owner's permission to do anything. Nor is there any reason to think the individuals are morally permitted to ruin natural resources as they please. Some sort of fair share condition restricts use and appropriation.
 
 ### My Theory
 
@@ -169,7 +158,7 @@ Note that "local community" means "more local than the global community", so a c
 		- (c) there is sufficient equal valuable resources outside of the community, and 
 		- (d) the impact of these laws has significant effects on the lives of those in the community.
 		- (e) it is infeasible achieve the same effect by enforcing laws on a smaller scale.
-	- These are optional, democratic choices from local communities for a way of life. This is usually justified by promoting a basic standard of life in exchange for small taxation/regulation of others. 
+	- These are optional, democratic choices from local communities for a way of life. These are almost always justified by enacting minor confiscation of the property of others (i.e. taxation, regulation, etc.) in order to prevent significant, material harms to others (i.e. assault, sickness, death, un-education,  etc.). 
 		- Police
 		- Firefighting 
 		- Education
@@ -256,23 +245,44 @@ Contemporary moral issues:
 - Immigration
 - Discrimination / Affirmative Action
 
+### By Contemporary Politics
+
 Left-Leaning:
 
 - Abortion
     - No restrictions
 - Criminal justice
-    - Rehabilitation and safety, not retribution
-    - Decriminalize drugs, don't care if legal
+    - Rehabilitation and safety
+    - Decriminalize drugs, don't legalize
+	- Not retribution. Consider the cases:
+		- Agent is morally evil but no longer a threat.
+			- Has been expelled, restrained, incapacitated or killed (not rehabilitated). He experiences no suffering. Should we still inflict harm?
+		- Agent is a threat but not morally good. 
+			- He should be rehabilitated, expelled, restrained, incapacitated or killed. Doesn't matter whether this is due to moral corruption or uncontrollable circumstances.
+		- Agent is neither morally bad or a threat.
+			- Has been rehabilitated.
+		- We can agree that if an agent has been expelled, restrained, incapacitated or killed, then we shouldn't inflict suffering. Why is this not also true if he's been rehabilitated.
 - Gay marriage
-    - Federally legal
-- Subsidized Healthcare
-    - If its effective, go for it
+    - Government shouldn't be involved in marriage.
+    - If they are, then it should not discriminate based on sex.
 - Subsidized Education
     - Only awarded to those likely to repay them (based on e.g. test scores, grades, etc.)
     - Only have to be paid off after acquiring a certain income level
+- Subsidized Healthcare
+    - Maybe, if its effective.
 
 Right-Leaning:
 
+- Free Speech
+	- Hate Speech allowed
+	- Can be outlawed to prevent systematic subjugation (e.g. Nazi Germany)
+- Discrimination
+    - Not inherently wrong
+    - Wrong if its arbitrary and exclusionary (rather than balancing)
+    - Can be outlawed to prevent systematic subjugation (e.g. Racist USA)
+- Affirmative Action
+    - Ineffective insofar as it admits students of low standards
+    - Don't care otherwise
 - Welfare 
     - Provide a means of living for the poor. 
     - Maybe enough for a limited number of children. 
@@ -281,18 +291,52 @@ Right-Leaning:
     - We have the right to any restrictions
     - We should filter in-demand immigrants that can't be filled by natives
     - I desire low influx of immigrants
-- Affirmative Action
-    - Ineffective insofar as it admits students of low standards
-    - Don't care otherwise
-- Discrimination
-    - Not inherently wrong
-    - Wrong if its arbitrary
-    - Wrong as a means of systematic oppression
+
 
 Other:
 
+- Gun Control
+	- Don't care
 - Education 
     - Make impractical subjects optional
     - Less encouragement for college
     - Add practical skills
     - Add values.
+
+### By Philosophy
+
+Libertarianism Compatible
+- Abortion
+- Drug decriminalization
+- Anti-Retribution
+- Gay Marriage
+- Free Speech
+- Discrimination
+
+Anti-Libertarian
+- Against Open Borders
+- Subsidization to promote the physical liberty of others
+	- Protecting negative liberty
+		- Policeman
+		- Courts
+	- Promoting positive liberty
+		- Education
+		- Healthcare
+		- Welfare
+- Limiting freedom to promote the positive/negative physical liberty of others
+	- Regulation
+	- Promoting negative liberty
+		- Anti-Free Speech if necessary to prevent subjugation
+		- Anti-Discrimination if necessary to prevent subjugation
+	- Promoting postive liberty
+		- Anti-Drug Legalization if necessary to prevent community destruction
+
+### Other Topics
+
+Topics:
+- Striking somebody in revenge
+- Cosplay is cultural appropriation
+
+## Constitution
+
+

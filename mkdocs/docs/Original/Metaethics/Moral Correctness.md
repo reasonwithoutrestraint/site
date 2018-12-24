@@ -102,9 +102,8 @@ Implications of A advocating for a norm in moral discussion:
 - (Negotiative) A is willing to negotiate to cooperate and coordinate plans.
 - (Impartial) A thinks the norm applies to everyone, including himself.
 - (Individual Motivational) A *is disposed to* regulate his behavior as prescribed by the norm.
-- (Individual Rationality) A *thinks that he has reason to* regulate his behavior as prescribed by the norm.
 - (Communal Motivation) A thinks others are *capable* of being motivated to regulate their behavior in accord with the norm; they are capable of being receptive to the reasons favoring the norm. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense it B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make sense for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, alien,s etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
-- (Communal Reason) A thinks others have *reason to* regulate their behavior in accord with the norm.
+- (Rationality) A thinks that he and others in society *have reason to* regulate their behavior as prescribed by the norm.
 
 Two polarities regarding moral reasons:
 1. Internal vs External: moral reasons cannot just be reduced to prudential reasons, since that would be like a bribe. But they also cannot be just reasons that derive from the institution of morality, since that would be not a genuine reason.
@@ -126,6 +125,31 @@ Communicative constraints regarding reasons for belief and/or conversations/argu
 - Even though an anecdotal experience might provide one with a personal reason for belief, it would not provide everyone with a reason for belief (e.g. a scientific reason).
 - How to know what the standards are? We check what would happen if everyone accepted it. If no one accepted a burden of proof, the central goal of argument would be defeated.
 - Don't interrupt others, cut them off, etc. Listen to them.
+
+### Similarity with Golden Rule
+
+Standards prescribing behaviors
+
+Individual
+- Motivational: Act so as to satisfy your desires.
+- Rational: Act so as to satisfy the desires you have reason to have.
+
+Golden Rule & Augmentations:
+- Golden Rule: Treat others in the way you would want to be treated.
+	- Upshot: don't kill if you wouldn't want to be killed. 
+	- Problem 1: what if I would have different desires than the recipients? E.g. a masochist wouldn't mind being attacked.
+	- Problem 2: what if I would have desires that people treat me unreasonably? E.g. I would want others to always benefit me at the expense of others. 
+- Rationalized: Treat others not based on counterfactual desires, but on our counterfactual reasons for desires.
+	- Upshot: don't kill if they don't have reason to want to be killed (e.g. even if they're in an intoxicated state where they want to be killed).
+	- Doesn't solve either problem. Just idealizes desires.
+- Inversed: Treat others in the way they want you to treat them.
+	- Upshot: don't kill if the person wouldn't want to be killed.
+	- Solves Problem 1.
+- Abstracted: Treat others in accord with principles any rational agent would endorse, independent of their actual circumstances, desires, interests, etc. (i.e. veil of ignorance), if the agent knew he had a chance of any combination of circumstances or desires.
+	- Upshot: don't kill it would be forbidden by any principles that no one could rationally reject.
+	- Solves Problem 1 and Problem 2.
+	- Reasons from Ignorant self-interest =/= reasons from morality.
+- Moralized: Treat others in accord with principles no rational agent could rationally reject, contingent upon that agent having a goal of finding such principles that others couldn't rationally reject.
 
 ## Sentimentalism
 

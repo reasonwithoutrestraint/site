@@ -1,31 +1,85 @@
 # Normativity
 
+Against Other Metaethical Theories
+
+1. Against Analytic Naturalism
+2. Against Non-Naturalism
+3. Against Descriptivism
+
+Normative Psychology
+
+1. Rationality
+	- Non-cognitivism
+	- Connection between explanatory and normative
+2. Morality
+3. Aesthetics
+
+Rational Correctness
+
+1. Plattitudes of normativity
+2. Reasons
+	- Constructivism
+	- Internalism (reasons internal to rationality)
+3. Rationality
+	- ??? Deliberation/Reflective
+	- ??? Conflicting reasons
+
+Moral Correctness
+
+1. ??? Constructivism (Implicit commitments of moral argument)
+2. Sentimentalism
+3. Determinateness
+4. Objectivity
+
 ## Introduction
 
 ### Applies Ethics, Normative Ethics and Metaethics
 
-### The failure of reflective equilibrium and the need for metaethics
+### The insufficiency of reflective equilibrium and the need for metaethics
 
-## Metaethical Positions
+Can we recreate moral positions using non-moral terms?
 
-Framework
+Reflective equilibrium with regard to normative ethical reasoning fails to settle disputes when two different parties reach different conclusions in their reflective equilibriums, either because of different foundational principles or different considered judgments. At this point, it may seem that the disagreements are irresolvable. To settle the dispute, we need to take a step back from answering the normative questions themselves. Instead of internally justifying our positions, we need to ask external questions about the normative questions. We need to determine what is actually at dispute among the parties.
 
-1. Plattitudes of normativity
-2. Psychology of reasons
-	- Non-cognitivism
-	- Connection between explanatory and normative reasons
-3. Nature of reasons
-	- Constructivism
-	- Internalism (reasons internal to rationality)
-4. Nature of rationality
-	- Deliberation/Reflective
-5. Moral psychology
-	- Non-cognitivism
-6. Moral correctness
-	- Constructivism
-	- Implicit commitments of moral argument
-	- Sentimentalism
-7. Objectivity
+We need a strategy for communicating the meanings of our expressions to an agent unfamiliar with our language. This can work for descriptive concepts by merely presenting instances of the entity in question and associating it with certain words.
+
+The strategy for doing this is as follows. (1) list out all of the assertions from two parties in an ethical debate. (2) Replace the assertions that the parties make with different non-ethical statements about the parties in a manner that preserves the significant psychological and social commitments of all parties.
+
+For example, if given the following ethical dispute:
+- A judges that X is morally wrong.
+- B judges that X is not morally wrong.
+
+There are a few ways to translate this:
+
+#### Definitions
+
+We might do this by substituting the normative terms with non-normative terms as if in a strict dictionary definition. The definition could be the agent's subjective definition, societal definitions, etc. For example, the earlier dispute might be replaced as:
+- A believes that X promotes suffering.
+- B believes that X does not promote suffering.
+
+#### Plattitudes
+
+Maybe there can be no strict definition. Instead, we just encapsulate all the plattitudes that are necessary to come to have mastery of the concept, i.e. the inferential and judgmental dispositions of those who have mastery. This can be done by finding the role that these terms play in linguistic discourse. 
+- A judges that we have reason to disapprove of those who X.
+- A is disposed to disapprove of X.
+- A is disposed to not do X, all things else being equal.
+...
+- B denies these.
+
+One issue with these is that they also use other normative terms, e.g. "reasons". More work would need to be done to explain those.
+
+Another issue is that it may seem that some terms don't have a clear role in language. For example, while the role of moral rightnes/wrongness might be clearly associated with motivation for and reasons for approval/disapproval, etc. but other normative terms like "rationality" might not have such a clear role in language. So it may be unclear how to settle disputes about "rationality". Perhaps, what we can do is look for what roles we would need to be filled in, and argue that only certain interpretations of "rationality" can fill that void, and other interpretations don't account for anything linguistically important.
+
+#### Job of metaethics
+
+Explain the following
+- Semantics: what we mean when making a moral statement.
+- Psychology: what state of mind characterized by moral judgment.
+- Ontology: what grounds moral properties, if they exist.
+- Epistemology: how we can learn/reason about moral truth.
+- Rationality: why we have reason to be moral.
+
+The most important are accounting for semantics/psychology and giving a realistic account of epistemology/rationality, i.e. we need an objective methodology for handling moral disputes, as disputes are the most important feature of moral beliefs. The ontology doesn't really matter.
 
 ## Plattitudes
 

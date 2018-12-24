@@ -147,6 +147,7 @@ Constructivism
 	- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
 	- Essays: _Constructivism in Practical Philosophy_
 - Constructivism
+	- Essays: _Constructivism in Practical Philosophy_
 	- Lecture: Christine Korsgard - "The Sources of Normativity"
 	- Essays: Sharon Street
 		- "What is Constructivism in Ethics and Metaethics"
@@ -181,9 +182,9 @@ Constructivism
     - Book: Terence Cuneo - _The Normative Web_ (ch. 3)
     - Book: David Enoch - _Taking Morality Seriously_ (ch. 3)
     - Book: Derek Parfit - _On what Matters_ (ch. 31)
-	- Book: Ralph Wedgwood - _The Nature of Normativity (chs. 3 & 7)
     - Book: Michael Huemer - _Ethical Intuitionism_ (ch. 5 "Moral Knowledge")
 	- Book: Derek Parfit - _On what Matters_
+	- Book: Ralph Wedgwood - _The Nature of Normativity (chs. 3 & 7)
 - Sensibility
     - Essays: David Wiggins - "A Sensible Subjectivism" from _Needs, Values, Truth_
 	- Chapter: John McDowell - "Values and Secondary Qualities" from _Morality and Objectivity_
@@ -194,6 +195,7 @@ Constructivism
 	- Book: Jonas Olson - _Moral Error Theory_ (chp. 9)
 	- Essay: Stephen Finlay - "The Error in the Error Theory"
 - Reasons/Motives:
+	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
 	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
 	- Chapter: Philippa Foot - "Morality as a System of Hypothetical Imperatives"
 	- Book: Thomas Nagel - _The Possibility of Altruism_ (as in DGR)

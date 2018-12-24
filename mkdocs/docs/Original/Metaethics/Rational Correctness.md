@@ -8,9 +8,13 @@ The Moral Problem
 4. Contingency: There are no necessary desires in all rational agents
 5. Success Theory: There are moral truths.
 
-Forms of truth:
+## Reasons and rationality
 
-## Alternative conceptions of truth
+It is a platitude about reasons and rationality that: R is a normative reason for A to X iff R would be a motivating reason for A to X if A were rational and A was aware of R. In other words, reasons are the upshot of full rationality and full information. The question is how to characterize rationality. Internalism gives a *procedural* characterization of rationality that specifies a form of ideal *deliberation*, i.e. of moving from certain motivations to action and other motivations. Externalism specifies an *substantive* characterization of rationality that specifies certain substantive elements like "a motivation to help others", or an agent requires certain experiences or information to actually be rational. I.e. being rational might require being converted than sound reasoning.
+
+## Constructivism
+
+### Alternative conceptions of truth
 
 There are plenty of other domains of propositions whereby truth is based on something other than correspondence. The general structure is that one takes an attitude with regard to a proposition p, and then finds standards of correctness constituitive of the attitude. Consider the following examples:
 
@@ -27,58 +31,17 @@ Rational Judgments
 - Prudential Rationality: 
 - Moral Rationality: 
 
-## Existence Internalism
+Under constructivism, for normative judgments, truth is not based on some correspondence to some mind-independent normative reality. There is no standard of correctness for normative judgments independent of what we ourselves decide to be valuable. There is no sense in determining that someone has a reason to do something if it cannot be inferred from what they actually judge themselves to have reason to do.
 
-According to existence internalism with regard to reasons: R is a normative reason for A to X iff R would be a motivating reason for A to X insofar as A is rational and A was aware of R. Thus, R is a reason for agent A if and only if R is the upshot of sound rational deliberation. In other wrods, normative reasons are the rational extensions of one's motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C. 
+### Quasi-truth-apt
 
-Everyone agrees that "sound deliberative route" requires that the deliberation not be based on false beliefs, but some give more substantive accounts as what counts as correct deliberation. Michael Smith, for example, appears eerily externalists in that he believes that he believes there are some non-self-defeating desires (e.g. considering only one's personal desires at the expense of everyone else's) that would not be held by fully rational creatures.
+If we remain committed to the correspondence theory of truth, we can abandon truth-aptness. Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 
-A plausible internalist cannot propose that one has reason to do X if and only if one would desire X under full information.
+- Normative thinking is a rational enterprise.
+- Certain normative judgments are better than others.
+- The better normative judgments are independent of our actual judgments.
 
-### Motivational Argument
-
-One argument for internal reasons states that reasons must be capable of motivating action.
-
-1. R is a reason for A to X only if A would be motivated to X by
-believing R insofar as A were fully rational.
-2. A, if fully rational, would be motivated to X by believing R only if there is something in A’s motivational set that could bring A to be motivated to X by believing R.
-3. If R is an external reason for A to X, then there is nothing in
-A’s motivational set that could bring a fully rational A to be motivated to X
-by believing R.
-4. Therefore there are no external reasons.
-
-Problems:
-- "Fully Rational" may need to be explicitly characterized in terms of "sound deliberation" or somehting more substantive, so that (2) is not questionable. Otherwise, an externalist might say that (2) is false because part of what it is to be fully rational agent is to have certain element's in one's motivational set. But now an argument needs to be given as to why (1) should be accepted, i.e. why "sound deliberation" should be associated with responsiveness to reasons.
-- Motivational set" cannot be as broad as "dispositions for behavior", becuase this would not exclude external reasons from existing in one's motivational set, i.e. an externalist could say that dispositions are just counterfactual motivations, and all agents have a dispositions to be motivated by external reasons because the would be motivated under the counterfactual where such reasons where in their motivational set. It needs to be restricted in a way that includes desires, values, goals, etc. but excludes anything that could be labelled 
-"disposition". But then (2) would be assuming a Humean account of motivation.
-- (2) depends on a Humean account of motivation. Also, the Humean account of motivation does not discount the possibility of sound deliberation producing new, underived desires (it's not clear whether this would count as an internal element or not), as the Humean theory is concerned with how belief and desire causally relate to action, not with how deliberation causally relates to desires.
-
-General strategy
-- Connect normative reasons and motivating reasons (usually via deliberation).
-- Disconnect external reasons with motivating reasons.
-
-### Explanatory Argument
-
-Normative reasons are counterfactual explanatory reasons (Michael Smith w/out ideal observer).
-
-1. R is a reason for A to X only if R could explain why a fully rational A would do X.
-2. That A is motivated to X by believing R can be explained only by something in A’s motivational set that could motivate A to X by believing R.
-3. If R is an external reason for A to X, then there is nothing in
-A’s motivational set that motivate a fully rational A to be motivated to X
-by believing R.
-4. Therefore there are no external reasons.
-
-Again, "fully rational" and "motivational set" cannot be given too weak interpretation, as this would not rule at external reasons statements without question-begging.
-
-(1) should be accepted by considering the cases where we perform actions because of normative reasons. The times where there is a disconnect between our motivating and normative reasons, we can point to some sort of problem, either we aren't aware of the reasons, we have false information, we suffer from addition, etc. 
-
-The reason that reasons statements are not based on the hypothetical motivational sets of a fully moral/rational A, i.e. A+, is because it is important that reasons statements apply directly to A. Note, however, that we can still focus on the somewhat idealized A who has deliberated, because we can infer that A already values the motivations of himself after he has deliberated. We can infer this from the fact that he is in fact deliberating. So he already values his deliberation.
-
-But why should reasons statements for A be based on what he actually values in any present moment? This seems question-begging against the externalist. Two reasons (1) We make claims about reasons" for the purpose of influencing, motivating, or guiding agents. But the only thing that can guide agents (assuming they don't suffer from addictions, false beliefs, etc.) are elements from their motivational set. And (2) this is a basic premise of constructivism (see below).
-
-### 
-
-## Constructivism
+### Overview
 
 See: Christine Korsgaard, Sharon Street, (Bernard Williams?)
 
@@ -101,6 +64,8 @@ Logical Consistency. One basic constituitive feature of normative judgments (and
 
 #### Prudential
 
+Constructivism provides an easy explanation of the following norms of practical reasoning.
+
 - Desires: the reason that a desire to X tends to provide one with reason to X is (1) people tend to judge that they have reason to X if they desire to X, and (2) all intentional actions are done because of some desire; if they are not done because of a desire, then they would be involuntary actions. 
 - Instrumental Reasoning: one cannot take oneself to have conclusive reason to X without taking oneself to have reason to take the means to X. Part of what it is to judge one has a reason to X consists of judging one to have a reason to adopt the means.
 - Pain/Suffering: the reason that pain/suffering provides one with reason to avoid it is precisely because people judge that they have reason to avoid it (or they have an unreflective aversion towards it). If a person had no aversion toward pain and didn't judge that they had reason to avoid it, then there would be no actual reason to avoid it. It is not the pure sensation of pain that provides us with reason to avoid it. 
@@ -109,7 +74,109 @@ Logical Consistency. One basic constituitive feature of normative judgments (and
 
 The most fundamental question is how to determine what one ought to do when there are some considerations that give one reason to X and some considerations that give one reason to not-X. This is especially important for moral considerations when weighing reasons from different agents.
 
-## Human Theory of Rationality
+### Arguments 
+
+1. Little ontological baggage.
+2. Allows for a credible epistemology.
+3. Explains many constituitive properties of certain normative domains.
+4. Explains existence internalism (assuming we accept judgment internalism).
+5. Doesn't seem like reasons can be discarded as meaningless. One can't ask "why be rational".
+
+### Notes
+
+1. Soundness: Why are goals endorsed under a sound state of mind necessarily better than those endorsed under psychological compulsions, physical addictions, emotional disturbances, etc.
+2. Deliberation: Why are goals endorsed under deliberation necessarily better than unreflective desires that we discard under deliberation?
+3. Experience: Why is a goal that would persist upon experiencing the result of the goal necessarily better than goals which are not.
+4. Full Information: Why is a goal based on false belief necessarily worse than an equivalent goal based on full information?
+5. Time: Why does an agent have reason to satisfy the goals of his future self? How are we justified in criticizing the goals of our past selves?
+6. Conflict: how to deal with conflicting goals? Is there a goal hierarchy?
+7. Feasibility: why are goals which are more likely to be satisfied, all things else being equal, better?
+
+### Dispositionalism
+
+Constructivism seems to be a subset of dispositionalism. Consider a case where dispositionalism would say someone has reason that they don't currently judge themselves to have. 
+
+E.g. if they would find K to be desirable/humorous if they were exposed to it, even though they don't currently find it desirable/humorous despite knowing that they would if they were exposed to it. 
+
+This might be deafeasible for desires if we think that it is constituitive of reasons for desire that one judge themselves to have reason to find X valuable if they believed that would find X valuable upon exposure.
+
+## Existence Internalism
+
+Existence internalism accepts the connection between rationality and reasons. But it characterizes rationality without explicitly requiring any particular motivations. Usually, rationality is specified by some form of ideal deliberation, i.e. R is a reason for agent A if and only if R is the upshot of sound, ideal deliberation. In other wrods, normative reasons are the rational extension of one's motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C. 
+
+Everyone agrees that "sound deliberative route" requires that the deliberation not be based on false beliefs, but some give more substantive accounts as what counts as correct deliberation. Michael Smith, for example, appears eerily externalists in that he believes that he believes there are some non-self-defeating desires (e.g. considering only one's personal desires at the expense of everyone else's) that would not be held by fully rational creatures.
+
+General strategy for internalism
+- Connect normative reasons and motivating reasons (usually via deliberation).
+	- Connect normative reasons with rationality.
+	- Connect rationality with deliberation.
+- Disconnect external reasons with motivating reasons.
+
+### Motivational Argument 1
+
+One argument for internal reasons states that reasons must be capable of motivating action.
+
+Note: 
+- R is characterized as propositions.
+- A motivational set is merely a set of dispositions towards behaviors under certain beliefs.
+
+1. R is a reason for A to X only if A would be motivated to X by
+believing R insofar as A were fully rational.
+2. A, if fully rational, would be motivated to X by believing R only if A is disposed to X by believing R.
+3. If R is an external reason for A to X, then A is not disposed to X by believing R.
+4. Therefore there are no external reasons.
+
+The central question here is (2). (1) and (3) are both a priori, conceptual truths. (2) depends on whether we take rationality to have substantive or procedural requirements, so may seem to be question-begging. We need to give an independent argument for (2), in a way that explains how to pick out which dispositions provide reasons.
+
+Modifications:
+- "Fully Rational" may need to be explicitly characterized in terms of "ideal sound deliberation" or something more specific, so that (2) is not seen as question-begging against the (rare) externalist who says that full rationality might endorse behaviors for A that A has no dispositions to do. 
+
+#### Procedural rationality
+
+This is to support (2) of the explanatory argument: A, if fully rational, would be motivated to X by believing R only if A is disposed to X by believing R. (2) depends on whether we take rationality to have substantive or procedural requirements. We need an independent argument for procedural rationality to support (2). And we also need to explain why it's not just any ol' dispositions that are needed to supply an agent with reasons for action, i.e. an agent might have a disposition to overvalue short-term gains at the expense of long-term losses, but this *mere* disposition is not what grounds any reasons to value short-term gains as one might think from (2). Instead, what matters is what dispositions that agent actually endorses under deliberation. But now we seem to be making the deliberative argument below:
+
+### Motivational Argument 2
+
+1. R is a reason for A to X only if A would be motivated to X by
+believing R insofar as A deliberated soundly.
+2. A would be motivated to X by believing R under sound deliberation only if A is disposed to X by believing R.
+3. If R is an external reason for A to X, then A is not disposed to X by believing R.
+4. Therefore there are no external reasons.
+
+"Ideal" must not require specific elements in one's motivational set. Otherwise, it would be externalist, as it would be substantive rather than procedural.
+
+Also, (1) needs to be argued for, as it is no longer merely a plattitude. It almost may seem to be question-begging against the externalist. We might be able to accept (1) if we accepted constructivism. Normative truth derives from the normative judgments an agent makes, and it is constituitive of agency to value one's motivations under deliberation. So we just need to argue for constructivism.
+
+### Explanatory Argument
+
+Normative reasons are counterfactual explanatory reasons (Michael Smith w/out ideal observer).
+
+1. R is a reason for A to X only if R could explain why A would X under sound, ideal deliberation.
+2. That A is motivated to X by believing R can be explained only by something in A’s desires, goals, etc. favoring doing X by believing R.
+3. If R is an external reason for A to X, then there is nothing in
+A’s desires, goals, etc. that motivate a sound, deliberative A to X
+by believing R.
+4. Therefore there are no external reasons.
+
+Note we have (1) which is not a plattitude which one might object to. However an argument for (1) might be: (1) should be accepted by considering the cases where we perform actions because of normative reasons. The times where there is a disconnect between our motivating and normative reasons, we can point to some sort of problem, either we aren't aware of the reasons, we have false information, we suffer from addition, etc. 
+
+The reason that reasons statements are not based on the hypothetical motivational sets of e.g. a fully moral A, i.e. A+, is because it is important that reasons statements apply directly to A. Note, however, that we can still focus on the somewhat idealized A who has deliberated, because we can infer that A already values the motivations of himself after he has deliberated. We can infer this from the fact that he is in fact deliberating. So he already values his deliberation.
+
+But why should reasons statements for A be based on what he actually values in any present moment? This seems question-begging against the externalist. Two reasons (1) We make claims about reasons" for the purpose of influencing, motivating, or guiding agents. But the only thing that can guide agents (assuming they don't suffer from addictions, false beliefs, etc.) are elements from their motivational set. And (2) this is a basic premise of constructivism (see below).
+
+### Constructivist Argument
+
+Constructivism + Judgment Internalism = Existence Internalism
+
+1. Constructivism: A has a reason to X only if A's normative judgments in some sense endorse X-ing.
+2. Judgment Internalism: A's normative judgments endorse X-ing only if A has some motivation to X.
+3. Existence Internalism: A has a reason to X only if A has some motivation to X.
+
+Constructivism is actually a narrow form of existence internalism if we accept judgment internalism and if we believe one can have motivating reasons without judging them to be normative reasons. In that case, the motivating reasons corresponding to one's normative judgments would be a strict subset of their motivational set.
+
+## Fully Rational
+
+### Humean Theory of Rationality
 
 The Humean theory of rationality states the following
 
@@ -117,11 +184,9 @@ A has a reason to X if and only if (1) X promotes A's desire d and (2) d is not 
 
 This allows for only one form of criticism of an agent's desire - i.e. if the desire is based on a false belief. But there seems to be much more broader possibilities for rationally criticizing a desire. See below:
 
-## Idealization
+### More requirements
 
-See: Peter Railton, Michael Smith, Firth, (Bernard Williams?)
-
-There are two versions: *Ideal agent*: an agent A has reason to X in circumstances C if and only if an ideal version of themselves, A+, would desire to X in C. *Ideal Observer*: an ideal agent A has reason to X in circumstances C if and only if an ideal version of the agent, A+, would desire that A desires to X in C. The idealization requires, at a minimum, full information and correct means-end-deliberation.
+The idealization for discovering reasons requires, at a minimum, full information and correct means-end-deliberation. Some other possibilities include:
 
 - Fully Information
 - Fully Rational
@@ -130,15 +195,10 @@ There are two versions: *Ideal agent*: an agent A has reason to X in circumstanc
     - Using imagination to determine how a desire would be satisfied.
     - Deciding which desires one places most weight.
     - Systematically unified desires.
-- Fully Experienced (may violate internalism constraint)
+    -> (concern with one's future experiences)
+- Fully Experienced - not merely knowledge of a proposition p, but exposure to a stimuli (i.e. a perception, an argument, etc.) that provokes the attitude.
 
-### Fully Informed
-
-*Observer-based not agent-based.* Note that the rationality of X does not reduce to whether A+ desires X. The rationality of X rather reduces to whether A+ would desire A to desire X. This is because doing otherwise could not cannot account for rationality under uncertainty. Consider the case when it is rational to seek new information. A fully informed being would have no desire to seek information, even though there can be circumstances where doing so is rational. E.g. imagine someone finds themselves in the woods and they want to get out as soon as possible. The rational thing to do might be to do seek a person and ask for directions, find a map, etc. but this would not be desired by a being that already had full information.
-
-It's not clear why this is enough to focus on observers rather than agents. For example, imagine the case where someone drinks a glass of soda that they believe to be water and they desire to drink water. We can easily say that they have reason to not drink from the glass, even though they do have reason to drink from the glass given the information that they have. In this case, there is no problem with saying someone has most reason to do something which they have no rational way of endorsing given their currently held beliefs. Likewise, it seems we can say that people don't actually have reason to seek information, but rather they have reason to seek information given their currently held beliefs. There is no problem with saying, for example, that someone lost in the woods has most reason to take route X, even though this is not something which they have a rational way of endorsing given their currently held beliefs.
-
-### Fully Rational
+Reasons = Full Rationality + Fully Experience + Full Information
 
 Some theories allow the creation/destruction of underived desires. Williams and Smith think this allows for the creation and destruction of underived desires via imagination and, for Smith, the focus on unification. Smith takes a more radical approach in that he believes certain seemingly arational desires (e.g. desiring value only one's interests at the expense of others) are irrational.
 
@@ -146,32 +206,17 @@ This is because some theories are "fully rational", not merely fully informed, w
 
 Now, imagine that if a person were presented with Black crime or IQ statistics. Now, whenver they encountered a Black person, they have a natural, underived fear reaction and they are always thinking about the IQ that the person has. And when they do come across a low IQ Black person, they didn't notice the low IQ before, but now uncontrollably think of IQ when they see Blacks and so they make a note of his low IQ. This feeds into a cycle of implicit bias preventing them from feeling comfortable around minorities. They might try to suppress the reactions as best they could but they can't help themselves. The fact that full information would produce certain responses in people doesn't make those responses rational.
 
-### Explained by Constructivism
+### Ideal Observer
 
-Constructivism may be able to explain ideal observer theories of rationality. A constructivist would agree that an agent's idealized motivations provides the agent with reasons, but only insofar as the agent actually valued the motivations of such an idealized agent. Because the agent's reasons depend crucially on his own desires, it is constructivist. Presumably, some such desires are actually necessary for rational agents, i.e. because rational agents deliberation they necessarily care about what they would value post-deliberation, because rational agents seek truth, they necessarily care about what they would do when fully informed. Perhaps additional considerations can be said about unification, psychological compulsions, etc.
+See: Peter Railton, Michael Smith, Firth, (Bernard Williams?)
 
-Thus, there is a sense in which certain elements of an agent's motivational set take priority over other elements. E.g. a person's desires about what one would desire post-deliberation outweighs their current desire, a person's desire to not desire a hard drug outweighs his desire for the drug. The "oughtweigh" and "priority" here is in terms of normative priority, not intensity or what will actualize. The question is then how to explain the hierarchical nature of motivational elements. One explanation might be given by looking at the desires that the agent takes to constitute his *identity*. People identify more with higher-order desires, desires that they would have post-deliberation, etc. Perhaps the ubiquity of reflection and deilberation requires this. How should identity be characterized and why does this determine the priority of one's reasons?
+There are two versions: *Ideal agent*: an agent A has reason to X in circumstances C if and only if an ideal version of themselves, A+, would desire to X in C. *Ideal Observer*: an ideal agent A has reason to X in circumstances C if and only if an ideal version of the agent, A+, would desire that A desires to X in C. 
+
+*Observer-based not agent-based.* The reasons that X has reduces to whether A+ would desire A to desire X, not whether A+ would desire X. This is because doing otherwise cannot account for reasons under uncertainty. Consider the case when one has reason to seek new information. A fully informed being would have no desire to seek information, even though they have reason to do so.
+
+It's not clear why this means we should focus on observers rather than agents. For example, imagine the case where someone drinks a glass of soda that they believe to be water and they desire to drink water. We can easily say that they have reason to not drink from the glass, even though they do have reason to drink from the glass given the information that they have. In this case, there is no problem with saying someone has most reason to do something which they have no rational way of endorsing given their currently held beliefs. Likewise, it seems we can say that people don't actually have reason to seek information, but rather they have reason to seek information given their currently held beliefs. There is no problem with saying, for example, that someone lost in the woods has most reason to take route X, even though this is not something which they have a rational way of endorsing given their currently held beliefs.
 
 ### Problems 
 
-#### Substantive Problems
-
-The characterization of full rationality should not make reference to any normative terms and not make too many substantive assumptions about what this consists in. Otherwise, it doesn't really inform us of what to do. That said, some problems with the proposals so far, and existence internalism in general, are that they don't seem to be able to account for the following actions that it seems we have reason to follow, independent of what is in our motivational set: 
-
-* Preparing oneself to satisfy future ends. This may be accounted for by adding a "fully experienced" constraint to the idealization process.
-* Criticizing the satisfaction of a past desire after experience. Note that this cannot be accounted for by the full information constraint, because one's future self, A+, can criticize one's past self, A, for desiring X even if A would mantained that desire under full information (i.e. even if A mantained the desire to X despite knowing that A+ disapproved of A desiring X). This may be accounted for by adding a "fully experienced" constraint.
-* Preferring unified desires. This may be accounted for if the given conception of full rationality allows for the creation and destruction of new underived desires, which Williams and Smith think it does.
-* Preferring intrinsic desires that are more likely to be satisfied. 
-
-#### Structual Problems
-
-- They cannot account for degenerate idealized counterparts. What if a fully idealized counterpart, A+, desired that his less idealized counterpart, A, do something that he didn't have reason to do. What if A+ was viscious? The only way to avoid this conclusion is by assuming that some desire or concern for the sake of others is somehow constitutive of a fully rational agent. But this seems dubious. This is especially dubious for theories that allow any non-self-defeating desire in principle to be rational (unlike, e.g. Smith who thinks that something like this might be constitutive of a fully rational agent). But these seem like poor candidates for an analysis as they are assuming substantive desires as being rational in their analysis.
-- They cannot account for rationality in general. Take an analysis of reasons for belief. A world-to-mind fit analysis might say "A has reason to believe X in C iff an idealized version of himself, A+, would desire that A believed X in C". But this certainly does not seem to be true. Let's assume A+ is concerned ultimately with the welfare of A above all else (which is a dubious assumption as mentioned earlier). Then this certainly makes it possible for there to be cases where A+ desires that A believes X even though A has normative reason to not believe X, e.g. if believing X made A's life worse, even though it was justified. Theories about the direct beliefs of A+ (i.e. "A has reason to believe X iff an idealized version of himself, A+, would believe X in those circumstances") fail because (1) insofar as the idealization involves full information, this is flawed because the reasons to hold a belief are not determined by the truth of that belief, and (2) insofar as the idealization involves full rationality, it is circular.
-
-## Quasi-truth-apt
-
-If we remain committed to the correspondence theory of truth, we can abandon truth-aptness. Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
-
-- Normative thinking is a rational enterprise.
-- Certain normative judgments are better than others.
-- The better normative judgments are independent of our actual judgments.
+- They cannot account for degenerate idealized counterparts. What if a fully idealized counterpart, A+, desired that his less idealized counterpart, A, do something that he didn't have reason to do? What if A+ was viscious? The only way to avoid this conclusion is by assuming that some desire or concern for the sake of others is somehow constitutive of a fully rational agent. But this seems dubious. This is especially dubious for theories that allow any non-self-defeating desire in principle to be rational (unlike, e.g. Smith who thinks that something like this might be constitutive of a fully rational agent). But these seem like poor candidates for an analysis as they are assuming substantive desires as being rational in their analysis... This, combined with the earlier notes on ideal observer, might be enough to ignore the observer aspect and focus on the agent. We can distinguish what to do under uncertainty versus full information by distinguishing rationality and reasons.
+- ~~~They cannot account for rationality in general. Take an analysis of reasons for belief. A world-to-mind fit analysis might say "A has reason to believe X in C iff an idealized version of himself, A+, would desire that A believed X in C". But this certainly does not seem to be true. Let's assume A+ is concerned ultimately with the welfare of A above all else (which is a dubious assumption as mentioned earlier). Then this certainly makes it possible for there to be cases where A+ desires that A believes X even though A has normative reason to not believe X, e.g. if believing X made A's life worse, even though it was justified. Theories about the direct beliefs of A+ (i.e. "A has reason to believe X iff an idealized version of himself, A+, would believe X in those circumstances") fail because (1) insofar as the idealization involves full information, this is flawed because the reasons to hold a belief are not determined by the truth of that belief, and (2) insofar as the idealization involves full rationality, it is circular.~~~ Actually, this can account for rationality in general. The full information requirement is not to account for *rationality*, but to account for *reasons*. It is full information + rationality that provides reasons. The account of rationality is independent from full information, and this account can be extended to other domains.
