@@ -14,6 +14,19 @@ It is a platitude about reasons and rationality that: R is a normative reason fo
 
 ## Constructivism
 
+Question for Constructivism
+1. I understand the argument that there is no normative truth independent of normative judgments (i.e. the metaphysical/epistemological/motivational problems with realism).. But how do we establish that normative truth for a given agent's depends on *that* agent's normative judgments? I.e. why not the normative judgments of the agent's community? A motivational argument can be given perhaps. Kosgaard's states that such an account is the only thing that can explain the normative authority of deliberation for agents. What does this mean?
+2. What is the general strategy for determining what is constitutive of a given activity?
+3. What are the procedures for ideal deliberation?
+4. Why do some attitudes have higher authority over others, i.e. the attitude that values the upshot of idealized reflection are more important than an agent's present desires.
+5. How do unreflective desires provide reasons?
+
+See: Christine Korsgaard, Sharon Street, (Bernard Williams?)
+
+The fact that X is a reason to Y for agent A is constituted by the fact that the judgment that X is a reason to Y (for A) withstands scrutiny from the standpoint of A's other judgments about reasons. Note that X is never a reason in favor of Y, absolutely. X can only be in favor of Y for some particular agent, as determined by the standards set by the normative judgments of A himself. 
+
+A normative judgment withstands scrutiny for an agent only if the agent could mantain the judgment in full awareness, which is determined by the constituitive standards of the attitude in question. For example, someone who judges that X is a reason to Y cannot also simultaneously and in full awareness judge that X is not a reason to Y (consistency is constitutive of normative judgments). Also, one cannot take oneself to have conclusive reason to Y without taking oneself to have reason to take the means to Y (means-end reasoning is constituitive of normative judgments). The force of *cannot* is not rational, but what is *constituitive* of the concept of forming normative judgments. These standards of correctness are legislated by the very person making the normative judgments. This allows that one can be genuinely mistaken about their normative judgments only insofar as they are not in full awareness of certain relevant features of their judgments.
+
 ### Alternative conceptions of truth
 
 There are plenty of other domains of propositions whereby truth is based on something other than correspondence. The general structure is that one takes an attitude with regard to a proposition p, and then finds standards of correctness constituitive of the attitude. Consider the following examples:
@@ -33,46 +46,13 @@ Rational Judgments
 
 Under constructivism, for normative judgments, truth is not based on some correspondence to some mind-independent normative reality. There is no standard of correctness for normative judgments independent of what we ourselves decide to be valuable. There is no sense in determining that someone has a reason to do something if it cannot be inferred from what they actually judge themselves to have reason to do.
 
-### Quasi-truth-apt
+#### Quasi-truth-apt
 
 If we remain committed to the correspondence theory of truth, we can abandon truth-aptness. Normative judgments are rationalility-apt. Normative propositions have the property of being rational or irrational, whereas descriptive propositions have the property of being true or false. Ascriptions of rationality can be siblings to ascriptions of truth, while not being reduced in those terms. This can be considered a form of quasi-truth. All the purported values of cognitivism can be withheld: 
 
 - Normative thinking is a rational enterprise.
 - Certain normative judgments are better than others.
 - The better normative judgments are independent of our actual judgments.
-
-### Overview
-
-See: Christine Korsgaard, Sharon Street, (Bernard Williams?)
-
-The fact that X is a reason to Y for agent A is constituted by the fact that the judgment that X is a reason to Y (for A) withstands scrutiny from the standpoint of A's other judgments about reasons. Note that X is never a reason in favor of Y, absolutely. X can only be in favor of Y for some particular agent, as determined by the standards set by the normative judgments of A himself. 
-
-A normative judgment withstands scrutiny for an agent only if the agent could mantain the judgment in full awareness, which is determined by the constituitive standards of the attitude in question. For example, someone who judges that X is a reason to Y cannot also simultaneously and in full awareness judge that X is not a reason to Y (consistency is constitutive of normative judgments). Also, one cannot take oneself to have conclusive reason to Y without taking oneself to have reason to take the means to Y (means-end reasoning is constituitive of normative judgments). The force of *cannot* is not rational, but what is *constituitive* of the concept of forming normative judgments. These standards of correctness are legislated by the very person making the normative judgments. This allows that one can be genuinely mistaken about their normative judgments only insofar as they are not in full awareness of certain relevant features of their judgments.
-
-### Constituitive Features
-
-The central question is how to determine what requirements are constitutive of a type of behavior. One candidate is this: a requirement is constituitive of a behavior if no agent could consciously reject the requirement in full awareness.
-
-Logical Consistency. One basic constituitive feature of normative judgments (and thuoghts generally) is logical consistency. No person can consciously believe X and believe not-X in full awareness.
-
-#### Epistemic
-
-- Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
-- Abduction: 
-- Induction: 
-- Causation: 
-
-#### Prudential
-
-Constructivism provides an easy explanation of the following norms of practical reasoning.
-
-- Desires: the reason that a desire to X tends to provide one with reason to X is (1) people tend to judge that they have reason to X if they desire to X, and (2) all intentional actions are done because of some desire; if they are not done because of a desire, then they would be involuntary actions. 
-- Instrumental Reasoning: one cannot take oneself to have conclusive reason to X without taking oneself to have reason to take the means to X. Part of what it is to judge one has a reason to X consists of judging one to have a reason to adopt the means.
-- Pain/Suffering: the reason that pain/suffering provides one with reason to avoid it is precisely because people judge that they have reason to avoid it (or they have an unreflective aversion towards it). If a person had no aversion toward pain and didn't judge that they had reason to avoid it, then there would be no actual reason to avoid it. It is not the pure sensation of pain that provides us with reason to avoid it. 
-
-### Competing reasons
-
-The most fundamental question is how to determine what one ought to do when there are some considerations that give one reason to X and some considerations that give one reason to not-X. This is especially important for moral considerations when weighing reasons from different agents.
 
 ### Arguments 
 
@@ -82,15 +62,54 @@ The most fundamental question is how to determine what one ought to do when ther
 4. Explains existence internalism (assuming we accept judgment internalism).
 5. Doesn't seem like reasons can be discarded as meaningless. One can't ask "why be rational".
 
-### Notes
+### Constituitive Features
 
-1. Soundness: Why are goals endorsed under a sound state of mind necessarily better than those endorsed under psychological compulsions, physical addictions, emotional disturbances, etc.
-2. Deliberation: Why are goals endorsed under deliberation necessarily better than unreflective desires that we discard under deliberation?
-3. Experience: Why is a goal that would persist upon experiencing the result of the goal necessarily better than goals which are not.
-4. Full Information: Why is a goal based on false belief necessarily worse than an equivalent goal based on full information?
-5. Time: Why does an agent have reason to satisfy the goals of his future self? How are we justified in criticizing the goals of our past selves?
-6. Conflict: how to deal with conflicting goals? Is there a goal hierarchy?
-7. Feasibility: why are goals which are more likely to be satisfied, all things else being equal, better?
+The central question is how to determine what requirements are constitutive of a type of behavior. One candidate is this: a requirement is constituitive of a behavior if no agent could consciously reject the requirement in full awareness.
+
+Logical Consistency. One basic constituitive feature of normative judgments (and thuoghts generally) is logical consistency. No person can consciously believe X and believe not-X in full awareness.
+
+#### General
+
+1. Consistency: Consistent/Coherent norms trump inconsistent/incoherent norms (This is required for all other constituive features to have force). 
+2. Soundness: Norms endorsed under a sound state of mind trump norms endorsed under psychological compulsions, physical addictions, emotional disturbances, etc.
+3. Deliberation: Norms endorsed under deliberation trump unreflective dispositions that we discard under deliberation.
+4. Experience: Norms that maintain endorsement upon experiencing their outcome trump ends which are not.
+5. Full Information: Norms endorsed with full information trump norms based on false beliefs?
+
+#### Epistemic
+
+- Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
+- Abduction:  
+- Induction: 
+- Causation: 
+
+#### Prudential
+
+Constructivism provides an easy explanation of the following norms of practical reasoning.
+
+Constitutive Features
+
+1. End-Satisfaction: agents have reason to satisfy their ends.
+2. Instrumental: agents have reason to adopt the means to satisfy their ends.
+3. Time: agents have reason to satisfy the goals of their future self. 
+	Agents justified in criticizing the goals of our past selves.
+
+Other Features. May not be constitutive (?), but depend on features implicit in most people
+
+4. Conflict: how to deal with conflicting goals? 
+	Is there a goal hierarchy? 
+	Ends constitutive of one's identity (i.e. valuing reflection) trump conflicting ends.  
+5. Feasibility: goals which are more likely to be satisfied trump equivalent goals that cannot be satisfied.
+6. Pain/Suffering: pain/suffering provides one with reason to avoid it is precisely because people judge that they have reason to avoid it (or they have an unreflective aversion towards it). 
+	If a person had no (un)reflective aversion toward pain, then there would be no actual reason to avoid it. 
+	It is not the pure sensation of pain that provides us with reason to avoid it. 
+7. Desires: a desire to X tends to provide one with reason to X because 
+	- people tend to judge that they have reason to X if they desire to X, and 
+	- all intentional actions are done because of some desire; otherwise, they would be involuntary actions.
+
+### Competing reasons
+
+The most fundamental question is how to determine what one ought to do when there are some considerations that give one reason to X and some considerations that give one reason to not-X. This is especially important for moral considerations when weighing reasons from different agents.
 
 ### Dispositionalism
 

@@ -1,0 +1,130 @@
+## Proceduralist vs Practical Standpoint Characterizations
+
+One interpretation of constructivism in ethics is the **proceduralist characterization**. 
+There are no moral facts independent of the finding that a certain hypothetical procedure would have a certain output. 
+Normative truth is not merely discovered by or coinciding with the outcome of a certain procedure.
+It as constituted by emergence from the procedure. 
+Rawl's "veil of ignorance" is an example of such a constructivist view.
+
+The proceduralist characterization might be intelligible as a theory of substantive ethics. 
+However, it has problems as a candidate for a unique metaethical position: 
+1. 	It is difficult to see how this *could be* a metaethical view. 
+	If two constructivists disagree about whether normative truth emerged from procedure A or B, then this seems like a substantive normative disagreement, compatible with many different metaethical interpretations.
+2. 	It is difficult to see how this could be a *unique* metaethical view. 
+	For example, how could it differ from metaethical views that reduce normative facts to natural facts about the responses of agents in certain idealized circumstances?
+
+The proceduralist characteriziation also fails to capture what is most interesting and distinctive about constructivism. 
+Now turn to the **practical standpoint characterization** of constructivism. 
+What's centrally important is that constructivism reduces normative truth to what emerges from a *practical standpoint*.
+The *practical standpoint* is the the point of view of an agent or set of agents who accept certain values. 
+The proceduralist characterization is useful only as a heuristic device for determining what follows from a certain practical standpoint.
+
+On this characterization of constructivism, the main components of the metaethical theory is as follows: 
+1. 	Even if we don't understand what valuing *is*, we understand the *attitude* of valuing. 
+	The *attitude* is the evaluative attitude of a creature who takes certain thing to be reasonable or unreasonable. 
+	A creature who holds any such evaluative attitude can be said to occupy *the practical point of view*. 
+2. 	We have an understanding of *entailment* from within the standpoint of any given set of values. 
+	With these two components, normative truth, consists in what is entailed from the practical point of view.
+	i.e. what follows from the perspective of a creature who already values things.
+
+## Varieties of Constructivism
+
+**Restricted constructivist views** state that the truth of a claim within a certain *restricted set* of normative claims (e.g. social justice, moral rightness/wrongness, etc.) consists in being entailed from within a *substantively characterized* practical point of view. 
+A substantively charactierized point of view is specified by a set of substantive normative claims, which are taken for granted. 
+Examples include John Rawls' theory of justice and Thomas Scanlon's theory of right and wrong. 
+These views say nothing about what the truth of these assumed substantive claim consists in. 
+Thus, the *restricted* views are compatible with any metaethical position. 
+These views may be seen as illuminating a particularly important substantive point of view and exploring what follows from that view.  
+
+**Metaethical constructivist views** state that the truth of a normative claim consists in being entailed from within a *formally characterized* practical point of view. 
+These are to cover *any* normative claim. 
+Further, the formal characterization of the practical point of view is not to assume any particular substantive claims. 
+Rather, it is concerned with what follows from the standpoint of a creature who values *anything*. 
+They must explain the attitude required to count as a valuer, and explain how standards of correctness follow from this attitude. 
+
+*Kantian* metaethical constructivist views: 
+	States that certain substantive moral truths follow from a formal characterization of the practical point of view; 
+	No matter the particular content of a given agent's starting normative judgments, certain moral values are entailed. 
+*Humean* metaethical constructivist views: 
+	Deny whether any substantive moral values are entailed from the standpoint of normative judgments as such. 
+	The substantive content of a given agent's reason depends on their particular, contingent evaluative starting judgments. 
+	Differs from standard Humean views in that the nature of *valuing* (rather than mere *desire*) determines normative truth. 
+
+## The distinctiveness of Constructivism
+
+See how constructivism differs from the following metaethical views:
+
+### Realism
+
+On one understanding, realism merely states that some moral claims are true. 
+Constructivist is realist on this understanding, 
+But this understanding is ultimately not very useful (simple subjectivism would count as realist on this interpretation). 
+
+A better understanding of realism is one that is committed to *mind-independence*. 
+Constructivism is squarely anti-realist: normative truth consists in what certain valuing creatures take to be normative truth. 
+There is no notion of normative truth outside of the values entailed by the practical point of view. 
+Realists hold that normative truth holds independently of what is entailed from the practical point of view.
+One can be wrong about normative truth while simultaneously 
+	knowing all the non-normative facts, and
+	being perfectly rational about *what follows* from their starting evaluative standpoint.
+
+The distinction can be seen by imagining a secular case of the Euthyphro dilemma. 
+Realists hold that we value things because they are independently valuable.
+Whereas constructivists hold that things are valuable because we value them 
+	(or, more specifically, because they are entailed from what we value). 
+
+My Note: It is possible that neither of these are correct, that there is a third option:
+There are moral facts that exist independently of us, but this has no causal influence on what we value. 
+So we don't value things because they are independently valuable. 
+But if this is true, then it seems we have no reason to believe that anything exists independently of us. 
+For how can it be said that we have reason to believe in entities that we are not in causal contact with? 
+Thus, realists need a story on how values can *explain* what we actually value. 
+This is relatively easy for naturalistic realism (since moral facts would be natural facts, and natural facts can easily explain what we value, just as they can explain what we believe).
+But I'm not sure how this works for non-naturalism. 
+
+### Ideal Response
+
+On naturalistic ideal response theories, normative truth can, in principle, be empirically observed. 
+We need only observe the responses of the agent in idealized conditions (where the conditions are given a naturalized characterization).
+However, one cannot empirically *observe* what follows from the practical standpoint. 
+Despite this, constructivism is not committed to a non-naturalism or naturalist mysteriousness. 
+Saying that normative facts consist in being entailed from a practical standpoint is just as compatible with a naturalistic world as is saying that baseball facts consist in bein entailed from baseball rules. 
+Of course, the constructivist must still give an account of what the practical standpoint consists in. 
+Constructivism must explain what is constitutive of the attitude of valuing, as opposed to, e.g., believing or desiring.
+
+Two objections against the ideal response theory are as follows: 
+1. 	It seems that, no matter how the ideal circumstances are characterized, 
+	it is always possible in principle for the observer's responses to significantly diverge from our strongest intuitions,
+2.	It doesn't seem correct to say that some normative claim's truth consist in being endorsed by some observed in certain conditions; 
+	That seems to be an irrelevant causal process.
+	So (ignoring 1) while ideal response theories may be extensionally equivalent, they are not intensionally equivalent to constructivism.
+	Constructivism gives a different *explanation* for why normative truth is determine by ideal responses.
+
+My Note: emphasis the intensional difference.
+Response Dependent theories say reasons are the counterfactual endorsements under ideal reasoning, naturalistically defined, because of something like:
+(1) what we mean by "reason" is "that which would be endorsed under ideal circumstances, naturalistically defined", or
+(2) normative judgments are theoretical beliefs about what one would do under ideal circumstances, naturalistically defined.
+Constructivists reject this because normative judgments are not theoretical ascriptions of properties. 
+Normative judgments are answers to practical problems, not beliefs.
+Constructivists say reasons are the counterfactual endorsements under ideal reasoning because:
+(1) there is no normative truth outside of our normative judgments, and
+(2) our normative judgments commits us to endorsing the upshots of ideal reasoning.
+
+### Expressivism
+
+The standard understanding of the contrast between constructivism and expressivism states that constructivism is cognitivist and expressivism is non-cognitivist.
+But this understanding is inadequate. 
+In actuality, constructivism and expressivism are actually not incompatible. 
+Their disagreement lies in what they take to be the central task of metaethics. 
+Expressivists acuse constructivists of ignoring the most important task of metaethics - explaining the *meaning* of moral terms.
+Thus, they conclude that constructivism is a substantive theory. 
+Expressivism explains the meaning of moral terms by describing the states of mind expressed by moral terms.
+It explains that these states of mind differ from beliefs in significant ways. 
+This much, constructivism agrees with - the state of mind behind valuing differs sharply from the state of mind behind belief.
+
+But constructivists can respond that expressivism missess a key task of metaethics, 
+which is to reconcile normative discourse with a naturalistic understanding of the world (a task that expressivists agree is central to metaethics). 
+Constructivists argue that this requires doing away with notions of mind-independent truth in normative discourse. 
+It is not sufficient to merely explain the state of mind expressed by normative claims. 
+Even if constructivism is considered a substantive normative position and expressivism is accepted, it might still be the true that various metaphysical and epistemological objections to mind-indepenent normative facts arise again in subsantive normative discourse, suggesting that constructivism is a substantive normative claim entailed from the practical point of view as such. 
+Regardless of whether the constructivism vs realist debate is a substantive or metaethical debate, we must accept constructivism to reconcile our understanding of value with a naturalistic worldview.

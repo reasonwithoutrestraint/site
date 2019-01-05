@@ -1,5 +1,94 @@
 # Data on Black People
 
+Group Success
+- Degeneracy is the norm, positive efforts must be made to reverse the trend. 
+- Determined by internal factors, behavior/characteristics resembles narrow culture.
+	1. Success not determined by broader society
+	2. IQ determines success
+	3. IQ fixed after adulthood
+	4. IQ inherited
+	5. Success inherited
+		- Chinese/Jews/Igbo successful across all regions
+		- Blacks unsuccessful across countries, states, cities
+		- Indigeneous groups unsuccessful ubiquitously
+	6. IQ changes track cultural changes
+- Group Differences: 
+	- Disparities does not imply discrimination. 
+	- Disparities between groups of the same race (can't be discrimination). 
+	- Disparities always persist.
+- Black America: State of Disparities: 
+	- IQ, 
+	- Poverty/Income/Wealth, 
+	- Crime/Imprisonment, 
+	- Education, 
+	- Health.
+- Black America: Cause of Disparities:
+	- Not Oppression
+		- Not white supremacy: Asian Americans continuously successful
+		- Not racism against Blacks: African immigrants successful
+	- Not individual/household poverty
+		- Poor Asians/Whites do well.
+		- Poor high-IQ individuals (including blacks) do well.
+	- Communal Poverty? Maybe
+	- Internal factors 
+		- IQ, work ethic, Single-parenthood, etc. 
+		- Married household have low poverty
+		- How IQ Blacks see success
+		- Asians do exceed IQ expectations
+- Black America: State of Cultural Failures:
+	- Specifics, can be measured
+		- Violence. Homicide = main cause of death for young black men.
+		- Lack of Entrepreneurship. Economic success dependent on other cultures.
+		- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
+		- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
+		- Wealth building. Similar income, different wealth.
+		- Anti-intellectualism. "Acting white"
+	- General, constituted by the specifics
+		- Impulsivity   
+		- Hedonism
+		- Aggression
+		- Laziness
+		- Low Time Preference
+- Black America: Cause of Cultural Failures:
+	- Slavery, 
+	- No skills after slavery.
+	- Jim crow,
+	- Lack of policing or government support, 
+	- welfare, 
+	- Discrimination
+- Black America: Solutions to Cultural Failures 
+	- Historical Improvement
+		- The period between slavery abolition and the civil rights era saw higher levels of racism, Jim Crow laws, and immediately following slavery.
+		- Yet we saw extreme improvements in literacy, education, poverty, income, employment, entrepreneurship, family structure, community building, economic independence, etc.
+		- The civil rights movement was beneficial insofar as it remove legal discrimination
+		- It was ineffective and in some ways not beneficial with regard to others. 
+			- The improvement for literacy, education, poverty, income, etc. did not accelerate
+			- Single-parent households, community structure, entrepreneurship, economic independence, etc. all declined. 
+	- Heritable though not necessarily genetic
+		- Internal economic success trumps external political support. 
+		- Even if my analysis on the cause/state of cultural failures are rejected, even if it is maintained that racism/discrimination is rampant, the most reliable path to success is internal improvement
+		- A person's behavior/ability is not strictly speaking determined by their genes.
+		- But there is an extremely close connection between one person's success and their parents success.
+		- The result is the same regarding solutions for improvement: reduce unplanned/unfit reproduction
+	- Economic Independence 
+		- Mild preference/separation. 
+		- See Jews, Chinese, etc. 
+		- American Blacks would be 10th richest nation. 
+		- America can't seem to find middleground between oppression and paternalism. Both are harmful so long as Blacks are dependent on America. So seperate.
+	- Legal reform
+		- Welfare reform. Do not subsidize unfit reproduction 
+		- Subsidized abortions. Make abortions legal/accessible/subsidized/acceptable/promoted. 
+	- Cultural reform
+		- Shame single-parent households.
+		- Shame promiscuity.
+		- Don't glorify violence, drug, gang, thug culture
+		- Remove materialistic values
+		- Stop caring about white people
+	- Education reform
+		- Charter Scools
+		- Stop expecting all kids to take the college-prep route
+		- Prepare some students for trades, workforce, etc.
+
 ## Disparities
 
 ### Black outperforming

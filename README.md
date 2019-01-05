@@ -10,20 +10,25 @@ To Read/Summarize:
 		- (Summarize) "The Emotive Meaning of Ethical Terms"
 		- (Summarize) "Ethical Disagreement"
 	- (Summarize) Simon Blackburn, "How to Be an Ethical Antirealist",
-	- Mark Timmons & Terry Horgan, "Nondescriptivist Cognitivism"
+	- Mark Timmons & Terry Horgan, 
+		- "Nondescriptivist Cognitivism"
+		- "Morality without Moral Facts" in *Contemporary Debates in Moral Theory* by James Dreier
 	- (Summarize) Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
 - Constructivism
 	- Essays: _Constructivism in Practical Philosophy_ (book)
 	- Christine Korsgard 
 		- (Summarize) "The Sources of Normativity"
 		- (Summarize) "Skepticism about Practical Reasons"
+		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
+		- *Self-Constitution. Agency, Identity and Integrity*.
 	- Sharon Street
 		- (Summarize) "A Darwinian Dilemma for Realist Theories of Value"
-		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- (Summarize) "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 		- "Evolution and the Normativity of Epistemic Reasons"
+	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
 	- (Summarize) Gilbert Harman, "Moral Relativism Defended"
-	- David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-	- Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
+	- (Summarize) David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+	- (Summarize) Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
 - Naturalism
 	- Frank Jackson, "Moral Functionalism and Moral Motivation" (Analytic)
 	- Philippa Foot, 

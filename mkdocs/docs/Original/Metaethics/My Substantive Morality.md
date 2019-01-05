@@ -69,16 +69,43 @@ Faces similar problems as collective goodness. See below:
 - *Summation*
 - *Average*
 - *Pareto optimality*
-- Distributions that would be preferred by everyone if they didn't know where they would fall within the distribution.
+- Principles that would be preferred by everyone if they didn't know where they would fall within the distribution.
 - Small diminishes to someone with high well-being for a large increase to someone with low well-being.
 
 ## The Right - Fundamental moral principles 
 
-Necessary conditions for an action to be morally wrong:
+### Against utilitarianism
+ 
+Three components of utilitarianism:
+1. Measure of individual good: for utilitarianism, this is happiness
+2. Measure of collective good: maximizing total individual well-being of all agents equally.
+3. Consequentialism: the right reduces to the good in some way. 
+
+Problems:
+1. How is happiness defined? (don't have huge opposition) 
+	- Pleasure receptors. This is bad.
+	- States of enjoyment. Better 
+	- Conscious states that are preferred. Better
+	- Preferences/desires. Doesn't seem like happiness
+2. What aggregation function for collective well-being?
+	- Maximizing the sum of utility. Bad, because increasing people is always better. So it can be good to torture someone to increase marginal utility in X number of people, so long as X is large enough.  
+	- Maximizing the average. Bad, because having children with below average utility makes the world a worse place.
+	- It seems clear that world X is better than world Y, where every individual in world X has higher utility than in world Y (or they would have higher utility if placed in world Y). But if this is not true for _every_ individual, then I'm not sure.
+	- Utility Monster: The gap in sentience between pigs and humans entails that it would be better for an innocent pig to die to save a human. But it doesn't seem that a comparable gap between a human and a superintelligent alien entails that its better for an innocent human to die to save the alien. Certainly, it doesn't seem like we would be morally justified in killing the human to save the alien. And especially the human wouldn't be morally obligated to kill himself. What if the alien mistakenly put himself in a position whereby either he or a human had to die?  
+3. Why assume that the right reduces to the good?
+	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
+	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
+	- Intuition: if we could prove that subjecting someone to a course of action maximized their good (even if good is defined in terms of preference satisfaction), is it right to force someone to do this for their own sake? Just because doing something promotes good doesn't mean that performing that action is good (particularly if it uses force). This scenario is possible in the following scenario: (1) person has ideal (more informed, higher order, more rational, etc.) preferences that would be satisfied by doing X, but (2) he doesn't willingly do X, and this must be because of less ideal preferences. It would be wrong to force this person to do X if (3) he also has preferences that he not be forced to do X in situations where (1) and (2) are true; but it would be okay to use force if he preferred to be forced to do X in these situations. Of course, (3) says nothing about whether performing X really is good (maybe it is, maybe it isn't); the fact is we can't use force.
+
+My necessary conditions for an action to be morally wrong:
 
 - It must be bad for someone. This is agnostic with respect to one's theory of goodness.
 - It must be the right kind of badness. The following sources of badness don't count:
-    - Someone arbitrarily opposed to an action
+    - Someone arbitrarily opposed to an action, i.e. people disgusted with homosexuality
+
+Separability of persons:
+- It seems a person can never be morally required to accept a principle that causes a severe harm to compensate for some comparable benefit for another person or group of persons.
+- Maybe that only applies when 
 
 Applying FORCEFUL action F to agent A is morally prohibited, unless:
 
@@ -165,6 +192,10 @@ Note that "local community" means "more local than the global community", so a c
 		- Food/drug regulation
 		- Certain anti-discrimination laws (if the harm is material disadvantage, not psychological pain of seeing racism).
 		- Healthcare
+	- This is necessary to justify the state, which is a non-consensual use of force against fully informed, fully rational agents that is not based on rectification/compensation. Other libertarian arguments cannot do this.
+		- *Right to avoid risk*. People have a right to avoid risky situations. Anyone who refrains from supporting a state commits a rights violations as this would make life risky for everyone else. Therefore, a state is justified to prevent rights violations against those who refuse to support it. This is a bad argument because we don't have a right to avoid risky circumstances. We have a right to avoid threats that are direct and immediate and so we can coerce anyone who makes such threats. But we have rights against risk.
+		- *Right to law.* People have a right to have their right to liberty, life, etc. codified in a body of law. But why though?
+		- *Samariton rights*. People have a right to violate others' right to property when doing so is needed to escape dire circumstances. E.g. someone lost in a snow blizzard has a right to break into someone else's cabin to save themselves. This may be valid, but it invokes positive rights which is not in the spirit of libertarianism. This, however, may be prferrable because it can justify, e.g., a police force even when the majority of people do not consent to it under a democratic system.
 
 #### Disagreement
 
@@ -181,15 +212,14 @@ Must explain the relationship between disagreement and ideal socially constructe
 #### Layers of force
 
 Remember the types of force that can be justified
-- Explicit/Implicit Consent
-- Lack of rationality/informed
-- Retaliation against physical coercion
-- Compensation for coercion and/or someone using more than their fair share
-- Optional democratic communal laws 
+- Consent: Explicit/Implicit Consent
+- Impairment: Lack of rationality/informed
+- Rectification: Retaliation/Compensation against physical coercion and/or excess resource usage
+- Democracy: Optional democratic communal laws 
 
 Here are the types of force that can be justified in reality as it actually is.
 
-Global: types of force that can be justified:
+Global
 - Basically anarchism.
 - Respect for the sovereignty of other countries.
 - Retaliation against those that violate the sovereignty.
@@ -276,6 +306,7 @@ Right-Leaning:
 - Free Speech
 	- Hate Speech allowed
 	- Can be outlawed to prevent systematic subjugation (e.g. Nazi Germany)
+- School Choice
 - Discrimination
     - Not inherently wrong
     - Wrong if its arbitrary and exclusionary (rather than balancing)
@@ -291,7 +322,6 @@ Right-Leaning:
     - We have the right to any restrictions
     - We should filter in-demand immigrants that can't be filled by natives
     - I desire low influx of immigrants
-
 
 Other:
 
@@ -336,6 +366,7 @@ Anti-Libertarian
 Topics:
 - Striking somebody in revenge
 - Cosplay is cultural appropriation
+- Do sentience gaps justify sacrifice
 
 ## Constitution
 
