@@ -12,6 +12,10 @@ The Moral Problem
 
 It is a platitude about reasons and rationality that: R is a normative reason for A to X iff R would be a motivating reason for A to X if A were rational and A was aware of R. In other words, reasons are the upshot of full rationality and full information. The question is how to characterize rationality. Internalism gives a *procedural* characterization of rationality that specifies a form of ideal *deliberation*, i.e. of moving from certain motivations to action and other motivations. Externalism specifies an *substantive* characterization of rationality that specifies certain substantive elements like "a motivation to help others", or an agent requires certain experiences or information to actually be rational. I.e. being rational might require being converted than sound reasoning.
 
+### Narrow Definitions of Rationality
+
+From Scanlon: To be irrational is to fail to adopt the attitudes that one judges themselves to have reason to adopt.
+
 ## Constructivism
 
 Question for Constructivism

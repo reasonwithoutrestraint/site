@@ -9,7 +9,7 @@ Rules of inference
 - Abductive
 	- Falsifiability
 	- Generality
-	- Parisomony
+	- Parisomony (Occam's Razor)
 	- Explanatory
 - Inductive
     - Past -> Future

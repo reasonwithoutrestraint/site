@@ -28,7 +28,6 @@ To Read/Summarize:
 	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
 	- (Summarize) Gilbert Harman, "Moral Relativism Defended"
 	- (Summarize) David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-	- (Summarize) Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
 - Naturalism
 	- Frank Jackson, "Moral Functionalism and Moral Motivation" (Analytic)
 	- Philippa Foot, 
@@ -52,12 +51,32 @@ To Read/Summarize:
 	- Justin D'Arms, "Two Arguments for Sentimentalism"
 - Error Theory
 	- JL Mackie - "The Subjectivity of Values"
+- Contractualism
+	- Christine Kosgaard, "Kant's Formulation of Universal Law"
+	- Derek Parfit, Kantian Contractualism
+	- Thoams Scanlon
+	- David Gauthier 
+- Libertarians
+	- John Locke, Second Treatise of Civil Government
+	- Murray Rothbard, For a New Liberty
+	- Robert Nozick, Anarcy, State and Utopia
+	- John Stuart Mill, On Liberty
+	- Kantian contractualist (Gaus and, I think, Hayek)
+	- Hobbesian contractarian (Narveson, Gauthier), 
+	- Other Contractarian (Jan Narveson, The Libertarian Idea; Loren Lomasky, Persons, Rights, and the Moral Community).
+	- Natural Rights (Chartier, Mack), 
+	- Eudaemonist (Long, Den Uyl, Rasmussen, Rand)
+	- Rule-utilitarian (most economist libertarians, Friedman, Mises), 
+	- Institutional-consequentialist justifications (Schmidtz),
+	- Rossian pluralist (I think MZ counts here, and maybe Huemer).
 
 Summarized:
 
 - Constructivism
 	- Sharon Street, "What is Constructivism in Metaethics"
 	- Sharon Street, "Constructivism about Reasons"
+	- (Summarize) Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
+	- Aaron James, "Constructing Protagorean Objectivity"
 - Non-Descriptivism
 	- Allan Gibbard, Wise Choices, Apt Feelings
 	- AJ Ayer, "Critique of Ethics"
@@ -66,7 +85,7 @@ Summarized:
 - Error Theory
 	- JL Mackie, "The Subjectivity of Values"
 - Non-naturalism
-	- GE Moore, "The Subject Matter of Ethics"
+	- G.E. Moore, "The Subject Matter of Ethics"
 
 ## Introduction
 
@@ -109,7 +128,7 @@ Naturalism
 - (1) Michael Smith, "An Anti-Humean Theory of Normative Reasons", from _The Moral Problem_
 - (1) Peter Railton, "Moral Realism", from _Facts, Values, and Norms_
 - (1) Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
-- (2) Frank Jackson, "Moral Functionalism and Moral Motivation"
+- (3) Frank Jackson, "Moral Functionalism and Moral Motivation"
 - (3) R.M. Firth, "Ethical Absolutism and the Ideal Observer"
 
 Non-Naturalistm
@@ -136,6 +155,10 @@ Constructivism
 - (3) Christine Korsgaard, "Skepticism about Practical Reasons"
 - (3) Gilbert Harman, "Moral Relativism Defended"
 
+Miscellaneous
+- (1) Justin D’Arms, “Two Arguments for Sentimentalism in Ethics”
+- (2) Railton, “The Affective Dog and Its Rational Tale”
+
 ## General works list
 
 - Non-cognitivism
@@ -153,7 +176,11 @@ Constructivism
 	- Essays: _Constructivism in Practical Philosophy_
 - Constructivism
 	- Essays: _Constructivism in Practical Philosophy_
-	- Lecture: Christine Korsgard - "The Sources of Normativity"
+	- Christine Korsgard:
+		- "The Sources of Normativity"
+		- "Skepticism about Practical Reasons"
+		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
+		- *Self-Constitution. Agency, Identity and Integrity*.
 	- Essays: Sharon Street
 		- "What is Constructivism in Ethics and Metaethics"
 		- "Constructivism about Reasons"

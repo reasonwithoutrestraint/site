@@ -2,8 +2,8 @@
     - deontological negative liberty
     
 - Minarchists:
-    - consequentialist negative liberty
-    - check for consistency (they might think they are deontological liberty):
+    - If they are consequentialist about negative liberty, see below
+    - If they say they are deontologist about negative liberty, check for consistency:
         - Me: Why police, military, courts but not education, healthcare, etc.
         - Them: Because police, courts, etc. are necessary for a government with properties XYZ (minimum sized stable, cohesive, functional government)
         - Me: How are you justified in forcing someone to pay into a system with properties XYZ if they don't care about XYZ?.
@@ -19,10 +19,21 @@
                     - You need money to pay to nullify force of damage after an assault (e.g. property degradation, injected diseases).
                     - All of these increase overall negative liberty, so you have to accept them. 
                         - In the case of injected disease, this would mean a universal healthcare is justified so long as it treats diseases that were caused by a criminal. These treatments would be preventions of liberty violations, whereas treatments of unfortunate circumstances would not.
+
+- How to understand negative liberty that accounts for the following:
+    - Contract Reneging
+    - Fraud
+    - False advertising
+    - Defamation
+    - Threats
+    - Theft - requires a theory of property. Need a principle other than non-aggression. Taking resource X is not coercive.
+    - Not explicitly physical coercion.
+    - Why not say that the companies who engage with these practices will be outvoted in a free market
              
 - Why care about (deontological or consequential) negative liberty?
     - Imagine two options:
         - Full negative liberty, no positive liberty (disability, no opportunity, etc.)
+            - Don't think I support this
         - A lot of negative liberty, a lot of positive liberty (e.g. you are taxed, but no disabilities, you have opportunity, etc.).
     - Minarchism maximizes positive liberty.
         - So you're a consequentialist for positive liberty? Boom!

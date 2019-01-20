@@ -30,11 +30,22 @@ General problems with ignoring non-descriptive attitudes
 
 ### Normativity doesn't require descriptivism
 
-*Normative education/expressions*. We teach children to form certain moral judgments by molding their non-descriptive attitudes; and this is done by rewarding/punishing behavior with various non-descriptive attitudes, and by showing examples of appropriate attitudes in certain circumstances.
+#### Normative education/expressions. 
 
-*Flexibility of language*. A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. Best explained as prescriptions and/or expressions, rather than reports/descriptions. It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity, and if they were, then how would we know?
+We teach children to form certain moral judgments by molding their non-descriptive attitudes. 
+This is done by rewarding/punishing behavior with various non-descriptive attitudes.
+This shows examples of appropriate attitudes in certain circumstances.
 
-*Descriptivism unnecessary*. all of our normative discourse can be explained without appeal to the existence of normative entities, or judgments about such properties.
+#### Flexibility of language 
+
+A ought to X, A needs to X, A must X, X is crappy, X is disgusting, etc. can all mean the same thing. 
+This is best explained as prescriptions and/or expressions, rather than reports/descriptions. 
+It is unlikely that the referrents of the terms in each of these expressions are descriptive of the same entity.
+if they were descriptive of the same entity, how would we know?
+
+#### Descriptivism unnecessary. 
+
+All of our normative discourse can be explained without appeal to the existence of normative entities, or judgments about such properties.
 
 ### Arguments against Realism
 
@@ -42,11 +53,35 @@ General problems with ignoring non-descriptive attitudes
 
 ### Arguments against all Descriptivism
 
-*Descriptivism cannot discern "positive" versus "descriptive" uses of normative terms*. Think of how we distinguish between moral uses of moral terms versus non-moral uses, e.g. "right" as used in "morally right" versus "economically right" or "conventionally right", "good" as used in "morally good" versus "economically good", etc. The characteristic feature of the moral uses are to be found in the non-descriptive attitude expressed or in the intended modification of the listener's attitudes.
+#### Descriptivism cannot discern "positive" versus "descriptive" uses of normative terms. 
 
-*Role of attitudes in ethical disagreement*. Descriptivism cannot explain the role of attitude in ethical disagreements. There are two forms of disagreement, disagreements in belief (when both cannot be true) and disagreement in attitudes (when both cannot be satisfied). Note that reducing ethical judgments to *beliefs about attitudes* cannot account for this. If A believes he desires X and B believes he desires not-X, then these beliefs are not in disagreement because they can both be true. Ethical disagreements commonly feature disagreements in attitudes and in beliefs. But attitudes play the primary role because (1) disagreements in attitudes determine which beliefs are relevant, and (2) ethical disagreement persist after agreement in belief. It might be said that this is actually a disagreement in beliefs about each agent's idealized attitudes, where idealized attitudes are assumed to be convergent. But this doesn't work either. Ethical disagreement can persist despite agreement about the beliefs of everyone's fully rational, fully informed attitudes (i.e. free of psychological compulsions, emotional disturbances, physical addictions, etc.). In fact, if people currently disagreed in attitudes, but agreed in all beliefs (including about counterfactual attitudes under full rationality/information), then there would be still be an ethical disagreement. This is not the cause with something like think art, humor, taste, etc.
+Think of how we distinguish between moral uses of moral terms versus non-moral uses.
+E.g. contraast "good" as used in "morally good" versus "economically good" or "conventionally good". 
+The characteristic feature of the moral uses are the non-descriptive attitude expressed or in the intended modification of the listener's attitudes.
 
-*Splitting descriptivism and non-descriptivism*. Take a descriptivist theory of normative judgment which says that ascriptions of goodness to x express belief p to x. Take a non-descriptivist theory of normative judgment which says that such ascriptions express non-descriptivist attitude q to x. Imagine an agent held q with regard to x but they did not hold p with regard to x. It seems safe to say that they judge x to be good. Now imagine that they held p with regard to x but they did not hold q with regard to x. It seems safe to say that they don't judge to be good.
+#### Role of attitudes in ethical disagreement
+
+Descriptivism cannot explain the role of attitude in ethical disagreements. 
+There are two forms of disagreement, (1) disagreements in belief (both cannot be true) and (2) disagreement in attitudes (cannot be satisfied). 
+Note that reducing ethical judgments to *beliefs about attitudes* cannot account for this. 
+If A believes he desires X and B believes he desires not-X, then these beliefs are not in disagreement because they can both be true. 
+Ethical disagreements commonly feature disagreements in attitudes and in beliefs. 
+But attitudes play the primary role because 
+1. The attitudes determine which beliefs are relevant, and 
+2. Ethical disagreement persist after agreement in belief. 
+
+Perhaps this is actually a disagreement in beliefs about each agent's idealized attitudes, where idealized attitudes are assumed to be convergent. 
+But ethical disagreement can persist despite agreement about the beliefs of everyone's fully rational, fully informed attitudes. 
+This is not the case with something like think art, humor, taste, etc.
+
+#### Splitting descriptivism and non-descriptivism. 
+
+Take a descriptivist theory of normative judgment which says that ascriptions of goodness to x express belief p to x. 
+Take a non-descriptivist theory of normative judgment which says that such ascriptions express non-descriptivist attitude q to x. 
+Imagine an agent held q with regard to x but they did not hold p with regard to x. 
+It seems safe to say that they judge x to be good. 
+Now imagine that they held p with regard to x but they did not hold q with regard to x. 
+It seems safe to say that they don't judge to be good.
 
 ## Specific Problems
 

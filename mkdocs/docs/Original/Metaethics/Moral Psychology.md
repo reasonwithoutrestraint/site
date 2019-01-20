@@ -2,6 +2,13 @@
 
 ## Psychology
 
+Moral judgments can express:
+- Moral emotions: approval, disapproval, resentment, anger, etc.
+- Dispositions of moral emotions: dispositions of approval, disapproval, resentment, etc.
+- Judged reasons to hold, deliberative endorsement of, moral emotions: reason to approve, disapprove, feel resentment, guilt, etc.
+
+The third characterization is compatible with everything below because reasons are given a non-cognitive analysis.
+
 ### Types of psychological states
 
 (1) Beliefs - mind to world

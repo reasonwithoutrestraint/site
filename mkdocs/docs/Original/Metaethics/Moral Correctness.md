@@ -104,22 +104,40 @@ Communicative principles in other domains
 
 ### Moral commitments
 
-Impartiality: Moral reasons can be distinguished from practical reasons in that the moral reasons are reasons for action with some impartiality constraint (e.g. science = interpsonal reasons for belief).
-
-- Moral norms = individual practical reasons that everyone has.
-	- Valuing anything requires valuing the capacity to value.
-	- There is no valid distinction to make between different individuals, metaphysical egoism is false.
-- Moral norms = reasons that follow after considering everyone's individual goodness equally. 
+Impartiality: Moral reasons can be distinguished from practical reasons in that the moral reasons are reasons for action with some impartiality constraint (e.g. science = interpsonal reasons for belief). Possible conceptions of moral norms
+- Individual practical reasons that everyone individual has.
+	- Korsgaard: Valuing anything requires valuing the capacity to value.
+	- Denial of Metaphysical Egoism: There is no valid distinction to make between different individuals.
+- Reasons that follow after considering everyone's individual goodness. 
 	- Maximizing the total utility of everyone (e.g. utilitarianism).
 	- Personal reasons a person has under the veil of ignorance.
-- Moral norms = norms no one could reasonably reject as a basis for unenforced, informed cooperation given that one has such a desire.
+- Contractualist:
+	- Norms no one could reasonably reject as a basis for unenforced, informed cooperation given that one has such a desire.
+- Universalization:
+	- Maxims that A can rationally willed to be a maxim followed by agents. This requires:
+		- It be conceivable for the maxim to be universalizable, and
+		- It be possible for someone to rationally will the maxim to be universalizable. E.g. Kant says (1) for any agent A, A's ends sometimes require help, (2) if all agents adopted a maxim whereby they never helped anyone, then this would frustrate A's end, therefore (3) A cannot rationally will a maxim that prescribe agents to never help.
+	- Necessary but not sufficient.
+		- Provides some formal constraints on possible maxims.
+		- May need to be supplanted (e.g. with Contractualism) to account for immoral ends which are conceivable and rational.
+	- Cannot account for moral actions that are inconceivable as universal laws
+		- e.g. Donate to charity more than the average
+	- Cannot account for immoral actions that are conceivable/rational as universal laws
+		- e.g. Ritualized bullying for newcomers.
+	- To stringent, e.g. Never Lie
+	- Non-rational creatures have no moral consideration
+- Kantian Contractualism (from Parfit)
+	- Everyone ought to follow the principles whose universal acceptance everyone could rationally will.
+	- "An act is wrong unless such acts are permitted by some principle whose universal acceptance everyone could rationally will"
+	- Different from standard Kantianism which says "follow principles whose universal acceptance YOU could rationally will."
 
-Note that personal reasons a person has under the veil of ignorance =/= norms no one could reasonably reject as a basis for informed cooperation. The difference is that the former is concerned with individual, personal reasons constrained with regard to information, whereas the latter are constituted by impartial, social reasons. E.g. even though it is rational to accept a system under the veil of ignorance that left everyone great except for one person who sufferred immensely, it would be rational for that one person to reject those norms as a basis for cooperation given a desire for cooperation.
+
+Note that the personal reasons a person has under the veil of ignorance =/= norms no one could reasonably reject as a basis for informed cooperation. The difference is that the former is concerned with individual, personal reasons constrained with regard to information, whereas the latter are constituted by impartial, social reasons. E.g. even though it is rational to accept a system under the veil of ignorance that left everyone great except for one person who sufferred immensely, it would be rational for that one person to reject those norms as a basis for cooperation given a desire for cooperation.
 
 Implications of A advocating for a norm in moral discussion:
 - (Regulative) A thinks the the norm should regulate our actions, our societal standards for shame/praise, and individual standards for guilt/pride. 
 - (Negotiative) A is willing to negotiate to cooperate and coordinate plans.
-- (Impartial) A thinks the norm applies to everyone, including himself.
+- (Impartial) A thinks the norm applies to, and can be justified to, everyone, including himself.
 - (Individual Motivational) A *is disposed to* regulate his behavior as prescribed by the norm.
 - (Communal Motivation) A thinks others are *capable* of being motivated to regulate their behavior in accord with the norm; they are capable of being receptive to the reasons favoring the norm. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense it B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make sense for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, alien,s etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
 - (Rationality) A thinks that he and others in society *have reason to* regulate their behavior as prescribed by the norm.
