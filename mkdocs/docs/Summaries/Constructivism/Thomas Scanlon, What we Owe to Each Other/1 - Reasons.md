@@ -1,8 +1,6 @@
-# What We Owe to Each Other
+# Reasons
 
-## Reasons
-
-### Introduction
+## Introduction
 
 Scanlon takes the idea of a reason as a primitive.
 Any explanation of what it is to be a reason always reduces to "a consideration that counts in favor of it".
@@ -18,7 +16,7 @@ This chapter also shows that there is no particular problem with reasons for act
 If there is any problem with reasons for action, then it applies to all reasons.
 If the reasons related to moral wrongness need explanation, its the notion of moral wrongness, not reasons.	
 	
-### Judgment-Sensitive Attitudes
+## Judgment-Sensitive Attitudes
 
 The are two kinds of reasons one might use: explanatory reasons and justificatory reasons.
 Justificatory reasons are the standard, normative sense of reason that will be of concern here.
@@ -48,7 +46,7 @@ However, having the attitude also requires being disposed to various patterns of
 Because of this dependence, these attitudes can be properly attributed to us.
 This is true even when they are not the result of a choice or decision, like beliefs, fears, hopes, etc. 
 
-### Rationality
+## Rationality
 
 A rational creature is a reasoning creature.
 They have judgment-sensitive reasons, i.e. are able to recognitive, assess, and be motivated by reasons.
@@ -60,7 +58,7 @@ But they are responsive to an agent's judgments in a number of ways:
 2. Agents generally don't have P after deciding that P is unwarranted.
 3. Agents generally don't form unreflective attitudes that conflict with their standing reasons-judgments.
 
-### Irrationality Narrowly Construed
+## Irrationality Narrowly Construed
 
 Rationality involves systematic connections between a person's thought and behavior.
 Irrationality occurs only when a person's attitudes fail to confirm to his/her own judgments.
@@ -75,7 +73,7 @@ Using a narrow construal of irrationality can defeat some arguments for reasons 
 E.g. one of Williams' argument for internalism is that it seems odd to say someone is irrational for not responding to an external consideration. Therefore, no external consideration could be a reason.
 But an externalist could say the external consideration is just a reason, not a requirement of rationality.
 
-### The (Most) Rational Thing to Do
+## The (Most) Rational Thing to Do
 
 There are some accounts of what we have most reason to do if we were "ideally rational".
 These are often referred to as "conceptions of rationality".
@@ -92,7 +90,7 @@ A full account of what an "ideally rational" agent would so involves at least 3 
 2. awareness of the full range of reasons that apply to someone in that situation
 3. flawless reasoning about what these reasons support.
 
-### Reasonableness
+## Reasonableness
 
 (un)Reasonableness lies between rational and the ideal of what it would be most rational to do.
 Judgments about reasonableness are relative to a specified body of possibly information and range of reasons.
@@ -103,7 +101,7 @@ Oftentimes, we charge someone of unreasonableness when they ignore certain facts
 In these cases, a general aim or concern is presupposed, e.g. concern with other people's interests.
 We sometimes say someone is being unreasonable insofar as they ignore this reason that we presuppose. 
 
-### Reasons and Motivation
+## Reasons and Motivation
 
 A rational person who judges there to be sufficient grounds for adopting attitude P usually adopts P.
 This judgment is normally sufficient to explain their attitude as well.
@@ -126,7 +124,7 @@ However, when in his presence, one may find their appearance to justify trusting
 We don't need to posit a desire to explain akrasia when it comes to belief.
 This can be explained by a difference in how one attends to certain considerations.
 
-### Reasons and Desires: Motivation
+## Reasons and Desires: Motivation
 
 Desires are commonly taken to be motivationally efficacious: desires are usually/always what motivates/justifies action.
 There are two possible characterizations of desires:
@@ -158,7 +156,7 @@ Akrasia is thus a conflict of evaluative judgments, not evaluative judgments and
 Motivation always stems from a normative/evaluative judgment, even when a directed-attention desires is the case.
 Thus, motivation also can stem from an evaluative judgment, even when it conflicts with a directed-attention desire.
 
-### Reasons and Desires: Justification
+## Reasons and Desires: Justification
 
 A common "subjectivist" position is that reasons must derive their justificatory force from an agent's desires.
 Recall that the motivational/normative efficacy of desires is their connection with an (unreflective) evaluative judgment.
@@ -186,7 +184,7 @@ Thus, there are two kinds of ways that are reasons can sometimes be "subjectivis
 (2) are reasons are based on what we have planned, i.e. what we have taken to be a reason in practical reasoning.
 But neither of these are a state that is both (1) a *present* "desire" and (2) *independent* of practical reaosning. 
 
-### Reasons and Desires: Structure
+## Reasons and Desires: Structure
 
 Desires are naturally understood as having a two-part structure.
 They have (1) a state of affairs to obtain, and (2) a degree of "strength" towards that state of affairs.
@@ -223,7 +221,7 @@ But if second-order desires are just desires, there is the question of what give
 When there is a conflict, there is no reason to chose the second-order desire, since all that matters is the relative weight.
 This doesn't do justice to the feeling that the lower reason B is made irrelevant, not just that it has less strength. 
 
-### Metaphysical Doubts about Reasons
+## Metaphysical Doubts about Reasons
 
 This section explainsthe special features behind something being a reason, although they can't be reduced to another notion.
 The things that are reasons are the things that can be contents of beliefs - propositions.
@@ -275,7 +273,7 @@ This is not a metaphysical/epistemological objection.
 Further, it seems like we do have clearly standards for correctness for reasons when it comes to beliefs.
 Whether this extends to reasons for action is a substantive matter, not a metaphyiscal/epistemological issue.
 
-### How Do We Know What Reasons We Have
+## How Do We Know What Reasons We Have
 
 There are 4 stages in the consideration of a reason, not all of which need to occur in all cases:
 1. Consideration X seems to be a reason for an attitude A (i.e. the evaluative component of a direction-attention desire).
@@ -311,19 +309,6 @@ When one has corrected their judgments upon reflection, the new reaction tends t
 Another aspect is the degree of interpersonal agreement, e.g. that pleasure/enjoyment provides reasons, etc.
 This applies both to reasoning about beliefs and about actions.
 
+## Other People's Reasons
 
-### Other People's Reasons
-
-#### Conclusion
-
-## Values
-
-## Well-Being
-
-## Wrongness and Reasons
-
-## The Structure of Contractualism
-
-## Promises
-
-## Relativism
+## Conclusion

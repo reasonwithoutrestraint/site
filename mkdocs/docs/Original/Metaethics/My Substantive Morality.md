@@ -77,9 +77,14 @@ Faces similar problems as collective goodness. See below:
 ### Against utilitarianism
  
 Three components of utilitarianism:
-1. Measure of individual good: for utilitarianism, this is happiness
-2. Measure of collective good: maximizing total individual well-being of all agents equally.
-3. Consequentialism: the right reduces to the good in some way. 
+1. Measure of value: happiness over suffering.
+2. Measure of collective good: maximizing total individual well-being of all agents impartially.
+	- Additive
+	- Impartial
+3. Consequentialism: The Right reduced to The Good 
+4. Teleological: The Good is reduced to "to be promoted" 
+	- Is required in order for consequentialism to make sense, 
+	- But can be accepted without accepting consequentialism.
 
 Problems:
 1. How is happiness defined? (don't have huge opposition) 
@@ -96,6 +101,10 @@ Problems:
 	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
 	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
 	- Intuition: if we could prove that subjecting someone to a course of action maximized their good (even if good is defined in terms of preference satisfaction), is it right to force someone to do this for their own sake? Just because doing something promotes good doesn't mean that performing that action is good (particularly if it uses force). This scenario is possible in the following scenario: (1) person has ideal (more informed, higher order, more rational, etc.) preferences that would be satisfied by doing X, but (2) he doesn't willingly do X, and this must be because of less ideal preferences. It would be wrong to force this person to do X if (3) he also has preferences that he not be forced to do X in situations where (1) and (2) are true; but it would be okay to use force if he preferred to be forced to do X in these situations. Of course, (3) says nothing about whether performing X really is good (maybe it is, maybe it isn't); the fact is we can't use force.
+4. Why assume that The Good is reduced to "to be promoted"
+	- Oftentimes to say X is good, we mean we have reason to promote X
+	- But not always: e.g. loyalty is good =/= we have reason to promote loyalty, i.e. betraying a friend to promote loyalty is not to value loyalty.
+	- 
 
 ### Other
 
