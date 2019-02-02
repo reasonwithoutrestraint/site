@@ -1,5 +1,77 @@
 # Reasons
 
+## Summary
+
+The idea of a (justificatory) reason is taken as a primitive to explain all of normativity.
+A reason cannot be reduced to anymore than "a consideration that counts in favor of some attitude".
+Skepticism about reasons denies appropriate judgments about whether anything counts for anything else.
+This form of skepticism is difficult, as its awkward and unstable.
+Reasons seem inescapable for belief and at the very least prudential rationality.
+
+Reasons apply to judgment-sensitive attitudes, as opposed to attitudes such as hunger, tiredness, distraction, etc.
+Judgment-sensitive attitudes can be influenced by our reasons-judgments, e.g. belief, intentions, fears, etc.
+However, judgment-sensitive attitudes sometimes arise spontaneously without (or despite) reflected judgments. 
+Because of this, these attitudes can be properly attributed to us even when they cannot be immediately chosen.
+These attitudes would be held by an ideally rational person if he judged there to be sufficient reason for them.
+
+A rational creature is a reasoning creature with the capacity to recognize, assess and be motived by reasons.
+Non-rational creatures act purposefully, but do not question whether their purposes provide reasons.
+Rationality involves systematic connections between a person's thought and behavior.
+Irrationality occurs only when a person's attitudes fail to confirm to his/her own judgments.
+Any other criticisms about an agent's attitudes/judgments are substantive questions about their reasons.
+(un)Reasonableness lies between rational and the ideal of what an agent has most reason to do.
+Judgments about reasonableness are relative to a specified body of available information and range of reasons.
+
+**A judgment that attitude X is reasonable is sufficent to explain what motivated an agent to adopt X.**
+There is no need to posit an additional motivational element such as a desire.
+An agent's judged reasons can conflict with an agent's motivating reasons (known as *akrasia*)
+However, this can be explained by the agent being more or less responsive to different normative reasons.
+This best characterization of desire involves evaluative/normative judgments.
+A mere disposition or sensation without an evaluative judgment doesn't capture what we normally mean by desire.
+**A desire for X is a disposition to see considerations as *seeming* like a reason to promote X.**
+Any motivation that comes from a desire comes from the evaluative component of the desire.
+This is similar to how white light through a filter *seems* colored, while we can *believe* it to be white.
+Akrasia is thus a conflict of evaluative judgments, not evaluative judgments and "non-evaluative" desires.
+
+A common "subjectivist" position is that reasons must derive their justificatory force from an agent's desires.
+i.e. reasons derive their force from what we judge to be reasons (or even what *seem* to be reasons).
+Desires are assumed to be both independent of and the starting points of  practical reasoning.
+Desires in the sense of *seeming* to be a reason never provide an actual reason.
+i.e. when we reflectively judge that consideration that *seem* to be reasons are *not* reasons.
+There are two kinds of ways that reasons can sometimes be "subjectivist". 
+(1) when reasons are based on what we will find enjoyable or exciting in the *future*, or
+(2) reasons are based on what we have planned, i.e. what we have taken to be a reason in practical reasoning.
+Neither is a state that is both (1) a *present* "desire" and (2) *independent* of practical reasoning. 
+**Desires, understood as seperate from evaluative/normative judgment, provide no reasons for action.**
+
+Desires are sometimes understood as having a two-part structure.
+They have (1) a state of affairs to obtain, and (2) a degree of "strength" towards that state of affairs.
+"Subjectivist" positions claim that rationality involves balancing the strengths of competing desires.
+Practical reasons based on desires can thus be *pro tanto*; they can can be overridden by other reasons.
+**Reasons can also be *prima facie*, which cannot be explained by the "subjectivist" position.**
+i.e. one can judge that one has reason X not to take another consideration as a reason Y in a context. 
+This doesn't mean that X has more "strength" than Y; it means that Y becomes irrelevant in the context.
+Adaopting an end is not simply assigning a positive value to certain results.
+We also assign it a specific role, i.e. as temporary amusement, a long-term hobby, life commitment, etc.
+Considerations become pro-tanto reasons only after a more general background framework of principles determines those considerations to be relevant.
+Appeal to second-order desires cannot explain this structural complexity. 
+If strength determines the authority of desires, there is no necessary authority to higher order desires.
+
+There are 4 stages in the consideration of a reason, not all of which need to occur in all cases. 
+(1) Noticing that a consideration X seems to be a reason for an attitude A.
+(2) Determining whether X really is a (pro-tanto) reason for adopting A.
+(3) Determining whether there is sufficient reason for adopting A given other pro tanto reasons.
+(4) Adopting attitude A.
+The question is why consider (2) to be a correction rather than mere change in reaction? 
+If (2) occurs after reflecting on the kind of reason that X seems to be, then here's why its a correction:
+(1) The later attitude is supported by a clearly and more detailed conception of what the reason might be.
+(2) In virtue of the reflection, it is less likely to be affected by distorting factors such as rage.
+The idea that rage is a distorting factor, rather than a reason, reflects a substantive judgment.
+It is part of a background of judgments about reasons, about what considerations are relevant.
+The content of an attitude must guide the kinds of considerations that could be reasons for it.
+One's background judgments can be and tested with other hypothetical/counterfactual/possible/actual cases.
+In addition to reflective stability, another aspect is the degree of interpersonal agreement, e.g. that pleasure/enjoyment provides reasons, etc.
+
 ## Introduction
 
 Scanlon takes the idea of a reason as a primitive.
@@ -36,6 +108,7 @@ These attitudes would be held by an ideally rational person if he judged there t
 
 Having a judgment-sensitive attitude involves a set of complicated set of dispositions of reasons.
 E.g. believing P involves the following dispositions
+
 - feelings of conviction about P when the question arises
 - affirmations of P in normal circumstances
 - using P as a premise in further reasoning
@@ -54,6 +127,7 @@ This applies to attitudes such as beliefs, intentions, fear, admiration, etc.
 Non-human animals act purposefully, but do not question whether a purpose provides reason for action.
 Judgment-sensitive attitudes may arise spontaneously, without judgment or reflection.
 But they are responsive to an agent's judgments in a number of ways:
+
 1. Agents generally adopt the attitude P after making a conscious reflective judgment that P is warranted.
 2. Agents generally don't have P after deciding that P is unwarranted.
 3. Agents generally don't form unreflective attitudes that conflict with their standing reasons-judgments.
@@ -86,6 +160,7 @@ But there is great disagreement over how one should weigh long-term versus short
 If someone discounted their future interests due to theoretical grounds, then they aren't irrational.
 
 A full account of what an "ideally rational" agent would so involves at least 3 dimensions of idealization:
+
 1. possession of full information about one's situation the cosnequences of possible actions
 2. awareness of the full range of reasons that apply to someone in that situation
 3. flawless reasoning about what these reasons support.
@@ -128,6 +203,7 @@ This can be explained by a difference in how one attends to certain consideratio
 
 Desires are commonly taken to be motivationally efficacious: desires are usually/always what motivates/justifies action.
 There are two possible characterizations of desires:
+
 1. Broad sense: includes any "pro-attitude", e.g. sense of duty, pride, interest in enjoyment, normative judgment, etc.
 2. Narrow sense: unmotivated desires, not dependent on a different state for their motivating force. e.g. Thirst.
 A non-trivial thesis claiming the motivational efficiaciousness of desires must be the narrow sense.
@@ -179,7 +255,7 @@ Plans provide prima-facie reasons (and not desires) because plans are not taken 
 Plans are instances of an agent's identifying certain considerations as reasons.
 Thus, plans derive their reason-giving force on whether those considerations actually are reasons.
 
-Thus, there are two kinds of ways that are reasons can sometimes be "subjectivist". Either
+Thus, there are two kinds of ways that reasons can sometimes be "subjectivist". Either
 (1) are reasons are based on what we will find enjoyable or exciting in the future, or
 (2) are reasons are based on what we have planned, i.e. what we have taken to be a reason in practical reasoning.
 But neither of these are a state that is both (1) a *present* "desire" and (2) *independent* of practical reaosning. 
@@ -223,13 +299,14 @@ This doesn't do justice to the feeling that the lower reason B is made irrelevan
 
 ## Metaphysical Doubts about Reasons
 
-This section explainsthe special features behind something being a reason, although they can't be reduced to another notion.
+This section explains the special features behind something being a reason, although they can't be reduced to another notion.
 The things that are reasons are the things that can be contents of beliefs - propositions.
 That some proposition is someone's operative reason is a fact about their psychological state.
 The judgment that a proposition (if it were true) is a good reason has normative force that resists naturalistic reduction.
 
 Some attempt naturalistic reduction by saying A has a reason to X iff A would regard X has a reason under circumstances C.
 When C is non-normative, i.e. vividly aware of all relevant facts, there are 2 kinds of objections:
+
 1. They don't seem obviously true. Some of us are better at assessing reasons than others due to our sensitivities (or lack theorof) of the relevant reasons (not due to lack of awareness). E.g. vivid awareness of the benefits of accepting bribes might make one more likely to regard doing so as good, but that doesn't provide one with a reason.
 2. Even if it were always true, it wouldn't provide a reductive analysis for what being a reason. Saying R is a reason expresses a normative judgment while the righthand of the biconditional is a mere prediction of one's reactions.
 
@@ -261,7 +338,7 @@ But this is precisely the case with empirical beliefs; they concern facts that e
 One response is that our empirical beleifs are produced by natural objects via some reliable causal process.
 But why is it that nothing can be called a belief unless it is forced via such a process in this manner?
 
-It might replied htat if judgments about reasons can be true or false, then they must be about an independent subject matter.
+It might replied that if judgments about reasons can be true or false, then they must be about an independent subject matter.
 This is true, but this independence provides no problem. 
 Consider the case of mathematics for example.
 We can make true judgments about mathematics, even though mathematical truth is independent and causally inert.
@@ -276,6 +353,7 @@ Whether this extends to reasons for action is a substantive matter, not a metaph
 ## How Do We Know What Reasons We Have
 
 There are 4 stages in the consideration of a reason, not all of which need to occur in all cases:
+
 1. Consideration X seems to be a reason for an attitude A (i.e. the evaluative component of a direction-attention desire).
 2. The agent determines whether X really is a (pro-tanto) reason for adopting A.
 3. The agent determines there is sufficient reason for adopting A given other considerations.
@@ -293,6 +371,7 @@ Then one is to see whether the initial tendency stands the test of reflection.
 If the initial tendency stands after reexamination, then one concludes that it really is a reason.
 
 If one's attitude changes after reexamination, why assume its a correction?
+
 1. The later attitude is supported by a clearly and more detailed conception of what the reason might be.
 2. In virtue of the reflection, it is less likely to be affected by distorting factors such as rage.
 
@@ -310,5 +389,3 @@ Another aspect is the degree of interpersonal agreement, e.g. that pleasure/enjo
 This applies both to reasoning about beliefs and about actions.
 
 ## Other People's Reasons
-
-## Conclusion

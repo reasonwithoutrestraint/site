@@ -9,10 +9,13 @@ The Libertarian project:
 Questions
 1. Relationship bewteen morality and political legitimacy
 2. Justified uses of coercion
+	- What *kinds* of behaviors are subject to coercion? E.g. can private life be coerced?
+	- What *kinds* of interests could justify coercing another group? can hatred justify coercion?
 3. Why geographic scope is relevant (i.e. poor Africans have less right to our resources than poor Americans). 
 4. Justifying the state without positive rights.
 5. Different levels of coercion: physical coercion, property redistribution, etc.
 6. Account for dire circumstances
+
 
 Prerequisites for coercion to be justified:
 - It has to be done to protect someone else from being coerced (either by an agent or non-agent)
@@ -139,6 +142,10 @@ Remember the types of force that can be justified
 - Rectification: Compensation for past physical damages and/or excess resource usage
 - Protection: Protection against current physical coercion and/or excess resource usage
 - Pre-emptive Protection: Protection against future physical coercion and/or excess resource usage
+- Forced Compensation: taking someone's resources and compensating them, only if:
+	- The portion taken is too small to cause large harm to the person's interests (e.g. in taxation)
+	- The person is compensated for the transaction in the same resources
+	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
 - Democracy: Optional democratic communal laws 
 
 Here are the types of force that can be justified in reality as it actually is.
@@ -164,121 +171,6 @@ Homogeneous community (e.g. US state/city or European countries). Any of these c
 - Firefighters
 - Education
 - Healthcare
-
-### Particulars
-
-List of particular instances of coercion by the state. To give a large dataset for reflective equilibrium
-
-Principles that picks which government behaviors below are justified.
-
-NEW TERM: rights frustration: include rights violations, also includes rights "violation" by a non-agent (i.e. bear attack)
-
-A governmental policy P that reduces the freedom of group X to benefit individuals Y is justified if:
-- Pre-Emptive Protection Against Rights Violations
-	- X consists of arbitrary individuals
-	- The property of X is redistributed, i.e. taxation, AND
-	- Such a redistribution is required to protect Y from rights-violations; independent Y's actions Y cannot otherwise acquire protection
-	=> Justifies the necessities: police, prisons, courts, military, border, education (w/out education, you will be taken advantage of)
-- Pre-Emptive Protection Against Rights Frustrations
-	- X consists of arbitrary individuals 
-	- The property of X is redistributed, i.e. taxation, AND
-	- Such a redistribution is required to protect Y from rights-frustrations; similar to above
-	=> Justifies life-saving programs: firefighting, disaster relief, welfare, healthcare, education, etc. 
-		- So should government replace insurance? E.g. Health insurance, car insurance, home insurance, etc. all necessary for protection.
-		- This may be a better justification of education. Public education is justified even if we know people won't be taken advantaeg of.
-- Monopoly Regulation
-	- X consists of companies
-	- X's market transactions affects Y, AND
-	- X's market transactions are regulated according to the votes of Y, AND
-	- X has a monopoly over some product/service/good for Y,
-	=> Justifies utilities/anti-monopolies laws: electricity, water, internet, roads, monopoly regulation, etc.
-- Market Restrictions to make transactions possible
-	- 
-	- 
-	=> Justifies: protections against theft, fraud, market defamation, contract enforcement, false advertising, information about one's product/service
-- Behaviors that put others at the risk of physical harm or (or the rationally expected risk) 
-	- 
-	- 
-	=> Justifies: protection against threats, certain forms of personal defamation, drunk driving, hate speech in Nazi Germany
-- Market restrictions to meet the interests of the inhabitants of an area
-	- 
-	- 
-	=> Justifies: protections against occupational/housing/employment hazards, food/drug regulations
-
-Necessities
-- Police
-- Prisons/Jails
-- Courts
-- Military
-- Borders
-Other Essentials (free)
-- HS Education
-- Firefighting
-Utilities (users pay, but subsidized)
-- Roads
-- Electricity
-- Water
-- Gas
-- Sewerage
-- Transportation
-- Telephones
-- Internet
-- Mailing
-Luxories
-- Libraries
-- Museums
-- National Parks
-Protection against physical coercion
-- Violent crime
-Protections against pseudo-physical coercion
-- Property crime
-- Theft
-- Threats
-- Pollution
-Protections against non-physical coercion (or risk for physical coercion)
-- Fraud
-- Fraud
-- Defamation
-- Contract Enforcement
-- Drunk Driving
-Physical harm-reducing market regulations (aimed to prevent physical harm to people, e.g. aspesthes)
-- Housing
-- Occupation
-- Employment
-- Food/Drug
-- Require the provision of readable information about the dangers/risks of one's products 
-Market regulations for non-physical harm reduction (regulate behavior that doesn't directly physically harm people)
-- Workplace Discrimination
-- Customer Discrimination
-- Housing eviction notices
-- Employment termination notices
-- Equal Pay
-- Disability Accomodation
-Other Market Regulations (I think this is seperate from harm reductions)
-- Anti-Monopoly 
-- Minimum Wage
-- Tarrifs
-- Maternity Leave
-- Union Protections
-Non-physical individual regulations
-- Anti-Speech
-- Disturbing the peace
-- Disorderly conduct
-- Harrasment
-- Drug legalization
-Redistribution
-- Welfare
-- Healthcare
-- Higher Education
-- Natural Disaster Relief
-Varying Taxation
-- Progressive Taxation
-- Marriage tax cuts
-- Charity tax cuts
-Victimless Crimes
-- Prostitution
-- Hard Drugs
-- Weapons of mass destruction
 
 ## Topics
 
@@ -399,3 +291,211 @@ Anti-Libertarian
 		- Anti-Discrimination if necessary to prevent subjugation
 	- Promoting postive liberty
 		- Anti-Drug Legalization if necessary to prevent community destruction
+
+### Particulars
+
+List of particular instances of coercion by the state. To give a large dataset for reflective equilibrium
+
+Principles that picks which government behaviors below are justified.
+
+NEW TERM: rights frustration: include rights violations, also includes rights "violation" by a non-agent (i.e. bear attack)
+
+A governmental policy P that reduces the freedom of group X to benefit individuals Y is justified if:
+- Pre-Emptive Protection Against Rights Violations
+	- X consists of arbitrary individuals
+	- The property of X is redistributed, i.e. taxation, AND
+	- Such a redistribution is required to protect Y from rights-violations; independent Y's actions Y cannot otherwise acquire protection
+	=> Justifies the necessities: police, prisons, courts, military, border, education (w/out education, you will be taken advantage of)
+- Pre-Emptive Protection Against Rights Frustrations
+	- X consists of arbitrary individuals 
+	- The property of X is redistributed, i.e. taxation, AND
+	- Such a redistribution is required to protect Y from rights-frustrations; similar to above
+	=> Justifies life-saving programs: firefighting, disaster relief, welfare, healthcare, education, etc. 
+		- So should government replace insurance? E.g. Health insurance, car insurance, home insurance, etc. all necessary for protection.
+		- This may be a better justification of education. Public education is justified even if we know people won't be taken advantaeg of.
+- Monopoly Regulation
+	- X consists of companies
+	- X's market transactions affects Y, AND
+	- X's market transactions are regulated according to the votes of Y, AND
+	- X has a monopoly over some product/service/good for Y,
+	=> Justifies utilities/anti-monopolies laws: electricity, water, internet, roads, monopoly regulation, etc.
+- Market Restrictions to make transactions possible
+	- 
+	- 
+	=> Justifies: protections against theft, fraud, market defamation, contract enforcement, false advertising, information about one's product/service
+- Behaviors that put others at the risk of physical harm or (or the rationally expected risk) 
+	- 
+	- 
+	=> Justifies: protection against threats, certain forms of personal defamation, drunk driving, hate speech in Nazi Germany
+- Market restrictions to meet the interests of the inhabitants of an area
+	- 
+	- 
+	=> Justifies: protections against occupational/housing/employment hazards, food/drug regulations
+
+Necessities
+- Police
+- Prisons/Jails
+- Courts
+- Military
+- Borders
+Other Essentials (free)
+- HS Education
+- Firefighting
+Utilities (users pay, but subsidized)
+- Roads
+- Electricity
+- Water
+- Gas
+- Sewerage
+- Transportation
+- Telephones
+- Internet
+- Mailing
+Luxories
+- Libraries
+- Museums
+- National Parks
+Protection against physical coercion
+- Violent crime
+Protections against pseudo-physical coercion
+- Property crime
+- Theft
+- Threats
+- Pollution
+Protections against non-physical coercion (or risk for physical coercion)
+- Fraud
+- Fraud
+- Defamation
+- Contract Enforcement
+- Drunk Driving
+Physical harm-reducing market regulations (aimed to prevent physical harm to people, e.g. asbestos)
+- Housing
+- Occupation
+- Employment
+- Food/Drug
+- Require the provision of readable information about the dangers/risks of one's products 
+Market regulations for non-physical harm reduction (regulate behavior that doesn't directly physically harm people)
+- Workplace Discrimination
+- Customer Discrimination
+- Housing eviction notices
+- Employment termination notices
+- Equal Pay
+- Disability Accomodation
+Other Market Regulations (I think this is seperate from harm reductions)
+- Anti-Monopoly 
+- Minimum Wage
+- Tarrifs
+- Maternity Leave
+- Union Protections
+- Copywright / Intellectual Property
+Non-physical individual regulations
+- Anti-Speech
+- Disturbing the peace
+- Disorderly conduct
+- Harrasment
+- Drug legalization
+Redistribution
+- Welfare
+- Healthcare
+- Higher Education
+- Natural Disaster Relief
+Varying Taxation
+- Progressive Taxation
+- Marriage tax cuts
+- Charity tax cuts
+Victimless Crimes
+- Prostitution
+- Hard Drugs
+- Weapons of mass destruction
+
+Ranked by confidence
+
+Very confident for
+- Necessities
+	- Police
+	- Prisons/Jails
+	- Courts
+	- Military
+	- Borders
+- Protections against
+	- Theft
+	- Threats
+	- Pollution
+	- Violent crime
+	- Property crime
+	- Fraud
+	- Defamation
+	- Contract Enforcement
+	- Drunk Driving
+- Regulations
+	- Housing
+	- Occupation
+	- Employment
+	- Food/Drug
+	- Require the provision of readable information about the dangers/risks of one's products 
+- Firefighting
+
+Confident for
+- HS Education
+- Utilities
+	- Roads
+	- Electricity
+	- Water
+	- Gas
+	- Sewerage
+	- Transportation
+	- Telephones
+	- Internet
+	- Mailing
+- Outlaw Discrimination in circumstances where it's a vehicle of subjugation
+	- Workplace Discrimination
+	- Customer Discrimination
+	- Housing eviction notices
+	- Employment termination notices
+	- Equal Pay
+	- Disability Accomodation
+
+Mixed
+- Libraries
+- Museums
+- National Parks
+
+Confident against
+- Outlaw Discrimination in circumstances where it's NOT a vehicle of subjugation
+	- Workplace Discrimination
+	- Customer Discrimination
+	- Housing eviction notices
+	- Employment termination notices
+	- Equal Pay
+	- Disability Accomodation
+
+Very confident against
+
+Market regulations for non-physical harm reduction (regulate behavior that doesn't directly physically harm people)
+
+Other Market Regulations (I think this is seperate from harm reductions)
+- Anti-Monopoly 
+- Minimum Wage
+- Tarrifs
+- Maternity Leave
+- Union Protections
+- Copywright / Intellectual Property
+Non-physical individual regulations
+- Anti-Speech
+- Disturbing the peace
+- Disorderly conduct
+- Harrasment
+- Drug legalization
+Redistribution
+- Welfare
+- Healthcare
+- Higher Education
+- Natural Disaster Relief
+Varying Taxation
+- Progressive Taxation
+- Marriage tax cuts
+- Charity tax cuts
+Victimless Crimes
+- Prostitution
+- Hard Drugs
+- Weapons of mass destruction

@@ -2,6 +2,18 @@
 
 There seems to be a connection between moral norms and rationality. That is, insofar as an agent does what is morally wrong, or fail to see what really is morally wrong, we believe the agent is being *irrational*. They are not receptive to the *moral reasons* that apply to them. The question, then, is how to characterize moral reasons. 
 
+There are at two kinds of reasons special to morality
+
+1. "X is morally wrong" = "society has *reason* to blame someone who does X".
+2. "X is morally wrong" = someone has reason to reject a principle that permitted X even if one had the goal of finding principles that no one else could reject assuming they were similarly motivated.
+
+The former is inherent to the definition of moral judgments.
+Standards of correctness will be based on standards of correctness for blame.
+This is based on standards of correctness fo attitudes in general, i.e. some form of dispositionalism.
+
+The latter is found only in cultures where morality is debated/argued.
+Standards of correctness will be based on the constructed standards implicit in moral argument.
+
 ## Kinds of moral norms
 
 (Descriptive) Non-naturalism and (descriptive) naturalistic asentimentalism are bogus. Mere descriptions of reality cannot explain how agents have reason to do anything because of Global Constructivism about reasons.
@@ -12,11 +24,11 @@ Two kinds of moral reasons and two different standards of truth
 
 ## Sentimentalist
 
-Sentimental morality (aesthetic): truth predicated on the appropriateness of moral attitudes. This will be rational sentimentalism (assuming there is anything constituitive of moral attitudes) or dispositionalism. This emphasizes the *expressive* role of moral feelings.
+Sentimental morality (aesthetic): truth predicated on the appropriateness of moral attitudes. This will be rational sentimentalism (assuming there is anything constituitive of moral attitudes) or dispositionalism. This emphasizes the *expressive* role of moral feelings (think: X is disgusting!).
 
-Insofar as moral judgments are expressive of one's attitudes (think: X is disgusting!), they can have standards of correctness to determine whether one has reason to hold the attitude in question. This works the same as standards of correctness for aesthetic judgments in general, and for reasons in general (e.g. perhaps by appealing to the refined attitudes that would be had by the speaker if he were more informed and idealized).
+The standards of correctness reduce to the appropriateness of the attitudes in question. This works the same as standards of correctness for aesthetic judgments in general, and for reasons in general (e.g. perhaps by appealing to the refined attitudes that would be had by the speaker if he were more informed and idealized).
 
-Whatever the standard of correctness (either constituitive or dispositional), the standards of correctness will have to depend on the particular nature of moral emotions (i.e. blame, shame, resentment, anger, etc.). Because correctness depends on contingent psychological sensibilities, correctness is not mind-independent in a way sufficient for objectivity. This is similar to aesthetic judgments in general (think ettiquette) and perhaps secondary properties. Therefore, any true applications of these norms to someone must require that the standards can *motivate* the agent, or they would *motivate* an ideal agent.
+The standards of correctness (either constituitive of dispositional) will have to depend on the particular nature of moral emotions (i.e. blame, shame, resentment, anger, etc.). Because correctness depends on contingent psychological sensibilities, correctness is not mind-dependent in a way sufficient for objectivity. This is similar to aesthetic judgments in general (think ettiquette) and perhaps secondary properties. Therefore, any true applications of these norms to someone must require that the standards can *motivate* the agent, or they would *motivate* an ideal agent.
 
 ### Theories
 
@@ -61,9 +73,9 @@ This is kind of siimilar to "thick" ethical concepts, except with sentimentalism
 
 ## Constructivism
 
-Constructivist morality: truth predicated predicated on standards implicit in moral *discussion*. Implicit in moral discussion is that the considerations that each parties presents counts as *reasons* for the other party to take into account. This emphasizes the *prescriptive* role of moral arguments.
+Constructivist morality: truth predicated predicated on standards implicit in moral *discussion*. Implicit in moral discussion is that the considerations that each parties presents counts as *reasons* for the other party to take into account. This emphasizes the *prescriptive* role of moral arguments ("Don't do X" or "shame the behavior of X"), i.e. as tools to shape the attitudes of others.
 
-Insofar as moral judgments are tools to shape the attitudes of others ("Don't do X" or "shame the behavior of X"), the standards of correctness reduce to the reasons that other agents have to obey the prescriptions, i.e. to refrain from doing X or to shaming the doing of X. These are not just reasons as such (because there isn't a shared set of reasons shared by everyone), but reasons contingent upon a goal of establishing a system of norms to coordinate the behavior of others in society. 
+The standards of correctness reduce to the reasons that other agents have to obey the prescriptions, i.e. to refrain from doing X or to shaming the doing of X. These are not just reasons as such (because there isn't a shared set of reasons shared by everyone), but reasons contingent upon a goal of establishing a system of norms to coordinate the behavior of others in society. 
 
 There are objective standards of correctness for this form of moral judgments, as there is a fixed goal which there are objectively (in)correct methods for satisfying the goal. This form of moral correctness is the form that grounds claims of *justice* (when political institutions are *wrong* in a way stronger than just saying they warrant blame/shame). Note that these standards are not motivating for (even ideal versions of) all individuals/societies, particularly those individuals/societies that don't use discussion/argument (rather than rhetoric, emotional, threats, force, divinity, etc.) as a means to persuading others to adopt certain moral norms. Such norms would still be applicable to these parties (i.e. we could still call them morally wrong), but they could never appreciate these standards.
 
@@ -113,6 +125,7 @@ Impartiality: Moral reasons can be distinguished from practical reasons in that 
 	- Personal reasons a person has under the veil of ignorance.
 - Contractualist:
 	- Norms no one could reasonably reject as a basis for unenforced, informed cooperation given that one has such a desire.
+	- This does suggest that all agents should be treated as ends in themselves? (maybe not as strong as in the Kantian sense). If agents are not ends, then why does it matter if they can reasonably reject a principle?
 - Universalization:
 	- Maxims that A can rationally willed to be a maxim followed by agents. This requires:
 		- It be conceivable for the maxim to be universalizable, and
@@ -124,13 +137,12 @@ Impartiality: Moral reasons can be distinguished from practical reasons in that 
 		- e.g. Donate to charity more than the average
 	- Cannot account for immoral actions that are conceivable/rational as universal laws
 		- e.g. Ritualized bullying for newcomers.
-	- To stringent, e.g. Never Lie
+	- Too stringent, e.g. Never Lie
 	- Non-rational creatures have no moral consideration
 - Kantian Contractualism (from Parfit)
 	- Everyone ought to follow the principles whose universal acceptance everyone could rationally will.
 	- "An act is wrong unless such acts are permitted by some principle whose universal acceptance everyone could rationally will"
 	- Different from standard Kantianism which says "follow principles whose universal acceptance YOU could rationally will."
-
 
 Note that the personal reasons a person has under the veil of ignorance =/= norms no one could reasonably reject as a basis for informed cooperation. The difference is that the former is concerned with individual, personal reasons constrained with regard to information, whereas the latter are constituted by impartial, social reasons. E.g. even though it is rational to accept a system under the veil of ignorance that left everyone great except for one person who sufferred immensely, it would be rational for that one person to reject those norms as a basis for cooperation given a desire for cooperation.
 
@@ -138,7 +150,7 @@ Implications of A advocating for a norm in moral discussion:
 - (Regulative) A thinks the the norm should regulate our actions, our societal standards for shame/praise, and individual standards for guilt/pride. 
 - (Negotiative) A is willing to negotiate to cooperate and coordinate plans.
 - (Impartial) A thinks the norm applies to, and can be justified to, everyone, including himself.
-- (Individual Motivational) A *is disposed to* regulate his behavior as prescribed by the norm.
+- (Speaker Motivational) A *is disposed to* regulate his behavior as prescribed by the norm.
 - (Communal Motivation) A thinks others are *capable* of being motivated to regulate their behavior in accord with the norm; they are capable of being receptive to the reasons favoring the norm. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense it B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make sense for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, alien,s etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
 - (Rationality) A thinks that he and others in society *have reason to* regulate their behavior as prescribed by the norm.
 
@@ -154,6 +166,8 @@ Conclusions:
 - A norm is immoral if it neglects the fully rational interests of any particular agent.
 - A norm cannot be immoral if it it meets the fully rational interests of every agent.
 - A norm is immoral if it is indexical, values the interests of particular agents.
+- Norms are not meant to regulate certain behaviors, e.g. private behaviors.
+- Certain considerations cannot justify norms, e.g. hatred for another group.
 - Hard question: how to handle norms that harm some and help others.
 
 ### Other communicative/societal constraints
@@ -164,30 +178,52 @@ Communicative constraints regarding reasons for belief and/or conversations/argu
 - How to know what the standards are? We check what would happen if everyone accepted it. If no one accepted a burden of proof, the central goal of argument would be defeated.
 - Don't interrupt others, cut them off, etc. Listen to them.
 
-### Similarity with Golden Rule
+### Extensions of other systems
 
-Standards prescribing behaviors
+### Constructed games
 
-Individual
-- Motivational: Act so as to satisfy your desires.
-- Rational: Act so as to satisfy the desires you have reason to have.
+Imagine other social games with their own personal rules.
+We can use those rules as standards of criticism without rationally criticizing an agent.
 
-Golden Rule & Augmentations:
+#### Intersubjective Justification
+
+Many normative domains are concerned with what can be justified to different agents, not any individual agent. E.g.
+
+- Personal experience / intuition / presuppositions might provide an individual agent with reasons for believe. But they cannot independently provide anyone else with a reason for belief (unless the other agent believes the other person's experience/intuition/etc. are accurate). Science is a system that searches for intersubjective justification for beliefs. Thus, such instances are not scientifically justified.
+- That a principle benefits A at the expense of everyone else might be a reason for A to adopt the principle, but that is no reason for anyone else to accept it (e.g. a principle that said everyone has a moral obligation to maximize my pleasure). Thus, such a principle cannot be morally justified.
+
+#### Golden Rule
+
 - Golden Rule: Treat others in the way you would want to be treated.
 	- Upshot: don't kill if you wouldn't want to be killed. 
 	- Problem 1: what if I would have different desires than the recipients? E.g. a masochist wouldn't mind being attacked.
 	- Problem 2: what if I would have desires that people treat me unreasonably? E.g. I would want others to always benefit me at the expense of others. 
-- Rationalized: Treat others not based on counterfactual desires, but on our counterfactual reasons for desires.
+- Moral Emotions: Treat others in the way that you would not blame someone for treating you
+	Upshot: You can treat others in a way that you would dislike, so long as you wouldn't blame them for it.
+- Rationalized: Treat others not based on counterfactual desires, but on our counterfactual reasons for blame.
 	- Upshot: don't kill if they don't have reason to want to be killed (e.g. even if they're in an intoxicated state where they want to be killed).
-	- Doesn't solve either problem. Just idealizes desires.
-- Inversed: Treat others in the way they want you to treat them.
-	- Upshot: don't kill if the person wouldn't want to be killed.
+	- Doesn't solve either problem. Just idealizes desires/blame.
+- Inversed: Treat others in the way they want you to treat them or would not blame you for.
+	- Upshot: don't attack if the person doesn't want to be attacked.
 	- Solves Problem 1.
 - Abstracted: Treat others in accord with principles any rational agent would endorse, independent of their actual circumstances, desires, interests, etc. (i.e. veil of ignorance), if the agent knew he had a chance of any combination of circumstances or desires.
 	- Upshot: don't kill it would be forbidden by any principles that no one could rationally reject.
 	- Solves Problem 1 and Problem 2.
 	- Reasons from Ignorant self-interest =/= reasons from morality.
 - Moralized: Treat others in accord with principles no rational agent could rationally reject, contingent upon that agent having a goal of finding such principles that others couldn't rationally reject.
+
+#### Negotiation
+
+- Normal negotions: 
+	- Two parties are interested in trading goods. 
+	- Each party has a ranked set of alternative systems of trade they would be willing to accept.
+	- e.g. one party is willing to pay no more than $100 for some good X. The other is willing to sell X for no less than $50.
+	- A good negotiation is one where X is sold for somewhere between $50 and $100.
+	- The exact number to make the sell is indeterminate.
+	- Agents may not have *reasons* to be good negotiators, i.e. if one party could coerce the other, that might be in their best interests.
+- Morality features the following augmentations
+	- Concerns alternative systems of principles to regulate society; not systems of trade.
+	- Impartiality: Abstracts from any particular irrelevant circumstances, i.e. wealth, power, fame, race, etc. 
 
 ## Motivation
 

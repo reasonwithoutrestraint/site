@@ -138,16 +138,16 @@ These procedures are normative for agents because they are firmly anchored in (1
 In reflecting about why you should care about the specified procedures, you are already committed to accepting them.
 This results in three problems from the constructivist position
 
-First, this account of the authority of rational procedures suggests a rigorous restriction on the content of those procedures.
+1. This account of the authority of rational procedures suggests a rigorous restriction on the content of those procedures.
 It seems only narrow principles - e.g. non-contradiction and the instrumental principles - are endorsed by all agents.
 This is okay for Humean versions of constructivism, but not for Kantian versions.
 
-Second, this reintroduces the problem of local bootstrapping.
+2. This reintroduces the problem of local bootstrapping.
 The procedures of ideal deliberation gain their authority from our actual endorsement.
 Therefore, our actual endorsements must always grant provisional authority to other principles that are actually endorsed.
 This may seem problematic.
 
-Thirdly, imagine a case of recalcitrant irrationality.
+3. Imagine a case of recalcitrant irrationality.
 Imagine an agent who acknowledges that the procedural standards that they accept require a revision in their actual attitudes.
 But they refuse to make the revision.
 They care about their actual attitdes more than the principle of consistency.

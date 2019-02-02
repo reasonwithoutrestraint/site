@@ -11,7 +11,6 @@ nav:
         - Original/Metaethics/Naturalism.md
         - Original/Metaethics/Non-naturalism.md
         - Original/Metaethics/Descriptivism.md
-        - Original/Metaethics/Non-descriptivism.md
       - My Position:
         - Original/Metaethics/Normativity.md
         - Original/Metaethics/Rational Psychology.md
@@ -37,23 +36,42 @@ nav:
     - Other:
       - Original/Other/Taxonomy of Propositions.md
   - Summaries:
-    - Completed:
-      - Summaries/G.E. Moore, from Principia Ethica.md
-      - Summaries/A.J. Ayer, Critique of Ethics.md
-      - "Summaries/J.L. Mackie, From Ethics: Inventing Right and Wrong.md"
-      - Summaries/Allan Gibbard, Wise Choices Apt Feelings.md
-      - Summaries/Michael Smith, The Moral Problem.md
-      - Summaries/Sharon Street, Constructivism about Reasons.md
-      - Summaries/Sharon Street, What is Constructivism in Ethics and Metaethics.md
-    - In Progress:
-      - Summaries/Bernard Williams, Internal and External Reasons.md
-      - Summaries/Philippa Foot, Morality as a System of Hypothetical Imperatives.md
-      - Summaries/Peter Railton, Moral Realism.md
-      - Summaries/Christine Korsgaard, The Sources of Normativity.md
+    - Non-Descriptivism:
+      - Summaries/Non-descriptivism/A.J. Ayer, Critique of Ethics.md
+      - Summaries/Non-descriptivism/Allan Gibbard, Wise Choices Apt Feelings.md
       - Simon Blackburn, How to be an Ethical Antirealist: index.md 
+    - Motives, Reasons and Morality:
+      - Summaries/Motives, Reasons and Morality/Bernard Williams, Internal and External Reasons.md
+      - Summaries/Motives, Reasons and Morality/Philippa Foot, Morality as a System of Hypothetical Imperatives.md
+    - Error Theory:
+      - "Summaries/Error Theory/J.L. Mackie, From Ethics: Inventing Right and Wrong.md"
+    - Naturalism:
+      - Summaries/Naturalism/Peter Railton, Moral Realism.md
+      - Michael Smith, The Moral Problem.md:
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/1 - Introduction.md
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/2 - The Expressivist Challenge.md
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/3 - The Externalist Challenge.md
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/4 - Humean Theory of Motivation.md
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/5 - Anti-Humean Theory of Normative Reasons.md
+        - Summaries/Naturalism/Michael Smith, The Moral Problem/6 - Solution to the Moral Problem.md
+    - Non-Naturalism:
+      - Summaries/Non-naturalism/G.E. Moore, from Principia Ethica.md 
+    - Sensibility Theory:
       - John McDowell, Values and Secondary Qualities: index.md
       - David Wiggins, A Sensible Subjectivism: index.md
-      - Thomas Scanlon, What we owe to each other: index.md
+    - Constructivism:
+      - Summaries/Constructivism/Aaron James, Constructing Protagorean Objectivity.md
+      - Summaries/Constructivism/Christine Korsgaard, The Sources of Normativity.md
+      - Summaries/Constructivism/Jay Wallace, Constructivism About Normativity.md
+      - Summaries/Constructivism/Sharon Street, Coming to Terms with Contingency.md
+      - Summaries/Constructivism/Sharon Street, Constructivism about Reasons.md
+      - Summaries/Constructivism/Sharon Street, What is Constructivism in Ethics and Metaethics.md
+      - Thomas Scanlon, What We Owe to Each Other:
+        - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/1 - Reasons.md
+        - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/2 - Values.md
+        - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/3 - Well-being.md
+        - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/4 - Wrongness and Reasons.md 
+        - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/5 - The Structure of Contractualism.md
 
   - Outlines:
       - Outlines/Libertarianism.md
@@ -62,7 +80,7 @@ nav:
 # Theme configuration
 theme: 
   name: null
-  custom_dir: '/Users/jaymoss520/Private/mkdocs-material/material'
+  custom_dir: '/Users/jaymoss520/Personal/mkdocs-material/material'
   language: 'en'
   palette:
     primary: 'indigo'

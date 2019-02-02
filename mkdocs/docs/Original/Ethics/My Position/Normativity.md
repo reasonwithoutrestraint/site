@@ -26,10 +26,60 @@ Rational Correctness
 
 Moral Correctness
 
-1. ??? Constructivism (Implicit commitments of moral argument)
-2. Sentimentalism
-3. Determinateness
-4. Objectivity
+1. Sentimentalism
+2. Social reasons possible only with a shared set of goals
+3. Implicit commitments of moral argument
+4. Contractualism
+5. Determinateness
+6. Objectivity
+
+Outline:
+
+- Normativity
+	- Examples
+	- Contrast with descriptions
+	- Plattitudes
+- Analysis (the *content* of normative judgments)
+	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
+	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
+	- Domains
+		- Rationality
+		- Well-being versus reasons for action
+		- Epistemology
+		- Aesthetics
+		- Morality
+		- Ettiquette
+	- Intrinsic/Instrumental
+	- Agent-Neutral / Agent-relative
+	- Not all based in pleasure/happiness
+	- Not all based in teleology
+	- Hierarchical structure, pro-tanto & prima facie
+	- Right/Wrong kind of reasons
+	- Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz
+- Psychology (the *psychology* of normative judgments)
+	- Non-cognitivism, not beliefs
+	- Not desires
+	- World-to-mind fit that cannot be otherwise reduced
+	- Normative judgments sufficient to explain motivation
+	- Works: Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan
+- Correctness (the *correctness* of normative judgments)
+	- Constructivism
+	- Normative judgments, not desires/sensations, provide reasons
+	- Informed desires, or counterfactual desires, don't provide reasons.
+	- Constituitive features
+	- Methodology
+		- General Theory unlikely
+		- Conflicting reasons
+		- Deliberation/reflection
+	- Works: Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier
+- Morality
+	- Sentimentalism
+	- Contractualism
+	- Methodology
+		- General Theory unlikely
+		- Conflicting interests
+		- Argumentation/Discussion
+	- Works: Scanlon, Kant
 
 Some insights that I haven't seen explored elsewhere
 
@@ -38,8 +88,6 @@ Some insights that I haven't seen explored elsewhere
 3. We are not consequentialist about epistemology.
 4. Formulating a revisionist cognitivist analysis of normative judgments from historical non-cognitive uses.
 5. Normative judgments are all judgments of relations, not properties.
-6. Libertarianism: communal property, reduced resources due to increased per capita share.
-7. Determinism/causation are meaningless concepts.
 
 ## Introduction
 
@@ -141,6 +189,8 @@ People have prudential disagreements. Two parties can have identical beliefs abo
 People have aesthetic disagreements.
 
 While these disagreements sometimes stem from logical or semantic errors, they need not always. Rather, the disagreements are often the result of differing normative principles.
+
+We need a shared concept in order for disagreement to be possible.
 
 Supplement: 
 - Stevenson's article on disagreement.

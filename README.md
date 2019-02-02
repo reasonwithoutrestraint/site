@@ -55,7 +55,8 @@ To Read/Summarize:
 	- Christine Kosgaard, "Kant's Formulation of Universal Law"
 	- Derek Parfit, Kantian Contractualism
 	- Thoams Scanlon
-	- David Gauthier 
+	- David Gauthier
+	- Habermas 
 - Libertarians
 	- John Locke, Second Treatise of Civil Government
 	- Murray Rothbard, For a New Liberty

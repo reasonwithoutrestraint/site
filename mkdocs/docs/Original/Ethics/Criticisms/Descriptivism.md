@@ -64,7 +64,7 @@ The characteristic feature of the moral uses are the non-descriptive attitude ex
 Descriptivism cannot explain the role of attitude in ethical disagreements. 
 There are two forms of disagreement, (1) disagreements in belief (both cannot be true) and (2) disagreement in attitudes (cannot be satisfied). 
 Note that reducing ethical judgments to *beliefs about attitudes* cannot account for this. 
-If A believes he desires X and B believes he desires not-X, then these beliefs are not in disagreement because they can both be true. 
+If A believes he desires X and B believes he desires not-X, then these beliefs are not in disagreement because they can both be *correct*. 
 Ethical disagreements commonly feature disagreements in attitudes and in beliefs. 
 But attitudes play the primary role because 
 1. The attitudes determine which beliefs are relevant, and 
@@ -73,6 +73,8 @@ But attitudes play the primary role because
 Perhaps this is actually a disagreement in beliefs about each agent's idealized attitudes, where idealized attitudes are assumed to be convergent. 
 But ethical disagreement can persist despite agreement about the beliefs of everyone's fully rational, fully informed attitudes. 
 This is not the case with something like think art, humor, taste, etc.
+This is because ethical judgments have a *prescriptive* aspect in that they are meant to guide the behavior of other agents.
+Such prescriptions cannot *both* be actualized when they conflict.
 
 #### Splitting descriptivism and non-descriptivism. 
 
