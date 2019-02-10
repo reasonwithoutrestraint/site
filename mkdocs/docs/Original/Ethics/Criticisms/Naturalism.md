@@ -25,12 +25,6 @@ Response: deny that all analytic reductions must be trivial and uninformative. C
 
 *Ethical disagreements reduced to disputed semantics or descriptions.* If analytic naturalism is true, then two parties disagree ethically only if they disagree descriptively. But people can disagree ethically without disagreeing descriptively. There can be two people who represent reality identically without having similar ethical attitudes with regard to that representation. This can only be explained by positing that the two parties have different semantics, but then this wouldn't even be a genuine disagreement. This means that two societies with ethical terms that had different semantic meaning (but were identical in that those terms guided the respective society's behavior) would not really disagree with each other.
 
-### Neo-Aristotelian
-
-
-### Moral Functionalism
-
-
 ## Reductive Synthetic Naturalism
 
 *A Priori Argument*. It seems we can come to learn about normative truths a priori. This is inexplicable if there is an a posteriori synthetic relationship between normative facts and non-normative facts. I.e. we cannot learn a priori that yellow is such and such wavelength, or that water is H2O. Yet how can it be the case that we can learn a priori that, e.g. some natural property *necessarily* co-instantiates a normative property? 

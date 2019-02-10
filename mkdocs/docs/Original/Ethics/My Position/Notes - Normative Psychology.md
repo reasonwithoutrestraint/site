@@ -64,6 +64,7 @@ I endorse a kind of special world-to-mind-fit attitude that is distinct from des
 - If one just has urge or sensation, this doesn't seem like a normative judgment.
 - Insofar as one values X they have to value the means to achieve X. The same doesn't apply by swapping "value" for "desire".
 - This may lead to using desires as the standard of correctness for normative judgments. This is critiqued in Rational Correctness.md
+- Can't be generalized to other forms of judgments
 
 ### World-to-mind
 

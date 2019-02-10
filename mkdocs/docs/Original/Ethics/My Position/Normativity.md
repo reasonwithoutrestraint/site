@@ -35,13 +35,13 @@ Moral Correctness
 
 Outline:
 
-- Normativity
+Bold means seperate create a article for that section
+
+- *Normativity*
 	- Examples
 	- Contrast with descriptions
 	- Plattitudes
-- Analysis (the *content* of normative judgments)
-	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
-	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
+- *Analysis* (the *content* of normative judgments)
 	- Domains
 		- Rationality
 		- Well-being versus reasons for action
@@ -49,6 +49,9 @@ Outline:
 		- Aesthetics
 		- Morality
 		- Ettiquette
+	- Flexibility of language
+	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
+	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
 	- Intrinsic/Instrumental
 	- Agent-Neutral / Agent-relative
 	- Not all based in pleasure/happiness
@@ -57,22 +60,40 @@ Outline:
 	- Right/Wrong kind of reasons
 	- Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz
 - Psychology (the *psychology* of normative judgments)
-	- Non-cognitivism, not beliefs
-	- Not desires
-	- World-to-mind fit that cannot be otherwise reduced
-	- Normative judgments sufficient to explain motivation
+	*Introduction*: the problem and possible solutions
+	*Failure of descriptivism* 
+	*Characterization of non-descriptivism*
+		- World-to-mind fit that cannot be otherwise reduced
+		- Expressive of deliberative endorsement and prescriptive
+		- Possibility of an alternative standard of truth
+		- Competing motivational faculties
+	*Evolution*: selections for descriptivism vs non-descriptivism
+	*Observations*: examples of other evaluative language, normative education, emphasizing the dynamic component of certain terms (e.g. no one admits to being "racist" despite meeting the criteria)
+	*Objections*
+		- Seems intuitively false
+		- Frege-Geach
+		- Which attitude
 	- Works: Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan
 - Correctness (the *correctness* of normative judgments)
-	- Constructivism
-	- Normative judgments, not desires/sensations, provide reasons
-	- Informed desires, or counterfactual desires, don't provide reasons.
-	- Constituitive features
-	- Methodology
-		- General Theory unlikely
-		- Conflicting reasons
-		- Deliberation/reflection
+	- *Introduction*: the problem and possible solutions
+	- *Failure of externalism*
+		- Repeat many arguments from Williams's article
+		- Use analogy with theoretical reasons
+	- *Failure of broad internalism*
+		- Critique Williams's position
+		- Use analogy with thoeretical reasons (e.g. desires don't justify beliefs, even if they can explain them).
+	- *Constructivism*
+		- Normative judgments, not desires/sensations, provide reasons
+		- Analogy with other domains
+		- Constituitive features
+		- Explaining intuitive reasons versus broad internalism, externalism, etc.
+	- *Objections*
+		- Methodology
+			- General Theory unlikely
+			- Conflicting reasons
+			- Deliberation/reflection
 	- Works: Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier
-- Morality
+- *Morality*
 	- Sentimentalism
 	- Contractualism
 	- Methodology

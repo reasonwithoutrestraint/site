@@ -1,4 +1,76 @@
-# Rational Correctness
+# Normative Correctness
+
+Split into seperate articles
+(1) Introduction to the problem
+(2) The failure of externalism - appeal to analogy with reasons for belief
+(3) Internalism too broad - motivational elements that don't justify
+(4) Constructivism, constituitive properties, analogy with other domains, alternative form of truth
+(5) Explaining intuitive features with externalism, internalism, constructivism
+(6) Objections
+
+Readings
+- General
+    - Book: Derek Parfit - _Reasons and Persons_
+    - Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
+	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
+- Internalism
+	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
+	- Essay: Christine Korsgard - "Skepticism About Practical Reasons"
+	- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
+	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
+		- 1.Internal and External Reasons (1979) /​ Bernard Williams
+		- 2.Skepticism about Practical Reason (1986) /​ Christine Korsgaard
+		- 3.Might There Be External Reasons? (1995) /​ John McDowell
+		- 4.Reply to McDowell (1995) /​ Bernard Williams
+		- 5.Internal Reasons (1995) /​ Michael Smith
+		- 6.Humean Doubts about the Practical Justification of Morality (1997) /​ James Dreier
+		- 7.Why Is Instrumental Rationality Rational? (2005) /​ Troy Jollimore
+		- 8.Putting Rationality in Its Place (1993) /​ Warren Quinn
+		- 9.Selections from The Possibility of Altruism (1970) /​ Thomas Nagel
+		- 10.The Normativity of Instrumental Reason (1997) /​ Christine Korsgaard
+		- 11.The Possibility of Practical Reason (1996) /​ J. David Velleman
+		- 12.Velleman's Autonomism (2001) /​ Philip Clark
+		- 13.Beyond the Error Theory (2010) /​ Michael Smith
+		- 14.Rationality and Virtue (1994) /​ Philippa Foot
+		- 15.Reasons and Motivation (1997) /​ Derek Parfit.
+- Constructivism
+	- Christine Korsgard:
+		- "The Sources of Normativity"
+		- "Skepticism about Practical Reasons"
+		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
+		- *Self-Constitution. Agency, Identity and Integrity*.
+	- Essays: Sharon Street
+		- "What is Constructivism in Ethics and Metaethics"
+		- "Constructivism about Reasons"
+		- "A Darwinian Dilemma for Realist Theories of Value"
+		- "Evolution and the Normativity of Epistemic Reasons"
+		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- "In Defense of Future Tuesday Indifference"
+	- Essays: _Constructivism in Practical Philosophy_
+		- "Constructivism about Normativity" by R. Jay Wallace
+		- "Coming to Terms with Contingency: Humean Constructivism about Practical Reason" by Sharon Street
+		- "Constructing Protagorean Objectivity" by Aaron james
+		- "Constructivism, Agency, and the Problem of Alignment" by Michael E. Bratman
+		- "A Puzzle for Constructivism and How to Solve It" by Dale Dorsey 
+		- "Constructivism and the Argwnent from Autonomy" by Robert Stem
+		- "Kantian Constructivism: Something Old, Something New" by Michael Ridge
+		- "Constructing Coherence" by Yonatan Shemmer
+		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
+		- "Constructivism and Wise Judgment" by Valerie Tiberius
+		- "Expressivism and Constructivism" by James Lenman
+		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
+	- Essay: David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
+
+---
+
+Snippet pulled from Normative Correctness.md. This was a criticism about reducing judgments about reasons to beliefs about desires. But it should be moved to a criticism about reducing normative correctness to desire satisfaction.
+
+As mentioned before, there are times where our strongest desires are made under circumstances when we are not in a sound state of mind. The "strength" of these desires does not seem to override the priority of our countervailing normative judgments. Similar remarks can be said about desires made absent reflection or experience. It might be objected that desires made in those ideal circumstances are better because those desires are more likely to remain stable for a person's life; thus, satisfying those desires will be more likely to satisfy an agent's future desires. There are two problems with this. Firstly, it is not always true that an agent's desires without deliberation or experience are less stable, but it still seems like they would have less priority.
+
+The second issue leads to another issue with desire-based theories in general: a desire-theory cannot explain why an agent has any reason to care about their future desiers. The only relevant consideration is present desires. So a desire-based theory cannot appeal to the importance of future desires to exlpain the importance of desires made under reflection, experience, calmer circumstances. More importantly, the belief-about-desire theory cannot explain why it's important that we care about our future desires.
+
+---
 
 The Moral Problem
 
@@ -27,9 +99,14 @@ The above is true platitude only if we use a fairly broad definition of rational
 
 Question for Constructivism
 
-1. I understand the argument that there is no normative truth independent of normative judgments (i.e. the metaphysical/epistemological/motivational problems with realism).. But how do we establish that normative truth for a given agent's depends on *that* agent's normative judgments? E.g. why not the normative judgments of the agent's community? Or the normative judgments of the speaker? Why not understood "reasons" broadly as a standard by which to criticize someone, e.g. because people are subject to criticism for being cruel, and because reasons are standards of criticism, why not say cruel people are unreasonable? There are infinitely many possible theories of normative truth that don't reduce normative truth for A to A's normative judgments, without also having the metaphysical/epistemological problems of realism. A motivational argument can be given perhaps. Kosgaard's states that such an account is the only thing that can explain the normative authority of deliberation for agents. What does this mean?
+1. I understand the argument that there is no normative truth independent of normative judgments (i.e. the metaphysical/epistemological/motivational problems with realism).. But how do we establish that normative truth for a given agent's depends on *that* agent's normative judgments? E.g. why not the normative judgments of the agent's community? Or the normative judgments of the speaker? Why not understood "reasons" broadly as a standard by which to criticize someone, e.g. because people are subject to criticism for being cruel, and because reasons are standards of criticism, why not say cruel people are unreasonable? There are infinitely many possible theories of normative truth that don't reduce normative truth for A to A's normative judgments, without also having the metaphysical/epistemological problems of realism. 
 	- We can understand "should" claims as general standards to ground criticism, e.g. people "should" not act immorally, even though they may have no reason not to do so.
 	- "Reasons" may be sometimes used in this broad sense, but for clarity this concept will be identified with the narrow sense (connected with an agent's normative judgments) leaving "should" the job of handling general grounds for criticism. 
+	- A motivational argument can be given perhaps. 
+	- Kosgaard's states that such an account is the only thing that can explain the normative authority of deliberation for agents. What does this mean?
+	- Why focus on reasons in the internal sense? Similar considerations can be used to explain why reasons for belief are internal rather than external (i.e. rather than simply beliefs that are true).
+	- The internal sense is what we use not just for charges of criticism but for charges of irrationality.
+	- The internal sense is the kind of reason we acknowledge when we judge that something is a reason from a first-person perspective rather thana third-person perspective.
 2. What is the general strategy for determining what is constitutive of a given activity?
 3. What are the procedures for ideal deliberation?
 4. Why do some attitudes have higher authority over others, i.e. the attitude that values the upshot of idealized reflection are more important than an agent's present desires.
@@ -162,6 +239,7 @@ The central question here is (2). (1) and (3) are both a priori, conceptual trut
 
 Modifications:
 - "Fully Rational" may need to be explicitly characterized in terms of "ideal sound deliberation" or something more specific, so that (2) is not seen as question-begging against the (rare) externalist who says that full rationality might endorse behaviors for A that A has no dispositions to do. 
+- From Scanlon: One option is to characterize "rationality" just in terms of consistency. So that one is irrational only if they fail to adopt an attitude that they do not judge themselves to have reason to have.
 
 #### Procedural rationality
 
@@ -193,6 +271,14 @@ The reason that reasons statements are not based on the hypothetical motivationa
 
 But why should reasons statements for A be based on what he actually values in any present moment? This seems question-begging against the externalist. Two reasons (1) We make claims about reasons" for the purpose of influencing, motivating, or guiding agents. But the only thing that can guide agents (assuming they don't suffer from addictions, false beliefs, etc.) are elements from their motivational set. And (2) this is a basic premise of constructivism (see below).
 
+### Focus on Theoretical Reasons
+
+(not a different argument from above; perhaps an elaboration of the explanatory argument).
+
+As mentioned before, there is a narrow and broad sense of normative judgments. The broad sense refers to general "should" statements that could simply serve as standards by which we can criticize and evaluate the behavior of others - this includes internal and external reasons. There is also a narrow sense that refers to internal "reasons" statements. The question is why this distinction is important and what is special/important about internal reasons statements.
+
+Consider reasons for belief. One could say that one has reason to believe just whatever is true. In a sense, this could be true. But it seems that there is another, independent role played by reasons statements about belief. Reasons in this more narrow sense are conferred to considerations that guide our deliberation as we decide what to believe. The fact that something is an external reason for belief - the fact that it's true, for example - cannot be a consideration that one takes to be reason to decide their belief. I.e. if you asked someone why they believed X and they responded with "because X is true", this would do nothing to explain their belief. We expect them to respond with an accessible feature of their motivational set - e.g. their other beliefs, their intuitions, their normative judgments, etc. Likewise, external reasons for action cannot be a consideration that someone takes to be a reason for action, unless we assume it's already connected with their motivational set. E.g. if you asked someone why they did X, and they responded with "because X is kind" (yet they had no care for kindness), this wouldn't really explain why they did X.
+
 ### Constructivist Argument
 
 Constructivism + Judgment Internalism = Existence Internalism
@@ -201,7 +287,7 @@ Constructivism + Judgment Internalism = Existence Internalism
 2. Judgment Internalism: A's normative judgments endorse X-ing only if A has some motivation to X.
 3. Existence Internalism: A has a reason to X only if A has some motivation to X.
 
-Constructivism is actually a narrow form of existence internalism if we accept judgment internalism and if we believe one can have motivating reasons without judging them to be normative reasons. In that case, the motivating reasons corresponding to one's normative judgments would be a strict subset of their motivational set.
+Constructivism is actually a narrow form of existence internalism if we accept judgment internalism and if we believe one can have motivating reasons without judging them to be normative reasons. In that case, the motivating reasons corresponding to one's normative judgments would be a strict subset of their motivational set. Of course, there is still the question of why we should accept constructivism in the first place.
 
 ## Competing Theories
 

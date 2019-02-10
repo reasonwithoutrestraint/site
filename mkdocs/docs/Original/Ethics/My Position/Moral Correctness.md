@@ -73,6 +73,13 @@ This is kind of siimilar to "thick" ethical concepts, except with sentimentalism
 
 ## Constructivism
 
+Note:
+- We could have a society where we only have personal private reasons for blame/shame
+- But insofar as we judge that we have reason to find intersubjective justifications, we do have such reasons (because global constructivism is true).
+- We do judge that we have reason to find intersubjective justifications, i.e. we think it's important to have an objective methodology for setttling moral disputes. 
+- Some people don't make these judgments; they can be ignored.
+- Thus, 
+
 Constructivist morality: truth predicated predicated on standards implicit in moral *discussion*. Implicit in moral discussion is that the considerations that each parties presents counts as *reasons* for the other party to take into account. This emphasizes the *prescriptive* role of moral arguments ("Don't do X" or "shame the behavior of X"), i.e. as tools to shape the attitudes of others.
 
 The standards of correctness reduce to the reasons that other agents have to obey the prescriptions, i.e. to refrain from doing X or to shaming the doing of X. These are not just reasons as such (because there isn't a shared set of reasons shared by everyone), but reasons contingent upon a goal of establishing a system of norms to coordinate the behavior of others in society. 

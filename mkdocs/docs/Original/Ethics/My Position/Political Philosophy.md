@@ -25,6 +25,43 @@ Tentative Axioms
 - In a world of maximum positive liberty and information/rationality, coercion never just (even if to prevent harm).
 - People can protect their positive liberty using mimimal coercion necessary.
 
+## Against common libertarian arguments
+
+### Against Anarchism
+
+Intuitive: Is it justified to break someone's property to save someone drowning? The say no.
+
+Historical:
+	- Anarchism has been destroyed at every point in history. Why assume an anarchist society could defend itself?
+	- Maybe it won't.
+		- Then this is pointless.
+
+Logistical:
+	- How do people defend themselves from assault?
+	- Private defense agencies.
+	- How is that different from a state?
+	- (a) no monopoly, (b) no taxation, and (c) they follow the NAP
+	- As for (b) and (c), why assume there would respect the NAP? History shows that people don't in general follow the NAP, so why assume they would under anarchism?
+	- So we've established that these coorporations would not follow the NAP.
+	- As for (a), (b) and (c): there could be a sole coorporation in a given area, either because they were the first or because they outcompeted everyone else. What's stop them from becoming a state? If there is competition, what's to stop a war from occuring between several defense agencies (e.g. over religion or whatever) leading to a victor.
+
+### Against Minarchism
+
+Intuitive:
+	- Is it justified to break someone's property to save someone from drowning if they were pushed in by someone else whom you cannot identify?
+	- Yes, because you have to protect their negative rights.
+	- But this violates the negative rights of the property owner.
+	- This is okay, because we have a duty to protect the negative rights of others.
+	- Shouldn't we also have a duty to protect the positive rights of others then?
+	- No
+	- What if someone is drowning not because someone pushed him but because of a gust of wind? Is this a relevant consideration?
+
+What justifies using coercion to force others to support a state?
+
+To protect the negative rights of others.
+
+So people have a positive right to protection from violence
+
 ## Analysis of political legitimacy & Justice
 
 Can it be reduced to morality? The moral justification of force?

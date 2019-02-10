@@ -170,13 +170,30 @@ Miscellaneous
 	- Chapter: Mark Schroeder - _Noncognitivism in Ethics_ (chs 6-8)
 	- Chapter: Huw Price - _Naturalism without Mirrors_ (ch. 11)
 	- Chapter: Michael Ridge - _Impassioned Belief_ (chs. 4 & 7)
+	- CS Stevenson, 
+		- (Summarize) "The Emotive Meaning of Ethical Terms"
+		- (Summarize) "Ethical Disagreement"
+	- Mark Timmons & Terry Horgan, 
+		- "Nondescriptivist Cognitivism"
+		- "Morality without Moral Facts" in *Contemporary Debates in Moral Theory* by James Dreier
 - Non-descriptivism
-    - Book: Mark Timmons - _Morality without Foundations_
-    - Book: Hilary Putnam - _Ethics without Ontology_
+	- Book: Mark Timmons - _Morality without Foundations_
+	- Book: Hilary Putnam - _Ethics without Ontology_
 	- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
-	- Essays: _Constructivism in Practical Philosophy_
 - Constructivism
 	- Essays: _Constructivism in Practical Philosophy_
+		- "Constructivism about Normativity" by R. Jay Wallace
+		- "Coming to Terms with Contingency: Humean Constructivism about Practical Reason" by Sharon Street
+		- "Constructing Protagorean Objectivity" by Aaron james
+		- "Constructivism, Agency, and the Problem of Alignment" by Michael E. Bratman
+		- "A Puzzle for Constructivism and How to Solve It" by Dale Dorsey 
+		- "Constructivism and the Argwnent from Autonomy" by Robert Stem
+		- "Kantian Constructivism: Something Old, Something New" by Michael Ridge
+		- "Constructing Coherence" by Yonatan Shemmer
+		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
+		- "Constructivism and Wise Judgment" by Valerie Tiberius
+		- "Expressivism and Constructivism" by James Lenman
+		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
 	- Christine Korsgard:
 		- "The Sources of Normativity"
 		- "Skepticism about Practical Reasons"
@@ -191,7 +208,7 @@ Miscellaneous
 		- "In Defense of Future Tuesday Indifference"
 	- Chapter: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
 	- Essay: David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-	- Essay: Jay Wallace - "Constructivism About Normativity: Some Pitfalls"
+	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
 - Attitude-dependent Naturalism
 	- Book: Michael Smith - _The Moral Problem_ (chs. 3-5) (non-reductive analytic)
 	- Book: Kevin DeLapp - _Moral Realism_ (reductive synthetic)
@@ -216,20 +233,41 @@ Miscellaneous
     - Book: David Enoch - _Taking Morality Seriously_ (ch. 3)
     - Book: Derek Parfit - _On what Matters_ (ch. 31)
     - Book: Michael Huemer - _Ethical Intuitionism_ (ch. 5 "Moral Knowledge")
-	- Book: Derek Parfit - _On what Matters_
 	- Book: Ralph Wedgwood - _The Nature of Normativity (chs. 3 & 7)
+    - Book: Derek Parfit - _Reasons and Persons_
 - Sensibility
     - Essays: David Wiggins - "A Sensible Subjectivism" from _Needs, Values, Truth_
 	- Chapter: John McDowell - "Values and Secondary Qualities" from _Morality and Objectivity_
 	- Essay: John McDowell - "Projection and Truth in Ethics"
+	- Justin D'Arms, "Two Arguments for Sentimentalism"
 - Error-Theory
 	- Book: J.L. Mackie - _Ethics: Inventing Right and Wrong_ (as in DGR, "The Subjectivity of Values")
 	- Book: Richard Joyce - _The Myth of Morality_ (chp. 1 & 8)
 	- Book: Jonas Olson - _Moral Error Theory_ (chp. 9)
 	- Essay: Stephen Finlay - "The Error in the Error Theory"
 - Reasons/Motives:
-	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
 	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
+	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
+		- I. Williams and His Critics
+			- 1.Internal and External Reasons (1979) /​ Bernard Williams
+			- 2.Skepticism about Practical Reason (1986) /​ Christine Korsgaard
+			- 3.Might There Be External Reasons? (1995) /​ John McDowell
+			- 4.Reply to McDowell (1995) /​ Bernard Williams
+			- 5.Internal Reasons (1995) /​ Michael Smith
+		- II.Instrumentalism
+			- 6.Humean Doubts about the Practical Justification of Morality (1997) /​ James Dreier
+			- 7.Why Is Instrumental Rationality Rational? (2005) /​ Troy Jollimore
+			- 8.Putting Rationality in Its Place (1993) /​ Warren Quinn
+		- III.Kantian Conceptions
+			- 9.Selections from The Possibility of Altruism (1970) /​ Thomas Nagel
+			- 10.The Normativity of Instrumental Reason (1997) /​ Christine Korsgaard
+			- 11.The Possibility of Practical Reason (1996) /​ J. David Velleman
+			- 12.Velleman's Autonomism (2001) /​ Philip Clark
+		- IV.Alternatives
+			- 13.Beyond the Error Theory (2010) /​ Michael Smith
+		- Contents note continued: 
+			- 14.Rationality and Virtue (1994) /​ Philippa Foot
+			- 15.Reasons and Motivation (1997) /​ Derek Parfit.
 	- Chapter: Philippa Foot - "Morality as a System of Hypothetical Imperatives"
 	- Book: Thomas Nagel - _The Possibility of Altruism_ (as in DGR)
 	- Book: David Gauthier - _Morals By Agreement_ (as in DGR)
@@ -304,3 +342,10 @@ Important modern works in political philosophy:
 - Robert Nozick, Anarchy, State, and Utopia
 - Isaiah Berlin, Two Concepts of Liberty
 - Michael Sandel, Liberalism and the Limits of Justice
+
+Recommended by Koorsgard
+- John Rawls, A Theory of Justice
+- Thomas Nagel, The Possibility of Altruism
+- Tim Scanlon, What We Owe To Each Other
+- Bernard Williams, Ethics and the Limits of Philosophy
+- Derek Parfit, Reasons and Persons, especially Part III
