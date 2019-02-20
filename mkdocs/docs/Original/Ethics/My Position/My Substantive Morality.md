@@ -49,7 +49,9 @@ To argue for certain fundamental principles:
 
 ## The Good
 
-### Individual Instantaneous Goodness
+### Individual Goodness
+
+Concerns our reasons for desires/intentions
 
 Only one constraint that I'm convinced of for now: in order for something to be good or bad for someone, that person has to be alive. Possibilties for individual goodness:
 
@@ -59,6 +61,10 @@ Only one constraint that I'm convinced of for now: in order for something to be 
 - Success theory: satisfaction of preferences about one's own life, i.e. preferences about features that are introspectively discernable
 - Objective list theory: knowledge, friendship, etc.
 - Other constraints: S taking attitudinal pleasure in state of affairs P, only when S deserves that pleasure and P deserves to happen.
+- Why assume its telelogical? 
+	- Some of the values we have don't consist in what state of affairs we have reason to promote
+	- Oftentimes to say X is good, we mean we have reason to promote X
+	- But not always: e.g. loyalty is good =/= we have reason to promote loyalty, i.e. betraying a friend to promote loyalty is not to value loyalty.
 
 ### Individual Lifetime Goodness
 
@@ -66,13 +72,26 @@ Faces similar problems as collective goodness. See below:
 
 ### Collective Goodness:
 
-- *Summation*
-- *Average*
-- *Pareto optimality*
+- Maximizing the sum of utility. 
+	- Adding more people is somehow better. Who could have reason to bring in new people?
+	- If everyone in S1 has X well-being and everyone in S2 has Y well-being (where X >>> Y), then S2 is better than S1 so longer as the number of people in S2 is large enough. 
+- Maximizing the average. 
+	- Having children with below average utility makes the world a worse place.
+- Pareto optimality.
+	- Utility Monster: The gap in sentience between pigs and humans entails that it would be better for an innocent pig to die to save a human. But it doesn't seem that a comparable gap between a human and a superintelligent alien entails that its better for an innocent human to die to save the alien. Certainly, it doesn't seem like we would be morally justified in killing the human to save the alien. And especially the human wouldn't be morally obligated to kill himself. What if the alien mistakenly put himself in a position whereby either he or a human had to die
+- A single value for "better-off" might be implausible  
 - Principles that would be preferred by everyone if they didn't know where they would fall within the distribution.
 - Small diminishes to someone with high well-being for a large increase to someone with low well-being.
+- Why assume its telelogical? 
+	- Some of the values we have don't consist in what state of affairs we have reason to promote
+	- Oftentimes to say X is good, we mean we have reason to promote X
+	- But not always: e.g. loyalty is good =/= we have reason to promote loyalty, i.e. betraying a friend to promote loyalty is not to value loyalty.
 
 ## The Right - Fundamental moral principles 
+
+### Moral System Components
+
+1. Characterize individual reasons
 
 ### Against utilitarianism
  
@@ -81,30 +100,17 @@ Three components of utilitarianism:
 2. Measure of collective good: maximizing total individual well-being of all agents impartially.
 	- Additive
 	- Impartial
-3. Consequentialism: The Right reduced to The Good 
-4. Teleological: The Good is reduced to "to be promoted" 
-	- Is required in order for consequentialism to make sense, 
-	- But can be accepted without accepting consequentialism.
+3. Consequentialism: The Right reduced to The Good
 
 Problems:
 1. How is happiness defined? (don't have huge opposition) 
-	- Pleasure receptors. This is bad.
-	- States of enjoyment. Better 
-	- Conscious states that are preferred. Better
-	- Preferences/desires. Doesn't seem like happiness
+	- See earlier issues
 2. What aggregation function for collective well-being?
-	- Maximizing the sum of utility. Bad, because increasing people is always better. So it can be good to torture someone to increase marginal utility in X number of people, so long as X is large enough.  
-	- Maximizing the average. Bad, because having children with below average utility makes the world a worse place.
-	- It seems clear that world X is better than world Y, where every individual in world X has higher utility than in world Y (or they would have higher utility if placed in world Y). But if this is not true for _every_ individual, then I'm not sure.
-	- Utility Monster: The gap in sentience between pigs and humans entails that it would be better for an innocent pig to die to save a human. But it doesn't seem that a comparable gap between a human and a superintelligent alien entails that its better for an innocent human to die to save the alien. Certainly, it doesn't seem like we would be morally justified in killing the human to save the alien. And especially the human wouldn't be morally obligated to kill himself. What if the alien mistakenly put himself in a position whereby either he or a human had to die?  
+	- See earlier issues
 3. Why assume that the right reduces to the good?
 	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
 	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
 	- Intuition: if we could prove that subjecting someone to a course of action maximized their good (even if good is defined in terms of preference satisfaction), is it right to force someone to do this for their own sake? Just because doing something promotes good doesn't mean that performing that action is good (particularly if it uses force). This scenario is possible in the following scenario: (1) person has ideal (more informed, higher order, more rational, etc.) preferences that would be satisfied by doing X, but (2) he doesn't willingly do X, and this must be because of less ideal preferences. It would be wrong to force this person to do X if (3) he also has preferences that he not be forced to do X in situations where (1) and (2) are true; but it would be okay to use force if he preferred to be forced to do X in these situations. Of course, (3) says nothing about whether performing X really is good (maybe it is, maybe it isn't); the fact is we can't use force.
-4. Why assume that The Good is reduced to "to be promoted"
-	- Oftentimes to say X is good, we mean we have reason to promote X
-	- But not always: e.g. loyalty is good =/= we have reason to promote loyalty, i.e. betraying a friend to promote loyalty is not to value loyalty.
-	- 
 
 ### Other
 

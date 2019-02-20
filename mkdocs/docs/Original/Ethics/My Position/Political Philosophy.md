@@ -174,18 +174,27 @@ Must explain the relationship between disagreement and ideal socially constructe
 ### Layers of force
 
 Remember the types of force that can be justified
-- Consent: Explicit/Implicit Consent
-- Impairment: Lack of rationality/information
-- Rectification: Compensation for past physical damages and/or excess resource usage
-- Protection: Protection against current physical coercion and/or excess resource usage
-- Pre-emptive Protection: Protection against future physical coercion and/or excess resource usage
+- Consent: 
+	- Explicit
+	- Implicit
+- Impairment: 
+	- Lack of rationality
+	- Lack of information
+- Rectification: Compensation for 
+	- Past physical damages
+	- Excess resource usage
+- Protection: Protection against 
+	- Physical coercion
+	- Excess resource usage
+	- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company.
+	- Whether current or future (i.e. pre-emptive protection is justified)
 - Forced Compensation: taking someone's resources and compensating them, only if:
 	- The portion taken is too small to cause large harm to the person's interests (e.g. in taxation)
 	- The person is compensated for the transaction in the same resources
 	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
 - Democracy: Optional democratic communal laws 
 
-Here are the types of force that can be justified in reality as it actually is.
+Here are the types of force that can be justified in reality.
 
 Global
 - Basically anarchism.

@@ -4,7 +4,6 @@
 
 This chapter uses the notion of a reason to provide a general characterization of value.
 Value is often taken to be interchangeable with "The Good", which is treated as distinct from "The Right".
-In general, it has distorted our thinking about the relation between rightness and other values.
 The Good concerns what we have reason to desire, whereas The Right concerns what we have reason to do.
 The emphasis on "The Good" has had a distoring effect on thinking about value in general.
 In general, it has distorted our thinking about the relation between rightness and other values.
@@ -136,7 +135,7 @@ E.g. deontological prohibitions against murder might say: the value of a murder 
 I.e. one need not appeal to the "negative intrinsic value" of killing.
 
 The "all else being equal" clause can be read as "unless the action conflicts with another goal with overriding value."
-As argued in Chapter 1,this conception fof a goal is mistaken.
+As argued in Chapter 1, this conception of a goal is mistaken.
 Accepting something as a goal does not just involve attaching positive value to its accomplishment.
 We also give it a particular status in our lives, such as a long-term career objective or whim, etc.
 The intentions that constitute adopting the goal specify the contexts where the goal is to be pursued.

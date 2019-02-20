@@ -1,40 +1,15 @@
 # Normativity
 
-Against Other Metaethical Theories
 
-1. Against Analytic Naturalism
-2. Against Non-Naturalism
-3. Against Descriptivism
-
-Normative Psychology
-
-1. Rationality
-	- Non-cognitivism
-	- Connection between explanatory and normative
-2. Morality
-3. Aesthetics
-
-Rational Correctness
-
-1. Plattitudes of normativity
-2. Reasons
-	- Constructivism
-	- Internalism (reasons internal to rationality)
-3. Rationality
-	- ??? Deliberation/Reflective
-	- ??? Conflicting reasons
-
-Moral Correctness
-
-1. Sentimentalism
-2. Social reasons possible only with a shared set of goals
-3. Implicit commitments of moral argument
-4. Contractualism
-5. Determinateness
-6. Objectivity
+Readings for analyzing normativity
+- A.C. Ewing, "A Suggested Non-Naturalistic Definition of Good"
+- Christine Kosgaard, "The Sources of Normativity"
+- Justin D'Arms, "Two Arguments for Sentimentalism" 
+- Maybe
+	- Henry Sidgwick, "Ethical Judgments", from _The Methods of Ethics_
+	- H.A. Prichard, "Does Moral Philosophy Rest on a Mistake?"
 
 Outline:
-
 Bold means seperate create a article for that section
 
 - *Normativity*

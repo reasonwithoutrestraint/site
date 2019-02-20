@@ -10,30 +10,32 @@ Split into seperate articles
 
 Readings
 - General
+	- Reasons, Motives, and the Demands of Morality: An Introduction
+	- Essays: _The Oxford Handbook of Reasons and Normativity_
     - Book: Derek Parfit - _Reasons and Persons_
-    - Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
-	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
-- Internalism
-	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
-	- Essay: Christine Korsgard - "Skepticism About Practical Reasons"
+	- Gilbert Harman, "Moral Relativism Defended"
+	- Ulrike Heuer, "Reasons for actions and desires"
+	- Peter Railton, "Toward a Unified Account of Rationality in Belief, Desire, and Action"
+	- Ralph Wedgwood, "The Unity of Normativity"
+	- Mark Schroeder
+		- Ought, Agents, and Actions
+		- The unity of reasons
+		- Value and the right kind of reason
+	- Also see Philosophy of mind/action syllabus
 	- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
+- Internalism
 	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
-		- 1.Internal and External Reasons (1979) /​ Bernard Williams
-		- 2.Skepticism about Practical Reason (1986) /​ Christine Korsgaard
-		- 3.Might There Be External Reasons? (1995) /​ John McDowell
-		- 4.Reply to McDowell (1995) /​ Bernard Williams
-		- 5.Internal Reasons (1995) /​ Michael Smith
-		- 6.Humean Doubts about the Practical Justification of Morality (1997) /​ James Dreier
-		- 7.Why Is Instrumental Rationality Rational? (2005) /​ Troy Jollimore
-		- 8.Putting Rationality in Its Place (1993) /​ Warren Quinn
-		- 9.Selections from The Possibility of Altruism (1970) /​ Thomas Nagel
-		- 10.The Normativity of Instrumental Reason (1997) /​ Christine Korsgaard
-		- 11.The Possibility of Practical Reason (1996) /​ J. David Velleman
-		- 12.Velleman's Autonomism (2001) /​ Philip Clark
-		- 13.Beyond the Error Theory (2010) /​ Michael Smith
-		- 14.Rationality and Virtue (1994) /​ Philippa Foot
-		- 15.Reasons and Motivation (1997) /​ Derek Parfit.
+	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
+	- Stephen Finlay, "The Obscurity of Internal Reasons"
+	- Hille Paakkunainen, "Internalism and Externalism about Reasons"
+	- Kieran Setiya, "Internal Reasons"
+	- Michael Smith, "Internal Reasons"
+- Externalism
+	- Christine Korsgard - "Skepticism About Practical Reasons"
+	- John McDowell - "Might There Be External Reasons?"
+	- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
 - Constructivism
+	- Essays: _Constructivism in Practical Philosophy_
 	- Christine Korsgard:
 		- "The Sources of Normativity"
 		- "Skepticism about Practical Reasons"
@@ -46,21 +48,14 @@ Readings
 		- "Evolution and the Normativity of Epistemic Reasons"
 		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 		- "In Defense of Future Tuesday Indifference"
-	- Essays: _Constructivism in Practical Philosophy_
-		- "Constructivism about Normativity" by R. Jay Wallace
-		- "Coming to Terms with Contingency: Humean Constructivism about Practical Reason" by Sharon Street
-		- "Constructing Protagorean Objectivity" by Aaron james
-		- "Constructivism, Agency, and the Problem of Alignment" by Michael E. Bratman
-		- "A Puzzle for Constructivism and How to Solve It" by Dale Dorsey 
-		- "Constructivism and the Argwnent from Autonomy" by Robert Stem
-		- "Kantian Constructivism: Something Old, Something New" by Michael Ridge
-		- "Constructing Coherence" by Yonatan Shemmer
-		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
-		- "Constructivism and Wise Judgment" by Valerie Tiberius
-		- "Expressivism and Constructivism" by James Lenman
-		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
-	- Essay: David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+		- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
+	- "Expressivism and Constructivism" by James Lenman
 	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
+	- Michael Smith, "A Constituvist theory of reasons"
+	- Critics
+		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
+		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
+		- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
 
 ---
 

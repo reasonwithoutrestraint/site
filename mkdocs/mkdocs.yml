@@ -4,37 +4,35 @@ site_name: My Thoughts
 nav:
   - Home: index.md
   - About: about.md
-  - Original:
-    - Metaethics:
-      - Original/Metaethics/Literature Overview.md
-      - Objections:
-        - Original/Metaethics/Naturalism.md
-        - Original/Metaethics/Non-naturalism.md
-        - Original/Metaethics/Descriptivism.md
-      - My Position:
-        - Original/Metaethics/Normativity.md
-        - Original/Metaethics/Rational Psychology.md
-        - Original/Metaethics/Rational Correctness.md
-        - Original/Metaethics/Moral Psychology.md
-        - Original/Metaethics/Moral Correctness.md
-    - Ethical Theory: 
-      - My Position: Original/Metaethics/My Substantive Morality.md
-    - Applied Ethics:
-      - Original/Other/Abortion.md
-      - Original/Other/Affirmative Action In Universities.md
-      - Original/Other/Against Libertarianism.md
-      - Original/Other/Objective Morality.md
-    - Other Philosophy:
-      - Compatibilism: Original/Other/Free Will.md
-      - Original/Other/Against Presuppositionalism.md
-      - Original/Other/Cosmological Argument For God.md
-      - Original/Other/Destiny.md
-      - Original/Other/The Problem of Evil.md
-    - Random Reddit Posts:
-      - Original/Other/Equality.md
-      - Original/Other/Race and IQ.md
-    - Other:
-      - Original/Other/Taxonomy of Propositions.md
+  - Ethical Theory:
+    - Original/Ethics/Literature Overview.md
+    - My Position: 
+      - Original/Ethics/My Position/Normativity.md
+      - Original/Ethics/My Position/Normative Psychology.md
+      - Original/Ethics/My Position/Normative Correctness.md
+      - Original/Ethics/My Position/Moral Psychology.md
+      - Original/Ethics/My Position/Moral Correctness.md
+      - Original/Ethics/My Position/My Substantive Morality.md
+    - Criticisms:
+      - Original/Ethics/Criticisms/Naturalism.md
+      - Original/Ethics/Criticisms/Non-naturalism.md
+      - Original/Ethics/Criticisms/Descriptivism.md 
+  - Applied Ethics:
+    - Original/Other/Abortion.md
+    - Original/Other/Affirmative Action In Universities.md
+    - Original/Other/Against Libertarianism.md
+    - Original/Other/Objective Morality.md
+  - Other Philosophy:
+    - Original/Other/Free Will.md
+    - Original/Other/Against Presuppositionalism.md
+    - Original/Other/Cosmological Argument For God.md
+    - Original/Other/Destiny.md
+    - Original/Other/The Problem of Evil.md
+  - Random Reddit Posts:
+    - Original/Other/Equality.md
+    - Original/Other/Race and IQ.md
+  - Other:
+    - Original/Other/Taxonomy of Propositions.md
   - Summaries:
     - Non-Descriptivism:
       - Summaries/Non-descriptivism/A.J. Ayer, Critique of Ethics.md
@@ -73,10 +71,6 @@ nav:
         - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/4 - Wrongness and Reasons.md 
         - Summaries/Constructivism/Thomas Scanlon, What we Owe to Each Other/5 - The Structure of Contractualism.md
 
-  - Outlines:
-      - Outlines/Libertarianism.md
-      - Outlines/Political.md 
-
 # Theme configuration
 theme: 
   name: null
@@ -96,5 +90,7 @@ theme:
 markdown_extensions:
   - markdown_include.include:
       base_path: docs
+  - admonition
+  - pymdownx.details
 
 extra_css: [extra.css]

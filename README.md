@@ -103,6 +103,7 @@ Non-naturalists
 - (1) G.E. Moore, "The Subject Matter of Ethics", from _Principia Ethica_
 - (2) Henry Sidgwick, "Ethical Judgments", from _The Methods of Ethics_
 - (2) W.D. Ross, "The Meaning of Right" & "The Meaning of good", from _The Right and the Good_
+- (3) H.A. Prichard, "Does Moral Philosophy Rest on a Mistake?"
 - (1) A.C. Ewing, "A Suggested Non-Naturalistic Definition of Good"
 
 Expresssivists
@@ -182,18 +183,6 @@ Miscellaneous
 	- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
 - Constructivism
 	- Essays: _Constructivism in Practical Philosophy_
-		- "Constructivism about Normativity" by R. Jay Wallace
-		- "Coming to Terms with Contingency: Humean Constructivism about Practical Reason" by Sharon Street
-		- "Constructing Protagorean Objectivity" by Aaron james
-		- "Constructivism, Agency, and the Problem of Alignment" by Michael E. Bratman
-		- "A Puzzle for Constructivism and How to Solve It" by Dale Dorsey 
-		- "Constructivism and the Argwnent from Autonomy" by Robert Stem
-		- "Kantian Constructivism: Something Old, Something New" by Michael Ridge
-		- "Constructing Coherence" by Yonatan Shemmer
-		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
-		- "Constructivism and Wise Judgment" by Valerie Tiberius
-		- "Expressivism and Constructivism" by James Lenman
-		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
 	- Christine Korsgard:
 		- "The Sources of Normativity"
 		- "Skepticism about Practical Reasons"
@@ -206,9 +195,14 @@ Miscellaneous
 		- "Evolution and the Normativity of Epistemic Reasons"
 		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 		- "In Defense of Future Tuesday Indifference"
-	- Chapter: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
-	- Essay: David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+		- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
+	Critics:
+		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
+		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
+		- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"	
 	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
+	- "Expressivism and Constructivism" by James Lenman
+	- Michael Smith, "A Constituvist theory of reasons"
 - Attitude-dependent Naturalism
 	- Book: Michael Smith - _The Moral Problem_ (chs. 3-5) (non-reductive analytic)
 	- Book: Kevin DeLapp - _Moral Realism_ (reductive synthetic)
@@ -246,37 +240,30 @@ Miscellaneous
 	- Book: Jonas Olson - _Moral Error Theory_ (chp. 9)
 	- Essay: Stephen Finlay - "The Error in the Error Theory"
 - Reasons/Motives:
-	- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
-	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
-		- I. Williams and His Critics
-			- 1.Internal and External Reasons (1979) /​ Bernard Williams
-			- 2.Skepticism about Practical Reason (1986) /​ Christine Korsgaard
-			- 3.Might There Be External Reasons? (1995) /​ John McDowell
-			- 4.Reply to McDowell (1995) /​ Bernard Williams
-			- 5.Internal Reasons (1995) /​ Michael Smith
-		- II.Instrumentalism
-			- 6.Humean Doubts about the Practical Justification of Morality (1997) /​ James Dreier
-			- 7.Why Is Instrumental Rationality Rational? (2005) /​ Troy Jollimore
-			- 8.Putting Rationality in Its Place (1993) /​ Warren Quinn
-		- III.Kantian Conceptions
-			- 9.Selections from The Possibility of Altruism (1970) /​ Thomas Nagel
-			- 10.The Normativity of Instrumental Reason (1997) /​ Christine Korsgaard
-			- 11.The Possibility of Practical Reason (1996) /​ J. David Velleman
-			- 12.Velleman's Autonomism (2001) /​ Philip Clark
-		- IV.Alternatives
-			- 13.Beyond the Error Theory (2010) /​ Michael Smith
-		- Contents note continued: 
-			- 14.Rationality and Virtue (1994) /​ Philippa Foot
-			- 15.Reasons and Motivation (1997) /​ Derek Parfit.
-	- Chapter: Philippa Foot - "Morality as a System of Hypothetical Imperatives"
-	- Book: Thomas Nagel - _The Possibility of Altruism_ (as in DGR)
-	- Book: David Gauthier - _Morals By Agreement_ (as in DGR)
-	- Essay: Christine Korsgard - "Skepticism About Practical Reasons"
-	- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
-	- Essay: Nick Zangwill - "Externalist Moral Motivation"
-	- Essay: David Brink - "Externalist Moral Realism"
-	- Essay: John McDowell - "Might There Be External Reasons?"
-	- Book: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
+	- Internalism
+		- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
+		- Stephen Finlay, "The Obscurity of Internal Reasons"
+		- Hille Paakkunainen, "Internalism and Externalism about Reasons"
+		- Kieran Setiya, "Internal Reasons"
+		- Michael Smith, "Internal Reasons"
+	- Externalism
+		- Essay: Christine Korsgard - "Skepticism About Practical Reasons"
+		- Essay: John McDowell - "Might There Be External Reasons?"
+		- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
+		- Book: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
+	- Unknown
+		- Michael Smith, "A Constituvist theory of reasons"
+		- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
+	- Essay Collections
+		- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
+		- Essays: _The Oxford Handbook of Reasons and Normativity_
+	- Morality
+		- Book: Thomas Nagel - _The Possibility of Altruism_ (as in DGR)
+		- Book: David Gauthier - _Morals By Agreement_ (as in DGR)
+		- Chapter: Philippa Foot - "Morality as a System of Hypothetical Imperatives"
+		- Essay: Nick Zangwill - "Externalist Moral Motivation"
+		- Essay: David Brink - "Externalist Moral Realism"
+		- Also see Philosophy of mind/action syllabus
 - Evolution:
 	- Essay: Selim Berker - "The Normative Insignificance of Neuroscience"
 	- Essay: Justin Clarke-Doane - "Moral Epistemology: The Mathematics Analogy"
