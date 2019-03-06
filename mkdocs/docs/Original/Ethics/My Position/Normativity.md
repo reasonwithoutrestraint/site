@@ -27,12 +27,19 @@ Bold means seperate create a article for that section
 	- Flexibility of language
 	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
 	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
+	- Kinds of reasons concepts
+		- Normative vs non-normative "should" (e.g. "he should arrive here soon")
+		- Explanatory vs Justificatory reasons
+		- Objective vs Subjective reasons (e.g. reasons under lack of information)
+		- Right/Wrong kinds of reasons
+		- Internal vs External reasons
+	- Other different categories of reasons
+		- Deontic vs Evaluative (proposition P should be true versus agent A ought to acquire attitude X)
+		- Agent-Neutral / Agent-relative
 	- Intrinsic/Instrumental
-	- Agent-Neutral / Agent-relative
 	- Not all based in pleasure/happiness
 	- Not all based in teleology
 	- Hierarchical structure, pro-tanto & prima facie
-	- Right/Wrong kind of reasons
 	- Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz
 - Psychology (the *psychology* of normative judgments)
 	*Introduction*: the problem and possible solutions

@@ -37,7 +37,7 @@ Split into seperate articles
 		- Frege-Geach
 		- P.T. Geach, "Ascriptivism"
 		- (1) Philippa Foot, "Moral Beliefs"
-	-	 (2) Philippa Foot, "Moral Arguments"
+		- (2) Philippa Foot, "Moral Arguments"
 
 
 ## The Deliberative Perspective
@@ -51,6 +51,25 @@ kHowever, there must also be some slack between desires and values. An agent may
 	Similar disconnects happen even with fear, anger, and even beliefs.
 
 To judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which can be the sources of one's *motivating reasons*, the explanation of their intentional behavior. Voluntary actions can be explained by a belief and desire; these actions are done on the basis of normative reasnoing insofar as deliberation and reflection play a role in how the belief and desire manifest into action, i.e. if deliberation influences what one desires, which desires are actualized, etc. 
+
+## Requirements
+
+An analysis must account for the following features of normative thinking and language:
+
+1. Motivation
+	- A person who judges themselves to have reason to adopt attitude X tends to adopt attitude X.
+	- Normative-motivational disconnects: there are times when fails to adopt the attitudes they judge themselves to have reason to hold.
+2. Disagreement
+	- Two people can disagree about their normative judgments.
+3. Reasoning/Discussion
+	- A priori reasoning and discussion influence our normative judgments.
+	- Normative-representational disconnects: any possible normative judgment and belief pair is possible. 
+4. Ubiquity
+	- We cannot get rid of normative judgments.
+	- They apply to all possible attitudes that can be influenced by reasoning.
+5. Semantics
+	- Entail that there is no pair of normative statements and descriptive statements that are contradictory
+	- Explains the insistence of normative language
 
 ## Direction of fit
 
@@ -70,6 +89,10 @@ The flaw in belief theories can be seen most clearly seen with analysis that red
 
 The problem with these sorts of descriptive analyses is that they cannot account for the inherent *motivational* aspect of normative judgments. As mentioned above, normative judgments must be to some degree motivating in order to be explanatory for the behavior of rational creatures. However, a mere belief cannot be motivating without presupposing certain world-to-mind (motivational states) states in the agent. Hume made this point in stating that intentional action reqiures a belief and a desire. At the very least, beliefs cannot motivate on their own without some additional motivational state, where it's a desire or something else. E.g. the fact that X promotes happiness in others, is disapproved by society, violates the categorical imperative, etc. cannot in themselves motivate an agent to action. This will be motivating only if the agent has some motivating state favoring the promotion of those properties.
 
+Consider the following examples:
+- An amoralist who agrees that X has naturalistic property N. For any N, he need not be motivated to promote N. Thus, he need not make any normative judgment.
+- An alien species that perfectly picks out the referrent of our normative terms and uses them with perfect precision. Again, if they don't have the appropriate motivating attitude, they wouldn't make normative judgments.
+
 ??? note "Elaboration Possible"
 	Note that the exact same issues applies to non-natural theories.
 
@@ -77,7 +100,7 @@ The problem with these sorts of descriptive analyses is that they cannot account
 
 One might try to avoid this problem by positing that normative judgments are beliefs about one's mental states, e.g. desires. E.g. when someone says that they have reason to X, they are saying that they desire X. This would reduce normative judgments to representations about one's psychology. To analyze this possibility, we first need to analyze what it is to desire something. As mentioned earlier, a desire is a world-to-mind fit which means they have at least a dispositional/functional role: a person who desires G and believes M->G will tend to perform M. The person will also tend to feel delighted at the observation that their desires are actualized. There is also an evaluative component to desires as well: someone who desires p makes an unreflective judgment that they have a reason to promote p (this is unreflective endorsement). So there are three elements: dispositional, sensation and unreflective endorsement. 
 
-There are a few basic problems with these kinds of analyses. They cannot account for the following: (1) certain logical constraints regarding normative judgments, (2) normative-motivational disconnect mentioned earlier, and (3) normative disagreement. In brief, the problems are as follows. (1) The theory cannot explain why agents must take themselves to have reason to adopt their ends, nor can it explain the structural hierachical nature of normative judgments - where we sometimes judge that a consideration doesn't count as a reason. (2) The theory cannot explain normative-motivational disconncets, when agents judge themselves to have reasons without having a corresponding desire (in the sense of an urge or disposition (and vice-versa). And (3) It cannot account for normative disagreement. Typically if X says act A is wrong and Y says act A is not wrong, this amounts to a disagreement - both parties cannot be correct. However, on this analysis, both parties are by definition correct if they X sincerely desires A not happen whereas Y does desire A to happen. So no disagreement is possible. More elaboration on these issues below.
+There are a few basic problems with these kinds of analyses. They cannot account for the following: (1) The theory cannot explain why agents must take themselves to have reason to adopt the means to satisfy their ends, nor can it explain the structural hierachical nature of normative judgments - where we sometimes judge that a consideration doesn't count as a reason. (2) The theory cannot explain normative-motivational disconnects, when agents judge themselves to have reasons without having a corresponding desire (in the sense of an urge or disposition (and vice-versa). And (3) It cannot account for normative disagreement. Typically if X says act A is wrong and Y says act A is not wrong, this amounts to a disagreement - both parties cannot be correct. However, on this analysis, both parties are by definition correct if they X sincerely desires A not happen whereas Y does desire A to happen. So no disagreement is possible. More elaboration on these issues below.
 
 ??? note "Elaboration Possible"
 	Extend this to account for beliefs about attitudes in general in addition to desires
@@ -113,6 +136,13 @@ However, it is doubtful just how well this theory accounts for disconnects and d
 Lastly, even if one can account for these issues, there doesn't seem to be any single principle that unites all of the conditions of the idealized circumstances. Why is it that our normative judgments are judgments concerned with full experience, full information, sound states of mind, full reflection, etc? These all seem like ad hoc conditions to input in the theory to account for some of the criticisms mentioned earlier. 
 
 ### General Problems
+
+Some of the problems mentioned thus far:
+1. Motivation - the strong, but *defeasible*, connection between normative judgments and motivation.
+2. Disagreement - different parties can have conflicting normative attitudes
+3. Reasoning - Structural constraints on normative judgments
+4. Ubiquity - Generalizability
+5. General issues - Unmotivated, ad-hoc, phenomenological issues, ununinified, etc. (for higher-order and counterfactual theories)
 
 All belief-based theories suffer from a few general problems. Two problems are possibly solvable if using a counterfactual-belief theory - the problems of Generalizability and Correctness. The problem of Generalizability concerns the issue of giving a unified account of all normativity, i.e. reasons for actions, desires, and all attitudes. The problem of Correctness is that such a theory seems to force us to accept rather controversial substantive position, on pain of being contradictory otherwise. 
 
@@ -175,9 +205,15 @@ This analysis of normative statements and normative judgments solves the issues 
 		- Evolutionary advantages: Objective prescriptions more likely to be adopted by others
 		- Subject-verb form statements allow for more precision/clarity. We find it already with phrases like "that's a tasty dish" instead of saying "mmmm"
 
-### Rational
+### Explanatory
 
-In addition to the expressive and prescriptive role of normative language and psychology, there is another role played by normative thinking. The distinction can be brought out by considering two different meanings involved when one agent says that another agent ought to do something. In one case, the speaker could simply be expressing his own attitude with regard to the agent's behavior, or perhaps even trying to manipulate the agent's behavior. The expressive and prescriptive role of normative language has already been mentioned. But there is another sense in which the speaker could be making a claim about what the agent himself would endorse if fully rational. And this need not be purely expressive or prescriptive, because there is a sense in calling something "rational" that does not involve expressing or prescribing any attitudes to others.
+In addition to the expressive and prescriptive role of normative language and psychology, there is another role played by normative thinking. The distinction can be brought out by considering two different meanings involved when one agent says that another agent ought to do something. In one case, the speaker could simply be expressing his own attitude with regard to the agent's behavior, or perhaps even trying to manipulate the agent's behavior. The expressive and prescriptive role of normative language has already been mentioned. But there is another sense in which the speaker could be making a claim about what the agent himself would endorse if fully rational. And this need not be purely expressive or prescriptive, because there is a sense in calling something "rational" that does not involve expressing or prescribing any attitudes to others. Rationality in this sense simply refers to an agent's tendency to adopt attitudes that they judge themselves to have reason to adopt (or what they would judge themselves to have reason to adopt in idealized circumstances C that they judge to be relavent), as opposed to having some independent desires that we judge to be virtuous (e.g. kind, caring, etc.). These would be *internal* reasons.
+
+It may not be perfectly clear in all cases whether a judgment is internal or external. When an agent says "A should not X", there are a few possible readings of this:
+(1) The speaker expresses endorsement of A doing X, and perhaps endorsements of a norm whereby we disapprove of A for doing X (external reason).
+(2) The speaker attempts to invoke a change in A's attitudes such that he refrains from X-ing (external reason).
+(3) The speaker explains why A would X if A were fully rational, i.e. if A were to take into considerations that could be justified from his own normative judgments (internal reason).
+(4) The speaker provides an optimistic internal reason; they make a statement that was false before they said it, but which becomes true after saying it because A comes to see themselves as having reason to X after the utterance. Technically, this would have been an internal reason all along, because the only way this would motivate A is if A cared about what other people believed to begin with, in which case A did have an internal reason to X.
 
 ??? question "Explain Rationality"
 	1. Explain the notion of reasons-judgments in the sense of "A has reason to X" = "A would X if A were rational"

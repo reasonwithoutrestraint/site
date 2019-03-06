@@ -15,14 +15,14 @@ There are two possible characterization of the reason-giving force of morality: 
 These amount to different answers to Prichard's dilemma of "Why be moral?" - he says answers that presuppose moral ends are trivial, and answers independent of moral ends (e.g. personal benefit) are inappropriate.
 Formal explanations appeal to considerations independent of any particular ends (e.g. Kant, Habermas) by showing that morality is somehow inescapable.
 Substantive explanations characterize the particular value that is concerned with morailty (e.g. God's will, utilitarianism).
-Formal explanations fail because they cannot explain the *importance* of morality and they problem that someone faces for ignoring them (e.g. principles of logic are inescapable, but someone who ignores them is not wrong in the same as an amoralist).
+Formal explanations fail because they cannot explain the *importance* of morality and they problem that someone faces for ignoring them.
+E.g. principles of logic are inescapable, but someone who ignores them is not wrong in the same as an amoralist.
 Substantive considerations therefore are more promising, even though they risk triviality.
 
 Contractualism offers a substantive account of moral motivation. 
 It says: an act is wrong if its performance under the circumstances would be disallowed by any set of principles for the general regulation of behavior that no one could reasonably reject as a basis for informed, unforced general agreement.
 This does not depend on human psychology or social conditioning.
 It depends on our reasons to want to live with others on grounds that could be justified with others.
-Note that this concerns what others could not *reasonably reject*, not principles that they *actually accept*.
 There are three reasons to accept this account
 (1) It seems phenomenologically accurate.
 (2) It is the best response to Prichard's dilemma
@@ -35,10 +35,10 @@ This explains why certain considerations are generally relevant moral reasons, a
 E.g. that it would be slightly inconvenient to keep a promise is no reason to break the promise.
 This is explained because others could reasonably refuse to license us to count them as reasons.
 (3) There is no fixed list of morally relevant or irrelevant considerations.
-The aim of justifiability allows for a system for working on justification considerations.
+The aim of justifiability allows for a system for determining relevant considerations.
 It's a continuing process of revising and refining what reasons are relevant.
 
-Contractualism explains the priority of moral judgments.
+Contractualism explains the *importance* of moral judgments.
 The issue is not to explain a special rational force that moral reasons have over agents.
 Rather, it is to explain the special flaw attributed to amoralists from the perspective of agents already concerned with morality.
 This is explained because the reasons a person accepts affects the kind of relations we can have with them.
@@ -58,7 +58,7 @@ If this cannot be done, then we appeal to the great importance of justifiability
 Firstly, the values involved in these cases are forms of collective human activity. 
 Thus, they will be sensitive to the requirements of justifiability to others.
 
-Morality in terms of "what we owe to each other" is used in a narrow, interpersonal sense than morality broadly.
+Morality in terms of "what we owe to each other" is used in a narrow, interpersonal sense rather than morality broadly.
 It refers to duties such as duties not to kill, harm, deceive, to keep promises, etc.
 But morality is sometiems used in a more broad sense.
 E.g. the proper form of sexual conduct is sometiems seen as a central moral question.
