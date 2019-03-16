@@ -353,6 +353,16 @@ Other Features. May not be constitutive (?), but depend on features implicit in 
 	- people tend to judge that they have reason to X if they desire to X, and 
 	- all intentional actions are done because of some desire; otherwise, they would be involuntary actions.
 
+### Against consequentialism 
+
+For a particular agent, their reasons need not be consequentialist. For example, this is true insofar as the agent accepts that they have reason to hold certain attitudes, attitudes that cannot be reduced to merely promoting some desired state of affairs. For example, an agent might value friendship, meaning they think they have reason to be loyal to their friends, care about their interests, etc. These reasons are not reasons to promote some state of affairs. This would imply that there could be some end state of affairs that would justify them betraying these current reasons to reach that desired state, but this need not be what an agent has reason to do.
+
+In sum, not all reasons are teleological, i.e. all states of affairs are given some amount of weight which can be theoretically quantified which competes against are conflicting states of affairs. Instead, there reasons can be structural, where some features are given zero weight due to higher order reasons. 
+
+Kinds of consequentialism:
+1. Maximizing - Define some good which can be quantified, we have most reason to act so as to promote that quantity. This can be disproven above.
+2. Trivial - Rank possible states of affairs according to how you judge yourself to have most reason to act. Have a complete ranking of all the states. Because constructivism is true, we have most reason to promote that state of affairs. This seems trivially true.
+
 ## Desire Theories
 
 !!! danger "Deprecate"
