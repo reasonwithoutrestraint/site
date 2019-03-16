@@ -1,6 +1,5 @@
 # Normative Psychology
 
-
 Split into seperate articles
 (1) Introduction to the problem
 (2) Failure of mind-to-world fit strategies
@@ -14,8 +13,8 @@ Split into seperate articles
 		- G.E. Moore, "The Subject Matter of Ethics", from _Principia Ethica_
 		- A.J. Ayer, "Critique of Ethics and Theology", from _Language, Truth, and Logic_ (ch 6)
 		- CS Stevenson, 
-			- (Summarize) "The Emotive Meaning of Ethical Terms"
-			- (Summarize) "Ethical Disagreement"
+			- "The Emotive Meaning of Ethical Terms"
+			- "Ethical Disagreement"
 		- R.M. Hare, "Meaning and Criteria" and "Description and Evaluation", from _The Language of Morals_
 	- Non-cognitivism
 		- Book: Allan Gibbard - "Analyses" from _Wise Choices, Apt Feelings_ (as in DGR)
@@ -38,7 +37,6 @@ Split into seperate articles
 		- P.T. Geach, "Ascriptivism"
 		- (1) Philippa Foot, "Moral Beliefs"
 		- (2) Philippa Foot, "Moral Arguments"
-
 
 ## The Deliberative Perspective
 

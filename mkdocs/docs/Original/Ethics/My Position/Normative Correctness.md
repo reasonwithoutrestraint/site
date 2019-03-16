@@ -48,7 +48,6 @@ Split into seperate articles
 			- "On the Aim of Belief" (2000)
 			- "The Possibility of Practical Reason"
 		- Kelly, "Epistemic Rationality as Instrumental Rationality: A Critique" (2003)
-		- Gilbert Harman, "Moral Relativism Defended"
 	- Desires
 		- Thomas Nagel, "The Possibility of Altruism" ((1970)
 		- W. Quinn, "Putting Rationality in its Place" (1993)
@@ -72,7 +71,9 @@ Split into seperate articles
 		- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
 		- Kieran Setiya, "Against Internalism" (2004)
 		- Philip Pettit & Michael Smith "External Reasons" (2006)
-		- J. Markovits, "Why Be an Internalist about Reasons?" (2011)
+		- Julia Markovits, 
+			- "Why Be an Internalist about Reasons?" (2011)
+			- "Kantian Internalism" in _Moral Reason_ 
 		- Elijah Millgram, "Williams’ Argument Against External Reasons" (1996) 
 		- Bedke, "Rationalist Restrictions and External Reasons" (2010) 
 		- Michael Smith
@@ -96,8 +97,7 @@ Split into seperate articles
 			- "Evolution and the Normativity of Epistemic Reasons"
 			- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 			- "In Defense of Future Tuesday Indifference"
-			- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
-		- "Expressivism and Constructivism" by James Lenman
+		- James Lenman, "Expressivism and Constructivism"
 		- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
 		- Michael Smith, "A Constituvist theory of reasons"
 		- Critics
@@ -125,23 +125,28 @@ Split into seperate articles
 	- Why do some attitudes have higher authority over others, i.e. the attitude that values the upshot of idealized reflection are more important than an agent's present desires.
 	- Do unreflective desires provide reasons and why?
 
-## Reasons and rationality
-
-It is a platitude about reasons and rationality that: R is a normative reason for A to X iff R would be a motivating reason for A to X if A were rational and A was aware of R. In other words, reasons are the upshot of full rationality and full information. The question is how to characterize rationality. Internalism gives a *procedural* characterization of rationality that specifies a form of ideal *deliberation*, i.e. of moving from certain motivations to action and other motivations. Externalism specifies an *substantive* characterization of rationality that specifies certain substantive elements like "a motivation to help others", or an agent requires certain experiences or information to actually be rational. I.e. being rational might require being converted than sound reasoning.
-
-The above is true platitude only if we use a fairly broad definition of rationality. But Scanlon narrows rationality to just doing that which you judge yourself to have reason to do. Which means to be irrational is to fail to adopt the attitudes that one judges themselves to have reason to adopt. This makes sense to me. I wouldn't call someone irrational if they failed to do what they would do if they reflected more or were more experienced. "Rationality" as used above seems to simply mean "idealized person".
-
 ## Existence Internalism
 
-Existence internalism accepts the connection between rationality and reasons. But it characterizes rationality without explicitly requiring any particular motivations. Usually, rationality is specified by some form of ideal deliberation, i.e. R is a reason for agent A if and only if R is the upshot of sound, ideal deliberation. In other words, normative reasons are the rational extension of one's motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent's motivational reasons to C. 
+Some twists
+1. Externalism too broad, move to internalism.
+2. Actual motivations too narrow, require idealized conditions.
+3. Not all actual states provide reasons, move to constructivism.
 
-General strategy for internalism
-- Connect normative reasons and motivating reasons via a procedural account of rationality.
-	- Connect normative reasons with rationality.
-	- Connect rationality with deliberation and/or some other non-substantive constraints (e.g. full information, full experience, etc.). 
-	- The key is that the procedural account of rationality ensures that reasons are not "cut off" from agents with an ideal procedure. I.e. the validity of the procedure can be demonstrated to the agent without presupposing substantive normative asssumptions.
-	- Note that this is still broader than Scanlon's use of rationality.
-- Disconnect external reasons with motivating reasons.
+Consider analogy with theoretical reasons along the way.
+
+Varieties of internalism:
+- Actual Motivation: A has reason to X only if A is motivated to X.
+- Actual State: A has reason to X only if A has some motivational attitude that supports doing X.
+- Counterfactual Motivation: A has reason to X only if A would be motivated to X under circumstances C.
+- Counterfactual State: A has reason to X only if A would have some motivational attitude that supports doing X under circumstances C.
+
+For Motivation views, "is motivated" and "can be motivated" don't just mean some motivation that may be overridden by other motivations. It means the source of an agent's volition that drives them to act intentionally. For State views, a Motivational attitude is a certain kind of psychological state which plays a role in motivation. These states are often taken to be desires, but can include other attitudes such as emotions, intentions, and aversions. Motivation views do not, by themselves, require the presence of any particular kind of psychological state which does the motivating, and State views do not, by themselves, require that the motivating state which is present actually does any motivating.
+
+It is a platitude about reasons and rationality that: R is a normative reason for A to X iff R would be a motivating reason for A to X if A were rational and A was aware of R. In other words, reasons are the upshot of full rationality and full information. The question is how to characterize rationality. Internalism gives a *procedural* characterization of rationality. It usually specifies a form of ideal *deliberation*, i.e. of moving from certain motivations to action and other motivations. Externalism specifies an *substantive* characterization of rationality that specifies certain substantive elements like "a motivation to help others". i.e. being rational might require being converted rather than sound reasoning.
+
+The above is a true platitude only if we use a fairly broad definition of rationality. But Scanlon narrows rationality to just doing that which you judge yourself to have reason to do. Which means to be irrational is to fail to adopt the attitudes that one judges themselves to have reason to adopt. This makes sense to me. I wouldn't call someone irrational if they failed to do what they would do if they reflected more or were more experienced. "Rationality" as used above seems to simply mean "idealized person".
+
+Existence internalism characterizes rationality without explicitly requiring any particular motivations. Note that this does not reduce internalism to an Actual Motivational view whereby an agent needs to be actually motivated to perform the action. Usually, rationality is specified by some form of *ideal* deliberation, i.e. R is a reason for agent A if and only if R is the upshot of *sound, valid, fully imaginative* (from Williams) deliberation. Other forms of internalism might require being in a sound state of mind, having full experience, etc. In other words, normative reasons are the rational extension of one's motivating reasons. A consideration C counts as a reason if and only if there is some rational procedure from an agent's motivational reasons to C (without presupposing any new motivational states along the way). 
 
 ??? warning "Todo"
 	Include the categories mentioned in the sep article. I.e.
@@ -309,7 +314,7 @@ The central question is how to determine what requirements are constitutive of a
 
 Logical Consistency. One basic constituitive feature of normative judgments (and thuoghts generally) is logical consistency. No person can consciously believe X and believe not-X in full awareness.
 
-#### General
+**General**
 
 1. Consistency: Consistent/Coherent norms trump inconsistent/incoherent norms (This is required for all other constituive features to have force). 
 2. Soundness: Norms endorsed under a sound state of mind trump norms endorsed under psychological compulsions, physical addictions, emotional disturbances, etc.
@@ -317,14 +322,14 @@ Logical Consistency. One basic constituitive feature of normative judgments (and
 4. Experience: Norms that maintain endorsement upon experiencing their outcome trump ends which are not.
 5. Full Information: Norms endorsed with full information trump norms based on false beliefs?
 
-#### Epistemic
+**Epistemic**
 
 - Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
 - Abduction:  
 - Induction: 
 - Causation: 
 
-#### Prudential
+**Prudential**
 
 Constructivism provides an easy explanation of the following norms of practical reasoning.
 

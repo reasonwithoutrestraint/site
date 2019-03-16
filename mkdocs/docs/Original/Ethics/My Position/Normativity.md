@@ -306,9 +306,9 @@ Truth
 4. Contingency: There are no necessary desires in all rational agents
 5. Success Theory: There are moral truths.
 
-## Moral Correctness
+## Moral Reasons
 
-[Main Page](Moral Correctness.md)
+[Main Page](Moral Reasons.md)
 
 
 ### Aesthetic

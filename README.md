@@ -1,93 +1,3 @@
-## Plan
-
-To Read/Summarize:
-- Reasons
-	- (Summarize) Bernard Williams, "Internal and External Reasons"
-- Non-Descriptivism
-	- P.T. Geach, "Ascriptivism"
-	- Allan Gibbard, "Thinking how to Live"
-	- CS Stevenson, 
-		- (Summarize) "The Emotive Meaning of Ethical Terms"
-		- (Summarize) "Ethical Disagreement"
-	- (Summarize) Simon Blackburn, "How to Be an Ethical Antirealist",
-	- Mark Timmons & Terry Horgan, 
-		- "Nondescriptivist Cognitivism"
-		- "Morality without Moral Facts" in *Contemporary Debates in Moral Theory* by James Dreier
-	- (Summarize) Jamie Dreier, "Meta-Ethics and the Problem of Creeping Minimalism"
-- Constructivism
-	- Essays: _Constructivism in Practical Philosophy_ (book)
-	- Christine Korsgard 
-		- (Summarize) "The Sources of Normativity"
-		- (Summarize) "Skepticism about Practical Reasons"
-		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
-		- *Self-Constitution. Agency, Identity and Integrity*.
-	- Sharon Street
-		- (Summarize) "A Darwinian Dilemma for Realist Theories of Value"
-		- (Summarize) "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
-		- "Evolution and the Normativity of Epistemic Reasons"
-	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
-	- (Summarize) Gilbert Harman, "Moral Relativism Defended"
-	- (Summarize) David Enoch, "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-- Naturalism
-	- Frank Jackson, "Moral Functionalism and Moral Motivation" (Analytic)
-	- Philippa Foot, 
-		- "Moral Beliefs", from _Virtues and Vices_
-		- "Moral Arguments", from _Virtues and Vices_
-		- "Approval and Disapproval", from _Virtues and Vices_
-		- _Natural Goodness_ (Analytic)
-	- Cornell Realists
-		- (Summarize) Peter Railton - "Moral Realism"
-		- Richard Boyd, "How to be a Moral Realist"
-		- David Brink, _Moral Realism and the Foundations of Ethics_ (ch. 7)
-		- (Summarize) Mark Timmons & Terry Horgan, "New Wave Moral Realism meets Moral Twin Earth"
-- Non-naturalism
-	- Russ Shafer-Landau, _Moral Realism: A defense_ (chs. 1-3)
-	- T.M. Scanlon, _Being Realistic About Reasons_ (ch. 2)
-	- Terence Cuneo, _The Normative Web_ (ch. 3)
-	- David Enoch, _Taking Morality Seriously_ (ch. 3)
-- Sensibility
-	- David Wiggins, "A Sensible Subjectivism?"
-	- John McDowell, "Values and Secondary Qualities"
-	- Justin D'Arms, "Two Arguments for Sentimentalism"
-- Error Theory
-	- JL Mackie - "The Subjectivity of Values"
-- Contractualism
-	- Christine Kosgaard, "Kant's Formulation of Universal Law"
-	- Derek Parfit, Kantian Contractualism
-	- Thoams Scanlon
-	- David Gauthier
-	- Habermas 
-- Libertarians
-	- John Locke, Second Treatise of Civil Government
-	- Murray Rothbard, For a New Liberty
-	- Robert Nozick, Anarcy, State and Utopia
-	- John Stuart Mill, On Liberty
-	- Kantian contractualist (Gaus and, I think, Hayek)
-	- Hobbesian contractarian (Narveson, Gauthier), 
-	- Other Contractarian (Jan Narveson, The Libertarian Idea; Loren Lomasky, Persons, Rights, and the Moral Community).
-	- Natural Rights (Chartier, Mack), 
-	- Eudaemonist (Long, Den Uyl, Rasmussen, Rand)
-	- Rule-utilitarian (most economist libertarians, Friedman, Mises), 
-	- Institutional-consequentialist justifications (Schmidtz),
-	- Rossian pluralist (I think MZ counts here, and maybe Huemer).
-
-Summarized:
-
-- Constructivism
-	- Sharon Street, "What is Constructivism in Metaethics"
-	- Sharon Street, "Constructivism about Reasons"
-	- (Summarize) Jay Wallace, "Constructivism About Normativity: Some Pitfalls"
-	- Aaron James, "Constructing Protagorean Objectivity"
-- Non-Descriptivism
-	- Allan Gibbard, Wise Choices, Apt Feelings
-	- AJ Ayer, "Critique of Ethics"
-- Naturalism
-	- Michael Smith, The Moral Problem (irreductive)
-- Error Theory
-	- JL Mackie, "The Subjectivity of Values"
-- Non-naturalism
-	- G.E. Moore, "The Subject Matter of Ethics"
-
 ## Introduction
 
 ### Historical
@@ -163,46 +73,8 @@ Miscellaneous
 
 ## General works list
 
-- Non-cognitivism
-	- Book: Allan Gibbard - "Analyses" from _Wise Choices, Apt Feelings_ (as in DGR)
-	- Book: Allan Gibbard - _Thinking How to Live_ (chs. 3 & 4)
-	- Book: Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
-	- Essays: Simon Blackburn - _Essays in Quasi-realism_
-	- Chapter: Mark Schroeder - _Noncognitivism in Ethics_ (chs 6-8)
-	- Chapter: Huw Price - _Naturalism without Mirrors_ (ch. 11)
-	- Chapter: Michael Ridge - _Impassioned Belief_ (chs. 4 & 7)
-	- CS Stevenson, 
-		- (Summarize) "The Emotive Meaning of Ethical Terms"
-		- (Summarize) "Ethical Disagreement"
-	- Mark Timmons & Terry Horgan, 
-		- "Nondescriptivist Cognitivism"
-		- "Morality without Moral Facts" in *Contemporary Debates in Moral Theory* by James Dreier
-- Non-descriptivism
-	- Book: Mark Timmons - _Morality without Foundations_
-	- Book: Hilary Putnam - _Ethics without Ontology_
-	- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
-- Constructivism
-	- Essays: _Constructivism in Practical Philosophy_
-	- Christine Korsgard:
-		- "The Sources of Normativity"
-		- "Skepticism about Practical Reasons"
-		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
-		- *Self-Constitution. Agency, Identity and Integrity*.
-	- Essays: Sharon Street
-		- "What is Constructivism in Ethics and Metaethics"
-		- "Constructivism about Reasons"
-		- "A Darwinian Dilemma for Realist Theories of Value"
-		- "Evolution and the Normativity of Epistemic Reasons"
-		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
-		- "In Defense of Future Tuesday Indifference"
-		- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
-	Critics:
-		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
-		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
-		- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"	
-	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
-	- "Expressivism and Constructivism" by James Lenman
-	- Michael Smith, "A Constituvist theory of reasons"
+- Non-cognitivism: See Normative Psychology.md
+- Constructivism: See Normative Correctness.md
 - Attitude-dependent Naturalism
 	- Book: Michael Smith - _The Moral Problem_ (chs. 3-5) (non-reductive analytic)
 	- Book: Kevin DeLapp - _Moral Realism_ (reductive synthetic)
@@ -217,7 +89,11 @@ Miscellaneous
 	- Analytic Naturalism
 		- Essay: Frank Jackson - "Moral Functionalism and Moral Motivation"
 	- Neo-Aristotelian
-    	- Book: Phillipa Foot - _Natural Goodness_
+		- Philippa Foot,
+    		- Book: Phillipa Foot - _Natural Goodness_
+    		- "Moral Beliefs", from _Virtues and Vices_
+			- "Moral Arguments", from _Virtues and Vices_
+			- "Approval and Disapproval", from _Virtues and Vices_
 		- Essays: Phillipa Foot - _Virtues and Vices_
     	- Book: Paul Bloomberg - _Moral Reality_
 - Non-naturalism
@@ -239,31 +115,7 @@ Miscellaneous
 	- Book: Richard Joyce - _The Myth of Morality_ (chp. 1 & 8)
 	- Book: Jonas Olson - _Moral Error Theory_ (chp. 9)
 	- Essay: Stephen Finlay - "The Error in the Error Theory"
-- Reasons/Motives:
-	- Internalism
-		- Bernard Williams - "Internal and External Reasons" from _Moral Luck_
-		- Stephen Finlay, "The Obscurity of Internal Reasons"
-		- Hille Paakkunainen, "Internalism and Externalism about Reasons"
-		- Kieran Setiya, "Internal Reasons"
-		- Michael Smith, "Internal Reasons"
-	- Externalism
-		- Essay: Christine Korsgard - "Skepticism About Practical Reasons"
-		- Essay: John McDowell - "Might There Be External Reasons?"
-		- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
-		- Book: Julia Marokovits - "Kantian Internalism" in _Moral Reason_ 
-	- Unknown
-		- Michael Smith, "A Constituvist theory of reasons"
-		- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
-	- Essay Collections
-		- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
-		- Essays: _The Oxford Handbook of Reasons and Normativity_
-	- Morality
-		- Book: Thomas Nagel - _The Possibility of Altruism_ (as in DGR)
-		- Book: David Gauthier - _Morals By Agreement_ (as in DGR)
-		- Chapter: Philippa Foot - "Morality as a System of Hypothetical Imperatives"
-		- Essay: Nick Zangwill - "Externalist Moral Motivation"
-		- Essay: David Brink - "Externalist Moral Realism"
-		- Also see Philosophy of mind/action syllabus
+- Reasons/Motives: See Normative Correctness.md
 - Evolution:
 	- Essay: Selim Berker - "The Normative Insignificance of Neuroscience"
 	- Essay: Justin Clarke-Doane - "Moral Epistemology: The Mathematics Analogy"
@@ -274,6 +126,19 @@ Miscellaneous
 	- Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
 	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
 	- Essay: Erik J. Wielenberg - "On the Evolutionary Debunking of Morality"
+- Libertarians
+	- John Locke, Second Treatise of Civil Government
+	- Murray Rothbard, For a New Liberty
+	- Robert Nozick, Anarcy, State and Utopia
+	- John Stuart Mill, On Liberty
+	- Kantian contractualist (Gaus and, I think, Hayek)
+	- Hobbesian contractarian (Narveson, Gauthier), 
+	- Other Contractarian (Jan Narveson, The Libertarian Idea; Loren Lomasky, Persons, Rights, and the Moral Community).
+	- Natural Rights (Chartier, Mack), 
+	- Eudaemonist (Long, Den Uyl, Rasmussen, Rand)
+	- Rule-utilitarian (most economist libertarians, Friedman, Mises), 
+	- Institutional-consequentialist justifications (Schmidtz),
+	- Rossian pluralist (I think MZ counts here, and maybe Huemer).
 
 ## Anthologies/Overviews
 

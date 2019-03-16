@@ -14,6 +14,7 @@ Left Political
 - Sam Seder - 400k
 - Contrapoints - 300k
 - Shaun - 150k
+- Three Arrows - 150k
 
 Right Political
 - Louder with Crowder - 2.8m

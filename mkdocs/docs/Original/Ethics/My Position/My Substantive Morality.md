@@ -111,6 +111,7 @@ Problems:
 	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
 	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
 	- Intuition: if we could prove that subjecting someone to a course of action maximized their good (even if good is defined in terms of preference satisfaction), is it right to force someone to do this for their own sake? Just because doing something promotes good doesn't mean that performing that action is good (particularly if it uses force). This scenario is possible in the following scenario: (1) person has ideal (more informed, higher order, more rational, etc.) preferences that would be satisfied by doing X, but (2) he doesn't willingly do X, and this must be because of less ideal preferences. It would be wrong to force this person to do X if (3) he also has preferences that he not be forced to do X in situations where (1) and (2) are true; but it would be okay to use force if he preferred to be forced to do X in these situations. Of course, (3) says nothing about whether performing X really is good (maybe it is, maybe it isn't); the fact is we can't use force.
+4. How to quantify the good?
 
 ### Other
 
@@ -144,3 +145,9 @@ Topics:
 - Do sentience gaps justify sacrifice
 
 
+- Abortion
+- Free Speech
+- Discrimination
+- Trans should reveal sexual characteristics
+- Standards for women in combat
+- Heckling comedians
