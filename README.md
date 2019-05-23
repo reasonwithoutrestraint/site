@@ -48,6 +48,7 @@ Non-Naturalistm
 - (2) T.M. Scanlon, _Being Realistic About Reasons_ (ch. 2)
 - (2) Terence Cuneo, _The Normative Web_ (ch. 3)
 - (2) David Enoch, _Taking Morality Seriously_ (ch. 3)
+- (3) Michael Huemer, _Ethical Intuitionism_ (ch. 5 "Moral Knowledge")
 
 Sensibility Theory
 - (2) David Wiggins, "A Sensible Subjectivism?"
@@ -122,7 +123,7 @@ Miscellaneous
 	- Essay: Joshua Greene - "The Secret Joke of Kant's Soul",
 	- Essay: Jonathan Haidt - "The Emotional Dog and its Rational Tail: A Essay: Social Intuitionist Approach to Moral Judgment"
 	- Book: Richard Joyce - _The Evolution of Morality_ (chs 5 & 6)
-	- Essay: Peter Railton - "The Affective Dog and its Rational Tale_
+	- Essay: Peter Railton - "The Affective Dog and its Rational Tale"
 	- Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
 	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
 	- Essay: Erik J. Wielenberg - "On the Evolutionary Debunking of Morality"

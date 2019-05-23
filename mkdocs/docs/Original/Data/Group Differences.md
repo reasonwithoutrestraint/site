@@ -3,60 +3,135 @@
 Group Success
 - Degeneracy is the norm, positive efforts must be made to reverse the trend. 
 - Determined by internal factors, behavior/characteristics resembles narrow culture.
-	1. Success not determined by broader society
-	2. IQ determines success
-	3. IQ fixed after adulthood
-	4. IQ inherited
-	5. Success inherited
-		- Chinese/Jews/Igbo successful across all regions
-		- Blacks unsuccessful across countries, states, cities
-		- Indigeneous groups unsuccessful ubiquitously
-	6. IQ changes track cultural changes
+	- Current Society
+		- IQ predicts success.
+			- Predicts the following 
+				- Education
+				- Employment / Wages 
+				- Poverty
+				- Crime
+			- Predicts better than and independently of:
+				- Parental SES / Poverty
+				- Education level
+					- Communal poverty?
+			- Offspring IQ "determined" by parental IQ (whether genetic or environmental) 
+				- IQ fixed at childhood
+				- IQ not improved with SES conditions
+					- Is it suppressed by communal poverty?
+				- IQ highly heritable
+		- Marriage predicts offspring success
+			- Poverty
+			- Crime ?
+			- Welfare
+		- Contentiousness predicts success also
+			- Asian success independently of IQ
+		- Summary: 
+			- Success based on individual decisions. 
+			- Individual decisions based on parents.
+			- poor decisions cause poverty
+			- (not as important to me) poverty doesn't cause poor decisions
+	- Global Perspective
+		- Success inherited, not broader society
+			- Chinese/Jews/Igbo successful across all regions
+			- Blacks unsuccessful across countries, states, cities
+			- Indigeneous groups unsuccessful ubiquitously
+		- IQ changes track cultural changes
 - Group Differences: 
 	- Disparities does not imply discrimination. 
 	- Disparities between groups of the same race (can't be discrimination). 
 	- Disparities always persist.
 - Black America: State of Disparities: 
-	- IQ, 
-	- Poverty/Income/Wealth, 
+	- Poverty/Income/Wealth
+	- Employment/Prestige, 
 	- Crime/Imprisonment, 
 	- Education, 
-	- Health.
+		- Gaps start before childhood
 - Black America: Cause of Disparities:
-	- Not Oppression
-		- Not white supremacy: Asian Americans continuously successful
-		- Not racism against Blacks: African immigrants successful
-	- Not individual/household poverty
-		- Poor Asians/Whites do well.
-		- Poor high-IQ individuals (including blacks) do well.
-	- Communal Poverty? Maybe
-	- Internal factors 
-		- IQ, work ethic, Single-parenthood, etc. 
-		- Married household have low poverty
-		- How IQ Blacks see success
-		- Asians do exceed IQ expectations
-- Black America: State of Cultural Failures:
+	- Disparities mostly vanish when equalizing on IQ
+		- High School Graduation
+		- Educational Attainment
+		- Occupational Status / Wages
+		- Poverty
+		- Unemployment
+		- Crime
+	- Disparities mostly vanish when equalizing on marriage
+		- Childhood poverty
+		- Crime ?
+	- Other possibilities
+		- Other possible explanations. 
+			- General requirements: Either 
+				- (1) It explains group differences independently of IQ.
+					- It explains individual differences independently of IQ, or
+					- It doesn't generally explain individual differences independently of IQ, but the BW differences are so large that it explains BW differences 
+				- (2) It is responsible for the group differences in IQ. 
+					- It explains individual IQ differences generally, or
+					- It doesn't explain individual IQ differences generally, but the BW differences are so large that it explains BW differences 
+			- Note different levels of possible factors, from internal to external.
+		- Genetics
+			- Possibly
+			- Can possibly explain IQ differences independently IQ? Contentiousness?
+			- Can explain IQ differences? Maybe.
+		- Parenting/Culture
+			- Possibly
+			- Can possibly explain IQ differences independently IQ? Contentiousness?
+			- Can sometimes predict better than IQ. E.g. marriage better than IQ for explaining childhood poverty difference. Crime?
+			- Can explain IQ differences? Maybe.
+		- Household material status, e.g. parental education, employment, income, wealth, etc.
+			- Doesn't explain adult education/income/occupation/poverty
+				- Poor Asians/Whites do well.
+				- Poor high-IQ individuals (including blacks) do well.
+				- High income Blacks score poorly on SAT scores.
+			- Crime?
+		- Neighborhood material status, e.g. school quality, general household qualities of neighborhood
+			- (Probably) doesn't explain adult education/income/occupation/poverty
+				- High Income blacks score poorly on SAT
+				- Can't explain IQ/vocabulary/knowledge/etc. gaps prior to entering school.
+			- Crime?
+		- Societal treatment, e.g. racism, discrimination, police brutality, etc.
+			- No.
+				- Can't explain IQ/vocabulary/knowledge/etc. gaps prior to entering school.
+				- Not white supremacy: Asian Americans continuously successful
+				- Not racism against Blacks: African immigrants successful
+				- Can't meet requirement (1): If this were true, we wouldn't expect equal economic success given equal IQs.
+				- Can't meet requirement (2): How can racism explain IQ differences?
+		- Important: even if we concede that household and neighborhood material status are the causes, we still know that these are the result of individual decisions rather than broad societal mistreatment. We know this from the fact that racial disparities vanish once you equalize on IQ/marriage. So household/neighborhood material differences are due to different choices. Either way, the problem is the decisions of Black people.
+		- Other adoption studies show that improved environments in terms of parenting, educational quality, poverty, etc. don't improve IQ but they could play a role in Black communities if the parenting, educational quality, communal poverty is much worse than what we found in those studies.
+	- Conclusion:
+		- Assessment of possible causes:
+			- Very significant:
+				- IQ, Marriage, Contentiousness, Culture
+			- Moderately important on certain outcomes (e.g. crime, but not education)
+				- Household/Neighborhood SES
+			- Zero Importance
+				- Societal mistreatment, racism, discrimination, etc.
+		- Conclusion:
+			- Success based on decisions for Blacks
+			- Poor decisions cause poverty
+			- Disparities in decisions cause disparities in outcomes
+			- poverty does not cause poor decisions (not as important to me because (1) not sure how true it is, and (2) regardless of its truth, what really matters is the cause of poverty. We have to fix poor decisions).
+- Black America: Cultural Deficiencies:
 	- Specifics, can be measured
 		- Violence. Homicide = main cause of death for young black men.
 		- Lack of Entrepreneurship. Economic success dependent on other cultures.
 		- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
 		- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
 		- Wealth building. Similar income, different wealth.
-		- Anti-intellectualism. "Acting white"
+		- Anti-intellectualism. "Acting white", HS dropout
+		- Unemployment
 	- General, constituted by the specifics
 		- Impulsivity   
 		- Hedonism
 		- Aggression
 		- Laziness
 		- Low Time Preference
-- Black America: Cause of Cultural Failures:
+- Black America: Cause Cultural Deficiencies:
 	- Slavery, 
 	- No skills after slavery.
 	- Jim crow,
 	- Lack of policing or government support, 
 	- welfare, 
 	- Discrimination
-- Black America: Solutions to Cultural Failures 
+- Black America: Solutions to Cultural Deficiencies 
 	- Historical Improvement
 		- The period between slavery abolition and the civil rights era saw higher levels of racism, Jim Crow laws, and immediately following slavery.
 		- Yet we saw extreme improvements in literacy, education, poverty, income, employment, entrepreneurship, family structure, community building, economic independence, etc.
@@ -88,6 +163,19 @@ Group Success
 		- Charter Scools
 		- Stop expecting all kids to take the college-prep route
 		- Prepare some students for trades, workforce, etc.
+	- Several step program
+		1. Build stable communities, e.g. low crime, entrepreneurship, married families, etc.
+		2. After that, Improve environment to meet satisfactory academic/IQ achievement for children, and meet satisfactory academic achievement for adolescence. We know this is possible. 
+		3. After that, then we can worry about satisfactory IQ scores for adults. Though I doubt we will care: (1) We probably care more about academic achievement than IQ, and (2) IQ/academic achievement isn't that important anyway. Who cares if IQ / test scores are lower if we have self-sufficient, stable communities where we can pursue our own conception of the good? The IQ question is something we shouldn't worry about until several generations down the line, when it probably won't matter.
+- Harms of Integration
+	- Dependence
+		- Economic/Political power always dependent upon acceptance by the broader society.
+	- Victimization
+		- When around whites, blacks less likely to point out faults internal to black community.
+		- Also, more likely to blame social ills on white people.
+	- Seeing integration as an intrinsic end rather than a means
+		- Integration not intrinsically valuable.
+		- It's only useful as a means towards ends that actually matter.
 
 ## Disparities
 

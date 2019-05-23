@@ -25,6 +25,18 @@ Consider a Night Club, for example. Many night clubs have their own quotas in pl
 
 As another example, imagine if the NBA put in quotas for certain races to balance the demographics to be more representative of the country. You might think this is morally wrong in some way, but I don't many would say it's *racist*.
 
+### Public versus Private
+
+Another reason we might be upset with discrimination is if it allows for public embarassment or humiliation.
+E.g. imagine a restaurant refuses to serve Black people
+This seems wrong because (1) a person who doesn't know this might mistakenly enter the restauarant and be humiliated
+and (2) we can see the establishment and people moving freely in and out, giving the impression of a public place.
+This wrongness does not apply with "private" groups or organizations
+Which are (1) hidden from public view,
+and (2) require some sort of registration process for joining the club (e.g. you don't just walk in be served)
+E.g. consider sex-segregated gyms, night clubs, golf clubs, etc.
+These don't seem wrong at all
+
 ### Subjugation
 
 Why are these properties important? Why are arbitrariness and balancing versus exclusion relevant considerations that determine whether discrimination is bad? Well, we have to discuss why discrimination is ever bad. We cannot just assume that discrimination is bad sometimes without understanding *why*? In order for anything to be bad, it has to be considerably bad for someone somewhere. Now, note that there's nothing inherent to discrimination that implies that it is considerably bad for someone somewhere, i.e. their life would have to be relevantly damanged (I don't consider upset feelings as relevantly bad, because if that were the case then all discrimination would be bad). So what is it about discrimination that sometimes makes it significantly bad in the relevant manner? The answer has to be that discrimination has historically been used as a tool for racial oppression and subjugation, something that destroyed the lives of many minorities. Thus, we implicitly associate discrimination (which isn't inherently bad) with oppression/subjugation (which is inherently bad, as people's lives are destroyed). That is what makes arbitrariness and balancing versus exclusion relevant factors: in order for discrimination to actually ruin a group's lives, it must be arbitrary and it must be exclusionary. Otherwise, there's no way that it can be harmful. 

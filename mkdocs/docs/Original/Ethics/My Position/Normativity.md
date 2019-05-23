@@ -12,6 +12,8 @@ Readings for analyzing normativity
 Outline:
 Bold means seperate create a article for that section
 
+Copied in Topics.md
+
 - *Normativity*
 	- Examples
 	- Contrast with descriptions
@@ -76,6 +78,7 @@ Bold means seperate create a article for that section
 			- Deliberation/reflection
 	- Works: Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier
 - *Morality*
+	- *Introduction*: the problem of reasons and objectivity
 	- Sentimentalism
 	- Contractualism
 	- Methodology
@@ -143,6 +146,18 @@ Explain the following
 The most important are accounting for semantics/psychology and giving a realistic account of epistemology/rationality, i.e. we need an objective methodology for handling moral disputes, as disputes are the most important feature of moral beliefs. The ontology doesn't really matter.
 
 ## Plattitudes
+
+The role of normative thinking is to handle conflicts in our motivations.
+Normative thinking requires the followings: (a) beings with motivations, which sometimes conflict, (b) beings capable of stepping back and acknowledging these motivations and assessing them, (c) beings capable of deciding on which motivation to will after normative reflection.
+This explains why there cannot be inconsistent upshots of normative reasoning.
+The very practice of normative thinking was created as a response to motivational conflicts.
+Thus, a being who doesn't care about such conflicts doesn't count as a normative reasoning agent.
+Or, a person who doesn't have normative conflicts wouldn't count as a normative reasoning agent. There would be no need for normativity to arise.
+The basic goal is to move from disjointed conflict to unity.
+
+Normative "conflict" generally does not mean inconsistency specifically. 
+Inconsistency refers to conflicts in beliefs, where there can be conflicts in desires, intentions, attitudes, etc. 
+
 
 ### Ubiquitous
 

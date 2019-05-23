@@ -1,5 +1,4 @@
-https://www.mensa.ch/sites/default/files/Intelligence_Neisser1996.pdf
-
+https://www.researchgate.net/publication/232430439_Intelligence_Knowns_and_Unknowns
 
 IQ scores predict Education, Crime, Performance, Income, etc. in Western Countries
 

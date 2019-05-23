@@ -30,17 +30,19 @@ Split into seperate articles
 		- Mark Schroeder, _Slaves of the Passions_
 	- Conceptual
 		- Ralph Wedgwood, "The Unity of Normativity"
-		- Mark Schroeder,"The Unity of Reasons"
+		- Mark Schroeder, 
+			- "The Unity of Reasons"
+			- "The Ubiquity of State-Given Reasons"
+			- "Value and the right kind of reason"
 		- Shyam Nair and John Horty, "The Logic of Reasons"
 		- Aaron Bronfman and J. L. Dowell, "The Language of Ought, and Reasons"
 		- John Hawthorne and Ofra Magidor, "Reflections on the Ideology of Reasons"
-		- Mark Shcroeder, "Value and the right kind of reason"
 		=> From section 1 of OHRN
 	- Substantive
 		- Donald Davidson, "Actions, Reasons, and Causes" (1963)
 		- Ulrike Heuer, "Reasons for actions and desires"
 		- Peter Railton, "Toward a Unified Account of Rationality in Belief, Desire, and Action"
-		- Stephen Darwall - "Making the 'Hard' Problem of Normativity Easier"
+		- Stephen Darwall, "Making the 'Hard' Problem of Normativity Easier"
 		- Stephen Finlay
 			- "The Reasons that Matter" (2006)
 			- "Responding to Normativity" (2007)
@@ -49,7 +51,7 @@ Split into seperate articles
 			- "The Possibility of Practical Reason"
 		- Kelly, "Epistemic Rationality as Instrumental Rationality: A Critique" (2003)
 	- Desires
-		- Thomas Nagel, "The Possibility of Altruism" ((1970)
+		- Thomas Nagel, "The Possibility of Altruism" (1970)
 		- W. Quinn, "Putting Rationality in its Place" (1993)
 	- Deliberation
 		- Antti Kauppinen, "Practical Reasoning"
@@ -243,7 +245,9 @@ Why is the distinction important and what is special/important about internal re
 
 Consider the earlier discussion of theoretical reasons. That is, reasons for beliefs must be internal to an agent's perceptions, intuitions, etc. even though there is a sense in which it is appropriate to confer a positive status to certain beliefs on the basis of external reasons i.e. their truth. The reason is because, regardless of the appropriateness a attitude on externalist grounds, we *need* a system to confer status to attitudes on internalist grounds. There are times when we don't have access to considerations that warrant approval of certain attitudes. In those circumstances, we still need to make a choice. Thus, we need a procedure that determines which attitudes are worth adopting. And we need an element of language to play this role in explaining this status. Internal reasons statements play this role.
 
-When we deliberate, we are trying to answer the question of which attitudes to adopt. During theoretical reasoning, we are determining what believes to adopt. During practical reasoning, we are determining what intentinos to adopt. Because theoretical reasoning involves determining whether a given proposition, say, P is true, the *mere fact that P is true* cannot possibly serve as a reason to believe P; at least not when "reason" is understood as the status we confer to beliefs during deliberation about what to believe. From the agent's perspective, s/he begins unsure as to whether or not P is true and is trying to answer that question. He thus cannot use *the fact that P is true* as a reason to believe P. Similar considerations apply to practical reasoning. Practical reasoning involves determining whether a given intention X is to be adopted. Therefore, the *mere fact that X is virtuous or kind or fair* cannot serve as a reason to do X. Again, the agent begins unsure as to whether virtue or kindness or fairness is a reason to intend to something. Thus, the mere fact that an action has these properties cannot be taken as a reason for an intention. In general when deliberating, the only considerations that we can appeal to as reasons for action are considerations that we already accept to be reasons for action. There is no normative truth outside of what we take to be normative.
+When we deliberate, we are trying to answer the question of which attitudes to adopt. During theoretical reasoning, we are determining what beliefs to adopt. During practical reasoning, we are determining what intentinos to adopt. Because theoretical reasoning involves determining whether a given proposition, say, P is true, the *mere fact that P is true* cannot possibly serve as a reason to believe P; at least not when "reason" is understood as the status we confer to beliefs during deliberation about what to believe. From the agent's perspective, s/he begins unsure as to whether or not P is true and is trying to answer that question. He thus cannot use *the fact that P is true* as a reason to believe P. Similar considerations apply to practical reasoning. Practical reasoning involves determining whether a given intention X is to be adopted. Therefore, the *mere fact that X is virtuous or kind or fair* cannot serve as a reason to do X. Again, the agent begins unsure as to whether virtue or kindness or fairness is a reason to intend to something. Thus, the mere fact that an action has these properties cannot be taken as a reason for an intention. In general when deliberating, the only considerations that we can appeal to as reasons for action are considerations that we already accept to be reasons for action. There is no normative truth outside of what we take to be normative.
+
+The very activity of normative reasoning is to address conflicts in motivations. The problem to which normative thinking is designed to address is conflicts in our motivations. This means that normative thinking is not designed to track any mind-independent truth. Evenif it can be said that there is some mind-independent truth external to the world of the relevant kind, there is no way that this could relate to normative reasoning. Normative thinking is only answerable to our given motivations and normative judgments. 
 
 ### Constructivist Argument
 
@@ -283,6 +287,28 @@ The fact that X is a reason to Y for agent A is constituted by the fact that the
 
 A normative judgment withstands scrutiny for an agent only if the agent could mantain the judgment in full awareness, which is determined by the constituitive standards of the attitude in question. For example, someone who judges that X is a reason to Y cannot also simultaneously and in full awareness judge that X is not a reason to Y (consistency is constitutive of normative judgments). Also, one cannot take oneself to have conclusive reason to Y without taking oneself to have reason to take the means to Y (means-end reasoning is constituitive of normative judgments). The force of *cannot* is not rational, but what is *constituitive* of the concept of forming normative judgments. These standards of correctness are legislated by the very person making the normative judgments. This allows that one can be genuinely mistaken about their normative judgments only insofar as they are not in full awareness of certain relevant features of their judgments.
 
+### Disallowing Brute Error
+
+See "Constructing Ortagorean Objectivity.md"
+
+### Theory of Error
+
+The basic idea is that we have reason to adopt attitude X if adopting attitude can be entailed from our current set of judgments.
+But how to account for agents who have false normative judgments?
+After all, such judgments are a part of their judgments, so it can be said to be "entailed" from their current set of judgments.
+
+The answer is that some normative judgments are strictly of higher priority than others. 
+There are a few reasons for this:
+1. Judgment A sets the context for when judgment B is relavent. E.g. the difference between endorsing what you would endorse if unemotional, fully reflective, etc. versus what one endorses in the heat of the moment. The former is an endorsement about the kinds of conditions that determine when one's actual endorsements are valid.
+2. Judgment A is constituitive of the very activity. Thus, it cannot be discarded in favor of A. E.g. judging that one has reason to adopt the means to meet an end is constitutive of adopting the end.
+3. Judgment A is extremely difficult to get rid of. E.g. relying on induction, memories, perceptions, caring about our future selves, etc. In fact, insofar as someone were able to not rely on these features, they would have psychological states completely unlike anything of our own.
+
+Part of the practice of establishing normative attitudes is establishing attitudes that regulate other attitudes.
+There is a hierarchy of normative judgments abound.
+Other considerations for favoring one judgment over another:
+- It is more likely to acccomplish
+If there is no significant difference in any of the points mentioned above between two potential normative judgment, there is not necessarily a more "correct" position to adopt.
+
 ### Alternative conceptions of truth
 
 There are plenty of other domains of propositions whereby truth is based on something other than correspondence. The general structure is that one takes an attitude with regard to a proposition p, and then finds standards of correctness constituitive of the attitude. Consider the following examples:
@@ -316,18 +342,50 @@ Logical Consistency. One basic constituitive feature of normative judgments (and
 
 **General**
 
-1. Consistency: Consistent/Coherent norms trump inconsistent/incoherent norms (This is required for all other constituive features to have force). 
+1. Consistency: Consistent/Coherent norms trump inconsistent/incoherent norms (This is required for all other constituive features to have force). Without a concern for consistency, an agent could not count as a normative reasoning agent. The very activity of normative reasoning is to address conflicts in motivations.
 2. Soundness: Norms endorsed under a sound state of mind trump norms endorsed under psychological compulsions, physical addictions, emotional disturbances, etc.
 3. Deliberation: Norms endorsed under deliberation trump unreflective dispositions that we discard under deliberation.
 4. Experience: Norms that maintain endorsement upon experiencing their outcome trump ends which are not.
 5. Full Information: Norms endorsed with full information trump norms based on false beliefs?
 
+Stability?
+Commonality?
+
 **Epistemic**
 
-- Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
+The normativity of beliefs (against people who think the normativity of beliefs just reduce to their truth, so normativity is descriptive):
+- We are all familiar with the idea of justifying beliefs. I.e. people who believe in Santa Clause who are exposed to the appropriate evidence have unjustified beliefs, people who believe in God (or lack belief if you're religious), people with opposing beliefs about the efficacy of gun control, etc.
+- Justification and truth are separate concepts, i.e. a belief can be justified yet false or unjustified yet true. So justification cannot be descriptive, as it is not concerned with truth.
+- Normative principles come prior to descriptive beliefs. We need normative principles to establish descriptive beliefs. We need a procedure to proceed from evidential input - i.e. sensory perceptions, memories, intuitions, etc. - to belief outputs. We must establish what counts as evidence to make this inference. Deductive reasoning is required at a minimum. But this is not sufficient, we need induction, abduction, etc.
+
+- Deductive:
+	- Basic constistency: we cannot believe P and ~P.
+	- Logical rules of inference: if P->Q and P, then Q.
+	- Constraints on thought. We cannot help but follow logical constraints in our thinking.
+- Subjective:
+	- Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn't provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.
 - Abduction:  
+	- Falsifiability
+	- Generality
+	- Parisomony (Occam's Razor)
+	- Explanatory
 - Induction: 
-- Causation: 
+	- Past -> Future
+	- Observed -> Unobserved
+
+All of these are either:
+	- Constraints on our thoughts. We cannot help but believe them. Or,
+	- Things we don't *have* to trust, but which we just so happen to do. This isn't just something that individuals happen to trust, but that everyone happens to trust. If there were beings that didn't abide by induction or abduction, then we wouldn't call them irrational; they just wouldn't have cognitive structures like our own. Normativity only deals with resolving conflicts. Thus, if induction, abduction, etc. are already adopted by most people, then we don't need to justify them.
+
+This seems to be too low of a standard. It seems we can still question the validity of a belief system that is internally coherent and held by everyone else. E.g. think about beliefs about God back when everyone was religious. Why is this unjustified? Appeal to a more foundational principle that we all intuitive adopt, which is abduction. How do we know that abduction is more foundational than beliefs about God? (1) abduction is not a belief in that it is representation; it is a framework for establishing representations. (2) God is something we come to believe after engaging in abduction. (3) everyone participates in abduction, not everyone participates in believing God. Someone might say that they specifically place God on a more foundational level than abduction, but then their position wouldn't be reasonable for other people. And usually, when we say X provides a reason to believe Y in circumstances C, we take that to be a universal claim, i.e. *every* agent has reason to take X to provide reason to believe Y in circumstances C.
+
+Reason is purely procedural. It is concerned with amelierating *conflicts* and striving for *coherence* of our aims. Beliefs are not justified in isolation. Rather they are justified based on their coherence with other beliefs. It may seem that all propositions must be justified in a non-circular non-infinite regress, and any beliefs that cannot be justified are irrational. This is the case only because of the context of ordinary uses of "rational" or "irrational". When we talk of "rational" in the context of a debate, it usually applied to propositions that can be justified to all parties involved. However, even though propositions may not be justifiable in this sense (in the sense of collective support), they can justifiable to an individual (based on their coherence with the individual's other beliefs). The "rational" sense as used in collective support is not constituitive of rationality itself (i.e. agents can be rational without jutsifying themselves to others), but having debates with others implicitly commits oneself to a constructed "game" where the rules are intersubjective justifiability.
+
+Objectivity: imagine people have widely divergent beliefs. Objectivity is possible when there happens to be an intersection in the beliefs held by these people. More specifically, it's possible when there is an intersection in what these people judge to be solid methods for establishing truth. E.g. think of science. People might have widely different beliefs. But everyone agrees that one's beliefs should cohere with their other beliefs, and we happen to be beings with sensory inputs that automatically impress beliefs within us (which means our beliefs must cohere with our sensory inputs), and our sensory inputs happen to converge a lot of the time. There are other features we happen to agree with as well (or can be shown to agree with), e.g. repeated observations from different independent sources/experiments provide more evidence for a hypothesis than one-offs, etc. It is this convergence that grounds the objectivity of science. I.e. two people might disagree over whether theory X or Y is true, but they can agree on method for determining whether X or Y is true, e.g. by appealing to observation, abduction, induction. Without this, objectivity is impossible. Even if we disagree on method, we can ideally point to a meta-principle that we both agree with (or can be shown to agree with) that settles which method is valid (e.g. reflective equilibrium). 
+
+Methodology:
+- There are no exhaustive general principles. There are only procedures for establishing principles and truths. Procedure -> Principles -> Truth.
+- Conflicts must be handled by (1) reflective equilibrium - checking coherence with other beliefs/truths, and (2) by appeal to higher level principles that are agreed upon. Applies to individual beliefs and interpersonal disagreement.  
 
 **Prudential**
 
@@ -362,6 +420,9 @@ In sum, not all reasons are teleological, i.e. all states of affairs are given s
 Kinds of consequentialism:
 1. Maximizing - Define some good which can be quantified, we have most reason to act so as to promote that quantity. This can be disproven above.
 2. Trivial - Rank possible states of affairs according to how you judge yourself to have most reason to act. Have a complete ranking of all the states. Because constructivism is true, we have most reason to promote that state of affairs. This seems trivially true.
+
+### Methodology 
+
 
 ## Desire Theories
 
@@ -445,8 +506,9 @@ Hasn't solved the following problems from above:
 
 ### General Problems
 
-General problems with desire accounts
+General problems with desire accounts and counterfactual attitude accounts.
 
-1. The elements posited as providing reasons (desires, informed desires, motivations, ideal desires, ideal observer's desires, etc.) don't necessarily provide reasons, i.e. when they disconnect with an agent's normative judgments. Consider a case where dispositionalism (but not constructivism) would say someone has reason. On what grounds can the person be said to have that reason if they are not in some way comitted to the action?
+1. The elements posited as providing reasons (desires, informed desires, motivations, ideal desires, ideal observer's desires, etc.) don't necessarily provide reasons, i.e. when they disconnect with an agent's normative judgments. Consider a case where dispositionalism (but not constructivism) would say someone has reason. On what grounds can the person be said to have that reason if they are not in some way committed to the action?
 2. Insofar as they do provide reasons, constructivism explains why they provide reasons, why they matter and a unifying theme explaining the authority of the elements that do matter. E.g. if certain features are constituitive of agency, caring about desires under experience, future desires, etc.
 3. Constructivism can give a clean general account of all reasons.
+	- How to give a metaphysical account of reasons for belief? One response is that one has reason to believe P only if they would believe P in circumstance P. How to account for a reason to believe *that* counterfactual? The response is that one has reason to believe that they would believe P in circumstances C iff they would believe that "they would believe P in circumstances C" in circumstances C. This is circular... This may not actually be an issue on the metaphysical/epistemic level. It may still be an issue on the linguistic/psychological level, however.

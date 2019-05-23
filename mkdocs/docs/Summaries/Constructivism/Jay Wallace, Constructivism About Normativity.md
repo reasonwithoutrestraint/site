@@ -9,15 +9,13 @@ I then discuss some potential objections to the constructivist approach to norma
 ### Normativity
 
 Normativity is commonly understood at least partly in terms of reasons. 
-"Reasons are considerations that recommend or speak for (and against) prospective attitudes or responses on the part of a person or agent." Reasons for belief are considerations related to one's judgments about reality. 
+Reasons for belief are considerations related to one's judgments about reality. 
 Reasons for action are considerations related to one's intentions. 
-
 Both kinds of considerations have a constitutive connection to *deliberation*.
 Deliberation is reflection that aims to resolve the question of what one is to think or do. 
 Reasons and rational requirements are considerations that are constitutively suited to figure in deliberative reflection of this kind. 
 Thus, normative considerations have an intrinsic authority for deliberative reflection. 
 Norms are the principles that state, in substantive terms, what people have reason to think and do. 
-These formulate the structural requirements that govern rational reflection. 
 One philosophical question is how to make sense of the authority of normativity.
 
 ### Skepticism
@@ -38,18 +36,12 @@ One way to avoid this skepticism is to accept *expressivism*,
 Expressivism says that deliberations is an activity of imposing discipline on a set of practical attitudes. 
 Practical thought is not an illusion because it does not attempt to make claims representing facts independent of the will. 
 Rather, it is concerned with determinations of the will. 
-Thus, the fact there are no mind-independent normative facts does not justify skepticism about normativity.
 
-Constructivism agrees with expressivism in the rejection of realism, 
-i.e. the rejection of normative truths that are prior to and independent of those who engage in deliberation about what to do. 
-They also agree that practical thought consists of solving practical problems,
-rather than identifying the solutions to theoretical questions or describing an independent reality. 
-Constructivists diverge from expressivists in that constructivists postulate the existence of normative truths that depend on the will of those whom they regulate. 
-The normative realm is constructed through our agency. 
+Constructivism agrees with expressivism in the rejection of realism, i.e. normative truths that are prior to and independent of deliberation.
+They also agree that practical thought consists of solving practical problems, rather than answering theoretical questions or describing an independent reality.
+Constructivists differ in that they posit normative truths, truths which are constructed by the will of agents.
 
-Restricted forms of constructivism construct truth in particular normative realms by appealing to other truths in other realms. 
-For example, contractualist normative theories derive truth for a particular domain (e.g. about Justice from Rawls, or Morality from Scanlon) by appealing to hypothetical choices while persupposing other normative truths, including reasons for action that are grounded in agents' projects, life plans, relationships, aspirations, etc.
-
+Restricted forms of constructivism construct truth in particular normative realms by appealing to other truths in other realms (e.g. about Justice from Rawls, or Morality from Scanlon)
 Global forms of constructivism do not help themselves to an existing normative domain. 
 The normative principles that govern the will are the principles that are constitutive of the will in the first place. 
 E.g. Christine Korsgaard treats normative principles as standards that are constitutive of agency itself. 
@@ -66,9 +58,8 @@ The difference between constructivism and expressivism is that expressivism is i
 ### Psychologism
 
 Because constructivism and expressivism attempt to explain distinct phenomena, they are not in competition. 
-Expressivists are free to adopt the constructivist theory of normative truth.
-Cconstructivists are free to adopt the expressivist theory of normative language and psychology. 
 Constructivists are concerned with making philosophical sense of normativity, providing an explanation of how normativity is even possible. 
+This sidesteps the semantic and psychological implications of expressivism.
 
 Korsgaard says that normative realism may be metaphysically, epistemologically and motivationally acceptable.
 But it cannot amount to a comprehensive philosophical explanaiton of normativity. 
@@ -93,9 +84,8 @@ The authority of *those principles* cannot be questioned at a fundamental level.
 ### Bootstrapping
 
 Constructivism posits that our agential nature commits us to complying with the principles that define what we ought to do.
-The question is what it is to be committed in this way.
 One example is the instrumental principle, which says that an agent has reason to take the means to satisfy his chosen ends.
-This can be explained because the attitude of intending a given end requiers a cmomitment to take the means to satisfy the end. 
+This can be explained because the attitude of intending a given end requires a commitment to take the means to satisfy the end. 
 One doesn't count as intending an end if they were not committed to intending the means.
 The stance of commitment involves a kind of disposition or striving.
 
@@ -111,17 +101,13 @@ It requires regarding it as a rule that one has reason to follow in a special wa
 This may seem to be an implausible form of bootstrapping. 
 There should be a gap between normative endorsement of a principle and the actual normativity of a principle.
 I.e. sometimes normative endorsement can be incorrect.
-How can this be explained on constructivism?
-
-Constructivism can explain local errors in normative reasoning, e.g. cases in which agents mistakenly ought or ought not do something.
-We agents are not infallible in our normative endorsements.
-Constructivists can explain this by appealing to procedures of ideal reflection.
+Constructivism can explain local errors in normative reasoning by appealing to procedures of ideal reflection.
 Normative facts are determined not by *actual* normative endorsement, but *ideal* normative endorsement.
 The hypothetical attitudes under *ideal* reflection determine what is normative for an agent.
 
 But constructivism cannot explain global errors.
 The totality of reflectively stable normative endorsements determines what is normative for an agent.
-This seems implausible; its conceivable for there to be a gap between an agent's ideal normative endorsements and actual normative principles.
+One might object that its conceivable for there to be a gap between an agent's ideal normative endorsements and actual normative principles.
 Constructivists must deny this gap.
 Such a gap suggests that the practical deliberation is answerable to a realm of normative facts prior to and independent of the activity.
 When we step back from the normative commitments that are constitutive of agency, normativity disappears from the scene. 

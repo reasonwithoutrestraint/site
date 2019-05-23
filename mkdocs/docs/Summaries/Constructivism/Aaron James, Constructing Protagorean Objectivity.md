@@ -50,7 +50,7 @@ The norms governing practical reasoning are valid independently of the truth of 
 Ethical propositions, which are truth-apt, are explained in terms of such *imperatives*.
 
 Minimal realism does not provide an explicitly protagorean account of objective values.
-Assume there is an ethical dispuet between two parties advancing incompatible claims.
+Assume there is an ethical dispute between two parties advancing incompatible claims.
 The question is: what explains how one of these claims could be the truth?
 On minimal realism, there just is an objective truth and we are able to know it.
 But this is not really an *explanation*. 
@@ -68,7 +68,7 @@ The Constitutional Conception of Validity and the Protagorean Constraint preclud
 
 We can reject conventionalism, relativism, subjectivism, etc. (based on actual attitudes) in the same general way.
 We can regard ethical truths as "objective" in case their truth value is *invariant* with respect to possible differences in our attitudes.
-It doesn't require an exlpanation for why the relations of attitude invariance hold.
+It doesn't require an explanation for why the relations of attitude invariance hold.
 We can thus show that the norms of practical reasoning allows us to criticize certain attitudes independent of an agent/group's attitudes.
 For any subjective condition of an agent/group C, so long as we can criticize C's relevance, then ethical truth does not vary with C.
 Thus, ethical truth would be objective with respect to that C.
@@ -76,7 +76,6 @@ Thus, ethical truth would be objective with respect to that C.
 ## The autonomy of the ethical from the outside
 
 We might still ask what does validity in practical reasoning consist in or what does "valid" mean.
-It seems that we've just rephrased "validity" in terms of undefined "norms of practical reasoning" without answering those questions.
 Possible answers include expressivism, platonism, etc.
 Constructivism adopts quietism with respect to those questions. 
 Thus, constructivism is not in conflict with traditional theories that do answer those questions.
@@ -100,7 +99,7 @@ The same guiding norms provide a basis for evaluating a process of reflection as
 underestimated the force of certain features, have been ill motivated, unimaginative, stubborn, mentally unsound, under duress, etc.
 
 Thus, The activity of reasoned practical judgment is constitutively open to assessment as well or badly done.
-Were one to "reason" at whim without accountability for some norms, one woudln't be engaged in *reasoned* practical judgment.
+Were one to "reason" at whim without accountability for some norms, one wouldn't be engaged in *reasoned* practical judgment.
 They would be engaged in something else, perhaps deference to authority or make-believe.
 Reasoned practical judgment is non-structured by its very nature.
 This thus far does not say why *particular* norms count as valid or invalid in a process of thought.
@@ -108,11 +107,11 @@ This thus far does not say why *particular* norms count as valid or invalid in a
 To sufficiently grossly violate certain specific requirements of an activity is not to be engaged in the activity at all.
 I.e. to sufficiently grossly violate the ground rules of chess is not to play chess.
 To sufficiently similarly violate constraints of reasoning (i.e. "formal constraints" such as consistency) is not to be engaged in reasoning.
-If one violates the reqiurements, but not sufficiently grossly, then why still engages in the activity, but badly.
+If one violates the reqiurements, but not sufficiently grossly, then one still engages in the activity, but badly.
 All validity in reasoning is is fully understanding what is involved in making a reasoned practical judgment.
 
 The Constitutional Conception is a thesis *external* to practical reasoning.
-Because it is (1) about validity in general and (2) neutral with regard to what is valid (i.e. neutral regarding subsantive content).
+Because it is (1) about validity in general and (2) neutral with regard to what is valid (i.e. neutral regarding substantive content).
 Question of validity are apt only as internal questions.
 A judgment of validity is invariably first personal and not a purely "descriptive" affair.
 Any classification of a requirement as necessary to understand an activity cannot but rely on one's understanding of the activity in question, including one's best understanding of what good practice of the relavant kind involves.
@@ -148,5 +147,3 @@ Thus, one incurs a responsibility of due deference in the face of disagreement.
 Reasoned disagreement counts as pro tanto grounds that some party has fallen at least in partial error. 
 Constructivism entails that the truth of an ethical proposition requires the ability to cite unreason as the source of ethical disagreement.
 If this cannot be mantained, then there is no truth of the matter in the proposition at hand.
-
-## Further concerns

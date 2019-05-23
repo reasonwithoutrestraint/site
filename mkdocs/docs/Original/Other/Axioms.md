@@ -3,8 +3,9 @@ Epistemic First Principles:
 Rules of inference
 
 - Subjective
-    - Perceptions -> Reality
-    - Memories -> Past Perceptions
+	- How to know I have perceptions?
+	- Perceptions -> Reality
+	- Memories -> Past Perceptions
 - Deductive
 - Abductive
 	- Falsifiability
@@ -12,14 +13,14 @@ Rules of inference
 	- Parisomony (Occam's Razor)
 	- Explanatory
 - Inductive
-    - Past -> Future
-    - Observed -> Unobserved
+	- Is/Past -> Will be
+	- Observed -> Unobserved
 - Constructive
-    - Modal
-    - Counterfactual
-    - Probabilistic
-    - Causation
+	- Is/Past -> Could be
+	- Is/Past -> Likely 
+	- Is/Past -> Caused by
 - Normative
-    - Goals -> Reasons
-    - Future Reasons -> Current Reasons
-    - Others' Reasons -> Agent's Reasons
+	- Is -> Ought
+	- Goals -> Reasons
+	- Future Reasons -> Current Reasons
+	- Others' Reasons -> Agent's Reasons
