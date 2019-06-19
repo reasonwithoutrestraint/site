@@ -167,7 +167,8 @@ Possible critique, the theory doesn't address some obscure issues:
 - There are only two reasons that a theory has to address an issue: (1) the issue is something we actually deal with and so we need a right answer, and (2) the issue might not happen but we intuit a strong answer, and so the theory needs to have the right answer. 
 - It's okay if the theory says nothing about a case that meets neither of these conditions. In fact, it would be okay if the theory said anything because we are not really sure if it would be right or wrong.
 
-Intuitions
+Intuitions:
+
 Why liberty is the only thing that matters
 - Imagine a world of fully informed, fully rational agents with maximal equal liberty. How can coercion be justified here? To promote the aims of a particular agent?
 - Imagine every possible political/economic system was available to people, and people could make a fully informed, consensual uncoerced decision on where to live. In this case, there can be no justification for coercion, even if that coercion resulted in more equality, utility, etc. So liberty is the primary value, and all other values - e.g. equality, utility, social order, etc. - are pursuable only insofar as they respect the demands of liberty.
@@ -178,6 +179,32 @@ Why anarchy is wrong:
 - Uninitiated minor/major coercion is justifiable. Coercion against A in self-defense is justified independently of whether A is responsible. E.g. imagine A presents a danger to others, but he is not responsible, but coercing A is the only way to stop the danger.
 Why negative rights are wrong:
 - Negative rights only are unsustainable. All taxation assumes that people have a positive right to negative liberty. Why not assume a positive right to positive liberty?
+
+Principles I accept:
+- Unprompted coercion against A at the benefit of B:
+	- Can only be justified when:
+		- The burden alleviated from B is great.
+		- The burden placed on A is minor.
+		- B does not have the opportunity to improve his situation. I.e. either
+			- he isn't aware of the actions he can take to improve his situation, or (force is justified for education)
+			- there are no actions he can take to alleviate his situation (force is justified for assistance)
+	- Intuition:
+		- Imagine A and B have equal opportunity to the base requirements.
+			- They directly have access to the same amount of raw resources.
+			- The are equally aware of the behaviors they can adopt to develop more resources.
+			- They would develop the same amount of resources if they performed the same behaviors.
+			- They are equally capable of performing these behaviors if they wanted (i.e. they aren't starving)
+			- If A decides to dedicate more time/energy into developing his raw resources, B does not deserve any of the excess.
+- The scope of the coercion:
+	- It must be limited:
+		- as small a scope as necessary
+		- minimum force required
+	- Intuition:
+		- We don't fund other nations' governments when they are capable of doing so.
+		- Cities don't fund other cities' police, firefighting, education, etc. when they are capable of doing so.
+- Instances of coercion against A to benefit B must be democratically elected
+	- These principles only show when coercion is justified, not when it is obligatory.
+	- If they are not agreed upon, then anarchism is fine.
 
 - Terminology
 	- belief + desire = intention
@@ -496,6 +523,14 @@ Other:
     - Less encouragement for college
     - Add practical skills
     - Add values.
+
+Very Important:
+- Abortion
+- Immigration
+- Welfare
+- Free Speech
+- Freedom of Association
+- Rehabalitive Justice
 
 ### Particulars
 

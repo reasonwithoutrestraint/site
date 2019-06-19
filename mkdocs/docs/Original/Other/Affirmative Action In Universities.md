@@ -1,6 +1,8 @@
 
 ## Justification of the intentions
 
+We don't think discrimination should be illegal on an individual small scale level (i.e. individuals agreeing to make a transaction) but we do think it should be illegal for larger companies. What's the difference?
+
 ### Private Universities
 
 For simplicity, I'll limit my post to affirmative action among private universities, since public institutions runs into many complications. I would agree that affirmative action is mistaken insofar as it results in underqualified students being admitted. Admitting students who don't have the qualifications to succeed is setting them up for failure, and we should not be setting students up for failure. But I don't see anything wrong with racial affirmative action among private universities where only qualified students are accepted, i.e. giving preference to a member of a certain race when choosing between two qualified applicants of different races. This is what I wish to defend.

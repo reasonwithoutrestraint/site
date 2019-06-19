@@ -38,7 +38,7 @@ Rebuttal against 2:
     - Killing someone who would have died at that moment: (2) is modified to: it is wrong to terminate an innocent life without indication of consent, misery, or probable future death.
 - Blood transfusion case: people should not be forced to donate blood to others.
     - They respond by invoking responsibility. But, even if someone has put someone else's life in danger through their own voluntary actions, we don't force them to donate blood. Why the discrepancy?
-    - They bite the bullet and say that we should force people to donate blood in these circumstances. Okay, but the impact of the responsibility is different. In the case of abortion, no being has their life deprived whereas in the case of the voluntary danger, someone's life has been deprived.
+    - They bite the bullet and say that we should force people to donate blood in these circumstances. Okay, but the impact of the responsibility is different. In the case of abortion, no being has their life deprived whereas in the case of the voluntary danger, someone's life has been deprived. The initial voluntary action X produces a responsibility to Y only if X without Y deprives the person of a life that they would have otherwise had.
     - They bite the bullet and say that we should be forced to donate blood to people when we put them in circumstances where they need blood, even if they would not have been alive anyway.
 - Philosophical first principles: liberty
 
@@ -47,3 +47,20 @@ Rebuttal against 2:
 (3) It is morally permissible to detach in the Modified Blood Transfusion Hypothetical.
 (4) (from 1 & 2) Detaching in the Modified Blood Transfusion Hypothetical must be given the same moral evaluation as detaching in pregnancy.
 (5) (from 3 & 4) Detaching in pregnancy is morally permissible.
+
+
+Notes:
+- The deprivation argument has no independent force. It is not meant to show that you are permitted to harm anyone you bring into existence. That's absurd. E.g. giving a fetus FAS is also immoral.
+- It has force only in a very narrow context if other principles are adopted. I.e. it removes the relevance of responsibility caused by voluntary behavior, specifically when the produced state of affairs is the creation of a new life.
+- It is meant to show a conditional claim: IF it is permissible for the woman to abort due to rape THEN responsibility does not compel her to abort due to consensual sex. More generally: IF A is permitted to not sustain D because of bodily autonomy when they are not responsible for D's dependence THEN A is also permitted to not sustain D because of bodily autonomy when they ARE responsible for D's dependence if D would have never existed had A never performed the initial action that provided the responsibility.
+- This does not allow the woman to give the fetus FAS because it is not permissible to give the fetus FAS even in the cases of rape. It does not allow parents to kill children because it is not permissible to kill children even in cases of rape. It might even allow that mothers can be compelled to raise and care for children assuming that we think mothers can be compelled to raise and care for children due to rape (perhaps we do?). 
+- Do not try to justify the deprivation point by saying conception + death is no worse off than never conceiving, therefore abortion is permissible. This could justify all sorts of bad stuff. I.e. birth + premature murder is no worse off than never being born, therefore premature murder to one's offspring is permissible. The principle does not have wide scope. It's scope only shows that responsibility does not cancel bodily autonomy if it is responsibility for one's existence.
+
+Objections:
+- Mentioned in Boonin's paper - Langer, Tooley, etc.
+- Future like ours objection
+- "The Impairment Principle" argument:
+    - If impairing an organism to the nth degree is immoral, then (all things else equal) impairing the organism to the nth+1 degree is also immoral.
+    - Giving an infant FAS is immoral. Killing an infant causes more impairment than giving an infant FAS. Therefore, killing an infant is immoral.
+    - Response: Giving an infant FAS in the case of rape is immoral. However, aborting an infant in the case of rape is not immoral. 
+- Imagine a program is created which requests some stranger to donate their kidney to save someone. If you sign up, you have to stay signed up. This makes sense. Even though your intiial signing up did not deprive the victim of a previous state, it did deprive them of a life that they would have otherwise had (because otherwise someone else could have signed up).

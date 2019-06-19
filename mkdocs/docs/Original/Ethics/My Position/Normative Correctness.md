@@ -127,6 +127,7 @@ Split into seperate articles
 	- Why do some attitudes have higher authority over others, i.e. the attitude that values the upshot of idealized reflection are more important than an agent's present desires.
 	- Do unreflective desires provide reasons and why?
 
+
 ## Existence Internalism
 
 Some twists
@@ -193,6 +194,8 @@ This is to support (2) of the explanatory argument: A, if fully rational, would 
 Now, (1) needs to be argued for, as it is no longer merely a plattitude. It almost may seem to be question-begging against the externalist. We might be able to accept (1) if we accepted constructivism. Normative truth derives from the normative judgments an agent makes, and it is constituitive of agency to value one's motivations under deliberation. So we just need to argue for constructivism.
 
 ### Rational Argument
+
+--> "A judges that he has reason R to X" entails 
 
 1. For A to judge that he has reason to X entails that A would be irrational, from his own perspective, for A to not be motivated to X.
 2. ...
@@ -423,6 +426,20 @@ Kinds of consequentialism:
 
 ### Methodology 
 
+Objectivity:
+- There is no objectivity in the mind-independence sense. But there is a kind of objectivity in terms of what is constituitive of agency itself. E.g. in order to count as an agent who values anything, they must take themselves to have reason to adopt the means to fulfill their ends, they must value their capacity for agency, etc.
+- One might doubt whether this is a important kind of objectivity. They might say: you are cheating by talking about what is valuable after presupposing someone is an agent. This isn't really interesting.
+--> Response: this is the same kind of objectivity that we get with deductive reasoning. I.e. the only reason P -> P, ~(P ^ ~P), (P->Q ^ P) -> Q, etc. is because of what it is to believe a proposition to be true. It is constituitive of belief that one not believe contradictions. Indeed, for "agents" without these tendencies, we wouldn't be able to rationally persuade them otherwise. But it's not clear that the concept of "rationality" even applies to them. They're neither rational nor irrational. No one questions the objectivity here:
+---> One might still question its objectivity because it doesn't have the mind-independence. In that case, I question if this usage of "objectivity" is interesting or important. What does it take to call something "objectivity"? I look to the role that "objectivity" plays in discourse. When we call something objectivity, we apply this to domains of propositions that (1) people can be mistaken about, (2) we can criticize others/ourselves about, (3) we can have improve about, (4) we can disagree about, etc. The characterization given thus far fulfills that role. 
+---> Speaking of roles, think of normative "truth". When we attribute the predicate TRUE to a normative judgment about what one ought to do, this implies something above and beyond typical desires:
+---> That that judgment will be more *stable* than other desires upon reflection. So reflective stability under ideal deliberation is a test for rationality among agents. Reflective stability under idealized *conditions* can be a test for the *reasons* of an agent (where the idealized conditions are the conditions that an agent endorses under ideal deliberation, i.e. full information, full experience, fully imaginative, etc.). Might stability under idealized social negotiation be a test *moral reasons*. Stability is one of the reasons why our value of reflection has normative authority over any conflicting unreflective judgments we might have.
+- Another "kind" of objectivity. It may not be constituitive of agency per se, but it is nearly universal among humans:
+---> Standing in mutual recognition with other agents (i.e. being a moral agent). As an agent, one doesn't *have* to care about this. But almost all agents do. Because for the ones who did not, they would have had a difficult time spreading their genes. Of course, evolutionarily, the circle of mutual recognition was often small, limited to one's tribe or in-group. But we have the rational capacity to question whether differences between tribes are actually relevant, and most will conclude that they are not. This is not only evolutionarily necessary, it is also neurologically necessary for all current humans. Humans who are not touched and played with as infants either die or grow to have developmental disorders.
+---> A similar non-constituitive "tendency" that agents have is to value the values of their future self. This need not be constituitive of agency. However, it is near-universal among humans for very similar reasons as being a moral agent. For those who did not, they would have had a difficult time spreading their genes. Of course, our tendency to plan for the future is often limited based on certain factors (i.e. impulsivity, excitement, etc.), but we can question whether those considerations are rationally relevant, and most will conclude that they are not. [there is a further question as to whether caring for future selves commits one to care about other persons. This is a question I will not answer]. 
+- Different kinds of constituitive features:
+---> Constituitive of psychological attitudes: Fear -> Attributions of danger
+---> Constituitive of linguistic concepts: thick ethical concepts, coward -> attribution of fear
+---> Constructed social norms: moral norms -> impartial concern with others. Based on the role or function that the norms plays in our lives. Find the job description of morality. E.g. compare with ettiquette, science, etc. Morality is like thick ethical concepts in that sense. For that reason, they can sometimes be used non-motivationally, e.g. someone who sincerely (i.e. not in the "inverted comma" sense) says "X is a generous" might not have any motivation by focusing on the descriptive component of the thick ethical concept "generous" - i.e. that he give to others, etc. Likewise, someone can sincerely judge "X is wrong" without any motivational by focusing on the thick component of wrongness - i.e. that others have reason to blame one for this, that people motivated to stand in mutual recognition have reason to accept the norm, etc. The thick component here is also normative (i.e. it uses the concept of a reason), but it need not be motivational, because it relates to reasons for other people. So it may just express a disposition for motivation of the speaker in certain counterfactual circumstances.
 
 ## Desire Theories
 

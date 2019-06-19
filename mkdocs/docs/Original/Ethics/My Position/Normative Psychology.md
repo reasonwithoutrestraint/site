@@ -1,5 +1,7 @@
 # Normative Psychology
 
+The focus here is on normative thought and talk and the function it plays in our lives. It is not so much on normative language and semantics.
+
 Split into seperate articles
 (1) Introduction to the problem
 (2) Failure of mind-to-world fit strategies
@@ -20,7 +22,7 @@ Split into seperate articles
 		- Book: Allan Gibbard - "Analyses" from _Wise Choices, Apt Feelings_ (as in DGR)
 		- Book: Allan Gibbard - _Thinking How to Live_ (chs. 3 & 4)
 		- Book: Simon Blackburn - _Ruling Passions: A Theory of Practical Reasoning_
-		- Essays: Simon Blackburn - _Essays in Quasi-realism_ (esp "How to Be an Ethical Antirealist"
+		- Essays: Simon Blackburn - _Essays in Quasi-realism_ (esp "How to Be an Ethical Antirealist")
 		- Chapter: Mark Schroeder - _Noncognitivism in Ethics_ (chs 6-8)
 		- Chapter: Huw Price - _Naturalism without Mirrors_ (ch. 11)
 		- Chapter: Michael Ridge - _Impassioned Belief_ (chs. 4 & 7)
@@ -31,7 +33,6 @@ Split into seperate articles
 		- Book: Mark Timmons - _Morality without Foundations_
 		- Book: Hilary Putnam - _Ethics without Ontology_
 		- Essay: Jamie Dreier - "Meta-Ethics and the Problem of Creeping Minimalism"
-		- Gilbert Harman, “Ethics and Observation”
 	- Objections
 		- Frege-Geach
 		- P.T. Geach, "Ascriptivism"
@@ -50,54 +51,6 @@ The deliberative perspective must be explanatory because when we decide what to 
 To judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which can be the sources of one's *motivating reasons*, the explanation of their intentional behavior. Voluntary actions can be explained by a belief and desire; these actions are done on the basis of normative reasnoing insofar as deliberation and reflection play a role in how the belief and desire manifest into action, i.e. if deliberation influences what one desires, which desires are actualized, etc. 
 
 ## Requirements
-
-An analysis must account for the following features of normative thinking:
-
-Goals - when the theory is done
-
-0. Self-understanding
-	- We learn exactly what we mean when we use normative language. 
-1. Substitution
-	- If an analytic reductive theory is used, it must be possible for us to substitute the non-normative terms with the normative terms without ever losing meaning and without ever having a need to revert back to the normative language.
-2. Translation
-	- We need a method that gives us a reliable method for translating our normative terms to/from the normative terms of another language or culture when it seems reasonable that we can do so.
-
-Constraints - Determine if the theory is successful
-
-1. Ubiquity
-	- We cannot get rid of normative judgments.
-	- A theory must be able to explain why. 
-	- The theory must account for all normative attitudes, ethics, epistemology, rationality, ettiqutte, aesthetics.
-	- Normativity can be reduced to ought-statements and reasons.
-2. Motivation
-	- A person who judges themselves to have reason to adopt attitude X tends to adopt attitude X.
-	- Normative-motivational disconnects: there are times when fails to adopt the attitudes they judge themselves to have reason to hold.
-	- Stevenson's Dynamic Requirement
-3. Disagreement
-	- Two people can disagree about their normative judgments, especially morality and epistemology.
-	- We can disagree with ourselves, other individuals, cultures and societies.
-	- If someone says "X is wrong" and another says "X is right", these statements are in conflict.
-	- Stevenson's Disagreement Requirement
-4. Reasoning
-	- A priori reasoning and discussion influence our normative judgments.
-	- No normative attitudes can be analytically inferred from a person's representation of the current state of affairs, i.e. we cannot say if a person believes X has non-normative property N, then it necessarily follows that they believe it has normative property M (regardless of whether X having non-normative property N necessarily implies that it has normative property M). (This does not rule out *all* descriptive theories. I.e. it does not rule out counterfactual theories that say "X is good" = "A would desire X under circumstances C". Even though whether A would desire X under circumstances C may be necessarily true or false - something I sidestep here - it is not the case that this can be analytically inferred from someone's current representation of the current state of affairs. This is similar to how the state of the future necessarily follows given the current state of reality, however, a belief on the latter cannot be necessarily deduced based on a belief of the former. Thus, this does not rule out counterfactual belief theories).
-	- Normative-representational disconnects: any possible normative judgment and belief pair is possible. 
-	- This includes Stevenson's anti-scientific Requirement.
-
-Optional requirements:
-
-1. Supervenience
-	- Epistemology: When we see an action that we judge to be wrong, we don't just judge it to be wrong in that particular circumstance. We judge that a particular action with certain natural properties always coinstantiates normative properties. This needs to be explained via some perceptual model or something else.
-	- Ontology: If someone judges X to have normative property N then (on pain of being incoherent) he must judge Y to have normative property N also unless there is some non-normative difference that explains the difference in the normative properties. This is a necessary, conceptual truth. In all possible worlds, entities that are identical non-normatively are identical normatively. This must be explained.
-2. Properties
-	- If our normative concepts in some way are aimed at tracking normative properties, then these conditions apply
-	- Psychology/Semantics: an account must be given as to how we developed a faculty to acquire concepts that aim at tracking the normative properties.
-	- Epistemology: either the normative properties must explain our normative judgments or our normative judgments must explain the normative properties. Otherwise, we would have no reason to believe we have access to the normative properties.
-	- Ontology: we need some positive reason to posit that such properties exist.
-
-Notes
-- Avoid mentioning normative judgments to either beliefs, preferences, desires etc. in this part to avoid begging the question.
-- Features 1-4 explains why it makes sense to have normative discussions. So we might as well get clear about what we're doing.
 
 ## Direction of fit
 
@@ -267,11 +220,7 @@ Some of these may have descriptive references, but given that they can be used e
 
 Grab points from Descriptivism.md
 
-## Objections
-
-### Frege-Geach
-
-### Normative attitude problem
+## Redo
 
 ------ Attitudes
 
@@ -325,6 +274,8 @@ E.g. when one has a strong desire to eat the chocolate while refraining from doi
 Unlike most animals whose base desires almost always drive their actions, humans are capable of *endorsing* certain desires.
 This faculty of *deliberative endorsement* is what constitutes normative thinking.
 
+==> Mention "endorsement" more
+
 --- Ubiquity
 
 Normative thinking is ubiquitous in human lives.
@@ -368,14 +319,20 @@ Consider the following examples (the particular agent is left out of the example
 "X is beautiful" = "[some agent(s)] ought to admire or appreciate X"
 etc.
 
-It should be noted that "X is credible" is not meant to be taken as "X is true".
+There are two ways the normativity of belief can be misinterpreted.
+Firstly, it should be noted that "X is credible" is not meant to be taken as "X is true".
 It is more akin to "X is justified".
 But we know there can be cases where a true belief is unjustified and cases where a false belief may be justified.
 A belief is justified for a particular agent depending on whether that agent has evidence to support the belief.
 A belief is true depending on whether it accurately corresponds to the world.
 The former is a normative notion whereas the latter is a purely descriptive notion.
+It a faculty that cannot be reduced to deductive reasoning or perception.
+
+Secondly, the "ought" involved in the statement "X is credible" is not to be taken to be the same type of "ought" as in "X is morally obligatory".
+The former is concerned with epistemic justification, which is at least not straightforwardly identical to the justification involved with moral justification.
 
 Again, the terminology is not what's important. In place of "reason" or "ought", we could use any term that allows us to refer to a relation involving an agent and the "appropriate" or "justified" attitude.
+In fact, prescription can be used also to communicate endorsement.
 Normative concepts thus differ in terms of the attitude that the concept "calls for".
 There will be as many normative concepts as there are attitudes that can be the subject of normative inquiry.
 But what kind of attitudes can be subject to normative inquiry?
@@ -408,40 +365,6 @@ Of course, they might be irrational for earlier intentional actions that they di
 Because of this, these attitudes cannot be attributed to agents in the same way that judgment-sensitive attitudes can be attributed to agents. 
 They can be attributed to agents in the sense that those attitudes indicated something about either one's normative judgments.
 
-One prominent issue worth mentioning regarding reasons for attitudes is the "Wrong Kind of Reason" problem.
-The basic idea is that sometimes a consideration provides an agent with a reason to adopt a certain attitude, without being "the right kind" or "appropriate kind" of reason that actually justifies the attitude.
-This can most clearly be brought out with an example concerning beliefs.
-Imagine a person in a science experiment.
-The person is asked by a scientist to close his eyes for ten seconds.
-If he does so, then the person is given a monetary reward; otherwise, the person gets nothing.
-Assuming this is a normal person and there are no other abnormal circumstances of the experiment, it seems that the person has reason to perform the requested action.
-In this context, the act of closing one's eyes would be justified.
-Now imagine a different experiment.
-Instead, the person is hooked up to a machine that can read his beliefs.
-The person is told by the scientist that if he believes in Santa Clause he will be given reward.
-Unlike the earlier experiment, it seems that the person does not have reason to perform the action.
-At least, not the right kind of reason, i.e. not an *epistemic reason*. 
-Surely, believing in Santa Clause would not be justified in this case.
-We regularly recognize that desire-satisfaction does not justify beliefs.
-That is, the fact that a belief would make someone happy is no reason to hold their belief.
-E.g. we regularly think that certain religious beliefs are unjustified or unwarranted, independently of whether the beliefs actually benefit the subjects holding the beliefs.
-
-This shows that there are two kinds of reasons relevant to beliefs. 
-(1) The right kind of reason - epistemic reasons, and (2) the wrong kind of reason - practical reasons which are appropriate for desires and intentions.
-
-One might explain the different kind of reasons by saying that the right kind of reasons can motivate an agent to adopt the relevant attitude while the wrong kind of reasons cannot.
-E.g. when an agent judges that there is evidential reason to believe p, they will be motivated to believe p. 
-However, when ana gent judges that there is pragmatic reason to believe p (e.g. some monetary benefit), this usually fails to motivated them to believe p.
-Of course, people are often motivated to beliefs by desires and non-evidential motivations.
-However, this usually is not what they consciously take to be the motivation for their beliefs, and this kind of motivation is usually not endorsed by people.
-Another explanation might be that the right/wrong kind of reason distinction only applies for attitudes with a representational component.
-Some attitudes - e.g. beliefs, admiration, fear - etc. present their objects to be a certain way.
-E.g. to believe p is to portray p as true.
-E.g. to fear x is to portray x as dangerous.
-Thus, the right kinds of reasons are evidential reasons that indicate that object of one's attitudes possess the properties that are presented by that attitude (e.g. truth, dangerousnes, etc.). 
-This might explain why there doesn't appear to be a "wrong kind of reason" when it comes to reasons for desires or intentions; when one desires or intends x, they are not portraying x to have certain properties; they are merely bringing it about that x (or have a disposition to bring x about.)
-Precisely characterizing the distinction between right/wrong kind of reasons is a complicated issue that I sidestep.
-
 Ignoring the WKR issue, I mentioned earlier that normative thinking only covers judgment-sensitive attitudes.
 This means that the only attitudes that we judge to be appropriate are attitudes that would be influenced by that normative judgment.
 What this means is that normative judgments must always be motivational in a sense.
@@ -460,6 +383,15 @@ Similar considerations apply to all attitudes like beliefs, fear, admiration, an
 To endorse any of these attitudes entails some motivation, but it can be defeated by other base motivations.
 The point is simply that the normative judgment that X is appropriate entails a disposition to adopt X.
 Another way of putting it: normative judgments must be capable of motivating an agent to adopt the relevant attitude on its own, without the need to posit an additional desire.
+
+Intentional action can be explained from two perspectives, the *intentional* and the *deliberative*. From the intentional perspective, intentional action can be explained by citiing *motivating reasons*, i.e. by citing a belief-desire pair that fits into a pattern of teleological explanation. From the deliberative perspective, intentional action can be explained by citing *normative reasons*, i.e. by citing a pattern of rational deliberation that either did, or could have, produced it. This involves citing the considerations that one reflects over in deciding what to do. 
+
+The deliberative perspective must be explanatory because when we decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes towards the propositions that figure in our deliberations must be capable of figuring in an explanation of our action. However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action and the agent's motivating reasons for action.
+
+??? note "Elaboration Possible"
+	Similar disconnects happen even with fear, anger, and even beliefs.
+
+To judge that one has normative reason to X is to *endorse* X under deliberation. Normative judgments then can be vaguely characterized as *deliberative endorsement* of some propositional content. Contrast this with undeliberative or unreflective endorsement, which can be the sources of one's *motivating reasons*, the explanation of their intentional behavior. Voluntary actions can be explained by a belief and desire; these actions are done on the basis of normative reasnoing insofar as deliberation and reflection play a role in how the belief and desire manifest into action, i.e. if deliberation influences what one desires, which desires are actualized, etc. 
 
 ----- Disagreement 
 
@@ -527,55 +459,162 @@ Rather, we think conceptual analysis and reason alone is enough to establish nor
 This is unlike beliefs regarding e.g. the shape of the planet.
 No amount of conceptual analysis or reasoning can allow us to infer the shape of the planet.
 
-This is true even of certain beliefs. 
+This is true even of certain beliefs.
 E.g. people can agree on all of the empirical facts now and yet disagree about what to infer about the future.
+
+Sow what kind of information is entailed when a normal, comptent English speaker makes a normative judgment?
+Perhaps only motivational information.
+
+----- The problem
+
+The task is to determine the psychology of the state of mind characterized as *deliberative endorsement*. Is it a desire, belief of some sort, etc? The possible characterizations can be broadly seperated into two categories - world-to-mind states of mind and mind-to-world states of mind. Both are states of mind that that have propositional content as their objects, i.e. one has these attitudes with regard to p where p is some proposition. Mind-to-world states of mind are states whereby the propositional content of the attitude is meant to *correspond* to an external reality. E.g. one can have a belief that p where p is supposed to correspond to reality. World-to-mind states of mind are states whereby the agent is disposed to manipulate the world so that the proposition content of the attitude becomes true. E.g. if one has a desire that p, then they are disposed to try to make it the case that p is true. Whereas mind-to-world states have a *correspondence* role, world-to-mind states have a *dispositional* or *functional* and (broadly) emotional role (disposition/function need not be the *only* role of these states, but it is necessary).
+
+One test for the direction of fit of an attitude is to determine whether the attitude persists upon observing evidence against the propositional content in question. For example, someone's belief in p will tend to diminish upon observing evidence against p being true. E.g. if someone *believes* that a presidential candidate C will win the election, this will (usually) tend to diminish as they observe evidence that C will lose, e.g. if polls and surveys indicate more support for C's opponent T, if C does poorly in debates, etc. On the other hand, if one *desired* that C win the election, then this attitude (usually) does not tend to diminish upon observing that C will not win. Like most desires, the desire here persists despite evidence against the truth of the corresponding propositional content.
+
+Whatever the characterization is, not that there has to be a common characterization that can be applied to the normative judgments of most people in our society. This reason is because this is necessary to ground a shared concept, and a shared concept is necessary for genuine disagreements.
+
+
+The goal is mainly *explanatory*. We want to explain normative thought and talk and the function it plays in our lives. It is not so much on normative language and semantics. Some symptoms of a successful theory: (1) substitution - on most ambitious theory (analytic reductive theories), it must be possible for us to substitute the non-normative terms with the normative terms without ever losing meaning and without ever having a need to revert back to the normative language. Less ambitious theories merely suffice to characterize the psychology of one who makes a normative judgment without needing to characterize the attitude in normative terms. Perhaps none of this possible - normative attitudes cannot be characterized without reference to normative attitudes. This may be the case, but we can still point to various features (i.e. its a mind-to-world vs world-to-mind direction of fit). Also, this doesn't seem to be the case. All *attitudes* are fundamentally physical and can be characterize in purely physical terms. (2) We need a method that gives us a reliable method for translating our normative terms to/from the normative terms of another language or culture when it seems reasonable that we can do so.
+
+Recap:
+
+1. Ubiquity
+	- We cannot get rid of normative judgments.
+	- A theory must be able to explain why. 
+	- The theory must account for all normative attitudes, ethics, epistemology, rationality, ettiqutte, aesthetics.
+	- Normativity can be reduced to ought-statements and reasons.
+2. Motivation
+	- A person who judges themselves to have reason to adopt attitude X tends to adopt attitude X.
+	- Normative-motivational disconnects: there are times when fails to adopt the attitudes they judge themselves to have reason to hold.
+	- Stevenson's Dynamic Requirement
+3. Disagreement
+	- Two people can disagree about their normative judgments, especially morality and epistemology.
+	- We can disagree with ourselves, other individuals, cultures and societies.
+	- If someone says "X is wrong" and another says "X is right", these statements are in conflict.
+	- Stevenson's Disagreement Requirement
+4. Reasoning
+	- A priori reasoning and discussion influence our normative judgments.
+	- No normative attitudes can be analytically inferred from a person's representation of the current state of affairs, i.e. we cannot say if a person believes X has non-normative property N, then it necessarily follows that they believe it has normative property M (regardless of whether X having non-normative property N necessarily implies that it has normative property M). (This does not rule out *all* descriptive theories. I.e. it does not rule out counterfactual theories that say "X is good" = "A would desire X under circumstances C". Even though whether A would desire X under circumstances C may be necessarily true or false - something I sidestep here - it is not the case that this can be analytically inferred from someone's current representation of the current state of affairs. This is similar to how the state of the future necessarily follows given the current state of reality, however, a belief on the latter cannot be necessarily deduced based on a belief of the former. Thus, this does not rule out counterfactual belief theories).
+	- Normative-representational disconnects: any possible normative judgment and belief pair is possible. 
+	- This includes Stevenson's anti-scientific Requirement.
+
+Optional requirements:
+
+1. Supervenience
+	- Epistemology: When we see an action that we judge to be wrong, we don't just judge it to be wrong in that particular circumstance. We judge that a particular action with certain natural properties always coinstantiates normative properties. This needs to be explained via some perceptual model or something else.
+	- Ontology: If someone judges X to have normative property N then (on pain of being incoherent) he must judge Y to have normative property N also unless there is some non-normative difference that explains the difference in the normative properties. This is a necessary, conceptual truth. In all possible worlds, entities that are identical non-normatively are identical normatively. This must be explained.
+2. Properties
+	- If our normative concepts in some way are aimed at tracking normative properties, then these conditions apply
+	- Psychology/Semantics: an account must be given as to how we developed a faculty to acquire concepts that aim at tracking the normative properties.
+	- Epistemology: either the normative properties must explain our normative judgments or our normative judgments must explain the normative properties. Otherwise, we would have no reason to believe we have access to the normative properties.
+	- Ontology: we need some positive reason to posit that such properties exist.
+
+Notes
+- Avoid mentioning normative judgments to either beliefs, preferences, desires etc. in this part to avoid begging the question.
+- Features 1-4 explains why it makes sense to have normative discussions. So we might as well get clear about what we're doing.
 
 ----- Candidate Theories
 
-Analytic non-reductive naturalism
-- Succeeds!
-- Although it doesn't actually suffice to give a theory.
-
-Analytic reductive subjective naturalism
-- Disagreement. Disagreement can persist even if we believe someone (or ourselves) would have attitudes in circumstances C. Because we can question whether we have reason to care about C.
-- Reasoning. This implies that a normative attitude can be entailed from a non-normative counterfactual belief. This need not be true.
-- Ubiquity. What characterization of C can be given to account for all normative attitudes without seeming ad hoc.
+Analytic reductive naturalism
+- Analytic reductive subjective naturalism:
+	- "A would have a certain pro-attitude with regard to X in circumstances C" where C is given a non-normative characterization. 
+	"A ought to X" = "A desires to do X" or "A desires to desire to do X" or "A would desire X if fully informed"
+	- Disagreement. Disagreement can persist even if we believe someone (or ourselves) would have attitudes in circumstances C. Because we can question whether we have reason to care about C. Naturalism says this is impossible because conflicting normative statements would both be correct.
+	- Ubiquity. What characterization of C can be given to account for all normative attitudes without seeming ad hoc.
+- Analytic reductive objective naturalism:
+	- "A ought to X" is "X has property N which is independent of A's actual or hypothetical attitudes".
+	- This could still reduce to the subjective opinions of society.
+	- Motivation. Why would a normative judgment be motivating for anyone?
+	- Disagreement. Sure, we can disagree with other individuals. However, if it's an intersubjective judgment, we wouldn't be able to disagree with that intersubjective region. If it is independent of anyone's judgment, then we could disagree. 
+	- Ubiquity. A different natural property for each normative concept?
+- Reasoning. This implies that a normative attitude can be entailed from a non-normative belief.
 - Substitution. We don't feel comfortable substituting non-normative terms with normative terms in all situations.
-- Translation
-
-Analytic reductive objective naturalism
-- Objective = not concerning the opinions/desires of the agent making the judgment (could still be subjective opinions of society).
-- Motivation. Why would a normative judgment be motivating for anyone?
-- Disagreement. If it's an intersubjective judgment, we wouldn't be able to disagree with that intersubjective region.
-- Reasoning. This implies that a normative attitude can be entailed from a non-normative counterfactual belief.
-- Ubiquity. A different natural property for each normative concept?
-- Substitution. We don't feel comfortable substituting non-normative terms with normative terms in all situations.
-- Translation
+- Translation. Imagine a different society with terms that meant something else. E.g. what they meant by "good" and "bad" was the inverse of what we meant. Could we not disagree with them?
 
 Synthetic naturalism 
-- Disagreement. Normative terms are analyzed in terms of the natural properties that causally regulate their usage. But what if other cultures have different causal regulators? It seems like we couldn't disagree with them. But we can.
 - Motivation. Presumably, this must be whatever causally regulates a society's usage of terms (rather than an individual's usage). In this case, normative judgments do not entail motivation.
-- Reasoning. Normative truth is just an a posteriori process of finding what regulates our terms.
+- Disagreement/Translation. Normative terms are analyzed in terms of the natural properties that causally regulate their usage. But what if other cultures have different causal regulators? It seems like we couldn't disagree with them. But we can. Translation would be based on the extension of these concepts rather than meaning. What if one culture had the same normative concepts as us, but inverted. We wouldn't be able to know that what we think is good is considered bad to them. Naturalism says this is impossible because conflicting normative statements would both be correct.
+- Reasoning. Normative truth is just an a posteriori process of finding what regulates our terms. 
 - Question: how different is this from constructivism? I.e. the difference between finding what causally regulates our use of terms versus what is constituitive of our attitudes. Seems like there could be a difference in what causally regulates a culture's concepts without there being a difference in what is constituitive of that attitude. Also constructivism doesn't posit the existince of normative properties. E.g. H2O is not constituitive of the concept of water.
-- Explanatory: what explanatory ability do we gain by positing these properties?
-- Translation: translation would be based on the extension of these concepts rather than meaning. What if one culture had the same normative concepts as us, but inverted. We wouldn't be able to know that what we think is good is considered bad to them.
 
 Non-naturalism
 - Motivation
 - Supervenience
 - Properties
-- Translation
+- Translation/Disagreement: how could we know that the terms of a different culture or individual were ever attempting to refer to the same properties that we use?
 
-Non-cognitivism
+Analytic non-reductive naturalism
+- Succeeds!
+- Although it doesn't actually suffice to give a theory.
+
+---- Non-cognitivism ----
 - Succeeds on all fronts!
 - Biggest issue is the linguistic/semantic issues.
-- Test this theory with other theories that leave this out.
+- It doesn't explain what the base attitudes are.
+
+More on ethical disagreement:
+- Attitudes determine which beliefs are relevant to a disagreement.
+- Attitudes determine when the disagreement is resolved.
+
+Kinds of attitudes when S says "A ought to X":
+- Expression of endorsement
+	- S endorses a pro-attitude for A X-ing
+	- S endorses X-ing in A's circumstances
+- Prescriptions
+	- S prescribes X to A
+
+"X is wrong" =>
+- Expressive
+	- of attitudes, e.g. disapproval of X
+	- of dispositions:
+		- of attitudes, e.g. disapproval of X
+		- of behavior, e.g. tendency to not 
+	- of endorsement
+		- of the above cognitive states
+- Prescriptive
+	- influence the attitudes of others
+
+Compare non-cognitivism with other theories
+- Imagine a group had pro-attitude A with regard to X but not belief B with regard to it? Does he judge X to be good? Yes. Imagine he had belief B with regard to X but not pro-attitude A. Does he judge X to be good? No.
+--> Non-naturalism: imagine someone used normative terms with the same extension as normal, competent English speakers. It is possible that someone could do this without sincerely making a normative judgment (or even by making inverse normative judgments) under both non-cognitivism and non-naturalism. They happen to be using the same terms and extension as us, but they *mean* differently and have a different *intension*. I.e. they are using the same terms but expressing different concepts with those terms. Non-cognitivism explains this by the presence or lack of certain attitudes. We can use look at their attitudes to learn whether or not they were using the same concepts. On non-naturalism, it is impossible to know if they had the same meaning. We might try to appeal to their attitudes, but on non-naturalism such attitudes are not necessary. And if they were necessary, then how?
+--> Even imagine that someone thought an object had certain normative properties. It is still an open question as to whether someone would endorse/approve or reject/disapprove those properties. I.e. they could have a negative attitude with regard to the normative properties that we take to be good.
+
+Non-cognitivism explains many features
+- The Open Question Argument
+- The is/ought gap
+
+----- Language
+
+1. Emotive Language
+2. Normative education (Descriptivism.md)
+3. Evolution -> Non-cognitivism necessary and sufficient
 
 ----- Truth
 
+Indispensability argument for normative truth
+
 The theory of truth should be such that any agent who accepts its truth abides by the above considerations. I.e. a theory which says "A ought to X iff relation R holds between A and X" implies that any agent who accepts relation R is disposed to follow the above considerations regarding ubiquity, motivation, reasoning, and disagreement.
 
-Third-personal normative judgments. When A judges that B ought to X, how is this to be analyzed? Is it, A, from his own perspective, endorsing B having the attitude? Or is it A imagining what he would endorse if in B's perspective? Both can occur. The former is an external reasons judgment whereas the latter is an internal reasons judgment.
+Third-personal normative judgments. When A judges that B ought to X, how is this to be analyzed? Is it, A, from his own perspective, endorsing B having the attitude? Or is it A imagining what he would endorse if in B's perspective? Both can occur. The former is an external reasons judgment (expressive, prescriptive, speaker-endorsement) whereas the latter is an internal reasons judgment (constructivism, explanatory, subject-endorsement). There are two normative concepts we use. It makes sense to say "the capitalist ought to raise prices that maximize his profits" (in the sense that it would be irrational to do otherwise, a normative conception) and to say "the capitalize ought not to just maximize his profits" (not that it would be irrational, but in that it is not endorsed from the speaker's perspective). 
+-> Internal personal reasons: the only reasons that do not entail a subject-indexed reasons. E.g. on external reason judgment (focused around speaker endorsement), we can never say "R is a reason for A to X". We would have to say "R is a reason for A to X, from B's perspective". This is not useful.
+-> Do the above considerations (ubiquity, motivation, disagreement, and reasoning) apply to both internal and external reasons. For subject-endorsed normative judgments, they always apply (e.g. external reasons). For subject-endorsed reasons, they apply when the speaker is the subject (i.e. someone is deciding what they ought to do). What about 3rd party subject-endorsed reasons? Do they entail a form of motivation or disagreement? Perhaps under a universal conception of reasons (see Michael Smith), we can account for disagreement. Perhaps we can also account for speaker-motivation - i.e. when S says "A ought to X", the speaker would be motivated to do X in A's circumstances. Thus, we have the following:
+	- A believes "I ought to X" 
+		-> Judgment: A is motivated to X
+		-> Truth: A would be motivated to X insofar as he is rational
+	- S believes "A ought to X"
+		-> External Judgment: S is disposed to have pro-attitude with regard to A doing X
+		-> External Truth: 
+			- S would be motivated to have the pro-attitude with regard to A doing X insofar as S is rational 
+			- Appeal to the features constituitive of the pro-attitude that A holds. 
+			- Can this avoid speaker-indexed truth? Maybe not, but that's okay.
+		-> Internal Judgment: S is disposed to be motivated to X in A's circumstances
+		-> Internal Truth: 
+			- Option 1: S would be motivated to X in A's circumstances insofar as S is rational [speaker-indexed truth, weird]
+				-> What does "circumstances" even mean? It has to include the desires, goals, interests, etc. of A. Does it include all of his motivations? 
+			- Option 2: A would be motivated to X insofar as A is rational
+				--> Perhaps both can be accepted, if we have a universal conception of reasons???
+		-> Thus, all are based on speaker endorsement and what's rational for the speaker, Just one is concerned with whether the pro-attitude of the speaker is appropriate and one is concerned with whether the hypothetical behavior of the speaker in certain circumstances are appropriate.
+		-> Not sure if a fully universal conception of reasons is necessary. Perhaps we just need enough objectivity to have meaningful disagreements.
 
 Explantory/Motivational/Internal aspect (some belong here, some belong in Normative Correctness.md):
 - Psychological: They would not have evolved if they were not motivational. Beliefs are not necessarily motivational but they are still evolutionarily advantageous as they are about the real world, which influences are reproductive ability.

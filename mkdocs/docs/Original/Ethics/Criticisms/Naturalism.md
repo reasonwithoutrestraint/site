@@ -2,12 +2,17 @@
 
 This concerns *reductive* naturalism the view that contains the following components:
 
-1. Normative concepts refer to normative properties (against non-cognitivism).
-2. Normative properties can be reduced to entities which are the subject matter of physics (synthetic naturalism).
-3. Normative properties can be reduced to non-normative properties (reductive synthetic naturalism) (optional).
-4. Normative concepts can be reduced to non-normative concepts (analytic naturalism) (optional).
+1. Normative concepts refer to normative properties (against non-cognitivism / constructivism).
+2. Some normative propositions are true (against Error Theory).
+3. Normative properties can be reduced to entities which are the subject matter of physics (synthetic naturalism).
+4. Normative properties can be reduced to non-normative properties (reductive synthetic naturalism) (optional).
+5. Normative concepts can be reduced to non-normative concepts (analytic naturalism) (optional).
 
-Forms of non-reductive naturalism, which deny both 3 and 4 (e.g. David Brink and Nicholas Sturgeon), are edge cases not considered here.
+Forms of non-reductive naturalism, which deny both 4 and 5 (e.g. David Brink and Nicholas Sturgeon), are edge cases not considered here.
+
+Also, analytic non-reductive naturalism (e.g. Michael Smith) is not considered here.
+
+It is not clear what the difference is between non-reductive naturalism (analytic and Synthetic) and metaphysically naturalist forms of non-naturalism. Perhaps one difference is that naturalistic theories appeal to explanation. Nor is it clear what the difference is bewteen Realism with non-ontologically committed conceptions of truth and constructivism/non-cognitivism. The difference seems to amount to difference in a conceptual scheme (e.g. like the differences between saying a statue is identical with its constituent marble versus being seperate). The difference must lie in the attitudinal nature of the judgments. Is motivation necessarily entailed or not?
 
 ## Analytic Naturalism
 

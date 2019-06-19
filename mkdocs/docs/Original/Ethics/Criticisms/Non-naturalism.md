@@ -2,12 +2,15 @@
 
 This concerns *metaphysical* non-naturalism which has the following components:
 
-1. Normative concepts refer to normative properties (against non-cognitivism).
-2. Normative concepts cannot be reduced to non-normative concepts (against analytic naturalism).
-3. Normative properties cannot be reduced to non-normative properties (against reductive synthetic naturalism).
-4. Normative properties cannot be explained by the entities studied by physics (against non-reductive synthetic natuarlism).
+1. Normative concepts refer to normative properties (against non-cognitivism / constructivism).
+2. Some normative propositions are true (against Error Theory).
+3. Normative concepts cannot be reduced to non-normative concepts (against analytic naturalism).
+4. Normative properties cannot be reduced to non-normative properties (against reductive synthetic naturalism).
+5. Normative properties cannot be explained by the entities studied by physics (against non-reductive synthetic naturalism).
 
-Forms of metaphysically naturalistic ethical non-naturalism, which deny 4 (e.g. Landau, Scanlon, etc.), are edge cases not considered here.
+Forms of metaphysically naturalistic ethical non-naturalism, which deny 5 (e.g. Landau, Scanlon, etc.), are edge cases not considered here.
+
+It is not clear what the difference is between non-reductive naturalism (analytic and Synthetic) and metaphysically naturalist forms of non-naturalism. Perhaps one difference is that naturalistic theories appeal to explanation. Nor is it clear what the difference is bewteen Realism with non-ontologically committed conceptions of truth and constructivism/non-cognitivism. The difference seems to amount to difference in a conceptual scheme (e.g. like the differences between saying a statue is identical with its constituent marble versus being seperate). The difference must lie in the attitudinal nature of the judgments. Is motivation necessarily entailed or not?
 
 These objections must not prove too much. Some or all of the above features are also true of counterfactual, probabilistic and causal properties, and many other a priori realms of knowledge (e.g. philosophy in general, mathematics, etc.). For each of these types of properties, either an explanation must be given as to how they can exist but not non-natural moral properties, or an explanation must be given as to why such properties do not really exist.
 
@@ -42,3 +45,7 @@ It seems to be an a priori conceptual truth that moral properties supervene on t
 ## Motivation
 
 Non-naturalism fails to account for the motivational feature of normative judgments for the very same reasons that mind-independent naturalism fails. The fact that moral properties move from the natural realm to the non-natural realm does not increase the motivational weight. Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any non-naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are necessarily action-guiding whereas attributions of R are only contingently action-guiding suggests that goodness and R are not analytically equivalent. 
+
+## Others
+
+How to know when our perceptions go astray? How to know if we're suffering from an optical illusions? How to know what's the best state of mind to be in when evaluating the reliability of intuitions?

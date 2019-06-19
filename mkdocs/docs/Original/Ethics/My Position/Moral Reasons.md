@@ -40,6 +40,39 @@ Where this lies in study of ethics
 				- In ability, e.g. losing a limb, mobility, etc.
 				- In opportunity, e.g. discrimination, oppression, etc.
 	- Establishing a method for establishing moral truth.
+	- How can we use conceptual analysis to determine the role of moral norms but not all norms
+		-> We can determine the role for norms, but not the role for attitudes.
+		-> As for rational *norms* (not the *attitudes*), we can discover them (i.e. instrumental rationality as constituitive), but we must give a non-reductive analysis (i.e. constructivism).
+
+Some disputes:
+
+Epistemology:
+1. Moral truths can be determined by reason alone
+2. More truths can motivate intrinsically
+3. Reason alone cannot motivate intrinsically
+
+Normativity
+1. All rational agents have reason to be moral
+2. Morality does not depend on any agent's particular desires or interests
+3. Reasons for action depend on an agent's particular desires or interests
+
+Personal/Interpersonal
+1. All rational agents have reason to be moral
+2. Society has reason to socially coerce people into being moral
+3. What society has reason to coerce people to do =/= what individuals have reason to do
+
+Substantive vs Formal characterizations - what kind of reasons are moral reasons?
+1. Formal characterizations 
+	- Moral reasons are reasons in general. 
+	- Don't seem to get at what morality is.
+	- Prudential reasons => Seem like a bribe, also not categorical
+	- Categorical reasons => Also seems like a bribe, seems inappropriate (e.g. rules of logic are not moral)
+2. Substantive characterizations
+	- Particular kinds of reasons
+	- Reasons toward a particular end
+	- We can still sensibly ask, Why be moral?
+
+Thomas Scanlon distinctions on blame (from a YouTube series, similar to the one where he mentions the substantive vs formal characterizations above)
 
 ## Moral Reasons
 
@@ -90,11 +123,15 @@ How to get to various moral theories
 			+ Not Seperateness of Persons => Impartial Consequentialism, ???
 
 0. Standard Personal reasons - I satisfy my interests 
+	- Not a moral theory. Doesn't specify rules for everyone.
 1. Speaker-personal reasons - everyone satisfy my interests
+	- Indexical, so not a moral theory.
 	- While not inconsistent, really doesn't make sense. It violates a constraint implicit in normative judgments, that others have reason to accept your principle. E.g. "You are morally forbidden from stealing from me when it benefits you, but I am morally permitted to do so when it benefits me". Strictly speaking, it is not a contradiction, but it does seem weird (like saying "X is true but I don't believe X"). 
+====> Below here are substantive questions. The above don't qualify as moral theories. They don't fulfill the role that moral discourse plays.
 2. Interpersonal reasons - everyone satisfy their interests
-	- While not inconsistent, violates the *interpersonal* nature of moral judgments, i.e. that others make interpersonal demands on the actions of others.
+	- While not inconsistent, violates the *interpersonal* nature of moral judgments, i.e. that others make interpersonal demands on the actions of others (and that we are sometimes answerable the demands of others).
 3. Impartial interpersonal reasons - everyone satisfy everyone's interests
+	- Seems like there are sometimes cases where we can favor our own interests over others.
 4. Reasons for action versus reasons for blame/shame
 
 Private vs Public reasons
@@ -110,7 +147,7 @@ The first feature (1) makes a claim about the reasons that individual agents hav
 
 The third feature (3) makes a claim about the reasons from an *interpersonal* perspective rather than an individual or personal perspective. It is the "*others* have reason to blame, disapprove or otherwise prohibit for X-ing" related to a judgment that X is immoral. Unlike personal reasons, interpersonal reasons often involve more than one agent. The question is whether there are grounds for one person (i.e. the judge) to disapprove of another person (i.e. the actor). One way of characterizing interpersonal reasons is by appealing to the personal reasons of society collectively. "Collectively" here must refer to some way of encapsulating the interests of people in general without merely reducing to the interests of *everyone* (e.g. perhaps by looking at the interests of most people, by aggregating everyone's interests, etc.). There are two explanations for why we can't do that: firstly, if we sought agent-neutral principles (e.g. "all agents ought to X", where X makes no reference to some feature of the acting agent), it doesn't seem that there are any behaviors that would satisfy the personal reasons of *everyone*; and, secondly, if we sought agent-relative principles (e.g. "all agents ought to X", where X does no specific reference to some feature of the acting agent), then it would just reduce to (1). So these principles must be receptive to some encapsulated summary of the interests of all agents in society. This is the *impartial* or *interpersonal* feature of morality. One example of a moral system that focuses on the collective aspect of the normativity of moral judgments is utilitarianism (where the encapsulation function is an aggregation over the well-being of all involved creatures).
 
-The problem is that both of these features of moral judgments have detestable consequences if considered on their own. The first feature (1) only appeals to *personal* reasons, i.e. goal-oriented, desire-based, prudential, etc. reasons. The issue is these reasons don't seem to give the interests of others any intrinsic weight. One's goal-oriented or prudential reasons can be in principle wholly independent of the interests of others. One would be morally obligated to take into account the interest of others only if they (a) happened to care about the interests of others intrinsically, or (b) doing so would promote their other intrinsic interests. This does seem to miss the force of moral judgments. On the other hand, focusing on what is reasonable from the interpersonal perspective seems to risk subjugating the individual to the demands of the collective. Because it focuses on an encapsulation of everyone's reasons, thus eliminating the seperateness of persons, it seems to allow for some principles to be moral even though they might grossly violate the rights of particular agents as a means to maximize the collective.
+The problem is that both of these features of moral judgments have detestable consequences if considered on their own. The first feature (1) only appeals to *personal* reasons, i.e. goal-oriented, desire-based, prudential, etc. reasons. The issue is these reasons don't seem to give the interests of others any intrinsic weight. One's goal-oriented or prudential reasons can be in principle wholly independent of the interests of others. One would be morally obligated to take into account the interest of others only if they (a) happened to care about the interests of others intrinsically, or (b) doing so would promote their other intrinsic interests. This does seem to miss the force of moral judgments. It also implies that individuals can have incompatible moral obligations, which seems wrong. On the other hand, focusing on what is reasonable from the interpersonal perspective seems to risk subjugating the individual to the demands of the collective. Because it focuses on an encapsulation of everyone's reasons, thus eliminating the seperateness of persons, it seems to allow for some principles to be moral even though they might grossly violate the rights of particular agents as a means to maximize the collective.
 
 The solution is to somehow strike a balance between the two features. The problem is that these two considerations pull in opposing directions. One way of doing this is to focus on individual personal reasons combined with some additional constraint that indirectly includes the interests of other agents. For example, you could consider the individual personal reasons a person has for selecting certain principles to govern society, while ignorant of their particular features in the society (Rawls). They would be placed behind a veil of ignorance where they don't know what their race, gender, wealth, talent, etc. will be in society. In this circumstance, an individual would have personal reason to consider the interests of everyone because (for all they know) they might be in any of those positions. Another might be to consider the individual personal reasons a person has for selecting a principle, assuming everyone followed that principle (Contractarianism, Gauthier, etc.). This can handle cases where everyone has individual reason to X over Y, but if everyone collectively did X over Y, then everyone would be severely worse-off than if everyone did Y (prisoner's dilemma). Kant is concerned with what you could rationally will *to be a universal law* which all other agents would follow. Other similar strategies include Habermas, Hare, etc.
 
@@ -184,8 +221,8 @@ Moral discussion concerns what *norms* to accept in society. Particular actions 
 
 The *justification* of a norm is not based on it being reasonable to any *particular* agent. Thus, a moral system is *completely* unsupported if its justification reduces to "*I* just prefer this system" (e.g. even a system with impartial *content* like utilitarianism must be shown to be reasonable to all parties involved if it is to be *justified*; it is a substantive question whether this can be done). Norms are justified because they can be reasonable from the "moral point of view", i.e. reasonable from the perspective of an agent with the aim of finding principles with intersubjective justifiability. The structural nature of reasons allow for there to be reasons to discount the relevance of other considerations that would serve as reasons in other contexts. When considering the reasons that constitute the moral perspective, there are some constraints on the relevance of certain principles for moral reasoning:
 
-- Personal Reasons: only personal reasons can be reasons to reject a principle. Personal reasons include the well-being, their desires, goals, etc. They do not include impersonal reasons (e.g. someone who has a concern for the environment) or interpersonal reasons (e.g. someone who has a concern with the interests of others).
-- Impartiality: considerations that are indexical can be dismissed. This places an impartiality constraint on moral reasons in three ways: (1) the content - the nature of the duty, (2) the application - who the duty applies to, and (3) the justification of moral norms must not make reference to any proper nouns. E.g. that A in particular is harmed is not a reason against a principle if all alternative principles would result in a comparable or worse harm for others.
+- Personal Reasons: only personal reasons can be reasons to reject a principle. Personal reasons relate to well-being, desires, goals, freedom, etc. They do not include impersonal reasons (e.g. someone who has a concern for the environment) or interpersonal reasons (e.g. someone who has a concern with the interests of others).
+- Impartiality: considerations that are indexical can be dismissed. This places an impartiality constraint on moral reasons in three ways: (1) the content - the nature of the duty, (2) the application - who the duty applies to, and (3) the justification of moral norms must not make reference to any proper nouns. E.g. (1) there can be no duties that say "benefit person A".  (2) there can be no duties that vary depending on who someone happens to be (it depends on their circumstances). (3) that A in particular is harmed is not a reason against a principle if all alternative principles would result in a comparable or worse harm for others.
 - Degenerate Interests: Interests that either (a) neglect the interests of others or (2) are based upon a desire for the harm of others can be dismissed.
 - Responsibility: Harm to those who are responsible is more justifiable tham harm to those who are irresponsible. E.g. if a principle would impose a burden on people by virtue of negligence, poor intentions, etc.
 - Aggregation: aggregation in itself doesn't matter. See T.M. Scanlon
@@ -314,6 +351,9 @@ Morality is rationally optional, but this doesn't diminish its authority:
 	- Deduction/induction/abduction/evidence/science cannot be reasonable to someone who doesn't care for those forms of reasoning
 - Not ontologically independent
 	- Who cares about ontology
+- No shared inputs
+	- With science, we share the same perceptions/observations?
+	- With morality, there is widespread disagreement. Might there be a general principle that all must agree to?
 
 There are no judgment-independent standards of moral truth, but that's a good thing:
 
@@ -326,6 +366,11 @@ Objectivity: imagine people have widely divergent beliefs. Objectivity is possib
 
 Might there be a similar methodology for practical rationality or ethics? There is no reliable, impartial, etc. methodology for determining what a person has reason to do, so there is clearly no such methodology for ethics. So how can we determine the content of moral principles? (1) We determine the content of practical rationality (what is good for individuals, or what individuals have reason to do) and (2) We determine how morality relates to practical rationality. Once we agree on what makes an ordinary person's life go well and determine how wellness relates to morality, we can determine moral content. We must determine what is good by appealing to intuitions we already agree with. If someone completely disagrees with what makes one's life go good, then surely they will never agree with any moral principles. However, appealing to shared intuitions about goodness is useful: people are more likely to agree on what makes one's life go best than they are to agree with what is morally right or wrong. E.g. at a minimum, people must agree that one's life goes best when provided with positive liberty to do what they want. Note that we don't need agreement in our moral views; we need agreement in what constitutes a good life. 
 
+Disagreement
+- There is widespread moral disagreement. This is explained by intuitionist by the fact that we have different beliefs, different circumstances (circumstances which justify different moral positions, e.g. infanticide in food-sparse areas) or different levels of rationality. The basic moral perceptions, it is claimed are actually identical.
+- I agree that much disagreement can be reduced to these features and not disagerements in basic moral values (I don't use perceptions). However, there is no reason to believe that all fully informed, fully rational beings would agree about that is morally appropriate in different circumstances.
+- I can agree that there would be near-unanimous agreement about what kinds of considerations are relevant and irrelevant (see above: well-being, liberty, autonomy, etc.) in fully informed, fully rational humans. 
+- However, there will be widespread disagreement on what to do when these considerations conflict (e.g. harm one person to help another). In developed socities, for example, there is widespread disagremeent about using force against innocent to assist the disadvantaged. We need a procedure to determine which considerations are to trump others in which circumstances.
 
 Some notes:
 - Reason is purely procedural. It is concerned with amelierating *conflicts* and striving for *coherence* of our aims.

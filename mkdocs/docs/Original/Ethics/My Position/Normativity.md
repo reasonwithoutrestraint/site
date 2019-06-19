@@ -32,9 +32,13 @@ Copied in Topics.md
 	- Kinds of reasons concepts
 		- Normative vs non-normative "should" (e.g. "he should arrive here soon")
 		- Explanatory vs Justificatory reasons
-		- Objective vs Subjective reasons (e.g. reasons under lack of information)
+		- Objective vs Subjective reasons / Available vs Potential Reasons (e.g. reasons under lack of information)
 		- Right/Wrong kinds of reasons
 		- Internal vs External reasons
+		--->
+			- Available Reasons => Rationality
+			- Potential Reasons => Counterfactual endorsements under rationally endorsed conditions
+			- External Reasons
 	- Other different categories of reasons
 		- Deontic vs Evaluative (proposition P should be true versus agent A ought to acquire attitude X)
 		- Agent-Neutral / Agent-relative

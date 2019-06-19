@@ -155,20 +155,19 @@ Argument for deontic restrictions ("side constraints")
 ### Against utilitarianism
 
 Problems:
-1. How is happiness defined? (don't have huge opposition) 
-	- See earlier issues
-2. How to quantify the good?
+1. How to quantify the good?
 	- In ordinary circumstances (not philosophical thought experiments), there is a balance of certain people being harmed on both sides (consider restrictions on free speech). How do you know that the harms from one side outweigh the other?
-3. What aggregation function for collective well-being?
+2. What aggregation function for collective well-being?
 	- See earlier issues
-4. Why assume that the right reduces to the good?
+3. Why assume that the right reduces to the good?
 	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
 	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
 	- Intuition: 
 		- From an impartial perspective (e.g. behind a veil of ignorance, not using indexicals, etc. and only looking at goods of foundational value, e.g. happiness, preferences generally, etc. regardless of whether it is degenerate interests, distinguishing between deserved/predictable harms versus undeserved/unpredictable harms, etc.), I might agree that it is "better" to live in world where there were less innocent deaths. But that doesn't commit me to thinking it is moral to kill an innocent to reduce deaths (even if there was a rule that reliably reduced the death efficiently by killing innocents). One might say that this is because I think killing innocents is worse than killing people dying due to desert or negligence. However, I don't know why these features are relevant from an impartial perspective (i.e. behind the veil of ignorance, you only care about happiness generally, not whether its distributed toward those with the appropriate intentions). From an impartial perspective, there is no distinction between two worlds with identical amount of happiness, preference-satisfaction, etc. etc. where in one world the happiness is distributed to the virtuous but in another case it is distributed toward the vicious. From an impartial perspective, these are "equally" good, i.e. would be preferred equally by someone who didn't know if they would be vicious or virtuous. However, I believe there is a moral distinction. So there is clearly a difference between good and moral.
 		- And if we are not speaking about our preferences from behind the veil of ignorance, then my preferences might be fairly egoistic. In this case, "good" might coincide with "moral". But then what I count to be "good" would probably diverge greatly from what others think. 
-5. Why does everyone have reason to accept this? Why would X have reason to make significant sacrifices to himself to improve the overall state? 
+4. Why does everyone have reason to accept this? Why would X have reason to make significant sacrifices to himself to improve the overall state? 
 	- It seems individuals don't have reason to accept a system that would subjugate them to impersonal optimality. To use intuitions to show this: if utilitarianism were true, then individual agents would be morally required to subjugate *themselves* to impersonal optimality (not just that *others* would be morally required to do this). But it does not seem that individuals have reason to do this. Because agents have no duty to do what they lack reason to do, agents do not have a moral duty to maximize the good
+5. People morally obligated to sacrifice themselves for (1) the the life of another, if it is known that the other's life would be better, and (2) the well-being of many others, if it is known that their well-being would exceed your own.
 
 ## Consequentialism
 
@@ -188,10 +187,12 @@ From most necessary for consequentialism to least necessary:
 - Agent-neutrality and temporal-neutrality:
 	- R is an agent-neutral reason for A to X (i.e. A has reason to X *because* of fact R) iff: R is characterized without reference to A. This focuses on the general form or principle of R, not just the particular token of the reason. E.g. the general form of the reason in "A has reason to help his friend because it would make his friend happy" can be either "A has reason to make his friends happy" (agent-relative) or "A has reason to make others happy" (agent-neutral). 
 	- The state of affairs to be promoted can *always* be characterized without reference to the particular agent doing the acting. We can say X is better than Y simpliciter, not X is better than Y *for* Bob or Jane. This is not to say that we ought not do different things in particular cases. We can, but the goal is always towards the same ideal state of affairs (e.g. maybe Bob doing X and Jane doing not-X is the best way to maximize utility). E.g. a world with 1 bad act > world with 2 bad acts. Thus, we should achieve the former between the two. This means A must perform 1 bad act if it prevents 2 bad acts. The only this can be avoided by defining good state of affairs to be relative to the acting agent, but this cannot be done. 
+	- E.g. the moral obligation for an agent does not give a special status to that agent. This seems off to me. Agents can value themselves slightly more than others.
+	- E.g. the moral obligation is towards a non-indexed state of affairs, not an agent-indexed action. E.g. A has reason to rape if it reduces overall rape. Not sure about this.  
 	- Similar remarks can be made about certain times: the state of affairs to be promoted can be characterized without reference to the time that the agent does the acting.
 	- Egoism rejects this, but egoism shouldn't be understood as consequentialism which is focused on maximizing *The* Good. *The* Good assumes there is one good to be maximized, not many different goods relative to different agents.
 - Aggregative/Atomism/Maximizing: 
-	- Value of the whole = sum of value of the parts. Small utilities build up over large utilities. Contrast this atomistic consequentialism with a hollistic form of consequentialism, which might, e.g., look at distributiosn as relevant.
+	- Value of the whole = sum of value of the parts. Small utilities build up over large utilities. Contrast this atomistic consequentialism with a hollistic form of consequentialism, which might, e.g., look at distributions as relevant.
 	- This entails reasons which are agent/time-neutral, or at least not *strictly* agent/time-relative (see above). E.g. if a reason is strictly agent-relative, i.e. concerning the occurence of a particular agent performing an action, then there is no sense in a duty concerned with aggregating over everyone's actions and summing utilities up.
 	- Aggregative across people. E.g. assuming U(A) >= U(B) >= 0 where A and B are persons, U(A+B) > max(U(A), U(B)). Assuming N number of people with identical individual utility, U strictly increases as N increases. I reject this.
 	- Aggregative across time. E.g. assuming U(X) >= U(Y) >= where X and Y are time slices of the world. U(X+Y) > max(U(X), U(Y)). Assuming t timespan of a particular region with identical instantaneous utility, U strictly increases with t. I reject this.
