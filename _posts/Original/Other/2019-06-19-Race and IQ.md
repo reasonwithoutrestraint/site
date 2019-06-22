@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Race and IQ
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 ## Definitions, Significance, Method, Outline
 

@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Moral Reasons
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 Moral judgments are deeply tied to distinctly moral emotions and attitudes - blame and guilt. There are two ways that moral judgments are associated with these basic attitudes. Firstly, agents who make moral judgments directly express those attitudes, or a disposition to have those attitudes in certain situations. Secondly, agents who make moral judgments express a normative judgment that said attitudes are appropriate, i.e. they express their *endorsement* of those attitudes in certain situations. First, let us discuss the motivational implications of moral judgments. When an agent makes a moral judgment, (1) the agent is disposed to regulate his behavior as prescribed by the judgment, (2) he is disposed to feel guilt himself for violating the standard, and (3) he is disposed to blame others for violating the perscribed standard. Oftentimes, the agent thinks others are *capable* of being motivated to regulate their behavior in accord with the norm, i.e. they would be receptive to the reasons favoring the norm. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense if B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make sense for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, aliens etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
 

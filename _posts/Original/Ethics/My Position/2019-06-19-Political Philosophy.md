@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Political Philosophy
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 ## Readings
 
@@ -307,6 +310,21 @@ Principles I accept:
 
 ### Justified uses of coercion
 
+Central principle:
+	- What kind of world do fully informed, full rational individuals prefer to live in?
+	- Individual permissions 
+		- Individuals are permitted to freely form contracts without outside interference.
+		- Or, rather, the contracts that they would form if they were fully informed, fully rational, etc.
+		- Individuals can apply force to others if the other person is impaired.
+		- Individuals can force others to compensate for actions that undermined contract-formation (e.g. theft, violence, etc.).
+		- Individuals can defend themselves via force.
+	- State power: 
+		- Individuals can produce preferred systems that cannot be secured via contracts.
+		- People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
+		- (1) Subsidized protection against violence, natural disasters, etc. Minor constraints used to alleviate major constraints.
+		- (2) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
+		- Affects all people. Must be decided democratically.
+
 - Consent: 
 	- Explicit
 	- Implicit
@@ -325,41 +343,70 @@ Principles I accept:
 	- The portion taken is too small to cause large harm to the person's interests (e.g. in taxation)
 	- The person is compensated for the transaction in the same resources
 	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
+- Unwanted Externalities
+	- Requirements:
+		- Most people in a region prefer the opportunities to form contracts with features X
+		- Most people are incentivized such that their actions in the market make it impossible for contracts of feature X to succeed
+		- Thus, people's choices in a free makert are not expressions of their preferred contract system
+		- People can express their contract preferences via voting
+		- Note that the competing harms here are identical, e.g. people being restricted due to the free market versus the voting system.
+		- Not that this applies to deciding how contracts are formed, not necessarily other preferred systems (e.g. this doesn't apply to whether people prefer gay people to be around). Why contracts?
+			- (1) If everyone in a free market acted to incentivize contracts of type X, then contracts of type not-X would be disincentenvized from existing.
+			- (2) If everyone in a free market acted to incentivize contracts of type X, this would not be an unjust restriction on employees/employers who prefer contracts of type not-X. 
+			- (3) Whether an employer/employee is restricted from engaging in contracts of type not-X due to forces of free market versus forces of the political system does not influence the *personal harm* that this places on those employees/employers. Harm here is measured in their opportunity to satisfy their preferences.
+			- (4) Whether a political/economic system is just supervenes on the harm it places on people.
+			- (5) [1 and 2] if contracts of type not-X are disincentivized from existing due to free market actions, then this would not be an unjust restrictions on those who preferred contracts of type not-X.
+			- (6) [3 and 4] Whether people are restricted from engaging in contracts of type not-X due to forces of the free market versus the political system is not relevant to whether they are treated justly.
+			- (7) [5 and 6] if contracts of type not-X are disincentivized from existing due to a voting system, then this would not be an unjust restriction on those who preferred contracts of type not-X.
+		- This does not work for things like wanting there to be no gay people because the 2nd permise wouldn't pass through. E.g. if everyone in a free makret acted to incentivize killing gay people, this WOULD be an unjust restriction on gay people.s
+	- Example: workplace benefits, regulations, etc. 
+		- Most employees in a region would prefer mandated time off from their employers if they were fully informed, fully rational and had the power to unilaterally decide what kind of system to live in.
+		- However, most employees are incentivized to go to companies that do not provide benefits because these companies tend to be more successful because they are more economically efficient.
+		- What about the employees who prefer companies that do not provide benefits? Aren't we forcing them by restricting their opportunities? 
+			- It is the same restriction that one would feel if either they preferred a style of company that offerred benefits but the market didn't incentivize it. 
+			- Thus, without these regulations, people who preferred these regulations would feel the same restrictions in the opposite direction. So the restrictions are equivalent and we should side with whatever is democratically decided. The only difference is one is decided by individuals via their choices in the market, and the other is decided by individuals via their voting preferences. The mechanism imposing the restriction is different, but the restriction *on the minority employees/employees* is identical.
+			- It might be argued that the restrictions are different, because in a regulated system there will be *no* companies without these benefits. Whereas in a free system, there would still be *some* companies with those benefits, but people would be incentivized against going there so they would be less successful/frequent. Two responses: (1) the hypothetical was that the free system was such that there are *no* viable, successful companies with benefits in a free market. In which case, the restrictions would be equivalent. (2) if it is the case that there would be some viable successful companies with benefits in a free market but they would be a bit less efficient and so less frequent, then it is not just to force all companies to offer benefits. However, it is just to manipulate taxation such that companies with benefits are at no disadvantage. Assuming the only unwanted externality of the free market as that one's preferred company receives less income (i.e. assuming that's the only reason why people are individually incentivized to perpetuate a system that they don't want), then this will be sufficient regulation and no more is justified. 
+		- Okay, employees are not forced any more than in a free market. What about the employers who do not want to provide benefits? Aren't we forcing them by not even allowing them to open up their business?
+			- See above. The same answers apply.
+	- Similar examlpes:
+		- Workplace benefits, regulations, etc.
+		- Large business undercutting small businesses with low profit margins
+		- Theft?
+	- When local preferences does not match global preferences
+		- I.e. when a person wants system X but they are individually incentivized to perform actions that lead to system Y, because their actions (in an unconstrained free market) only affect their individual benefits, rather than the system as a whole. 
+		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
+		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
 - Protection: Protection against constraints
 	- Whether current or future (i.e. pre-emptive protection is justified)
 	- Examples of protection. Protect against:
 		- Physical coercion, 
 		- Excess resource usage,
 		- Non-agent caused constraints 
-		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
-		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
 	- Responsibility (when considering to force A to assist B)
 		- If B is causally responsible for his own diminished liberty,
-			-> B not permitted to force anything. The state cannot force anything.
+			- No one permitted to force A, A not obligated.
 		- If A is causally responsible for B's diminished liberty,
-			-> B permitted to force A to assist, and A is obligated to. The state is permitted to force A.
-		- If neither are responsible,
-			- If coercing A is the only way to alleviate constraints on B
-				- If the constraints on A are major
-					- If the constraints on B are minor.
-						-> Not permitted to use force. A not obligated to assist.
-					- If the constraints on B are major.
-						-> A not obligated to assist, but B permitted to use force. The state not permitted to use force.
-				- Else, constraints on A are minor (e.g. property redistribution)
-					- If constraints on B are minor,
-						-> Not sure.
-						-> Perhaps see optional regional constraints.
-					- If constraints on B are major
-						-> See optional regional constraints
-			- Else, the other path must be chosen to alleviate the constraints
+			- The state is permitted to force A.
+			- B permitted to force.
+			- A obligated to assist. 
+		- If neither are responsible, but coercing A is the only way to alleviate constraints on B
+			- If the constraints on A are major
+				- The state not permitted to use force.
+				- B permitted to use force if his constraint is major.
+				- A not obligated to assist.
+			- Else, constraints on A are minor (e.g. property redistribution)
+				- If constraints on B are minor,
+					- See optional regional constraints.
+				- If constraints on B are major
+					- See optional regional constraints
 	- Democratic regional constraints
 		- The advantaged are not obligated to assist, but state/individuals are permitted to use force against the fortunate
 		- Requirements
-			- Optional democratic communal laws to aid people in their purposeful lives
 			- Justified instances of *minor* coercion to alleviate major (or minor?) constraints
 			- The scope of the coercion is restricted to what is required to prevent the constraints
-		- Examples
 			- What counts as major vs minor depends on the community?
+			- People must have a base level right to exit the community.
+		- Examples
 			- E.g. taxation, restricting speech, dress codes, etc.
 		- Enact major constraints to alleviate major constraints? By the state, no. By individuals in squalor? yes. 
 

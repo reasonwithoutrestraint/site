@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Non-Naturalism
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 This concerns *metaphysical* non-naturalism which has the following components:
 1. Normative concepts refer to normative properties (against non-cognitivism / constructivism).

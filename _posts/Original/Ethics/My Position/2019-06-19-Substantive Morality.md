@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Substantive Morality
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 This is to flesh out my substantive ethical theory, to specify specifically which actions are right and wrong in a way that can be characterized without reference to normative terms.
 

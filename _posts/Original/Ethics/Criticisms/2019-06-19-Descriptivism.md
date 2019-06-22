@@ -1,6 +1,9 @@
 ---
-layout: post
+title: Descriptivism
+layout: article
 author: JayMoss
+sidebar:
+  nav: org
 ---
 ## Key features of Normativitys
 - Ubiquitous - 
