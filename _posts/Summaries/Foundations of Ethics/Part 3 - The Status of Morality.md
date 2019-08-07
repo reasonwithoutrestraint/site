@@ -50,7 +50,7 @@ Problems with expressivism
 
 ### There are no categorical reasons
 
-There are no categorical reasons. Suppose you are hiking along a cliff path and notice a stranger who is absent-mindedly walking from the opposite direction. You see that he’s about to take a wrong step and plunge to his death. Th ere is a reason to yell to him and alert him of the danger. And that reason applies to you even if you don’t care a bit about the man or about the pats on the back you’ll receive when the story gets out. 
+There are no categorical reasons. Suppose you are hiking along a cliff path and notice a stranger who is absent-mindedly walking from the opposite direction. You see that he’s about to take a wrong step and plunge to his death. There is a reason to yell to him and alert him of the danger. And that reason applies to you even if you don’t care a bit about the man or about the pats on the back you’ll receive when the story gets out. 
 - Question begging?
 
 ### Moral motivation undermines objectivity

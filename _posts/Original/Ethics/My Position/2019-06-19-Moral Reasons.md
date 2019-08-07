@@ -166,7 +166,8 @@ The solution is to somehow strike a balance between the two features. The proble
 			- If we must choose between causing one person harm and N people comparable harm, then it the size of N does matter.
 			- If we must choose between causing one person extreme harm and N people serious but not as extreme harm (e.g. paralysis versus loss of limb), then does the size of N matter? There may be no determinate answer to cases like this.
 	- Veil of Ignorance
-		- Personal reasons a person has under the veil of ignorance.
+		- What is rational assuming an equal chance of being anyone
+		- Note that "reasonable assuming equal chance of being anyone" =/= "reasonable for everyone".
 	- Contractualist:
 		- Norms no one could reasonably reject as a basis for unenforced, informed cooperation given that one has such a desire.
 		- This does suggest that all agents should be treated as ends in themselves? (maybe not as strong as in the Kantian sense). If agents are not ends, then why does it matter if they can reasonably reject a principle?

@@ -42,6 +42,7 @@ Ontological
 Psychology
 - Perceiving/feeling X and judging X - Perceiving X to be yellow (having a certain sensation) =/= Believing X to be yellow (believing that normal humans are disposed to have the sensation). 
 - Holding attitude X and judging X to be reasonable. 
+- Holding attitude X, judging X to be reasonable, and pondering whether its true that X is reasonable.
 --> Differences:
 - Perceptions/judgments are representation. Attitudes/judgments are not.
 - Judging X to be reasonable influences whether one holds attitude X. Believing X need not influence one's perception that X.

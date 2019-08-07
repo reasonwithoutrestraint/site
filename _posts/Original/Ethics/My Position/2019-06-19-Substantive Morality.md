@@ -5,6 +5,40 @@ author: JayMoss
 sidebar:
   nav: org
 ---
+
+Readings:
+- Consequentializing
+	- Goals
+		- Intro to consequentialism vs deontology. 
+		- Included acts in the outcomes
+		- Some forms of consequentialism:
+			- Maximizing vs Satisficing
+			- Agent-neutral vs Agent-relative
+			- Time-neutral vs Time-relative
+			- Aggregative vs non-aggregative
+			- Constituitive vs Causal consequences
+	- SEP paper
+	- [x] Nozick, Seperateness of persons paper. Why assigning a value to acts is not sufficient.
+	- [ ] Drier, "Structures of Normative Theories" (1993)
+	- [ ] Portmore, "Consequentializing moral theories" (2007)
+	- [ ] Schroeder, "Teleology, Agent-Relative Value, and ‘Good’" (2007)
+	- [ ] Portmore, "Consequentializing" (2009)
+	- [ ] Peterson, "A Royal Road to Consequentialism?" (2010)
+	- [x] Brown, "Consequentialize This" (2011)
+	- [x] Drier, "In defense of consequentialization" (2011)
+	- [ ] Schroeder, "You Don't Have to Do What's Best!" (2011)
+	- [ ] Hurley, "Consequentializing and Deontologizing" (2013)
+	- [ ] Tenenbaum, "The Perils of Earnest Consequentializing" (2014)
+	- [ ] Portmore, "Replies to Gert, Hurley, and Tenenbaum" (2014)
+	- [x] Schroeder, "Consequentializing and Its Consequences" (2017)
+	- [ ] Sauer, "The cost of consequentialization" (2019)
+- Objections to utilitarianism/consequentialism
+	- Demandingness: agent-relative vs agent-neutral
+	- Time-neutral vs time-relative
+	- Maximizing vs satisficing
+	- Aggregation vs non-aggregative
+- Justified uses of force
+
 This is to flesh out my substantive ethical theory, to specify specifically which actions are right and wrong in a way that can be characterized without reference to normative terms.
 
 - Constructivism
@@ -43,6 +77,10 @@ This is to flesh out my substantive ethical theory, to specify specifically whic
 	- Discrimination: Legal in some circumstances
 
 ## Types of moral arguments
+
+1. Reflective Equilibrium - Consistency and Intuitiveness
+2. Linguistic - what we mean with ethical terms
+3. Common commitments - rationality, universalization (e.g. from Kant)
 
 To argue that a particular act X is wrong/right in a particular circumstance C, there are a few possible arguments:
 
@@ -139,7 +177,18 @@ For aggregating across time and aggregating across time
 
 ## The Right - Fundamental moral principles 
 
-In order for an action to be wrong, it must be bad for someone, i.e. limiting in their fully rational aims in some way.
+---
+
+In order for an action to be wrong, it must be bad for someone, i.e. limiting in their fully rational aims (their "interests") in some way.
+
+However, interests are not the only considerations relevant for morality. Moral rightness doesn't just reduce to non-moral goodness. The "weight" of an interest (even if fully rational) is not sufficient to generate moral duties. 
+- Responsiblity moderates the legitimacy of the interests. E.g. we have less of a duty to alleviate burdens from someone who was fully responsible for their condition.
+- Morally illegitimate interests. E.g. We don't have to respect someone's desire to not see gays in public.
+- Degenerate Interests don't have the same weight as non-degenerate interests. e.g. We don't have to respect desires to harm others
+
+Thus, moral rightness does not reduce to non-moral goodness. However, it's an open question as to whether there can be a notion of moral goodness seperate from non-moral goodness, to which morality reduces. This can possibly reduce morality to consequentialism.
+
+---
 
 There are fundamentally different kinds of aims. Cannot be reduced to one another, neither in their significance to the person nor in their relevance for moral decisions (e.g. coercion cannot be justified by compensating preferred state of consciousness):
 
@@ -165,26 +214,100 @@ Problems:
 	- See earlier issues
 3. Why assume that the right reduces to the good?
 	- The good is all we care about. Sure, but that says nothing about morality. Plenty of normative realms are not just matters of promoting the good (epistemology, ettiquette, etc.), so why assume that's the case for morality? E.g. epistemology is not consequentialist.
-	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is?
-	- Intuition: 
-		- From an impartial perspective (e.g. behind a veil of ignorance, not using indexicals, etc. and only looking at goods of foundational value, e.g. happiness, preferences generally, etc. regardless of whether it is degenerate interests, distinguishing between deserved/predictable harms versus undeserved/unpredictable harms, etc.), I might agree that it is "better" to live in world where there were less innocent deaths. But that doesn't commit me to thinking it is moral to kill an innocent to reduce deaths (even if there was a rule that reliably reduced the death efficiently by killing innocents). One might say that this is because I think killing innocents is worse than killing people dying due to desert or negligence. However, I don't know why these features are relevant from an impartial perspective (i.e. behind the veil of ignorance, you only care about happiness generally, not whether its distributed toward those with the appropriate intentions). From an impartial perspective, there is no distinction between two worlds with identical amount of happiness, preference-satisfaction, etc. etc. where in one world the happiness is distributed to the virtuous but in another case it is distributed toward the vicious. From an impartial perspective, these are "equally" good, i.e. would be preferred equally by someone who didn't know if they would be vicious or virtuous. However, I believe there is a moral distinction. So there is clearly a difference between good and moral.
-		- And if we are not speaking about our preferences from behind the veil of ignorance, then my preferences might be fairly egoistic. In this case, "good" might coincide with "moral". But then what I count to be "good" would probably diverge greatly from what others think. 
+	- Metaethical: morality just is social rationality, and rationality is promoting the good. Is that what morality is? What is "social rationality".
 4. Why does everyone have reason to accept this? Why would X have reason to make significant sacrifices to himself to improve the overall state? 
 	- It seems individuals don't have reason to accept a system that would subjugate them to impersonal optimality. To use intuitions to show this: if utilitarianism were true, then individual agents would be morally required to subjugate *themselves* to impersonal optimality (not just that *others* would be morally required to do this). But it does not seem that individuals have reason to do this. Because agents have no duty to do what they lack reason to do, agents do not have a moral duty to maximize the good
-5. People morally obligated to sacrifice themselves for (1) the the life of another, if it is known that the other's life would be better, and (2) the well-being of many others, if it is known that their well-being would exceed your own.
 
 ## Consequentialism
 
-Features of consequentialism:
+
+
+Main objections to utilitarianism:
+Structure: how the ranking of outcomes relates to the rightness of acts
+- Maximizing: can be met with satisficing consequentialism
+Collective Goodness: ranking outcomes for groups
+- Demandingness: can be met with agent-relative consequentialism
+- Aggregation: can be met with non-aggregative consequentialism
+Individual Goodness: ranking outcomes for individuals
+- Hedonism: can be met with non-hedonistic utilitarianism (e.g. preference utilitarianism)
+- Commensurability: can be met with pluralistic utilitarianism
+
+Why to reject consequentialism:
+- Against the consequentialist thesis:
+	- There is not always a way to definitively determine which world is better than another, e.g. when some are worse off and others are better off.
+	- In cases where A is definitively better than B, there could still be moral constraints preventing us from instantiating A over B:
+		- So the moral does not reduce to goodness.
+		- Objection: we can include those moral constraints into the goodness evaluation.
+		- But I think people shouldn't violate those constraints even if it would reduce the number of those violations (i.e. even if it would be better).
+		- Objection: we can make those moral constraints time- and agent-indexed.
+		- But I think there's a notion of objective goodness that is not time- or agent-indexed. In that I think people ought to attempt to instantiate this notion of goodness, conditional on them obeying the moral constraints. This notion of objective goodness is important because: there's a notion of goodness that I think should regulate the behavior of an omnipotent, impartial observer who is deciding on how to instantiate certain realities into existence. THIS notion of goodness, however, is not what grounds our moral duties, and THIS notion of goodness does not include any side constraints.
+		- As for subjective goodness (i.e. what is good-for an agent), these can be agent-indexed (though not indexed). However, these do not determine one's moral duties.
+		- Perhaps it is a combination of subjective goodness and objective goodness that determines our moral duties. So rightness really does just reduce to goodness. Some problems:
+			- What are the relative priorities of objective and subjective goodness? Clearly, this cannot be explained by goodness. One needs to introduce deontological reasoning. However, one can object that this requires deontological reasoning, but it doesn't influence the output. The output is still expressable in consequentialist terms. However, there is no sense in which the outcomes can be ranked in a way that I agree are maximizing goodness. Because I don't have some third conception of goodness that weighs objective and subjective goodness.
+			- There are some features releavant to moral duties that I don't believe relate to objective or subjective goodness. I.e. responsibility, the content of one's interests, desert, etc. These are features that I would not want an omnipotent, impartial observer to take into account when instantiating the world, which I do think ought to be the moral constraints on behavior.
+	- One cannot avoid consequentializing by denying that all moral theories can be consequentialized. Clearly any moral theory CAN be consequentialized. However, one can avoid BEING a consequentialIST:
+		- One can posit a person theory of goodness and a personal moral theory and argue that these diverge. Some (e.g. Drier) argue that our concept of goodness is not seperate from our concept of ought-to-be-pursued, thus these two theories cannot really come apart. For something to be good just is to say that it ought to be pursued. So any moral constraints on what we ought to do can be interpreted as beliefs about goodness. However, as shown above, there is a sense of goodness that is seperate from anything that determines moral constraints.  
+		- One can emphasize the differences that deontology and consequentialist give to the REASONS for our moral duties. Deontology might point to contractual considerations or respect for autonomy, whereas consequentialism points to well-being. It could be argued that deontological considerations can be expressed in the form of consequences, e.g. one is really considered with minimizing agent-relative and time-relative violations of autonomy or contracts, but this does not actually ring true of the reasoning of actual deontologists. Consequentialists begin by evaluating states of affairs, i.e. ranking realities according to some preferred metric. Deontologists do not do this, e.g. they start from the relationships we have with one another. It is phenomonologically implausible to suggest we are starting from a bunch of agent-indexed, time-indexed ranking of realities and then reasoning from there.
+		- Of course a consequentializer can emphasize that for any deontologist, his moral theory can be converted to a consequentialist theory + a particular theory of the good. This is true, however, the point for the deontologist is to deny that theory of the good. Thus, the deontology/consequentialist divide may not be most appropriate as properties of moral THEORIES (i.e. if theories are just defined by their deontic output); rather, they should be seen as (1) properties of THEORISTS and (2) properties about the reasons/justifications/rationale for the theories. 
+- Epistemic Problems
+	- Comparing and quantifying goodness across individuals seems implausible
+- Reject collective goodness in general.
+	- Collective goodness is clearly related to individual goodness. Specifically, collective goodness supervenes on individual goodness.
+	- Does it even make sense to talk about collective goodness?
+	- Goodness relates to what we have reason to do.
+	- It makes sense to talk about what is good for X, because it relates to what X has reason to desire.
+	- But what does it mean to talk about goodness simpliciter? How can there be reasons simpliciter to desire something? 
+	- Specific individuals might have reason to prefer (collective) certain states of affairs over others (e.g. say, if they were to choose what kind of distribution to be randomly placed into, or what kind of life to continually live). But this can differ by individual depending on their level of riskiness.
+	- Further, there might be certain situations that everyone has reason to prefer, but only in trivial circumstances, e.g. a policy that makes everyone else better off. But consequentialism purports to provide more than this, it is supposed to explain how sometimes harming certain people is offset by benefiting others.
+	- Instead of looking torwards evaluations of collective states of affairs, we seek principles that constrain our behavior without reference to any notions of final goodness. 
+- Reject completeness: 
+	- Agents have multiple optional spaces of consequences to product
+	- Satisficing vs maximizing consequentialism
+	- This is not JUST satisficing, because agents are permitted to be sub-optimal so long as they don't cause extreme suffering.
+	- Further, agents have PERMISSION (not OBLIGATION) to value themselves. E.g. if they chose to save themselves instead of 2 othes, or if they chose to save 2 others instead of themselves, both  are permissible and neither is blameworthy.
+- Reject agent-neutrality: 
+	- Agent-relative vs neutral consequentialism
+	- Agents can over-value themselves
+	- Agents are not obligated to do henious actions, even if it leads to a positive net utility (even after taking into account their over-evaluation of themselves). E.g. if raping an innocent women leads to fewer rapes in the future, we are not obligated to rape her. A further question is whether this would be a good thing.
+- Reject aggregation: 
+	- many small pleasures =/= one terrible experience
+	- Applies over people and over time
+	- Seperateness of persons. Two bads distributed over people is not twice as bad as an equal bad over one person, since there is no individual who experiences the two bads.
+- Reject commensurability
+	- Not all types of goodness can be compared to one another
+	- There is no number line or to rank them, what does a number line even mean?
+- Reject hedononism
+	- There are other goods, i.e. desire satisfaction.
+	- We need to adjust for certain kinds of dessert (at least for a theory of morality, not necessarily for a theory of goodness)
+		- Certain people deserve pleasure more than others, e.g. good people.
+		- Degenerate interests. Certain pleasures are inherently worse than others, i.e. pleasures in the suffering of others
+		- Responsibility. People who willingly take actions to reduce those pleasures can be given less weight than those whose pleasures are reduced due to no fault of their own.
+		- Intentions. An intentional act might be equally as good as an unintentional act (e.g. imagine they have the same consequences) but the intentional act is subject to moral evaluation whereas the latter is not.
+			- Intentional vs accidental act: e.g. voluntary and nonvoluntary act with the same consequences
+			- Action vs Inaction: e.g. killing someone versus refraining from doing something that leads to someone's death.
+		- These probably are not relevant to a theory of goodness, i.e. there is nothing necessarily better or worse about degenerate interests being treated similarly as non-degenerate interests, but they are relevant to a theory of morality. Which shows that the rightness of actions does not always reduce to the goodness of its resulting state of affairs.
+		- Argument: the future goodness of a group supervenes on the future goodness of each individual. The future goodness of each individual is independent of their previous actions and of the content of their desires; it depends only on their future desire satisfaction. Therefore, the goodness of a group supervenes on the future desire satisfaction. However, the rightness/wrongness of an action does not supervene on the future desire satisfaction of the individuals; it also depends on the previous actions of the individuals and the content of their desires. 
+		- The wrongness of an action does relate to goodness in some way. In order for something to be morally wrong, it needs to be bad for someone.
 
 All systems are aimed at reaching some state of affairs. The question is what constitutes the value of those states of affairs. E.g. deontology can be considered something that "A should not X" means "A should reduce the promotion of A doing X in the particular instance that A acts".
+
+Notes:
+- This should be seen as criticisms of utilitarianism rather than consequentialism
+- The consequentialism/deontology divide perhaps should be abandoned since it is unclear if there really is a distinction. More interesting is the agent-neutral/agent-relative divide.
+
+Features of consequentialism:
 
 From most necessary for consequentialism to least necessary:
 
 - Requirements:
-	- Moral right/wrongness reduces to goodness of the resulting states of affairs.
-	- Universal Teleology. All reasons are reasons to bring certain entities into existence or promote states of affairs. 
-	- Completeness: for all possible states of affairs and region of time, there is a complete order. "Complete" means for all possibilities, x,y: U(x) >= U(y) or U(y) >= U(x). "Order" means transitive and reflexive. Must be additive in a very general sense: there is a function f that takes as input a given space-time region of the universe (a state of affairs across a period of time) and returns some integer representing its overall value.
+	- Supervenience: The moral rightness of acts supervenes on the goodness of the resulting outcomes. 
+	- Completeness: for all possible states of affairs and region of time, there is a complete order. "Complete" means for all possibilities, x,y: U(x) >= U(y) or U(y) >= U(x). "Order" means transitive and reflexive. Must be additive in a very general sense: there is a function f that takes as input a given space-time region of the universe (a state of affairs across a period of time) and returns some integer representing its overall value. This determines moral rightness/wrongness.
+		- Consequentialism can deny saying the only right action is the one with the best consequences.
+			- One could be satisficing. I.e. one's actions are right if they are good enough. 
+			- One could reject the dichotonomy altogether. There are no right/wrong actions, just better/worse.
+		- My rejections:
+			- Agents are permitted to cause suffering so long as they don't cause extreme suffering.
+			- Agents are PERMITTED (but not necessarily obligated) to over-value themselves. There is a space for permissible actions (e.g. sacrificing oneself for the sake of others or not doing so are both permissible).
 	- If the below conditions are rejected, the system basically becomes a way for you to endorse whatever states of affairs you prefer living in. This can be consequentialist in a broad sense, but does not meet the maximizing spirit of consequentialism. There are two reasons for this:
 		1. Because there is effectively no measure, it doesn't make much sense to say "more utility" is guiding the decisions. Rather, one just endorses the kind of world that they prefer living in. Appealing to utility does no work here.
 		2. This is a rather egoistic interpretation, which goes against the spirit of conseqentialism. Someone might say the world that they prefer to live in is one where everyone maximizes his pleasure. But that doesn't mean it satisfies the spirit of consequentialism.
@@ -206,6 +329,8 @@ From most necessary for consequentialism to least necessary:
 	- E.g. not just a hierarchy of possible states of affairs (even a deontologist would agree with that). The difference is that consequentialist rankings must be determined by the existence of a certain amount of a good. Some constant good in the universe that we appeal to to measure utility. Needed in order to quantify goodness on a number line.
 - Hedonism: 
 	- Pleasure is the single value (this does not include "suffering" or "pain" except as a lack of value).
+	- It doesn't matter who gets the pleasure and whether the pleasure is warranted. 
+	- See double-desire adjusted attitudinal hedonomism
 	- Contrast this with pluralism.
 
 Not all of these features are necessary for all consequentialism. All are accepted by hedonistic utilitarianism, but not accepted by all consequentialists. Prerequisite list:

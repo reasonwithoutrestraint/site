@@ -156,6 +156,13 @@ It does not reduce to whether it is moral to stop people from doing X.
 
 ## My Theory
 
+1. Individuals should have reasons to follow a moral theory
+2. Not just any reason, i.e. ethical egoism is not true. So you can't coerce someone just because it benefits you.
+3. Rather, it is reasons with intersubjective justification
+4. Individuals have no reason to be coerced/trampled in favor of some other kind of good (i.e. or someone else's good, or utilitarianism)
+5. Doesn't mean coercion is never justified. Sometimes it is - e.g. to protect one's property - because it's necessary for a decent life.
+6. But protecting property rights is not the only kinds of coercion necessary for a good life. Also, there might be a state, safety net, etc
+
 Main differences with traditional libertarianism
 - Property
 	- Everyone owns an equal share of the world's raw resources
@@ -311,7 +318,7 @@ Principles I accept:
 ### Justified uses of coercion
 
 Central principle:
-	- What kind of world do fully informed, full rational individuals prefer to live in?
+	- What kind of world do fully informed, fully rational individuals prefer to live in?
 	- Individual permissions 
 		- Individuals are permitted to freely form contracts without outside interference.
 		- Or, rather, the contracts that they would form if they were fully informed, fully rational, etc.
@@ -321,9 +328,14 @@ Central principle:
 	- State power: 
 		- Individuals can produce preferred systems that cannot be secured via contracts.
 		- People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
-		- (1) Subsidized protection against violence, natural disasters, etc. Minor constraints used to alleviate major constraints.
-		- (2) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
-		- Affects all people. Must be decided democratically.
+		- Optional democratic uses of state coercion: 
+			- (1) Individuals have a right to collectivize to guarantee the exercise of the individual permissions above. E.g. protections against violence. It's justified as a minor constraint to alleviate major constraints.
+			- (2) if (1) is justified, then it's also justified to collective to guarantee those same protections against non-agent forces, e.g. natural disasters if they so chose. 
+			- (3) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
+		- Mandatory uses of state coercion:
+			- Compensation to individuals made worse-off by state activity - e.g. people who are made worse-off by state enforcement of property rights.
+			- Subsidizing the basic requirements for ensuring everyone's values are input in the democratic system:
+				- Courts, Police, Military, Prison, Education
 
 - Consent: 
 	- Explicit
@@ -332,18 +344,38 @@ Central principle:
 		- A doesn't desire F, but they engage in an informal agreement that clearly indicated that F would be done to them (honor cultures, gangs, etc.). A implicit agrees to F iff they perform a behavior X whereby:
 			- There is a clear standard that F is the consequence for X,
 			- Performing X is optional, and they are not coerced into doing X.
+	- Revoked
+		- E.g. to enforce contracts
 - Impairment: 
 	- Lack of rationality
 	- Lack of information
-	- (maybe this isn't sufficient, maybe we also need A to prefer to be coerced under the condition that they are irrational/uninformed; otherwise, this force may not be permissible)
+	- Maybe this isn't sufficient, maybe we also need A to prefer to be coerced under the condition that they are irrational/uninformed; otherwise, this force may not be permissible
 - Rectification: Compensation for constraints imposed
 	- Past physical damages
-	- Excess resource usage
+	- Excess resource usage AND others attempt to access their fair share but are prevented
+	- Mandated safety nets in societies where a person is worse-off due to the presence of a state or economic system.
 - Forced Compensation: taking someone's resources and compensating them, only if:
 	- The portion taken is too small to cause large harm to the person's interests (e.g. in taxation)
 	- The person is compensated for the transaction in the same resources
 	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
-- Unwanted Externalities
+- The preconditions for basic democracy don't require democratic support
+	- Assuming they *did* require democratic support, we would still need these in place to know if they had democratic support.
+	- Courts, Voting Infrastructure
+	- Police protection to provide safe access for citizens to vote
+	- Education
+		- Otherwise, people might not know they have the right to vote
+		- They might not know what's good for them
+		- They might be coerced non-violently by others 
+	- The goal is to make sure everyone's interests are taken into consideration during voting, not to make sure everyone has equal opportunity to a good life.
+		- So, if food is provided (not sure if it should be), it's not to prevent people from dying. It's to prevent people from being manipulated out of hunger which leads to their interests not being expressed in the political system.
+		- Similar considerations may apply to provide for healthcare.
+	- Conditions necessary:
+		- Not offering provisions by the government would result in people not having them. So they don't need to be provided if the private sector can account for it. 
+		- They don't require democratic support.
+- Unwanted Economic Externalities
+	- Justification
+		- The justification here is different from the justification for protection. 
+		- I.e. it doesn't matter that it is a minor constraint to alleviate major restrictions. even if applying minor constraints to alleviate minor constraints is not generally justifiable, it's justifiable in this case because of its contractual nature. Contracts only get their validity from consensual support.
 	- Requirements:
 		- Most people in a region prefer the opportunities to form contracts with features X
 		- Most people are incentivized such that their actions in the market make it impossible for contracts of feature X to succeed
@@ -376,39 +408,68 @@ Central principle:
 		- I.e. when a person wants system X but they are individually incentivized to perform actions that lead to system Y, because their actions (in an unconstrained free market) only affect their individual benefits, rather than the system as a whole. 
 		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
 		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
-- Protection: Protection against constraints
+- Protection against other constraints
+	- When considering whether to force A to assist B
 	- Whether current or future (i.e. pre-emptive protection is justified)
 	- Examples of protection. Protect against:
 		- Physical coercion, 
 		- Excess resource usage,
 		- Non-agent caused constraints 
-	- Responsibility (when considering to force A to assist B)
-		- If B is causally responsible for his own diminished liberty,
-			- No one permitted to force A, A not obligated.
-		- If A is causally responsible for B's diminished liberty,
-			- The state is permitted to force A.
-			- B permitted to force.
-			- A obligated to assist. 
-		- If neither are responsible, but coercing A is the only way to alleviate constraints on B
-			- If the constraints on A are major
-				- The state not permitted to use force.
-				- B permitted to use force if his constraint is major.
-				- A not obligated to assist.
-			- Else, constraints on A are minor (e.g. property redistribution)
-				- If constraints on B are minor,
-					- See optional regional constraints.
-				- If constraints on B are major
-					- See optional regional constraints
-	- Democratic regional constraints
-		- The advantaged are not obligated to assist, but state/individuals are permitted to use force against the fortunate
-		- Requirements
-			- Justified instances of *minor* coercion to alleviate major (or minor?) constraints
-			- The scope of the coercion is restricted to what is required to prevent the constraints
-			- What counts as major vs minor depends on the community?
-			- People must have a base level right to exit the community.
-		- Examples
-			- E.g. taxation, restricting speech, dress codes, etc.
-		- Enact major constraints to alleviate major constraints? By the state, no. By individuals in squalor? yes. 
+	- Ways that A can be responsible for B's diminished liberty
+		- R1: A *intended* B being worse-off. E.g. taking someone's water. 
+		- R2: A didn't *intend*, but his actions did *cause* B to be worse-off. i.e. if A stopped performing his actions, B would not be poor. E.g. owning the entire water supply.
+		- R3: A didn't *cause*, but it is not possible to alleviate B's condition with A's current behavior. i.e. if A stopped performing his actions, B would still be poor; nevertheless, the only way to improve B's situation is by coercing A. E.g. A has opportunity to water but doesn't know how to utilize it without education.
+	- If A is causally responsible for B's diminished liberty (R1 or R2),
+		- The state is permitted to force A.
+		- B permitted to force.
+		- A obligated to assist. 
+		- Is democratic support a requirement? 
+			- What if people decided to be anarchists who didn't want to support a state? 
+	- If neither are responsible, the following conditions must be met (R3):
+		- (1) This system requires democratic support
+		- (2) It imposes a minor restriction on A to alleviate major restriction on B
+		- (3) Such a restriction is the only way to alleviate the major restriction, i.e. B wouldn't have the opportunity otherwise.
+		- (4) From 3, The geographic scope of the restriction must be as low as logistically possible, unless other regions have agreed to integrate into a common taxation jurisdiction.
+	- Questions
+		- Threshold instead of major vs minor?
+			- Specify a threshold of positive freedom that we're all entitled to
+				- E.g. includes access to equal share of resources
+				- Ability to make informed, rational choices about how to live one's life
+				- Etc.
+			- People above the threshold can be taxed to bring others above the threshold, so long as it doesn't bring anyone below it.
+		- Enacting major constraints to alleviate major constraints?
+			- The state is not permitted to do this???
+			- Individuals are permitted to do this
+		- Enacting minor constraints to alleviate minor constraints?
+			- If there is democratic support?
+			- What are some examples that don't fall into the contractual case mentioned above?
+			- Taxing the rich to make the poor better off? No, unless the poor are worse-off *because* of restricted opportunities *because* either (1) the rich are rich or (2) of the current state or economic system.
+			- Okay, what if the poor don't have the opportunity to become rich (minor constraint). Can they then impose a minor constraint on the rich via redistribution? (1) this wouldn't solve the issue because you can't make all of the poor rich via taxation (at least not without making the rich poor in the process). At best you could make the moderately better off, which leads to (2). (2) The poor probably do have the opportunity to become moderately better off. If they do not, then redistribution (not necessarily via handouts, but subsidized education, etc.) can be provided to account for this. But then, is this really a minor constraint on the poor? This could be major. In the end redistribution for the sake of reducing inequality is unjustified. 
+			- Does laws against slander/libel count as minor constraints to alleviate major constraints? What about subsidizing laws against petty theft? Is it because the effects of not having a law against these actions would result in major constraints?
+		- How to handle state failures?
+			- Either due to incompetence or mallace, a state fails to provide individuals with certain opportunities.
+			- Do other sibling states or parent states have permission/obligation to intervene to provide individuals with opportunity?
+			- They have the permission, but not the obligation. It depends on the democratic support of the other/broader society.
+			- The intervention should be minor/temporary to bring the minor states up to a level of competence.
+		- Permissions vs obligations?
+			- Difference between saying the state has an obligation to do something versus permission?
+			- Should only be understood in terms of permissions.
+			- When can individuals collective and enforce one another.
+		- Do we have to help members of another state?
+			- Their bad circumstances are due to no fault of their own? E.g. natural disaster, state oppression, etc. Yes we have permission to help regardless of consensual support.
+			- Their bad circumstances are their own problems. We only have permission with the consent of everyone else.
+- Arbitrary (non-economic) democratic preferences
+	- Doesn't have to be based on contracts.
+	- When a community has preferences which might conflict with the preferences of others.
+	- There are two kinds of conflicts:
+		- Conflicts with preferences of individuals within the community
+			- The preferences can be acted upon assuming:
+				- There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
+				- If the harms are comparable, then we just go with the majority.
+				- Otherwise, ???
+		- Conflicts with preferences of groups outside of the community
+			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
+			- E.g. restrictive immigration don't coerce those outside the group, so its fine
 
 ### Bodily Autonomy
 

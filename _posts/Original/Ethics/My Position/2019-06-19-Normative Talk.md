@@ -5,6 +5,27 @@ author: JayMoss
 sidebar:
   nav: org
 ---
+
+New structure
+1. Normative Talk - all normative concepts reduced to claims of reasons
+2. Normative Truth - Internalism and Constructivism
+3. Normative Thought - Non-cognitivism
+4. Blame and Relationships
+5. Moral Reasons and Relationships
+- Against narcisistic egoism - Neglects impartiality, what others have reason to accept/reject
+- Against Egoism - Certain people can have reason to reject egoism if it leads to their despair
+- Against certain forms of consequentialism - that reduce moral rightness to non-moral goodness. Not all rational interests are morally legitimate
+- Against Rawls/Consequentialism - "reasonable for everyone" (contractualism) =/= "reasonable given equal chance of being anyone" (Rawls, or some forms of consequentialism). Fauly interpretation of impartiality.
+- This still allows for people to prefer their own interests more than others. It is reasonable for everyone to accept a system of rules where they can give some weight to their interests. It would be unreasonable to accept being subjugated to some overall calculus (this doesn't lead to egoism). 
+- The end is somewhere between egoism and consequentialism with a discounting of particular *kinds* of individual goodness. Rejects most conditions to count as consequentialism - hedomism and commensurability (both rejected from theory of rationality), aggregation and agent-neutrality (both rejected because they are not acceptable for all persons).
+- Under contractualism, the parties to the contract are as follows:
+	- They determine what the standards for blame/shame are to be (i.e. the moral norms), NOT what everyone's behaviors will be. Just as Rawls is determining the principles of social institutions and not everyone's behaviors. If we were determining everyone's behaviors, everyone would be nice and charitable and there would be no need for morality/law.
+		- Important: whether someone is blameworthy depends on whether they violated the standards of a relationship. So they will be determining the standards of the relationship. This will not just reduce to accepting the standards that promote the best consequences for everyone. One could only infer that if we already concluded that the standards of our relationship is to promote the best consequences. But that is the very thing to be decided. We don't know beforehand if the parties of the constract are committed to promoting the best consequences. We need to determine what they are committed to by virtue of the fact that they are in the contracting position.
+		- How to get different standards for different relationships?
+			- Perhaps the parties have different aims depending on the kind of relationship. E.g. for standards of ettiquette, the parties are interested in determining how to maintain plesant interaction s with one another. For morality, the parties are interestsed in discovering how stand in a general relationship of mutual respect.
+	- They are not behind a veil of ignorance. Individuals are concerned with what is reasonable for them *given* their position in society.
+	- They all share the same aim of finding principles that others (similarly motivated) can accept. This is what guarantees that there will be norms that all can accept.
+
 Readings for analyzing normativity
 - A.C. Ewing, "A Suggested Non-Naturalistic Definition of Good"
 - Christine Kosgaard, "The Sources of Normativity"

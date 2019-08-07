@@ -67,7 +67,7 @@ Fix to 100 IQ: White 11%, Black 15%
 
 ### Marriage
 
-The probability of having mamed by age 30: White 78%, Black 54%
+The probability of having married by age 30: White 78%, Black 54%
 Fix to 100 IQ: White 79%, Black 58%
 
 ### Illegitimacy
@@ -78,7 +78,7 @@ For a poor mother of averege age and average 1Q (100): White 10%, Black 51%
 ### Welfare
 
 The probability that a woman has ever been on welfare (all women, mothers and non-mothers): White 13%, Black 49%
-For a poor mother of averege age and average 1Q (100): White 12%, Black 30%
+For a mother of averege age and average 1Q (100): White 12%, Black 30%
 
 The probability that a poor mother has ever been on welfare: White 62%, Black 78%
 For a poor mother of averege age and average 1Q (100): White 56%, Black 74%

@@ -40,135 +40,52 @@ Outlines:
 
 Copied in Normativity.md
 
+Soon:
+- Consequentializing
+- Rejecting utilitarianism -> and also consequentialism
+- Justified instances of coercion
+
 -- Metaethics
 
 Normativity
-- Intro
-	- Examples
-	- Contrast with descriptions
-	- Plattitude
-- Analysis (the structure of normative *language* - using strictly normative terms, not trying to reduce to non-normative terms)
-	- Domains
-		- Rationality
-		- Goodness / Value
-		- Epistemology
-		- Aesthetics
-		- Morality
-		- Ettiquette
-	- Flexibility of language
-	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
-	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
-	- Kinds of reasons concepts
-		- Normative vs non-normative "should" (e.g. "he should arrive here soon")
-		- Explanatory vs Justificatory reasons
-		- Intrinsic vs Instrumental
-		- Objective vs Subjective reasons (e.g. reasons under lack of information)
-		- Right/Wrong kinds of reasons
-		- Internal vs External reasons
-	- Other different categories of reasons
-		- Deontic vs Evaluative (proposition P should be true versus agent A ought to acquire attitude X)
-		- Agent-Neutral / Agent-relative
-	- Not all based in pleasure/happiness
-	- Not all based in teleology
-	- Hierarchical structure, pro-tanto & prima facie
-	- Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz
-
-Normative Psychology (the *psychology* of normative judgments)
-- Introduction: 
-	- The problem and possible solutions
-	- Descriptivism vs Non-descriptivism
-	- Reasons judgments and motivation
-- Failure of descriptivism 
-	- Utilize common arguments
-- Characterization of non-descriptivism
-	- World-to-mind fit that cannot be otherwise reduced
-	- Expressive of deliberative endorsement and prescriptive
-	- Possibility of an alternative standard of truth
-	- Competing motivational faculties
-- Evolution: selections for descriptivism vs non-descriptivism
-- Observations: examples of other evaluative language, normative education, emphasizing the dynamic component of certain terms (e.g. no one admits to being "racist" despite meeting the criteria)
-- Objections:
-	- Seems intuitively false
-	- Frege-Geach
-	- Which attitude
-- Works: Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan
-
-Normative Correctness (the *correctness* of normative judgments)
-- Introduction: 
-	- The problem and possible solutions
-	- Internalism vs Externalism
-	- Connecting reasons and rationality/explanation
-- Failure of externalism
-	- Repeat many arguments from Williams's article
-	- Use analogy with theoretical reasons
-- Failure of broad internalism
-	- Critique Williams's position
-	- Use analogy with thoeretical reasons (e.g. desires don't justify beliefs, even if they can explain them).
-- Constructivism
-	- Normative judgments, not desires/sensations, provide reasons
-	- Analogy with other domains
-	- Constituitive features
-	- Explaining intuitive reasons versus broad internalism, externalism, etc.
-- Arguments:
-	- Solid metaphysical/Epistemic gounding
-	- Standards for procedural reasoning are required anyway.
-- Objections
-	- Methodology
-		- General Theory unlikely
-		- Conflicting reasons
-		- Deliberation/reflection
-- Works: Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier
-
-Moral Reasons
-- Introduction: 
-	- The Moral Problem - reconciling reasons and objectivity
-	- Possible responses
-- Viable Responses
-	- Sentimentalism
-	- Contractualism
-- Methodology
-	- General Theory unlikely
-	- Conflicting interests
-	- Argumentation/Discuss
-
--- Normative Ethics --
-
-Against utilitarianism
-Making sense of deontology 
-Speculations on standards for goodness
-
--- Applied Ethics --
-Abortion
-Anti-natalism
-Veganism / What beings are morally considerable
-Attacks for revenge
-
--- Political Philosophy --
-
-Relation between morality and Political Philosophy
-Varieties of Libertarianism
+- Normative Talk (Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz)
+- Features of Normative Thought 
+- Theories of Normative Thought (Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan)
+- Normative Truth (Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier)
+- Moral Reasons (Scanlon)
+- Against Utilitarianism
+- Making sense of Deontology (epistemic norms are deontological)
+- Ethical Theory
+- Abortion
+- Anti-natalism
+- Veganism / What beings are morally considerable
+- Attacks for revenge
+- Relation between morality and Political Philosophy
+- Varieties of Libertarianism
+- My political Philosophy
 
 -- Political Issues --
 
-Abortion
-Criminal Justice
-Gay Marriage
-Universal Healthcare
-Education Subsidization
-Welfare
-Immigration
-Discrimination
-Affirmative Action
-Free Speech
-Gender Identity
-Gun Control
-Education Reform
+- Abortion
+- Discrimination
+- Affirmative Action
+- Free Speech
+- Immigration
+- Gender Identity
+- Transwomen in sports
+- Criminal Justice
+- Gun Control
+- Welfare
+- Universal Healthcare
+- Education Subsidization
+- Education Reform
+- Gay Marriage
 
 -- Metaphysics --
 
-Determinism/Free Will/Compatibilism
-Incoherent distinctions - determinism vs indeterminism, etc.
-Physical/Natural/Material vs Non-physical/Supernatural/Spiritual (no difference)
+- Determinism/Free Will/Compatibilism
+- Incoherent distinctions - determinism vs indeterminism, etc.
+- Physical/Natural/Material vs Non-physical/Supernatural/Spiritual (no difference)
 
 -- Religion --
 
@@ -185,8 +102,11 @@ An argument against the Problem of Evil
 
 -- Descriptive --
 
-Race and IQ
-Group Success
+- Importance of IQ
+- Environmental influences on IQ - flynn effect, gene-environment interactions cause increasing heridity with age, groups that have changed IQ)
+- Race and IQ
+- Race and Crime
+- Group Success
 
 More Unneeded Disputes
 - Cause of racial IQ gaps
@@ -203,18 +123,17 @@ Miscellaneous
 - Unnecessary Linguistic disputes (meaning of racism, moral terms, free will, knowledge, atheism, etc.)
 - Unnecessary debates: when the truth of P is disagreed, but we agree that the truth of P reduces to S, and we agree on S
 
-Analyzing past works
+-- Topical --
+
+Criticisms of "public Intellectuals"
 - Past videos
-- Past philosophical works
 - Books from "Public Intellectuals"
 	- Sam Harris
 	- Stefan Molyneux
 	- Jordan Peterson
 
-Unspecified
-- Current Events
-- Programming Stuff
-- Old reddit posts
+Reviews/criticisms of actual intellectuals
+- Past philosophical works
 
 ## Empirical
 

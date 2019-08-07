@@ -26,6 +26,12 @@ Split into seperate articles
 		- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
 		- Essays: _Constructivism in Practical Philosophy_
 		- Also see Philosophy of mind/action syllabus
+		- From _Routledge Handbook of Metaethics_
+			- 20, "Reasons Internalism"
+			- 21, "The Wrong Kind of Reasons"
+			- 23, "Constitutivism"
+			- 24, "Constructivism"
+			- 25, "Normativity and Agency"
 	- Books
 		- R. Brandt, _A Theory of the Good and the Right_ (1979)
 		- Bond _Reason and Value_ (1983)
@@ -106,13 +112,24 @@ Split into seperate articles
 			- "Evolution and the Normativity of Epistemic Reasons"
 			- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
 			- "In Defense of Future Tuesday Indifference"
-		- James Lenman, "Expressivism and Constructivism"
 		- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
 		- Michael Smith, "A Constituvist theory of reasons"
 		- Critics
 			- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
 			- "The Appeal and Limits of Constructivism" by T. M. Scanlon
 			- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+		- Constructivism and Expressivism:
+			- Some say that constructivism is best understood as a form ‘expressivism,’ which holds that normative terms function to guide action rather than represent matters of fact and are used to express states of mind that differ from belief (Chrisman 2010; Lenman 2012; Lenman & Shemmer 2012b; Meyers 2012). Furthermore, Lenman argues that embracing expressivism would promise to solve a basic problem for constructivism, specifically, the problem of identifying the kinds of mental state that normative judgments are (Lenman 2012). This suggestion is not shared. Humean constructivist Street has forcefully argued that expressivism fails to fully explain the normative function of normative discourse, which cannot be reduced to expressing normative states (Korsgaard 2003, 2008: 312, 325 n. 49, 2009: 309; Bagnoli 2002: 130–132; Magri 2002; Street 2010: 239–242).
+			- https://plato.stanford.edu/entries/constructivism-metaethics/#ConsRealAntiDeba
+			- Lenman, James (2012): "Expressivism and Constructivism"
+			- Chrisman, Matthew (2010): Constructivism, Expressivism and Ethical Knowledge
+			- Meyers, Chris (2012): "Expressivism, Constructivism, and the Supervenience of Moral Properties"
+			- Magri, Tito, 2002, "Frères Ennemis. The Common Root of Expressivism and Constructivism"
+			- Bagnoli, Carla, 2002, "Moral Constructivism: A Phenomenological Argument"
+			- Street, Sharon (2010): "What is Constructivism in Ethics and Metaethics?"
+			- Korsgaard, Christine M., 2003, “Realism and Constructivism in Twentieth-Century Moral Philosophy”
+			- Korsgaard, Christine M.,2008, The Constitution of Agency: Essays on Practical Reason and Moral Psychology,
+			- Korsgaard, Christine M.,2009, Self-Constitution: Action, Identity, and Integrity,
 
 ??? question "Some questions left unanswered"
 	- How to distinguish well-being (what makes a life go best) from reasons for action/desires? 
@@ -143,6 +160,51 @@ Some twists
 3. Not all actual states provide reasons, move to constructivism.
 
 Consider analogy with theoretical reasons along the way.
+
+Arguments for Internalism:
+1. Bernard Williams
+2. Stephen Finlay
+3. Michael Smith, "Internal Reasons" and _The Moral Problem_
+4. Intuitions
+5. Comparison to epistemic case
+
+Arguments for Externalism:
+1. Kieran Setiya
+2. John McDowell
+3. T.M. Scanlon
+
+Conception constraints on reasons agreed to by internalists and externalists:
+- Everyone agrees: A's judgment that he has reason to X will motivate A to X insofar as he is rational
+- Controverial: if proposition C is a reason for A to X, then A's awareness of C will motivate A to X insofar as he is rational and fully informed.
+	- This is true only if the fact that (1) C is a reason for A to X, (2) A's full rationality and full descriptive information, and (3) A's awareness of C entails that he will judge that C is a reason to X. Is this true? If this is true, then it will entail motivation to C. 
+	- This seems true only if a fully rational/informed awareness of C (assuming C is a reason to X) will necessarily entail a judgment that C is a reason to X. This judgment is required for the above because the judgment is sufficient to produce motivation, and there doesn't seem to be any other connection between something being a reason and it motivating an agent (otherwise, why would a consdieration motivate an agent if the agent did not recognize the consideration AS a reason).
+- Externalists account for this:
+	- Externalists have to posit that rationality has substantive requirements, i.e. a desire to do what is kind, generous, etc. or whatever they posit people have reason to do.
+	- Or externalists have to posit that rational agents have an *additional desire* to do what they judge themselves to do. 
+	- The question is still what is the *content* of the judgment that something is a reason, and how can this motivate anyone to do anything?
+
+Some thoughts:
+- But the question isn't even about the *content* of reasons judgments. For a non-cognitivist, there is no content. For constructivists, truth is not based on the contents (i.e. one has reason to X only if they judge that they have reason to X, but clearly the judgment that one has reason to X cannot just reduce to this). But if the *content* of reasons judgment does not determine what counts as a reason, then what does? What is the job description of a theory of reasons. When one says A has reason to X iff p (e.g. p = internalism, some form of externalism, etc.), what are the requirements on p? 
+- Perhaps, the requirement is this: if it is true that A has reason to X iff P, then A's recognition of P must entail a judgment that they have reason to P. This will satisfy constructivism and internalism. The only way that recognition of P could entail a judgment that A has reason to X (which is itself a motivation; normative judgments are motivating) is if P was intimately tied to A's motiation to begin with (the internalism thesis). Likewise, under constructivism, P just is the fact that A judges that they have reason to X (or that it follows from their normative judgments that they have reason to X). Anyone who recognizes this must neessarily recognize that they have reason to X.
+- But why accept this job description? This job description may be true for conceptual analysis where you say reasons judgments MEAN a certain thing (even then, such a job description would be controversial), but asserting necessary/sufficient conditions is not conceptual analysis. So why accept this? E.g. X is yellow iff X reflects light of a certain wavelength, but this does not imply anyone who judges X has a certain wavelength has to judge that it has a certain color (or vice-versa). There are a few responses
+	- Perhaps reasons are different because there are no actual reasons properties or relations, unlike color
+	- Perhaps we are actually doing conceptual analysis by positing this job description. But I thought non-cognitivism was the conceptual analysis and there is no content of reasons judgments.
+	- Perhaps when positing this job description, we are just expressing attitudes as predicted by non-cognitivism
+- What ARE we doing when we say that a certain job description is true. There seems to be a disinction between (1) ordinary judgments that something is a reason and (2) reasons judgments involved in asserting internalism, constructivism, job descriptions for a theory of truth, etc.? Are these the same kind of judgments? Are they both just expressions of a non-cognitive sentiment?
+- Assuming non-cognitivism is true, why assume there is a theory of truth? Why assume there *are* reasons instead of just *judgments* about reasons? E.g. we agree that people judge things to be scary/funny. But that doesn't imply that some things actually ARE scary/funny in a sense above/beyond judging them to be scary/funny. Perhaps constructivism does not claim that the existence of *reasons* are anything above/beyond *judgments* about reasons. Perhaps, when one a constructivist says "you have reason to X" this is just a convenient way of saying "your normative judgments commit you to X, whether you know it or not". Perhaps the job description for a theory of truth is to satisfy certain grammatical/linguistic requirements along with the following minimum requirements:
+	- People can be wrong about what they have reason to do.
+	- We can improve toward "truth" when our judgments change
+- A seperate theory of truth is needed
+- What status are we giving to a consideration when we say "I might have a reason to do X, but I don't believe I do". What are we doing during deliberation, as we seemingly "figure out" what to do?
+- The answer is to look at the standards that we are committed to in our normative judgments: consistency, coherence, reflection, etc. Insofar as we deliberate, we are committed to the upshots of these standards. But we can be mistaken about the upshot of these standards. Thus, the truth of normative judgments is whatever the upshot of these standards are because we are aiming at these standards. Thus, normative truth is related to normative judgments not in an attributional sense (i.e. in the sense of looking at the properties that we ascribe to things when we make normative judgments) but in a regulative sense (i.e. by looking at the standards that are implicitly guiding our judgments). It is by looking at rules that are implicit in our deliberations. Thus, this is truth not in a correspondence sense. Deliberation is an activity the standards of which we construct and impose on ourselves. 
+- We might not even be aware of what the standards are. But they regulate our judgments nevertheless (i.e. those who are unaware of the rules of consistency).
+- Why are these the standards?
+	- They guide our thinking whether we know it or not.
+	- They cannot in full awareness be rejected. CANNOT here means conceptually not rationally. E.g. if someone in full awareness endorsed inconsistent judgments, then they wouldn't legitimately count as making a judgment in the first place. They're not irrational, but they are not even an agent, so terms like rationality/irrationality do not apply. They would be irrational if they accepted an inconsitency but was NOT aware of the inconsistency.
+- Note that this DOES not imply that deliberation is an activity that attempts to figure out the upshots of deliberation while adhering to the implicit standards (which would be a kind of naturalism). We are not trying to answer theoretical questions to represent reality or counterfactuals. We are trying to answer practical questions, determining what to do. Rather, the implicit standards are regulating our deliberation (and thus determine success for the activity) independently of whether we are aware.
+- Why this constructivism is compatible with non-cognitivism
+	- Deliberation does not aim to answer theoretical questions. It does not aim to represent the way the world is. Against cognitivism
+	- The upshots of deliberation are inherently motivating insofar as one is rational. Note, however, that they differ from ordinary motivating states such as desires because of the standards that are constituitive of normative judgments - e.g. instrumental reasoning CANNOT in full awareness be denied if one is to count as a deliberating agent. CANNOT here means conceptually not rationally. I.e. it is not that one is being irrational by failing to follow instrumental rationality in full awareness; rather, they aren't attempting to deliberate rationally. Someone IS being irrational when they fail to follow instrumental rationality NOT in full awareness. 
 
 Varieties of internalism:
 - Actual Motivation: A has reason to X only if A is motivated to X.
