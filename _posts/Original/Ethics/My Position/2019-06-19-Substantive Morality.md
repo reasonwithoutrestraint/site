@@ -12,11 +12,20 @@ Readings:
 		- Intro to consequentialism vs deontology. 
 		- Included acts in the outcomes
 		- Some forms of consequentialism:
-			- Maximizing vs Satisficing
-			- Agent-neutral vs Agent-relative
-			- Time-neutral vs Time-relative
-			- Aggregative vs non-aggregative
-			- Constituitive vs Causal consequences
+			- Structure
+				- Objective vs Subjective: what constitutes "right". Does the rightness of an action depend on its consequences, or expected/forseable consequences.
+				- Decision Theory: what constitutes "ought". when acting, ought an agent decide what is right (e.g. what act, rule, set of motives has the best consequences) and then do that, or ought they act according to something else.
+				- Consequences of what: act, rules, general motives
+			- ??? (not sure of w name)
+				- Maximizing vs Satisficing
+				- Agent-neutral vs Agent-relative
+				- Time-neutral vs Time-relative
+			- Aggregation
+				- Aggregative vs non-aggregative
+				- Average, Summation, Pareto
+			- Value
+				- Constituitive vs Causal consequences
+				- Forms of Value
 	- SEP paper
 	- [x] Nozick, Seperateness of persons paper. Why assigning a value to acts is not sufficient.
 	- [ ] Drier, "Structures of Normative Theories" (1993)
@@ -38,6 +47,25 @@ Readings:
 	- Maximizing vs satisficing
 	- Aggregation vs non-aggregative
 - Justified uses of force
+- Deontology
+	- Kant
+	- Agent-centered
+	- Patient-centered
+	- Natural Law
+	- Natural Rights
+- Contractualism
+	- Rawsls
+	- Scanlon
+		- What we Owe To Each Other 
+		- Moral Dimensions
+	- Darwall
+		- The Second Person Standpoint
+	- Southwood
+		- "Moral Contractualism"
+		- Contractualism and the Foundations of Morality
+- Contractarianism
+	- *Morals by Agreement*, Gauthier
+- Kantian Contractualism - Parfit
 
 This is to flesh out my substantive ethical theory, to specify specifically which actions are right and wrong in a way that can be characterized without reference to normative terms.
 
@@ -300,7 +328,10 @@ Features of consequentialism:
 From most necessary for consequentialism to least necessary:
 
 - Requirements:
-	- Supervenience: The moral rightness of acts supervenes on the goodness of the resulting outcomes. 
+	- Supervenience: The moral rightness of acts supervenes on the non-indexed goodness of the resulting outcomes. 
+		- I actually agree that goodness matters to morality in the following senses:
+			1. In order for an act to be wrong, it needs to make at least one person worse-off.
+			2. The rightness of an act supervenes on the *indexed* goodness of each individual. I.e. An act that results in A having +10 utils and B having -4 utils is no more or less right than another act with the identical result. However, this does not mean these would be equivalent to A having -4 utils and B having +10 utils. The non-indexed goodness is identical, but indexing might matter (i.e. if A is more deserving)
 	- Completeness: for all possible states of affairs and region of time, there is a complete order. "Complete" means for all possibilities, x,y: U(x) >= U(y) or U(y) >= U(x). "Order" means transitive and reflexive. Must be additive in a very general sense: there is a function f that takes as input a given space-time region of the universe (a state of affairs across a period of time) and returns some integer representing its overall value. This determines moral rightness/wrongness.
 		- Consequentialism can deny saying the only right action is the one with the best consequences.
 			- One could be satisficing. I.e. one's actions are right if they are good enough. 
@@ -360,3 +391,21 @@ From SEP entry on consequentialism
 	- Equal Consideration = in determining moral rightness, benefits to one person matter just as much as similar benefits to any other person (= all who count count equally).
 	- Agent-neutrality = whether some consequences are better than others does not depend on whether the consequences are evaluated from the perspective of the agent (as opposed to an observer).
 
+Ideas about recipricol morality:
+- Our moral duties are all based on contingent relationships. I.e. friends have a duty to be loyal to each other. Romantic partners might have a duty to be monogamous. We have obligations not to lie, keep promise, maintain contracts, etc. because these reflect an initial commitment that implicitly entered into such a relationship.
+- To enter into a relationship is to accept constraints on your individual goodness in certain contexts in favor of others. E.g. romantic partners accept constraining their freedom to pursue other mates. This provides them the reason/duty to not cheat, and provides us with a reason to blame them if they do.
+- The importance of morality is regulating the reasons we have to blame others, not necessarily what people have reason to follow. So the question is what reasons do we have to blame others who do not belong to a neat relationship. What is the "moral relationship" that most people belong to? We can determine what relationships people accept by asking what constraints they accept on their behavior. This probably varies from each pair of individuals. E.g. people might accept more constraints on their behavior to help their countryman than to help other nations.
+- Our moral reasons depend on the constraints that others accept. 
+	- For those that accept no constraints (i.e. egoists), we have no moral criticism to their behavior. I.e. we cannot blame him. THat's because he is not a moral agent; he's more like an alien, intelligent animal or enemy in war. But we do have very good reason to coerce and manipulate them into whatever we want, and they have no moral objection to our behavior. By their own lights, our actions would be morally permissible. Thus, our behavior can be justified to them. 
+	- For those that accept minimum constraints (e.g. parties of different countries, who accept non-aggression and sovereignty), we only have moral criticism when they e.g. initiate aggression (more realistically, they probably also accept suffering minor constraints to get other nations out of dire situations). If they fail to suffer more constraints to help us, we have no moral objection. Of course, we might coerce them if we had power, but this would not be morally justified. This could not be justified to them.
+	- For those that accept more robust constraints (e.g. friends, family, etc.) we can criticize their behavior insofar as they fail to constrain their behavior appropriately.
+- General strategy for determining how we are morally permitted to act towards person X:
+	1. Layout X's proposed relationships, i.e. the constraints he is willing to accept.
+	2. We have reason to blame X whenever he violates such constraints.
+	3. We are morally permitted to treat X in a way that doesn't violate his constraints.
+	4. The constraints cannot involve aggregation (i.e. "I accept a constraint whereby I constrain my behavior when it maximizes happiness")
+	5. The constraints must be general, not specific. I.e. "I accept reducing my happiness by 10 units to increases someone else's happiness by 100" or "I accept suppressing my goal in contexts C if I promised someone else that I would supress said goal in said consequences". They cannot be "I accept not initiating aggression" because the reason they accept not initiating aggression might be because of their fortunate circumstances, and it would be unfair to those in unfortunate circumstances to not be morally permitted to initiate aggression. 
+		- I probably wouldn't want the constraints to be expressed in terms of happiness. So perhaps promises/contracts form the basis of everyone's constraints. Those would be the only ways to generally articulate a principle without using something immeasurable like utils.
+	6. We need to know the constraints that people ACTUALLY adopt, not what they WOULD adopt if they were e.g. behind a veil of ignorance. Because we're concerned with their actual relationships and actual reasons. Behind the veil of ignorance, people are in a different sort of relationship with different reasons. One might say this allows for the advantaged to select principles that self-serve them, leaving the disadvantaged without permission to object, but this should be solved by making the principles general.
+		- One problem: what if they say "I accept fully constraining myself and never harming anyone else if I am disadvantaged but I accept no constraints if I am advantaged".
+- This might be a decent strategy for spelling out the duties under contractualism. In order to figure out what can be justified to others, we determine what those others take to be justified.
