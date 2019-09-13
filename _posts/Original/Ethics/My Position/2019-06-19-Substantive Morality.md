@@ -29,22 +29,65 @@ Readings:
 	- SEP paper
 	- [x] Nozick, Seperateness of persons paper. Why assigning a value to acts is not sufficient.
 	- [ ] Drier, "Structures of Normative Theories" (1993)
-	- [ ] Portmore, "Consequentializing moral theories" (2007)
-	- [ ] Schroeder, "Teleology, Agent-Relative Value, and ‘Good’" (2007)
+		- [ ] Portmore, "Consequentializing moral theories" (2007)
+		- [ ] Schroeder, "Teleology, Agent-Relative Value, and ‘Good’" (2007)
 	- [ ] Portmore, "Consequentializing" (2009)
-	- [ ] Peterson, "A Royal Road to Consequentialism?" (2010)
+		- [ ] Peterson, "A Royal Road to Consequentialism?" (2010)
 	- [x] Brown, "Consequentialize This" (2011)
 	- [x] Drier, "In defense of consequentialization" (2011)
-	- [ ] Schroeder, "You Don't Have to Do What's Best!" (2011)
-	- [ ] Hurley, "Consequentializing and Deontologizing" (2013)
-	- [ ] Tenenbaum, "The Perils of Earnest Consequentializing" (2014)
-	- [ ] Portmore, "Replies to Gert, Hurley, and Tenenbaum" (2014)
+		- [ ] Schroeder, "You Don't Have to Do What's Best!" (2011)
+		- [ ] Hurley, "Consequentializing and Deontologizing" (2013)
+		- [ ] Tenenbaum, "The Perils of Earnest Consequentializing" (2014)
+		- [ ] Portmore, "Replies to Gert, Hurley, and Tenenbaum" (2014)
 	- [x] Schroeder, "Consequentializing and Its Consequences" (2017)
 	- [ ] Sauer, "The cost of consequentialization" (2019)
+- Aggregation
+	- Repugnant Solution
+		- https://plato.stanford.edu/entries/repugnant-conclusion/
+		- originally found in Parfit's *Reasons and Person*
+		- [ ] Torbjorn Tannsjo, "Why We Ought to Accept the Repugnant Conclusion." (2002)	
+		- [ ] Thomas Søbirk Petersen, "On the Repugnance of the Repugnant Conclusion." (2006) 
+		- [ ] Michael Huemer, "In Defence of Repugnance." (2008)
+		- [ ] Derek Parfit, "Can We Avoid the Repugnant Conclusion?" (2016)
+		- [ ] Ruth Chang, "Parity, Imprecise Comparability, and the Repugnant Conclusion." (2016)
+		- [ ] James Fanciullo, "Imprecise Lexical Superiority and the (Slightly Less) Repugnant Conclusion." (2019)
+	- Arguments for/against aggregation generally
+		- [ ] Alastair Norcross, "Great Harms From Small Benefits Grow: How Death Can Be Outweighed by Headaches." (1998)
+		- [ ] Alastair Norcross, "Two Dogmas of Deontology: Aggregation, Rights, and the Separateness of Persons" (2009)
+		- [ ] Theron Pummer, "Intuitions About Large Number Cases." (2013)
+		- [ ] Alex Voorhoeve, "How Should We Aggregate Competing Claims?" (2014)
+		- [ ] Alex Voorhoeve, "Why Sore Throats Don't Aggregate Against a Life, but Arms Do." (2015)
+		- [ ] Alex Voorhoeve "Balancing Small Against Large Burdens." (2018) 
+	- Hard Numbers Skepticism (numbers never matter, even when harms are similar)
+		- [x] Taurek, John Should the numbers count (1977)
+		- [ ] Otsuka, Michael. "Skepticism about saving the greater number." (2004)
+		- [ ] Timmermann, Jens. "The Individualist lottery: how people count, but not their numbers" (2004)
+		- [ ] Kamm, Frances. 2005. "Aggregation and two moral methods."
+		- [ ] Lawlor, Rob. "Taurek, numbers, and probabilities." (2006)
+		- [ ] Meyer, Kirsten. "How to be consistent without saving the greater number." (2006)
+		- [ ] Hsieh, Nien-Hê, Alan Strudler and David Wasserman. "Pairwise Comparison and Numbers Skepticism" (2007)
+		- [ ] Willenken, Tim. "Deontic cycling and the structure of commonsense morality" (2012)
+		- [ ] Yishai Cohen, "Don’t Count on Taurek: Vindicating the Case for the Numbers Counting" (2014)
+	- Whether aggregation is consistent with a principle that says our duties are determined by each indivdual's claims seperately (e.g. in Scanon's contractualism; i.e. numbers matter when the harms are similar but not necessarily in other cases)
+		- Defense:
+			- Parfit, Derek. 1978. "Innumerate ethics." Philosophy and Public Affairs 7: 285–301
+			- Scanlon, T.M. 1999. *What we owe to each other*
+			- Kumar, Rahul. 2001. "Contractualism on saving the many."
+			- Hirose, Iwao. 2001. "Saving the greater number without combining claims." Analysis 61: 341–342.
+			- Hirose, Iwao. 2013. "Aggregation and the separateness of persons." Utilitas 25: 182–205.
+			- Raz, Joseph. 2003. "Numbers, with and without contractualism."
+			- Hsieh, Nien-Hê, Alan Strudler and David Wasserman. 2006. "The numbers problem."
+		- Critiques:
+			- Wasserman, David and Alan Strudler. "Can a nonconsequentialist count lives?" (2003) 
+			- Otsuka, Michael. "Scanlon and the claims of the many versus the one."
+			- Otsuka, Michael. "Saving lives, moral theory, and the claims of individuals." (2006)
+			- Liao, Matthew S. Who is afraid of numbers? (2008),
+			- Doggett, Tyler. What is wrong with Kamm and Scanlon’s arguments against Taurek (2009)
+
 - Objections to utilitarianism/consequentialism
 	- Demandingness: agent-relative vs agent-neutral
 	- Time-neutral vs time-relative
-	- Maximizing vs satisficing
+	- Maximizing vs satisficing vs relational (relational = no moral obgliations, just ranking of states of affairs)
 	- Aggregation vs non-aggregative
 - Justified uses of force
 - Deontology
@@ -396,7 +439,7 @@ Ideas about recipricol morality:
 - To enter into a relationship is to accept constraints on your individual goodness in certain contexts in favor of others. E.g. romantic partners accept constraining their freedom to pursue other mates. This provides them the reason/duty to not cheat, and provides us with a reason to blame them if they do.
 - The importance of morality is regulating the reasons we have to blame others, not necessarily what people have reason to follow. So the question is what reasons do we have to blame others who do not belong to a neat relationship. What is the "moral relationship" that most people belong to? We can determine what relationships people accept by asking what constraints they accept on their behavior. This probably varies from each pair of individuals. E.g. people might accept more constraints on their behavior to help their countryman than to help other nations.
 - Our moral reasons depend on the constraints that others accept. 
-	- For those that accept no constraints (i.e. egoists), we have no moral criticism to their behavior. I.e. we cannot blame him. THat's because he is not a moral agent; he's more like an alien, intelligent animal or enemy in war. But we do have very good reason to coerce and manipulate them into whatever we want, and they have no moral objection to our behavior. By their own lights, our actions would be morally permissible. Thus, our behavior can be justified to them. 
+	- For those that accept no constraints (i.e. egoists), we have no moral criticism to their behavior. I.e. we cannot blame him. THat's because he is not a moral agent; he's more like an alien, intelligent animal or enemy in war. But we do have very good reason to coerce and manipulate them into whatever we want, and they have no moral objection to our behavior. By their own lights, our actions would be morally permissible. Thus, our behavior can be justified to them. Because our behavior can be justified to *them*, they are justified *full stop*.
 	- For those that accept minimum constraints (e.g. parties of different countries, who accept non-aggression and sovereignty), we only have moral criticism when they e.g. initiate aggression (more realistically, they probably also accept suffering minor constraints to get other nations out of dire situations). If they fail to suffer more constraints to help us, we have no moral objection. Of course, we might coerce them if we had power, but this would not be morally justified. This could not be justified to them.
 	- For those that accept more robust constraints (e.g. friends, family, etc.) we can criticize their behavior insofar as they fail to constrain their behavior appropriately.
 - General strategy for determining how we are morally permitted to act towards person X:
@@ -409,3 +452,4 @@ Ideas about recipricol morality:
 	6. We need to know the constraints that people ACTUALLY adopt, not what they WOULD adopt if they were e.g. behind a veil of ignorance. Because we're concerned with their actual relationships and actual reasons. Behind the veil of ignorance, people are in a different sort of relationship with different reasons. One might say this allows for the advantaged to select principles that self-serve them, leaving the disadvantaged without permission to object, but this should be solved by making the principles general.
 		- One problem: what if they say "I accept fully constraining myself and never harming anyone else if I am disadvantaged but I accept no constraints if I am advantaged".
 - This might be a decent strategy for spelling out the duties under contractualism. In order to figure out what can be justified to others, we determine what those others take to be justified.
+- This strategy can be useful in determining what is sufficient for moral permission, or, equivalently, what is necessary for moral constraints. That is, if B does not accept constraint C with regard to treatment of A, then A has permission to treat B without respect to C. But is it also necessary? If B *does* accept constraint C with regard to treatment of A, is A morally obligated to accept constraint C? This doesn't seem so. E.g. if B says "I will never do an action that hurts someone else's feelings", that doesn't mean A has a duty to not hurt B's feelings. 

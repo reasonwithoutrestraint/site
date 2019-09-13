@@ -86,7 +86,7 @@ This chapter is simply to describe the main contours of reasons.
 
 This chapter also shows that there is no particular problem with reasons for action.
 If there is any problem with reasons for action, then it applies to all reasons.
-If the reasons related to moral wrongness need explanation, its the notion of moral wrongness, not reasons.	
+If the reasons related to moral wrongness need explanation, its the notion of moral wrongness, not reasons.
 	
 ## Judgment-Sensitive Attitudes
 

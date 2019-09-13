@@ -10,7 +10,7 @@ This concerns *reductive* naturalism the view that contains the following compon
 2. Some normative propositions are true (against Error Theory).
 3. Normative properties can be reduced to entities which are the subject matter of physics (synthetic naturalism).
 4. Normative properties can be reduced to non-normative properties (reductive synthetic naturalism) (optional).
-5. Normative concepts can be reduced to non-normative concepts (analytic naturalism) (optional).
+5. Normative concepts can be reduced to non-normative concepts (reductive analytic naturalism) (optional).
 
 Forms of non-reductive naturalism, which deny both 4 and 5 (e.g. David Brink and Nicholas Sturgeon), are edge cases not considered here.
 

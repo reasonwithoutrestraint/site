@@ -7,131 +7,129 @@ sidebar:
 ---
 Existence internalism characterizes rationality without explicitly requiring any particular motivations. Note that this does not reduce internalism to an Actual Motivational view whereby an agent needs to be actually motivated to perform the action. Usually, rationality is specified by some form of *ideal* deliberation, i.e. R is a reason for agent A if and only if R is the upshot of *sound, valid, fully imaginative* (from Williams) deliberation. Other forms of internalism might require being in a sound state of mind, having full experience, etc. In other words, normative reasons are the rational extension of one's motivating reasons. A consideration C counts as a reason if and only if there is some rational procedure from an agent's motivational reasons to C (without presupposing any new motivational states along the way). 
 
-Split into seperate articles
-(1) Introduction to the problem
-(2) The failure of externalism
-	- Main arguments for internalism
-	- Appeal to analogy with theoretical reasons
-(3) Internalism too broad 
-	- Kinds of internalism: state vs motivational; actual vs counterfactual
-	- Some motivational elements that don't justify; appeal to analogy with theoretical reasons
-(4) Constructivism, constituitive properties, analogy with other domains, alternative form of truth
-(5) Explaining intuitive features with externalism, internalism, constructivism
-(6) Objections
+[x] Forms of internalism: state/motivational, actual/counterfactual, Humeanism
+[x] Analogy with theoretical reasons
+[ ] Construcivism as an improvement over broad internalism. Plus, Intuition check
+[ ] Conceptual arguments for/against internalism. Theories of rationality
+[ ] Conceptual arguments for/against constructivism.
+[ ] Semantics
+- Reconciling judgment internalism with existence internalism, or non-cognitivism with constructivism.
+- External Reasons judgments and Internal Reasons judgments are often used by competent English speakers. How to account for this?
 
-??? example "Readings"
-	- Collections
-		- Reasons, Motives, and the Demands of Morality: An Introduction
-		- Essays: _The Oxford Handbook of Reasons and Normativity_ (OHRN)
-		- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
-		- Essays: _Constructivism in Practical Philosophy_
-		- Also see Philosophy of mind/action syllabus
-		- From _Routledge Handbook of Metaethics_
-			- 20, "Reasons Internalism"
-			- 21, "The Wrong Kind of Reasons"
-			- 23, "Constitutivism"
-			- 24, "Constructivism"
-			- 25, "Normativity and Agency"
-	- Books
-		- R. Brandt, _A Theory of the Good and the Right_ (1979)
-		- Bond _Reason and Value_ (1983)
-		- Milgram _Practical Induction_ (1997) 
-		- S. Darwall, _Impartial Reason_ (1983)
-		- J. Dancy, _Practical Reality_ (2000)
-		- K. Setiya, _Reasons without Rationalism_ (2007),
-		- Derek Parfit, _Reasons and Persons_ 
-		- Mark Schroeder, _Slaves of the Passions_
-	- Conceptual
-		- Ralph Wedgwood, "The Unity of Normativity"
-		- Mark Schroeder, 
-			- "The Unity of Reasons"
-			- "The Ubiquity of State-Given Reasons"
-			- "Value and the right kind of reason"
-		- Shyam Nair and John Horty, "The Logic of Reasons"
-		- Aaron Bronfman and J. L. Dowell, "The Language of Ought, and Reasons"
-		- John Hawthorne and Ofra Magidor, "Reflections on the Ideology of Reasons"
-		=> From section 1 of OHRN
-	- Substantive
-		- Donald Davidson, "Actions, Reasons, and Causes" (1963)
-		- Ulrike Heuer, "Reasons for actions and desires"
-		- Peter Railton, "Toward a Unified Account of Rationality in Belief, Desire, and Action"
-		- Stephen Darwall, "Making the 'Hard' Problem of Normativity Easier"
-		- Stephen Finlay
-			- "The Reasons that Matter" (2006)
-			- "Responding to Normativity" (2007)
-		- David Velleman,
-			- "On the Aim of Belief" (2000)
-			- "The Possibility of Practical Reason"
-		- Kelly, "Epistemic Rationality as Instrumental Rationality: A Critique" (2003)
-	- Desires
-		- Thomas Nagel, "The Possibility of Altruism" (1970)
-		- W. Quinn, "Putting Rationality in its Place" (1993)
-	- Deliberation
-		- Antti Kauppinen, "Practical Reasoning"
-		- Garrett Cullity, "Weighing Reasons"
-		- Joshua Gert, "Underdetermination by Reasons"
-		- Stephen Kearns, "Reasons, Choices, and Responsibility"
-		=> From section 5 of OHRN
-	- Internalism/Externalism
-		- Kieran Setiya, "Internal Reasons" (2012) (Introduction to _Internal Reasons: Contemporary Readings_ )
-		- Bernard Williams 
-			- "Internal and External Reasons" from _Moral Luck_ (1979)
-			- "Internal Reasons and the Obscurity of Blame" (1989)
-			- "Replies" (1995)
-		- Stephen Finlay, "The Obscurity of Internal Reasons" (2009)
-		- Christine Korsgard, "Skepticism About Practical Reasons" (1986)
-		- John McDowell, "Might There Be External Reasons?" (1995)
-		- Michael Smith, "Internal Reasons" (1995)
-		=> Above are from _Internal Reasons: Contemporary Readings_
-		- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
-		- Kieran Setiya, "Against Internalism" (2004)
-		- Philip Pettit & Michael Smith "External Reasons" (2006)
-		- Julia Markovits, 
-			- "Why Be an Internalist about Reasons?" (2011)
-			- "Kantian Internalism" in _Moral Reason_ 
-		- Elijah Millgram, "Williams’ Argument Against External Reasons" (1996) 
-		- Bedke, "Rationalist Restrictions and External Reasons" (2010) 
-		- Michael Smith
-			- "The Humean Theory of Motivation" (1995)
-			- "The Anti-Humean Theory of Normative Reasons" (1995)
-		=> below are from section 2 of OHRN
-		- Hille Paakkunainen, "Internalism and Externalism about Reasons"
-		- David McNaughton and Piers Rawling, "Motivating Reasons and Normative Reasons"
-		- Eric Wiland, "Psychologism and Anti-psychologism about Motivating Reasons"
-		- Benjamin Wald and Sergio Tenenbaum, "Reasons and Action Explanation"
-		- Bart Streumer, "Reasons and Ability"
-	- Constructivism
-		- Christine Korsgard:
-			- "The Sources of Normativity"
-			- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
-			- *Self-Constitution. Agency, Identity and Integrity*.
-		- Essays: Sharon Street
-			- "What is Constructivism in Ethics and Metaethics"
-			- "Constructivism about Reasons"
-			- "A Darwinian Dilemma for Realist Theories of Value"
-			- "Evolution and the Normativity of Epistemic Reasons"
-			- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
-			- "In Defense of Future Tuesday Indifference"
-		- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
-		- Michael Smith, "A Constituvist theory of reasons"
-		- Critics
-			- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
-			- "The Appeal and Limits of Constructivism" by T. M. Scanlon
-			- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
-		- Constructivism and Expressivism:
-			- Some say that constructivism is best understood as a form ‘expressivism,’ which holds that normative terms function to guide action rather than represent matters of fact and are used to express states of mind that differ from belief (Chrisman 2010; Lenman 2012; Lenman & Shemmer 2012b; Meyers 2012). Furthermore, Lenman argues that embracing expressivism would promise to solve a basic problem for constructivism, specifically, the problem of identifying the kinds of mental state that normative judgments are (Lenman 2012). This suggestion is not shared. Humean constructivist Street has forcefully argued that expressivism fails to fully explain the normative function of normative discourse, which cannot be reduced to expressing normative states (Korsgaard 2003, 2008: 312, 325 n. 49, 2009: 309; Bagnoli 2002: 130–132; Magri 2002; Street 2010: 239–242).
-			- https://plato.stanford.edu/entries/constructivism-metaethics/#ConsRealAntiDeba
-			- Lenman, James (2012): "Expressivism and Constructivism"
-			- Chrisman, Matthew (2010): Constructivism, Expressivism and Ethical Knowledge
-			- Meyers, Chris (2012): "Expressivism, Constructivism, and the Supervenience of Moral Properties"
-			- Magri, Tito, 2002, "Frères Ennemis. The Common Root of Expressivism and Constructivism"
-			- Bagnoli, Carla, 2002, "Moral Constructivism: A Phenomenological Argument"
-			- Street, Sharon (2010): "What is Constructivism in Ethics and Metaethics?"
-			- Korsgaard, Christine M., 2003, “Realism and Constructivism in Twentieth-Century Moral Philosophy”
-			- Korsgaard, Christine M.,2008, The Constitution of Agency: Essays on Practical Reason and Moral Psychology,
-			- Korsgaard, Christine M.,2009, Self-Constitution: Action, Identity, and Integrity,
+Readings:
+- Collections
+	- Reasons, Motives, and the Demands of Morality: An Introduction
+	- Essays: _The Oxford Handbook of Reasons and Normativity_ (OHRN)
+	- Essays: _Internal Reasons: Contemporary Readings (MIT Readers in Contemporary Philosophy)_
+	- Essays: _Constructivism in Practical Philosophy_
+	- Essays: Bagnoli, _Constructivism in Ethics_
+	- Also see Philosophy of mind/action syllabus
+	- _Routledge Handbook of Metaethics_
+- Books
+	- R. Brandt, _A Theory of the Good and the Right_ (1979)
+	- Bond _Reason and Value_ (1983)
+	- Milgram _Practical Induction_ (1997) 
+	- S. Darwall, _Impartial Reason_ (1983)
+	- J. Dancy, _Practical Reality_ (2000)
+	- K. Setiya, _Reasons without Rationalism_ (2007),
+	- Derek Parfit, _Reasons and Persons_ 
+	- Mark Schroeder, _Slaves of the Passions_
+- Conceptual
+	- Ralph Wedgwood, "The Unity of Normativity"
+	- Mark Schroeder, 
+		- "The Unity of Reasons"
+		- "The Ubiquity of State-Given Reasons"
+		- "Value and the right kind of reason"
+	- Shyam Nair and John Horty, "The Logic of Reasons"
+	- Aaron Bronfman and J. L. Dowell, "The Language of Ought, and Reasons"
+	- John Hawthorne and Ofra Magidor, "Reflections on the Ideology of Reasons"
+	=> From section 1 of OHRN
+- Substantive
+	- Donald Davidson, "Actions, Reasons, and Causes" (1963)
+	- Ulrike Heuer, "Reasons for actions and desires"
+	- Peter Railton, "Toward a Unified Account of Rationality in Belief, Desire, and Action"
+	- Stephen Darwall, "Making the 'Hard' Problem of Normativity Easier"
+	- Stephen Finlay
+		- "The Reasons that Matter" (2006)
+		- "Responding to Normativity" (2007)
+	- David Velleman,
+		- "On the Aim of Belief" (2000)
+		- "The Possibility of Practical Reason"
+	- Kelly, "Epistemic Rationality as Instrumental Rationality: A Critique" (2003)
+- Desires
+	- Thomas Nagel, "The Possibility of Altruism" (1970)
+	- W. Quinn, "Putting Rationality in its Place" (1993)
+- Deliberation
+	- Antti Kauppinen, "Practical Reasoning"
+	- Garrett Cullity, "Weighing Reasons"
+	- Joshua Gert, "Underdetermination by Reasons"
+	- Stephen Kearns, "Reasons, Choices, and Responsibility"
+	=> From section 5 of OHRN
+- Internalism/Externalism
+	- Kieran Setiya, "Internal Reasons" (2012) (Introduction to _Internal Reasons: Contemporary Readings_ )
+	- Bernard Williams 
+		- "Internal and External Reasons" from _Moral Luck_ (1979)
+		- "Internal Reasons and the Obscurity of Blame" (1989)
+		- "Replies" (1995)
+	- Stephen Finlay, "The Obscurity of Internal Reasons" (2009)
+	- Christine Korsgard, "Skepticism About Practical Reasons" (1986)
+	- John McDowell, "Might There Be External Reasons?" (1995)
+	- Michael Smith, "Internal Reasons" (1995)
+	=> Above are from _Internal Reasons: Contemporary Readings_
+	- T. M. Scanlon - "On Williams' Internal and External Reasons" (from _What We Owe to Each Other_)
+	- Kieran Setiya, "Against Internalism" (2004)
+	- Philip Pettit & Michael Smith "External Reasons" (2006)
+	- Julia Markovits, 
+		- "Why Be an Internalist about Reasons?" (2011)
+		- "Kantian Internalism" in _Moral Reason_ (2014)
+	- Elijah Millgram, "Williams’ Argument Against External Reasons" (1996)  
+	- Michael Smith
+		- "The Humean Theory of Motivation" (1995)
+		- "The Anti-Humean Theory of Normative Reasons" (1995)
+	- "Reasons Internalism" in Routledge Handbook mentions many articles
+- Constructivism
+	- Christine Korsgard:
+		- "The Sources of Normativity"
+		- "Realism and Constructivism in Twentieth-Century Moral Philosophy"
+		- *Self-Constitution. Agency, Identity and Integrity*.
+	- Essays: Sharon Street
+		- "What is Constructivism in Ethics and Metaethics"
+		- "Constructivism about Reasons"
+		- "A Darwinian Dilemma for Realist Theories of Value"
+		- "Evolution and the Normativity of Epistemic Reasons"
+		- "Coming to Terms with Contingency : Humean Constructivism About Practical Reason"
+		- "In Defense of Future Tuesday Indifference"
+	- Harry Frankfurt, "Freedom of the Will and the Concept of a Person"
+	- Michael Smith, "A Constituvist theory of reasons"
+	- Critics
+		- "A Problem for Ambitious Metanormative Constructivism" by Nadeem J. Z. Hussain
+		- "The Appeal and Limits of Constructivism" by T. M. Scanlon
+		- David Enoch - "Can There Be a Global, Interesting, Coherent Constructivism About Practical Reason?"
+- Constructivism and Expressivism:
+	- Some say that constructivism is best understood as a form ‘expressivism,’ which holds that normative terms function to guide action rather than represent matters of fact and are used to express states of mind that differ from belief (Chrisman 2010; Lenman 2012; Lenman & Shemmer 2012b; Meyers 2012). Furthermore, Lenman argues that embracing expressivism would promise to solve a basic problem for constructivism, specifically, the problem of identifying the kinds of mental state that normative judgments are (Lenman 2012). This suggestion is not shared. Humean constructivist Street has forcefully argued that expressivism fails to fully explain the normative function of normative discourse, which cannot be reduced to expressing normative states (Korsgaard 2003, 2008: 312, 325 n. 49, 2009: 309; Bagnoli 2002: 130–132; Magri 2002; Street 2010: 239–242).
+	- https://plato.stanford.edu/entries/constructivism-metaethics/#ConsRealAntiDeba
+	- Lenman, James (2012): "Expressivism and Constructivism"
+	- Chrisman, Matthew (2010): Constructivism, Expressivism and Ethical Knowledge
+	- Meyers, Chris (2012): "Expressivism, Constructivism, and the Supervenience of Moral Properties"
+	- Magri, Tito, 2002, "Frères Ennemis. The Common Root of Expressivism and Constructivism"
+	- Bagnoli, Carla, 2002, "Moral Constructivism: A Phenomenological Argument"
+	- Street, Sharon (2010): "What is Constructivism in Ethics and Metaethics?"
+	- Korsgaard, Christine M., 2003, “Realism and Constructivism in Twentieth-Century Moral Philosophy”
+	- Korsgaard, Christine M.,2008, The Constitution of Agency: Essays on Practical Reason and Moral Psychology,
+	- Korsgaard, Christine M.,2009, Self-Constitution: Action, Identity, and Integrity,
+	- Richardson, "Revising Moral Norms: Pragmatism and the Problem of Perspicuous Description" (2013) from Bagnli's _Consructivism in Ethics_
+	- Richardson, "Truth and Ends in Dewey’s Pragmatism" (1998)
+	- Richardson, "Beyond Good and Right: toward a Constructive Ethical Pragmatism" (1995)
+	- Misak, _Truth, Politics, Morality: Pragmatism and Deliberation_
+	- See GIbbard
+	- Dorsey, "A Puzzle for Constructivism and How to Solve It"
+	- Schwartz, Velasco (2018), "Towards a semantics for metanormative constructivism"
+	- Kirun Kumar Sankaran (2014), "Two Essays on Constructivism: Lessons from Semantic Theory"
+	- van Roojen, Mark. 2015. Metaethics: A Contemporary Introduction -> contention between judgment internalism and existence internalism
 
 ??? question "Some questions left unanswered"
+	- Conception of rationality that doesn't beg the question against externalism.
+	- How constructivism and expressivism can be reconciled. Two kinds of judgments. Constructivists claim that the truth of a normative claim is consituted by the normative judgments of the given agent. The normative judgments of the given agent are analyzed under expressivism. How are we to analyze the normative claim which constructivists state can be true? 
 	- How to distinguish well-being (what makes a life go best) from reasons for action/desires? 
 		- Some differences:
 			1. X might provide high well-being without an agent having reason to X, e.g. experience machine, animals, etc.
@@ -147,33 +145,9 @@ Split into seperate articles
 		- The internal sense is what we use not just for charges of criticism but for charges of irrationality.
 		- The internal sense is the kind of reason we acknowledge when we judge that something is a reason from a first-person perspective rather thana third-person perspective.
 	- What is the general strategy for determining what is constitutive of a given activity?
-	- What are the procedures for ideal deliberation?
-	- Why do some attitudes have higher authority over others, i.e. the attitude that values the upshot of idealized reflection are more important than an agent's present desires.
-	- Do unreflective desires provide reasons and why?
 
 
-## Existence Internalism
-
-Some twists
-1. Externalism too broad, move to internalism.
-2. Actual motivations too narrow, require idealized conditions.
-3. Not all actual states provide reasons, move to constructivism.
-
-Consider analogy with theoretical reasons along the way.
-
-Arguments for Internalism:
-1. Bernard Williams
-2. Stephen Finlay
-3. Michael Smith, "Internal Reasons" and _The Moral Problem_
-4. Intuitions
-5. Comparison to epistemic case
-
-Arguments for Externalism:
-1. Kieran Setiya
-2. John McDowell
-3. T.M. Scanlon
-
-Conception constraints on reasons agreed to by internalists and externalists:
+Conceptual constraints on reasons agreed to by internalists and externalists:
 - Everyone agrees: A's judgment that he has reason to X will motivate A to X insofar as he is rational
 - Controverial: if proposition C is a reason for A to X, then A's awareness of C will motivate A to X insofar as he is rational and fully informed.
 	- This is true only if the fact that (1) C is a reason for A to X, (2) A's full rationality and full descriptive information, and (3) A's awareness of C entails that he will judge that C is a reason to X. Is this true? If this is true, then it will entail motivation to C. 
@@ -189,8 +163,9 @@ Some thoughts:
 - But why accept this job description? This job description may be true for conceptual analysis where you say reasons judgments MEAN a certain thing (even then, such a job description would be controversial), but asserting necessary/sufficient conditions is not conceptual analysis. So why accept this? E.g. X is yellow iff X reflects light of a certain wavelength, but this does not imply anyone who judges X has a certain wavelength has to judge that it has a certain color (or vice-versa). There are a few responses
 	- Perhaps reasons are different because there are no actual reasons properties or relations, unlike color
 	- Perhaps we are actually doing conceptual analysis by positing this job description. But I thought non-cognitivism was the conceptual analysis and there is no content of reasons judgments.
+		- Perhaps the analysis of normative claims can be different than base normative judgments. Of course normative claims often express our normative judgments, but perhaps they also do something else sometimes, i.e. express what we think follows from someone's evaluative standpoint.  
 	- Perhaps when positing this job description, we are just expressing attitudes as predicted by non-cognitivism
-- What ARE we doing when we say that a certain job description is true. There seems to be a disinction between (1) ordinary judgments that something is a reason and (2) reasons judgments involved in asserting internalism, constructivism, job descriptions for a theory of truth, etc.? Are these the same kind of judgments? Are they both just expressions of a non-cognitive sentiment?
+- What ARE we doing when we say that a certain job description is true? There seems to be a disinction between (1) ordinary judgments that one has reason to do something and (2) reasons judgments involved in asserting internalism, constructivism, job descriptions for a theory of truth, etc.? Are these the same kind of judgments? Are they both just expressions of a non-cognitive sentiment?
 - Assuming non-cognitivism is true, why assume there is a theory of truth? Why assume there *are* reasons instead of just *judgments* about reasons? E.g. we agree that people judge things to be scary/funny. But that doesn't imply that some things actually ARE scary/funny in a sense above/beyond judging them to be scary/funny. Perhaps constructivism does not claim that the existence of *reasons* are anything above/beyond *judgments* about reasons. Perhaps, when one a constructivist says "you have reason to X" this is just a convenient way of saying "your normative judgments commit you to X, whether you know it or not". Perhaps the job description for a theory of truth is to satisfy certain grammatical/linguistic requirements along with the following minimum requirements:
 	- People can be wrong about what they have reason to do.
 	- We can improve toward "truth" when our judgments change
@@ -205,6 +180,33 @@ Some thoughts:
 - Why this constructivism is compatible with non-cognitivism
 	- Deliberation does not aim to answer theoretical questions. It does not aim to represent the way the world is. Against cognitivism
 	- The upshots of deliberation are inherently motivating insofar as one is rational. Note, however, that they differ from ordinary motivating states such as desires because of the standards that are constituitive of normative judgments - e.g. instrumental reasoning CANNOT in full awareness be denied if one is to count as a deliberating agent. CANNOT here means conceptually not rationally. I.e. it is not that one is being irrational by failing to follow instrumental rationality in full awareness; rather, they aren't attempting to deliberate rationally. Someone IS being irrational when they fail to follow instrumental rationality NOT in full awareness. 
+- Normative Truth consists in what follows from an agent's evaluative standpoint.
+	- This is not what we *mean* when we form a normative judgment. When we're form a normative judgment, we are just settling the practical question of what to do, rather than the theoretical question of what the upshots of our commitments are. Abandon a semantic theory of truth (whereby the truth of a proposition occurs when the state of affairs *meant* by the proposition are obtained)
+	- Rather, this is a question that we are aimed to answer (whether we know it or not), when in the process of settling practical questions.
+	- Final question: why should normative truth be construed as relative to the evaluative standpoint of the agent in question rather than the speaker? The reasoning here has all taken a person characterization; i.e. we are considering the standpoint and perspective of the agent. But why not instead focus on the judge? This analysis might capture what agents are attempting to do when answering normative questions, but it need not be what judges are doing when they are answering normative questions for others. Two possibilities:	
+		1. Posit that there is some special semantic/psychological difference between speakers endorsing actions for others, and endorsing actions for themselves. In the former case, truth is not relative to their (the speaker's) motivations; it is somehow relative to the subject's motivations. I.e. the speaker commits themselves to judging what follows from the agent's evaluative standpoint whether they know it or not. In the latter case, the judge is only committed to judging what follows from their own evaluative standpoint. The former seems difficult to explain if the function of the judgments is merely to express plans/sentiments.
+			- Perhaps it has to do with the fact that we expect that if the agent accepts our claim that they have reason to X, this will instill in them a motivation to X insofar as they are rational. But this only makes sense if X is connected to their evaluative standpoint.
+				-> But this doesn't necessarily work to show that truth is relative to the agent. Because if "accept our claim that they have reason to X" just means "agree that they have reason to X" which just means adopting a motivation to X, then the speaker cannot expect that without believing that X is connected to their evaluattive standpoint. It would be equivalent to a speaker believing: if the agent becomes motivated to X, then they will be motivated to X insofar as they are rational. But clearly this doesn't require X be connected to their present evaluative standpoint.
+				-> Perhaps instead it should be: when we judge that Y (a proposition) *is* a reason to X (a behavior), then we expect that agents aware of Y will become motivated to X (because of their awareness of Y) insofar as they are rational [or perhaps, that agents aware of Y will judge that they have reason to X insofar as they are rational; or that a rational agent's awareness of Y could *explain* why they judge themselves to have reason to X]. So the constructivist/internalist conceptual component is only about judgments about what *constitute* reasons rather than all reasons judgments. Now we need an analysis of what fully rational means without begging the question. 
+				-> So we need to explain the conceptual connection between explanation/motivation and third-personal normative judgments, and how this can be reconciled with non-cognitivism which denies that there is any essential content to normative judgments.
+		2. Don't divorse semantics/psychology of third-person and first-person normative judgments. Rather, adopt a theory of truth that is not tied to the judgments themselves. It's not clear how this can secure speaker's being committed to an agent's evaluative perspective.
+
+Constructivist theories of the meaning of truth, semantics, compatibility with expressivism:
+- Street, "What is Constructivism in Ethics and Metaethics", See section on Expressivism. She outlines three strategies for explaining semantics of moral terms (1) state that its impossible because normative attitudes cannot be reduced, (2) argue for an inferentialist semantics, whereby the truth of claim consists in what inferences one needs to make to be competent with the concept, (3) argue for a reforming definition, or (4) adopt the expressivist theory.
+- Street, "Constructivism about Reasons", 237-241. Here, Street argues for (1) from above.
+- See above section under "Expressivism and Constructivism" for more
+Strategies:
+- Normative judgments can be explained by an expressivist theory, possibly the judgments cannot be reduced to non-normative judgments.
+- Normative assertions and normative truth can be explained by either (1) an inferentialist theory as described above or (2) a pragmatic theory. (1) may be acceptable but (a) it needs to be fleshed out more and (b) why is it concerned with the agent rather than the speaker. (2) requires more investigation.
+
+## Existence Internalism
+
+Some twists
+1. Externalism too broad, move to internalism.
+2. Actual motivations too narrow, require idealized conditions.
+3. Not all actual states provide reasons, move to constructivism.
+
+Consider analogy with theoretical reasons along the way.
 
 Varieties of internalism:
 - Actual Motivation: A has reason to X only if A is motivated to X.
@@ -229,11 +231,6 @@ Existence internalism characterizes rationality without explicitly requiring any
 ### Motivational Argument 1
 
 One argument for internal reasons states that reasons must be capable of motivating action.
-
-Note: 
-
-- R is characterized as propositions.
-- A motivational set is merely a set of dispositions towards behaviors under certain beliefs.
 
 The argument: 
 
@@ -264,17 +261,15 @@ Now, (1) needs to be argued for, as it is no longer merely a plattitude. It almo
 
 ### Rational Argument
 
---> "A judges that he has reason R to X" entails 
+Motivation is too strong. Recognition of p (where p is a reason to X) need not create motivation to X. This happens when only two things happen (1) A recognizes p as a reason and (2) A is motivated to act on his reasons. (2) is a seperate claim that makes the first premise unnecessarily strong, so lets remove it and focus on (1).
 
-1. For A to judge that he has reason to X entails that A would be irrational, from his own perspective, for A to not be motivated to X.
-2. ...
-3. ...
+This also implies two forms of rational defect: (1) failure to recognize one's reasons as reasons, and (2) failure to be motivated by what one recognizes to be a reason.
 
-This differs from the motivational arguments in two respects:
-(1) It deals with the conditions necessary for someone to *judge* that they have a reason, rather than the conditions necessary for a reason to *apply* to them. Thus, it deals with the concept of a reason in this sense.
-(2) Rationality here is not just defined as being receptive to reasons. Rather, it is supposed to be the kind of irraitonality related to not responding to standards that he holds himself to.
+1. R is a reason for A to X only if A could recognize R as a reason to X upon believing R.
+2. A could recognize R as a reason to X upon believing R only if R follows from A's current normative judgments
+3. R is a reason for A to X only if R follows from A's current normative judgments
 
-The idea is that there is this narrow concept of a reason which we ordinarily use. This concept is distinct from external reasons which serve as broad groads for criticism. E.g. if a "reason" is simply an external ground for criticism that comes from some evaluative perspective, e.g. a perspective of ettiquette, then it would not be irrational for someone to say that they have a reason to be kind (if they understand that "reason" in this to be standards generated from the ettiquette perspective) while lacking any motivation to be kind. On the other hand, it *would* be irrational for someone to say that they have a reason to X (if they understand "reason" in this sense to be internal to their own motivational sources) while lacking any motivation to X. This latter concept of reason is more closely related to rationality. Where rationality is defined in procedural terms, for reasons to be explained below. In particular, these reasons must be not just internal to their motivational set, but to their normative judgments (see constructivism). 
+Defend (2): Beliefs have a mind-to-world fit. Normative judgments have a world-to-mind fit. Mind-to-world fits cannot influence world-to-mind fits. Thus, a belief alone cannot cause a normative judgment. But this doesn't show (2) is true. Perhaps R must follow from A's current normative judgments + his other desires?
 
 ### Explanatory Argument
 
@@ -285,7 +280,9 @@ Normative reasons are counterfactual explanatory reasons (Michael Smith w/out id
 3. If R is an external reason for A to X, then there is nothing in A’s desires, goals, etc. that motivate a sound, deliberative A to X by believing R.
 4. Therefore there are no external reasons.
 
-Note we have (1) which is not a plattitude which one might object to. However an argument for (1) might be: (1) should be accepted by considering the cases where we perform actions because of normative reasons. The times where there is a disconnect between our motivating and normative reasons, we can point to some sort of problem, either we aren't aware of the reasons, we have false information, we suffer from addition, etc. 
+Note we have (1) which is not a plattitude which one might object to. However an argument for (1) might be: (1) should be accepted by considering the cases where we perform actions because of normative reasons. The times where there is a disconnect between our motivating and normative reasons, we can point to some sort of problem, either we aren't aware of the reasons, we have false information, we suffer from addiction, etc. 
+
+Note that (1) is a weaker claim than in earlier arguments. To say that R could explain why A X-ed is weaker than saying R could motivate A to X. The former says that, if A were motivated to X (which might not be possible), this could be explained by R. The latter says that it is possible for A to be motivated to X (because of R).
 
 The reason that reasons statements are not based on the hypothetical motivational sets of e.g. a fully moral A, i.e. A+, is because it is important that reasons statements apply directly to A. Note, however, that we can still focus on the somewhat idealized A who has deliberated, because we can infer that A already values the motivations of himself after he has deliberated. We can infer this from the fact that he is in fact deliberating. So he already values his deliberation.
 
@@ -343,7 +340,7 @@ The question is why does the internal/external divide matter and why do internal
 
 The answer is this: There is a sense of reasons such that if an agent fails to do what *he judges* to be a reason R, then he is irrational. But this can be true only if the agent judges R to be an internal reason. I.e. if an agent fails to do what he *endorses* (i.e. an internal reason judgment), then he is irrational. But if he fails to do what he judges to be endorsed from some other perspective (which would be an external reason judgment), e.g. the moral perspective, then he is not being irrational. So reasons in the sense of being connected with rationality or irrationality must be internal. The property of *being a reason* is a status we confer give to considerations that we endorse upon deliberation. 
 
-The question now is why assume rationality cannot be broadened to include substantive normative judgments, so that someone who fails to respond to e.g. moral reasons are irrationality beause rationality requires being moral?
+The question now is why assume rationality cannot be broadened to include substantive normative judgments, so that someone who fails to respond to e.g. moral reasons are irrational beause rationality requires being moral?
 
 Some Arguments
 

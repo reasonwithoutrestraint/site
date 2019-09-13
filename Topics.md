@@ -41,31 +41,33 @@ Outlines:
 Copied in Normativity.md
 
 Soon:
+
+-- Metaethics --
+- Normative Talk, Reasons (Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz)
+- Features/Theories of Normative Thought (Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan)
+- Normative Truth and Semantics (Williams, Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier)
+- Moral Reasons (Scanlon)
+- Blame and Relationships
+
+-- Normative Ethics --
 - Consequentializing
 - Rejecting utilitarianism -> and also consequentialism
-- Justified instances of coercion
-
--- Metaethics
-
-Normativity
-- Normative Talk (Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz)
-- Features of Normative Thought 
-- Theories of Normative Thought (Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan)
-- Normative Truth (Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier)
-- Moral Reasons (Scanlon)
-- Against Utilitarianism
 - Making sense of Deontology (epistemic norms are deontological)
 - Ethical Theory
+- Particularism
+
+-- Applied Ethics --
 - Abortion
 - Anti-natalism
 - Veganism / What beings are morally considerable
 - Attacks for revenge
-- Relation between morality and Political Philosophy
-- Varieties of Libertarianism
-- My political Philosophy
+- Justified instances of coercion
 
 -- Political Issues --
 
+- My political Philosophy
+- Varieties of Libertarianism
+- Relation between morality and Political Philosophy
 - Abortion
 - Discrimination
 - Affirmative Action

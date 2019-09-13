@@ -6,6 +6,20 @@ sidebar:
   nav: org
 ---
 
+Articles
+- Normative Talk - reduce normativity to reasons
+- Normative plattitudes 
+- The Open Question argument against naturalism
+- Expanded Open Question and other internal arguments against cognitivism -> Non-cognitivism. Internal arguments are arguments based on standards internal to moral discourse. Just gloss over arguments. Handle counter- and counter-counter- arguments in dedicated posts for each argument.  
+- Responses to objections to non-cognitivism.
+- Evolution
+- External (not based on standards internal to moral discourse) philosophical arguments against non-naturalism: semantics, metaphysics and epistemology. Just gloss over arguments. Handle counter- and counter-counter- arguments in dedicated posts for each argument. 
+- Supervenience problems for non-naturalism
+- The nature of normative disagreement as an argument against realism (disagreement persists so long as attitudes differ).
+- Problems for shared reference for semantic realists - widespread disagreement, regardless of the nature of the disagreement (see previous argument), implies we lack a shared concept. Response: but there is more agreement than you think. Okay, focus on particular individuals with crazy beliefs. You disagree with those people, right? There must be a shared concept. 
+- Evolutionary arguments against realism
+- Some bad arguments against realism
+
 The focus here is on normative thought and talk and the function it plays in our lives. It is not so much on normative language and semantics.
 
 Split into seperate articles
