@@ -318,24 +318,24 @@ Principles I accept:
 ### Justified uses of coercion
 
 Central principle:
-	- What kind of world do fully informed, fully rational individuals prefer to live in?
-	- Individual permissions 
-		- Individuals are permitted to freely form contracts without outside interference.
-		- Or, rather, the contracts that they would form if they were fully informed, fully rational, etc.
-		- Individuals can apply force to others if the other person is impaired.
-		- Individuals can force others to compensate for actions that undermined contract-formation (e.g. theft, violence, etc.).
-		- Individuals can defend themselves via force.
-	- State power: 
-		- Individuals can produce preferred systems that cannot be secured via contracts.
-		- People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
-		- Optional democratic uses of state coercion: 
-			- (1) Individuals have a right to collectivize to guarantee the exercise of the individual permissions above. E.g. protections against violence. It's justified as a minor constraint to alleviate major constraints.
-			- (2) if (1) is justified, then it's also justified to collective to guarantee those same protections against non-agent forces, e.g. natural disasters if they so chose. 
-			- (3) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
-		- Mandatory uses of state coercion:
-			- Compensation to individuals made worse-off by state activity - e.g. people who are made worse-off by state enforcement of property rights.
-			- Subsidizing the basic requirements for ensuring everyone's values are input in the democratic system:
-				- Courts, Police, Military, Prison, Education
+- What kind of world do fully informed, fully rational individuals prefer to live in?
+- Individual permissions 
+	- Individuals are permitted to freely form contracts without outside interference.
+	- Or, rather, the contracts that they would form if they were fully informed, fully rational, etc.
+	- Individuals can apply force to others if the other person is impaired.
+	- Individuals can force others to compensate for actions that undermined contract-formation (e.g. theft, violence, etc.).
+	- Individuals can defend themselves via force.
+- State power: 
+	- Individuals can produce preferred systems that cannot be secured via contracts. People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
+	- Optional democratic uses of state coercion: 
+		- (1) Individuals have a right to collectivize to guarantee the exercise of the individual permissions above. E.g. protections against violence. It's justified as a minor constraint to alleviate major constraints (but this is also covered under mandatory uses of state coercion below).
+		- (2) if (1) is justified, then it's also justified to collective to guarantee those same protections against non-agent forces, e.g. natural disasters if they so chose (also justified under mandatory uses of state coercion below). 
+		- (3) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
+	- Mandatory uses of state coercion:
+		- Compensation to individuals made worse-off by state activity - e.g. people who are made worse-off by state enforcement of property rights.
+		- Subsidizing the basic requirements for ensuring everyone's values are input in the democratic system:
+			- Courts, Police, Military, Prison, Education
+	- Justification for property rights?
 
 - Consent: 
 	- Explicit
@@ -431,34 +431,6 @@ Central principle:
 		- (2) It imposes a minor restriction on A to alleviate major restriction on B
 		- (3) Such a restriction is the only way to alleviate the major restriction, i.e. B wouldn't have the opportunity otherwise.
 		- (4) From 3, The geographic scope of the restriction must be as low as logistically possible, unless other regions have agreed to integrate into a common taxation jurisdiction.
-	- Questions
-		- Threshold instead of major vs minor?
-			- Specify a threshold of positive freedom that we're all entitled to
-				- E.g. includes access to equal share of resources
-				- Ability to make informed, rational choices about how to live one's life
-				- Etc.
-			- People above the threshold can be taxed to bring others above the threshold, so long as it doesn't bring anyone below it.
-		- Enacting major constraints to alleviate major constraints?
-			- The state is not permitted to do this???
-			- Individuals are permitted to do this
-		- Enacting minor constraints to alleviate minor constraints?
-			- If there is democratic support?
-			- What are some examples that don't fall into the contractual case mentioned above?
-			- Taxing the rich to make the poor better off? No, unless the poor are worse-off *because* of restricted opportunities *because* either (1) the rich are rich or (2) of the current state or economic system.
-			- Okay, what if the poor don't have the opportunity to become rich (minor constraint). Can they then impose a minor constraint on the rich via redistribution? (1) this wouldn't solve the issue because you can't make all of the poor rich via taxation (at least not without making the rich poor in the process). At best you could make the moderately better off, which leads to (2). (2) The poor probably do have the opportunity to become moderately better off. If they do not, then redistribution (not necessarily via handouts, but subsidized education, etc.) can be provided to account for this. But then, is this really a minor constraint on the poor? This could be major. In the end redistribution for the sake of reducing inequality is unjustified. 
-			- Does laws against slander/libel count as minor constraints to alleviate major constraints? What about subsidizing laws against petty theft? Is it because the effects of not having a law against these actions would result in major constraints?
-		- How to handle state failures?
-			- Either due to incompetence or mallace, a state fails to provide individuals with certain opportunities.
-			- Do other sibling states or parent states have permission/obligation to intervene to provide individuals with opportunity?
-			- They have the permission, but not the obligation. It depends on the democratic support of the other/broader society.
-			- The intervention should be minor/temporary to bring the minor states up to a level of competence.
-		- Permissions vs obligations?
-			- Difference between saying the state has an obligation to do something versus permission?
-			- Should only be understood in terms of permissions.
-			- When can individuals collective and enforce one another.
-		- Do we have to help members of another state?
-			- Their bad circumstances are due to no fault of their own? E.g. natural disaster, state oppression, etc. Yes we have permission to help regardless of consensual support.
-			- Their bad circumstances are their own problems. We only have permission with the consent of everyone else.
 - Arbitrary (non-economic) democratic preferences
 	- Doesn't have to be based on contracts.
 	- When a community has preferences which might conflict with the preferences of others.
@@ -471,6 +443,36 @@ Central principle:
 		- Conflicts with preferences of groups outside of the community
 			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
 			- E.g. restrictive immigration don't coerce those outside the group, so its fine
+
+Questions:
+- How to defend property rights?
+- Threshold instead of major vs minor?
+	- Specify a threshold of positive freedom that we're all entitled to
+		- E.g. includes access to equal share of resources
+		- Ability to make informed, rational choices about how to live one's life
+		- Etc.
+	- People above the threshold can be taxed to bring others above the threshold, so long as it doesn't bring anyone below it.
+- Enacting major constraints to alleviate major constraints?
+	- The state is not permitted to do this???
+	- Individuals are permitted to do this
+- Enacting minor constraints to alleviate minor constraints?
+	- If there is democratic support?
+	- What are some examples that don't fall into the contractual case mentioned above?
+	- Taxing the rich to make the poor better off? No, unless the poor are worse-off *because* of restricted opportunities *because* either (1) the rich are rich or (2) of the current state or economic system.
+	- Okay, what if the poor don't have the opportunity to become rich (minor constraint). Can they then impose a minor constraint on the rich via redistribution? (1) this wouldn't solve the issue because you can't make all of the poor rich via taxation (at least not without making the rich poor in the process). At best you could make the moderately better off, which leads to (2). (2) The poor probably do have the opportunity to become moderately better off. If they do not, then redistribution (not necessarily via handouts, but subsidized education, etc.) can be provided to account for this. But then, is this really a minor constraint on the poor? This could be major. In the end redistribution for the sake of reducing inequality is unjustified. 
+	- Does laws against slander/libel count as minor constraints to alleviate major constraints? What about subsidizing laws against petty theft? Is it because the effects of not having a law against these actions would result in major constraints?
+- How to handle state failures?
+	- Either due to incompetence or mallace, a state fails to provide individuals with certain opportunities.
+	- Do other sibling states or parent states have permission/obligation to intervene to provide individuals with opportunity?
+	- They have the permission, but not the obligation. It depends on the democratic support of the other/broader society.
+	- The intervention should be minor/temporary to bring the minor states up to a level of competence.
+- Permissions vs obligations?
+	- Difference between saying the state has an obligation to do something versus permission?
+	- Should only be understood in terms of permissions.
+	- When can individuals collective and enforce one another.
+- Do we have to help members of another state?
+	- Their bad circumstances are due to no fault of their own? E.g. natural disaster, state oppression, etc. Yes we have permission to help regardless of consensual support.
+	- Their bad circumstances are their own problems. We only have permission with the consent of everyone else.
 
 ### Bodily Autonomy
 
@@ -665,6 +667,7 @@ Protection against physical coercion
 		- Basic Welfare
 		- Subsidized Healthcare
 		- Natural Disaster Relief (incl. firefighting)
+	- Justification: mandatory state coercion to secure democracy
 Protections against damages to property
 	- Caused by agents
 		- Theft
@@ -674,6 +677,7 @@ Protections against damages to property
 Developing Autonomy
 	- HS Education
 	- Higher Education?
+	- Justification: mandatory state coercion to secure democracy
 Constraints on contract-formation
 	- Protections against violations of basic conditions of contract-formation
 		- Fraud
@@ -694,6 +698,7 @@ Constraints on contract-formation
 		- Employment termination notices
 	- Banks require insurance
 	- Housing eviction notices
+	- Justification: unwanted economic externalities
 Other market regulations
 	- Economic Protections
 		- Anti-Monopoly 
@@ -701,6 +706,7 @@ Other market regulations
 		- Union Protections
 		- Copyright/Intellectual Property
 	- Employment/Customer/Housing Discrimination
+	- Justification: unwanted economic externalities
 Individual regulations
 	- Offensive Behavior
 		- Hate speech laws
