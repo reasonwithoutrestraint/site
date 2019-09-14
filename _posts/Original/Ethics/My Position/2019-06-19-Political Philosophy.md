@@ -409,6 +409,7 @@ Central principle:
 		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
 		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
 - Protection against other constraints
+	- NOTE: this is considering minor constraints vs major constraints; but remember state government intervention isn't necessarily minor because they are always backed with the threat of imprisonment, physical assault or even death if someone retaliates.
 	- When considering whether to force A to assist B
 	- Whether current or future (i.e. pre-emptive protection is justified)
 	- Examples of protection. Protect against:
