@@ -317,6 +317,8 @@ Principles I accept:
 
 ### Justified uses of coercion
 
+Equality -> Liberty (when access to comparably opportunity doesn't conflict) + Democracy (when access to comparably opportunity conflicts) -> government that (1) protects/develops capacities necessary to participant in a democratic political system, (2) does not infringe upon those basic liberties (i.e. abortion) which do involve relevant conflicts with the opportunity of others, and (3) leaves the rest up to decentralized democratic support.
+
 Central principle:
 - What kind of world do fully informed, fully rational individuals prefer to live in?
 - Individual permissions 
@@ -326,15 +328,18 @@ Central principle:
 	- Individuals can force others to compensate for actions that undermined contract-formation (e.g. theft, violence, etc.).
 	- Individuals can defend themselves via force.
 - State power: 
-	- Individuals can produce preferred systems that cannot be secured via contracts. People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
 	- Optional democratic uses of state coercion: 
-		- (1) Individuals have a right to collectivize to guarantee the exercise of the individual permissions above. E.g. protections against violence. It's justified as a minor constraint to alleviate major constraints (but this is also covered under mandatory uses of state coercion below).
-		- (2) if (1) is justified, then it's also justified to collective to guarantee those same protections against non-agent forces, e.g. natural disasters if they so chose (also justified under mandatory uses of state coercion below). 
-		- (3) Unwanted externalities *due to* contracts can be prevented, e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. 
+		- Unwanted externalities *due to* contracts can be prevented. e.g. unwanted systems which would be incentivized by everyone's incentivized contracts. This is only if the restrictions caused by this prevention is comparable to the restriction that would be caused if left to the market. If so, this should be decided democratically. Individuals can produce preferred systems that cannot be secured via contracts. People in a region have shared preferences, but cannot be satisfied without the use of state power within that region.
+		- Arbitrary communal preferences:
+			- (1) There is democratic support.
+			- (2) The state coercion impairs minor constraint to reduce a comparable or larger constraint.
+			- (3) State coercion is the only way to alleviate these constraints.
+			- (4) The scope of the state coercion is as small as logistically feasible
 	- Mandatory uses of state coercion:
-		- Compensation to individuals made worse-off by state activity - e.g. people who are made worse-off by state enforcement of property rights.
 		- Subsidizing the basic requirements for ensuring everyone's values are input in the democratic system:
 			- Courts, Police, Military, Prison, Education
+		- Protections: protections against constraints when another person is causally responsible.
+		- (?) Compensation to individuals made worse-off by state activity - e.g. people who are made worse-off by state enforcement of property rights.
 	- Justification for property rights?
 
 - Consent: 
@@ -421,31 +426,27 @@ Central principle:
 		- R2: A didn't *intend*, but his actions did *cause* B to be worse-off. i.e. if A stopped performing his actions, B would not be poor. E.g. owning the entire water supply.
 		- R3: A didn't *cause*, but it is not possible to alleviate B's condition with A's current behavior. i.e. if A stopped performing his actions, B would still be poor; nevertheless, the only way to improve B's situation is by coercing A. E.g. A has opportunity to water but doesn't know how to utilize it without education.
 	- If A is causally responsible for B's diminished liberty (R1 or R2),
-		- The state is permitted to force A.
+		- The state is obligated to force A.
 		- B permitted to force.
-		- A obligated to assist. 
-		- Is democratic support a requirement? 
-			- What if people decided to be anarchists who didn't want to support a state? 
-	- If neither are responsible, the following conditions must be met (R3):
-		- (1) This system requires democratic support
-		- (2) It imposes a minor restriction on A to alleviate major restriction on B
-		- (3) Such a restriction is the only way to alleviate the major restriction, i.e. B wouldn't have the opportunity otherwise.
-		- (4) From 3, The geographic scope of the restriction must be as low as logistically possible, unless other regions have agreed to integrate into a common taxation jurisdiction.
-- Arbitrary (non-economic) democratic preferences
+		- A obligated to assist.  
+- Arbitrary (non-economic) communal preferences
 	- Doesn't have to be based on contracts.
+	- There is no causal responsibility.
 	- When a community has preferences which might conflict with the preferences of others.
 	- There are two kinds of conflicts:
 		- Conflicts with preferences of individuals within the community
-			- The preferences can be acted upon assuming:
-				- There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
-				- If the harms are comparable, then we just go with the majority.
-				- Otherwise, ???
+			- The community's preferences can be acted upon assuming:
+				- (1) There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
+				- (2) If the harms are comparable or the harm to the coerced/taxed is less than the harm that would be to the beneficiary, then we just go with the majority opinion. Otherwise, ???
+				- (3) The restriction is the only way to alleviate the other restrictions (R3 from above).
+				- (4) The decisions could not be feasibly be made on a more local level.
 		- Conflicts with preferences of groups outside of the community
 			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
 			- E.g. restrictive immigration don't coerce those outside the group, so its fine
+	- Perhaps this is how we set standards for property rights / resource usage?
 
 Questions:
-- How to defend property rights?
+- How to establish a theory of property rights? Is it decided democratically?
 - Threshold instead of major vs minor?
 	- Specify a threshold of positive freedom that we're all entitled to
 		- E.g. includes access to equal share of resources
@@ -465,14 +466,7 @@ Questions:
 	- Either due to incompetence or mallace, a state fails to provide individuals with certain opportunities.
 	- Do other sibling states or parent states have permission/obligation to intervene to provide individuals with opportunity?
 	- They have the permission, but not the obligation. It depends on the democratic support of the other/broader society.
-	- The intervention should be minor/temporary to bring the minor states up to a level of competence.
-- Permissions vs obligations?
-	- Difference between saying the state has an obligation to do something versus permission?
-	- Should only be understood in terms of permissions.
-	- When can individuals collective and enforce one another.
-- Do we have to help members of another state?
-	- Their bad circumstances are due to no fault of their own? E.g. natural disaster, state oppression, etc. Yes we have permission to help regardless of consensual support.
-	- Their bad circumstances are their own problems. We only have permission with the consent of everyone else.
+	- The intervention should be minor/temporary to bring the minor states up to a level of competence, rather than *merely* directly providing the resources/goods to the citizens.
 
 ### Bodily Autonomy
 
@@ -712,15 +706,18 @@ Individual regulations
 		- Hate speech laws
 		- Disturbing the peace
 		- Disorderly conduct
-		- Harrasment
+		- Non-threatening Harrasment (annoyances)
+		- Justification: not justified
 	- Individual Harm
 		- Seat Belt laws
 		- Gambling
 		- Soft Drugs
 		- Prostitution
+		- Justification: not justified
 	- Societal collapse
 		- Hard drugs
 		- Hate Speech laws
+		- Justification: arbitrary communal preferences
 	- Varying Taxation
 		- Progressive Taxation
 		- Marriage tax cuts
@@ -728,6 +725,7 @@ Individual regulations
 Luxories
 	- Free
 		- Roads
+		- Justification: arbitrary communal preferences
 	- Heavily Regulated
 		- Electricity
 		- Water
@@ -736,8 +734,10 @@ Luxories
 		- Telephones
 		- Internet
 		- Mailing
+		- Justification: arbitrary communal preferences
 	- Subsidized
 		- Transportation
+		- Justification: arbitrary communal preferences
 	- Amenities
 		- Libraries
 		- Museums
