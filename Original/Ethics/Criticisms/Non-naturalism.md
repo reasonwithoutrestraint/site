@@ -43,6 +43,11 @@ It seems to be an a priori conceptual truth that moral properties supervene on t
 
 Non-naturalism fails to account for the motivational feature of normative judgments for the very same reasons that mind-independent naturalism fails. The fact that moral properties move from the natural realm to the non-natural realm does not increase the motivational weight. Attributions of goodness to P appear to have a conceptual link with the guidance of action towards promoting P (judgment internalism). For any non-naturalistic property R, we can imagine clear-headed beings who would fail to find appropriate reason or motive to action in the mere fact that R obtains regarding P. The fact that attributions of goodness are necessarily action-guiding whereas attributions of R are only contingently action-guiding suggests that goodness and R are not analytically equivalent. 
 
+## Co-reference
+
+1. How do we know that we refer to the same properties as people with radically different normative beliefs, especially from those from different societies?
+2. How do we successfully communicate the same concepts to children and people who are not currently accustomed to our normative beliefs? How do we successfully get children to refer to the same normative properties? Surely, we are not innately situated to refer to the same properties as there could be a group of children who are raised to have radically different normative beliefs. So how can language be used in such a way that it hooks our speaker's attitudes up with the mind-independent normative properties? A better explanation is that we are not transmitting beliefs about a mind-independent normative reality; rather, we are modifying the attitudes of others and are expressing our own attitudes. Normative expressions are communicative tools in a attitude coordination game.
+
 ## Others
 
 How to know when our perceptions go astray? How to know if we're suffering from an optical illusions? How to know what's the best state of mind to be in when evaluating the reliability of intuitions?

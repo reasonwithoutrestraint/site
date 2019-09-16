@@ -1,5 +1,19 @@
 ## Readings
 
+- John Locke, Second Treatise of Civil Government
+- Murray Rothbard, For a New Liberty
+- Robert Nozick, Anarcy, State and Utopia
+- John Stuart Mill, On Liberty
+- Kantian contractualist (Gaus and, I think, Hayek)
+- Hobbesian contractarian (Narveson, Gauthier), 
+- Other Contractarian (Jan Narveson, The Libertarian Idea; Loren Lomasky, Persons, Rights, and the Moral Community).
+- Hermann Hoppe
+- Natural Rights (Chartier, Mack), 
+- Eudaemonist (Long, Den Uyl, Rasmussen, Rand)
+- Rule-utilitarian (most economist libertarians, Friedman, Mises), 
+- Institutional-consequentialist justifications (Schmidtz),
+- Rossian pluralist (I think MZ counts here, and maybe Huemer).
+
 From Sep: https://plato.stanford.edu/entries/libertarianism
 -  They hold, for example, that each person has a right to maximum equal negative liberty, which is understood as the absence of forcible interference from other agents (e.g., Narveson 1988; Steiner 1994; Narveson & Sterba 2010). This is sometimes called “Spencerian Libertarianism” (after Herbert Spencer).
 - Most, however, focus more on the idea of self-ownership. Famously, this view is attributed to Robert Nozick (Cohen 1995; but see the discussion below).
@@ -310,10 +324,28 @@ Principles I accept:
 
 ### Justified uses of coercion
 
-Equality -> Liberty (when access to comparably opportunity doesn't conflict) + Democracy (when access to comparably opportunity conflicts) -> government that (1) protects/develops capacities necessary to participant in a democratic political system, (2) does not infringe upon those basic liberties (i.e. abortion) which do involve relevant conflicts with the opportunity of others, and (3) leaves the rest up to decentralized democratic support.
+Equality -> Liberty (when access to comparably opportunity doesn't conflict) + Democracy (when access to comparably opportunity conflicts) -> government that (1) protects/develops capacities necessary to participant in a democratic political system, (2) both protects and does not infringe upon certain specific basic liberties which do involve relevant conflicts with the opportunity of others (e.g. access to abortion), and (3) leaves the rest up to decentralized democratic support. Can be summed up as minarchism + decentralized democracy
+
+Idealization
+- What kind of world do fully informed, fully rational individuals prefer to live in?
+- How to move from equality to minarchism + decentralized democracy. Equality is valued in itself on principle. Minarchism, democracy and decentralization are valued based on various empirical facts (e.g. a benevolent dictator would be okay if it were possible). What is a test for what we value in principle? How to articulate what equality truly consists in? E.g. can it be articulated via some ideal procedure such as e.g. Rawl's veil of ignorance.
+
+Key points:
+- "Major" hindrances to freedom (i.e. acts of assault, imprisonment, death, etc.) are justified only to prevent other "major" hindrances to freedom (idea from Kant). Fully informed, fully rational parties with equal opportunity are not allowed to aggress one another, even for some overall increase in utility. This is consistent with basic self-defense allowed under anarcho-capitalism.
+- Victim-defensed based permissions. If X is justified in coercing/aggressing Y in self-defense when Y is the criminal, X is also justified in aggressing/coercing Z in self-defense when Z is innocent. 
+- Third-party protection. If X is justified in coercing/aggressing Y in self-defense, then X is also justified in coercing/aggressing Y to protect third-party Z. Defense-based protections + third-party protections justifies mandated taxation protecting everyone's negative freedom allowed under minarchism.
+- Positive freedom is what matters, not negative freedom. This justifies the kind of minarchism + limited, decentralized democracy that I support.
+-> This acually is not sufficient. Imagine a government decides to kill members of a minority group to save the lives of 5 members of a majority group (e.g. kidney donation). It may also have democratic appeal (since the beneficaries are in the majority). This can satisfy the above conditions, but it does not seem just. Some ways to account for this intuition while accomodating state coercion generally:
+	- The state is justified in *threatening* to use assault or forcibly confiscating innocent's resources to save the lives of others, but they are not justified in *actually* assaulting innocents.
+	- The individuals in the dire situations in the majority group may be permitted to kill the members of the minority (for the same reasons an individual can take the last piece of food to save his life even if it kills others), but that doesn't mean the state is.
+	- All members need some reason to respect the policy.
 
 Central principle:
-- What kind of world do fully informed, fully rational individuals prefer to live in?
+- Major physical coercion is not justified with fully infomed, fully rational individuals with no conflicts in opportunity. I.e. if A and B have equal material opportunity, A cannot physically coerce B because it pleases him or satisfies an interest for him or provides utility.
+- It might be justified with "minor" physical coercion, but not physical coercion by the state (where imprisonment and death are risks).
+- Physical coercion is only justified to reduce other instances of physical coercion (or in cases of lack of information or rationality). The question, then, is what additional features must be present for physical coercion to be just. The principle seems to be as follows: physical coercion against X is justified only if it is necessary to reduce comparable or more physical coercion against Y. 
+- Instead of saying, "coercion is justified when necessary to alleviate other coercion", we might accept a threshold level of opportunity, above which it is not justified to coerce others.
+- Aggregation of burdens doesn't matter; it's an individual patient-centered deontological moral system.
 - Individual permissions 
 	- Individuals are permitted to freely form contracts without outside interference.
 	- Or, rather, the contracts that they would form if they were fully informed, fully rational, etc.
@@ -328,7 +360,8 @@ Central principle:
 			- (2) The state coercion impairs minor constraint to reduce a comparable or larger constraint.
 			- (3) State coercion is the only way to alleviate these constraints.
 			- (4) The scope of the state coercion is as small as logistically feasible
-	- Mandatory uses of state coercion:
+			-> This not sufficient? See example where a majority votes to distribute organs from a minority to members of a majority who need them.
+	- Non-democratic uses of state coercion:
 		- Subsidizing the basic requirements for ensuring everyone's values are input in the democratic system:
 			- Courts, Police, Military, Prison, Education
 		- Protections: protections against constraints when another person is causally responsible.
@@ -357,23 +390,58 @@ Central principle:
 	- The person is compensated for the transaction in the same resources
 	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
 - The preconditions for basic democracy don't require democratic support
-	- Assuming they *did* require democratic support, we would still need these in place to know if they had democratic support.
+	- Assuming they *did* have democratic support, we would still need these in place to know if they had democratic support.
 	- Courts, Voting Infrastructure
-	- Police protection to provide safe access for citizens to vote
+	- Monopoly on force to prevent agencies from suppressing others expression using force
 	- Education
 		- Otherwise, people might not know they have the right to vote
 		- They might not know what's good for them
 		- They might be coerced non-violently by others 
-	- The goal is to make sure everyone's interests are taken into consideration during voting, not to make sure everyone has equal opportunity to a good life.
-		- So, if food is provided (not sure if it should be), it's not to prevent people from dying. It's to prevent people from being manipulated out of hunger which leads to their interests not being expressed in the political system.
-		- Similar considerations may apply to provide for healthcare.
-	- Conditions necessary:
-		- Not offering provisions by the government would result in people not having them. So they don't need to be provided if the private sector can account for it. 
-		- They don't require democratic support.
+	- The goal is to make sure everyone's interests are taken into consideration during voting, not to make sure everyone has equal opportunity to a good life. Not sure if this covers food, healthcare, etc.
+	- Don't require democratic support.
+	- Should be provided at as local a level as possible. E.g. local police departments, education, etc. Broader governments steps in to administrate or bring local governments up to competence, but the broader government doesn't directly fulfill the role (i.e. by directly providing the required services)
+	- Examples: 
+		- Minarchism: directly providing police, military, courts, prisons, education
+		- Possibly: providing opportunity to food, healthcare, etc. Note it's providing *opportunity* not necessarily the resources directly. I.e. set up systems such that people *would* attain food, healthcare, etc. if they had the appropriate intentions. 
+- Protection against other constraints
+	- NOTE: this is considering minor constraints vs major constraints; but remember state government intervention isn't necessarily minor because they are always backed with the threat of imprisonment, physical assault or even death if someone retaliates.
+	- Whether current or future (i.e. pre-emptive protection is justified).
+	- This extends beyond mere requirements for a democratic society. It applies to constraints generally, even non-intentional and non-agential.
+	- When considering whether to force A to assist B.
+	- Ways that A can be responsible for B's diminished liberty.
+		- R1: A *intended* B being worse-off. E.g. taking someone's water. 
+		- R2: A didn't *intend*, but his actions did *cause* B to be worse-off. i.e. if A stopped performing his actions, B would not be poor. E.g. owning the entire water supply.
+		- R3: A didn't *cause*, but it is not possible to alleviate B's condition with A's current behavior. i.e. if A stopped performing his actions, B would still be poor; nevertheless, the only way to improve B's situation is by coercing A. E.g. A has opportunity to water but doesn't know how to utilize it without education.
+	- If A is causally responsible for B's diminished liberty (R1 or R2),
+		- The state is obligated to force A.
+		- B permitted to force.
+		- A obligated to assist.
+	- Should this actually be democratically endorsed?  
+	- Examples of protection. Protect against:
+		- Physical coercion, 
+		- Excess resource usage,
+		- Non-agent caused constraints 
+	- Examples: fire
+- Arbitrary (non-economic) communal preferences
+	- Doesn't have to be based on contracts.
+	- There is no causal responsibility.
+	- When a community has preferences which might conflict with the preferences of others.
+	- There are two kinds of conflicts:
+		- Conflicts with preferences of individuals within the community
+			- The community's preferences can be acted upon assuming:
+				- (1) There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
+				- (2) If the harms are comparable or the harm to the coerced/taxed is less than the harm that would be to the beneficiary, then we just go with the majority opinion. Otherwise, ???
+				- (3) The restriction is the only way to alleviate the other restrictions (R3 from above).
+				- (4) The decisions could not feasibly be made on a more local level.
+		- Conflicts with preferences of groups outside of the community
+			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
+			- E.g. restrictive immigration don't coerce those outside the group, so its fine
+	- Perhaps this is how we set standards for property rights / resource usage?
 - Unwanted Economic Externalities
 	- Justification
 		- The justification here is different from the justification for protection. 
 		- I.e. it doesn't matter that it is a minor constraint to alleviate major restrictions. even if applying minor constraints to alleviate minor constraints is not generally justifiable, it's justifiable in this case because of its contractual nature. Contracts only get their validity from consensual support.
+		- It also doesn't need to be the only way to alleviate a constraint.
 	- Requirements:
 		- Most people in a region prefer the opportunities to form contracts with features X
 		- Most people are incentivized such that their actions in the market make it impossible for contracts of feature X to succeed
@@ -406,37 +474,6 @@ Central principle:
 		- I.e. when a person wants system X but they are individually incentivized to perform actions that lead to system Y, because their actions (in an unconstrained free market) only affect their individual benefits, rather than the system as a whole. 
 		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
 		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
-- Protection against other constraints
-	- NOTE: this is considering minor constraints vs major constraints; but remember state government intervention isn't necessarily minor because they are always backed with the threat of imprisonment, physical assault or even death if someone retaliates.
-	- When considering whether to force A to assist B
-	- Whether current or future (i.e. pre-emptive protection is justified)
-	- Examples of protection. Protect against:
-		- Physical coercion, 
-		- Excess resource usage,
-		- Non-agent caused constraints 
-	- Ways that A can be responsible for B's diminished liberty
-		- R1: A *intended* B being worse-off. E.g. taking someone's water. 
-		- R2: A didn't *intend*, but his actions did *cause* B to be worse-off. i.e. if A stopped performing his actions, B would not be poor. E.g. owning the entire water supply.
-		- R3: A didn't *cause*, but it is not possible to alleviate B's condition with A's current behavior. i.e. if A stopped performing his actions, B would still be poor; nevertheless, the only way to improve B's situation is by coercing A. E.g. A has opportunity to water but doesn't know how to utilize it without education.
-	- If A is causally responsible for B's diminished liberty (R1 or R2),
-		- The state is obligated to force A.
-		- B permitted to force.
-		- A obligated to assist.  
-- Arbitrary (non-economic) communal preferences
-	- Doesn't have to be based on contracts.
-	- There is no causal responsibility.
-	- When a community has preferences which might conflict with the preferences of others.
-	- There are two kinds of conflicts:
-		- Conflicts with preferences of individuals within the community
-			- The community's preferences can be acted upon assuming:
-				- (1) There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
-				- (2) If the harms are comparable or the harm to the coerced/taxed is less than the harm that would be to the beneficiary, then we just go with the majority opinion. Otherwise, ???
-				- (3) The restriction is the only way to alleviate the other restrictions (R3 from above).
-				- (4) The decisions could not be feasibly be made on a more local level.
-		- Conflicts with preferences of groups outside of the community
-			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
-			- E.g. restrictive immigration don't coerce those outside the group, so its fine
-	- Perhaps this is how we set standards for property rights / resource usage?
 
 Questions:
 - How to establish a theory of property rights? Is it decided democratically?
@@ -642,25 +679,30 @@ Protection against physical coercion
 			- Courts
 			- Military
 			- Borders
+			- Justification: mandatory state coercion to secure democracy / monopoly on force
 		- Risk
 			- Gun licenses
 			- Driver's licenses
 			- Drunk Driving
+			- Justification: communal preferences
 		- Pseudo violence
 			- (Noise?) Pollution
 			- Threats (risk?)
+			- Justification: communal preferences
 	- Caused by non-agents
 		- Subsidized Housing/Food
 		- Basic Welfare
 		- Subsidized Healthcare
 		- Natural Disaster Relief (incl. firefighting)
-	- Justification: mandatory state coercion to secure democracy
+		- Justification: communal preferences
 Protections against damages to property
 	- Caused by agents
 		- Theft
 		- Property crime
+		- Justification: mandatory to secure democracy / monopoly on force; all theories of property rights determine what kinds of force are justified. Criminals who violate a community's property rights use force. They must be stopped. As for the particular articulation of a theory of property rights...that must be decided somehow by the given society.
 	- Caused by non-agents
 		- Natural Disaster Relief (incl. firefighting)
+		- Justification: communal preferences
 Developing Autonomy
 	- HS Education
 	- Higher Education?
@@ -670,11 +712,13 @@ Constraints on contract-formation
 		- Fraud
 		- Defamation/Slander/Libel
 		- Contract Enforcement
+		- Justification: unwanted economic externalities, but we do not need democratic support. We can assume anyone who partakes in these activities prefers a system where the rules are followed.
 	- Protecting against direct physical harm
 		- Require accessible information about the dangers/risks of a product 
 		- Housing Safety (e.g. no asbestos, lead in paint)
 		- Employment Safety
 		- Food/Drug
+		- Justification: communal preferences
 	- Workplace Regulations
 		- Minimum Wage
 		- Mandated Benefits
@@ -683,9 +727,9 @@ Constraints on contract-formation
 		- Maternity Leave
 		- Disability Accomodation
 		- Employment termination notices
+		- Justification: unwanted economic externalities
 	- Banks require insurance
 	- Housing eviction notices
-	- Justification: unwanted economic externalities
 Other market regulations
 	- Economic Protections
 		- Anti-Monopoly 
@@ -693,7 +737,7 @@ Other market regulations
 		- Union Protections
 		- Copyright/Intellectual Property
 	- Employment/Customer/Housing Discrimination
-	- Justification: unwanted economic externalities
+	- Justification: communal preferences + unwanted economic externalities
 Individual regulations
 	- Offensive Behavior
 		- Hate speech laws
