@@ -297,7 +297,7 @@ Individual Goodness: ranking outcomes for individuals
 
 Why to reject consequentialism:
 - Against the consequentialist thesis:
-	- There is not always a way to definitively determine which world is better than another, e.g. when some are worse off and others are better off.
+	- There is not always a way to definitively determine which world is better than another. I.e. reject that "better than" is a total order. Some worlds cannot be compared, e.g. when some are worse off and others are better off, or when worlds have different amounts of people.
 	- In cases where A is definitively better than B, there could still be moral constraints preventing us from instantiating A over B:
 		- So the moral does not reduce to goodness.
 		- Objection: we can include those moral constraints into the goodness evaluation.
@@ -324,7 +324,7 @@ Why to reject consequentialism:
 	- Further, there might be certain situations that everyone has reason to prefer, but only in trivial circumstances, e.g. a policy that makes everyone else better off. But consequentialism purports to provide more than this, it is supposed to explain how sometimes harming certain people is offset by benefiting others.
 	- Instead of looking torwards evaluations of collective states of affairs, we seek principles that constrain our behavior without reference to any notions of final goodness. 
 - Reject completeness: 
-	- Agents have multiple optional spaces of consequences to product
+	- Agents have multiple optional spaces of consequences to produce
 	- Satisficing vs maximizing consequentialism
 	- This is not JUST satisficing, because agents are permitted to be sub-optimal so long as they don't cause extreme suffering.
 	- Further, agents have PERMISSION (not OBLIGATION) to value themselves. E.g. if they chose to save themselves instead of 2 othes, or if they chose to save 2 others instead of themselves, both  are permissible and neither is blameworthy.
@@ -343,7 +343,7 @@ Why to reject consequentialism:
 	- There are other goods, i.e. desire satisfaction.
 	- We need to adjust for certain kinds of dessert (at least for a theory of morality, not necessarily for a theory of goodness)
 		- Certain people deserve pleasure more than others, e.g. good people.
-		- Degenerate interests. Certain pleasures are inherently worse than others, i.e. pleasures in the suffering of others
+		- Degenerate interests. Certain pleasures are inherently worse than others. Namely, external pleasures/preferences, i.e. preferences about the wellbeing of others. E.g. pleasures in the suffering of others, selfish pleasure - a desire to have more than others.
 		- Responsibility. People who willingly take actions to reduce those pleasures can be given less weight than those whose pleasures are reduced due to no fault of their own.
 		- Intentions. An intentional act might be equally as good as an unintentional act (e.g. imagine they have the same consequences) but the intentional act is subject to moral evaluation whereas the latter is not.
 			- Intentional vs accidental act: e.g. voluntary and nonvoluntary act with the same consequences
