@@ -13,6 +13,8 @@
 - Rule-utilitarian (most economist libertarians, Friedman, Mises), 
 - Institutional-consequentialist justifications (Schmidtz),
 - Rossian pluralist (I think MZ counts here, and maybe Huemer).
+- Michael Huemer, The Problem With Political Authority
+- David Friedman, Machinery of Freedom
 
 From Sep: https://plato.stanford.edu/entries/libertarianism
 -  They hold, for example, that each person has a right to maximum equal negative liberty, which is understood as the absence of forcible interference from other agents (e.g., Narveson 1988; Steiner 1994; Narveson & Sterba 2010). This is sometimes called “Spencerian Libertarianism” (after Herbert Spencer).
@@ -46,29 +48,40 @@ From Kymlicka's Introduction to Political Philosophy
 - For a comprehensive overview of left-libertarianism, see the two-volume set edited by Peter Vallentyne and Hillel Steiner (The Origins of Left-Libertarianism: An Anthology of Historical Writings and Left-Libertarianism and its Critics: The Contemporary Debate, both published by Palgrave, 2000).
 
 Important Works
-- Isaiah Berlin’, "Two Concepts of Liberty"
-- Gerald MacCallum, "Negative and Positive Freedom"
-- Dworkin, All political theories have equality as the foundational value
+- John Rawls, _A Theory of Justice_
+- Robert Nozick, _Anarchy, State and Utopia_
+- G.A. Cohen, _Self-Ownership, Freedom, and Equality_
+- Ronald Dworkin, _Sovereign Virtue: The Theory and Practice of Equality_
+- Michael Sandel, _Liberalism and the Limits of Justice_
+- Alasdair MacIntyre, _After Virtue_
 
-Minor Intrusions and Samaritanism
-- [ ] Peter Railton, "Locke, Stock, and Peril: Natural Property Rights, Pollution, and Risk" (1985) 
-	- http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/RailtonOnNozick.pdf
+Other
 - [ ] Peter Vallentyne et. al, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant" (2005)
-- [ ] David Sobel, "Backing Away from Libertarian Self- Ownership" (2012)
-- Eric Mack, 
-	- [x] "Elbow Room for Rights" (2015)
-	- [ ] "Elbow room for self-defense" (2016)
-- Nicolás Maloberti, 
-	- [x] "Libertarianism and the Possibility of the Legitimate State" (2009)
-	- [x] "Libertarianism and Exception Rights" (2017)
-- Christopher Wellman, 
-	- [x] "Liberalism, Political Legitimacy, and Samaritanism" (1996)
-	- [x] "Toward a Liberal Theory of Political Obligation" (2001)
-	- [x] "Samaritanism and the Duty to Obey the Law" (2005)
+- [x] Matt Zwonlinski, "The Libertarian Nonaggression Principle" (2016)
+
+Minor Intrusions
+- [ ] Peter Railton, "Locke, Stock, and Peril: Natural Property Rights, Pollution, and Risk" (1985) 
+- [ ] David Sobel, "Backing Away from Libertarian Self-Ownership" (2012)
+- [ ] David Sobel, "Self-Ownership and the Conflation Problem" (2012)
+Responses:
+- [x] Brennan and Van der Vossen, "The myths of the self-ownership Thesis" 
+- [x] Eric Mack, "Elbow Room for Rights" (2015)
+- [x] David Sobel, "The point of Self-ownership" (2018)
+- [x] Marcus Agnafors, "Self-Ownership, the conflation problem, and presumptive libertarianism" (2018)
+Minimal State
+- [x] Christopher Wellman, "Liberalism, Political Legitimacy, and Samaritanism" (1998)
+- [x] Fabian Wendt, "Political Authority and the Minimal State" (2016) (mentions "anti-paralysis")
+- [x] Nicolás Maloberti, "Libertarianism and Exception Rights" (2017)
 
 			==================================================================
 										Formulation
 			==================================================================
+
+From Vallentyne, Steiner, and Otsuka: "full self-ownership is a bundle of rights that is (roughly) equal to the logically strongest set of ownership rights that people can have over themselves compatible with others having equal such rights over themselves".
+- This is not determinate for a few reasons:
+	- Ownership consists of a protection dimension and a use dimension. Both cannot be maximized simultaneously. We must restrict one to increase the other. Full protection-rights (with no use-rights) results in paralysis. Full use-rights (with no protection-rights) results in anarchy. Both of these possibilities, and everywhere in between, is compatible with full self-ownership.
+	- The use/protection balance appropriate for a type of ownership might vary depending on the property being owned (e.g. bodily rights emphasize protection rights more, whereas property rights emphasize use rights more). 
+	- There can be communal ownership of some kinds of property. E.g. instead of A and B both owning 50% of resources each; A and B each *fully* own 25% of resources each (e.g. their bodies, resources that can be divided evenly without losing value. These emphasize protection-rights over use-rights), and each *communally* own the remaining 50% of resources (e.g. the air, public spaces, etc. these emphasize use-rights over protection-rights. Perhaps one is owed compensation when one uses too much).  
 
 Justified uses of coercion:
 - Consent: 
@@ -171,13 +184,18 @@ Principles of Justice (in decreasing order of lexical priority) - General princi
 1. The state protects everyone's basic liberties. E.g. freedom of movement, freedom of association, freedom of speech, etc. protected by police, courts, borders, etc. The state also guarantees prerequisites for a functioning democratic society, e.g. education, childcare, etc. This imposes constraints on those who otherwise deliberately assault otherwise (minor constraints), those who would unintentionally limit the constraints of others, e.g. polluting companies (moderate constraints), and on taxpayers (minor constraints).
 2. Disparities in opportunity to economic resources must not worsen anyone. Opportunity is meant in a strong sense here, i.e. A and B have equal opportunity iff A and B would have the same outcome if they had identical interests (as opposed to a weak sense of opportunity which merely requires that A and B have the same outcome if they had identical interests AND natural talents). Some notes on how this differs from the difference principle:
 	- This principle has no concern with equal (weak or strong) opportunity to all offices and positions, unlike the first part of Rawls' second principle. As for the second part of the principle (the Difference Principle), there are two differences:  
-	- This principle focues on opportunity, rather than outcomes. It allows disparities in outcomes which are not the result of disparities in natural talents. E.g. there can be disparities in resources which are the result of different interests, which means they are not result of disparities of opportunity. Certainly, disparities in interests need not benefit the worse-off. 
+	- This principle focuses on opportunity, rather than outcomes. It allows disparities in outcomes which are not the result of disparities in natural talents. E.g. there can be disparities in resources which are the result of different interests, which means they are not result of disparities of opportunity. Certainly, disparities in interests need not benefit the worse-off. 
 	- This principle disallows disparities that worsen others, rather than disparities that do not benefit others. It allows disparities so long as they do not cause the poor (or anyone else) to be worse-off. The baseline for comparison is what a person's outcome would be if the better-off persons/group did not make themselves better off.
-3. Other aspects of government control can be decided by democratic election with the following conditions (should principle 2 be included under here?):
-	- The policy must be as decentralized as possible (prevent tyranny of the majority).
-	- The policy must constrain certain citizen's behavior no more than how much other citizens would be constrained if the policy was not enacted. Economic policies fit well here.
-	- An epistocratic system is fine: we can ban minors, felons, mentally handicapped, etc. from voting. The bans cannot be too widespread as it might lead to disenfranchisement. The precise line to draw must be settled empirically.
-	- The state is the only way to alleviate such constraints OR the behavior that is constrained is legitimate only because of contractual support of citizens (e.g. think workplace or company regulations).
+3. Other aspects of government control can be decided by democratic election (should principle 2 be included under here?).
+	- The following conditions must be met:
+		- The policy must be as decentralized as possible (prevent tyranny of the majority).
+		- The policy must constrain certain citizen's behavior no more than how much other citizens would be constrained if the policy was not enacted. Economic policies fit well here.
+		- An epistocratic system is fine: we can ban minors, felons, mentally handicapped, etc. from voting. The bans cannot be too widespread as it might lead to disenfranchisement. The precise line to draw must be settled empirically.
+		- The state is the only way to alleviate such constraints OR the behavior that is constrained is legitimate only because of contractual support of citizens (e.g. think workplace or company regulations).
+	- Voting on regulating economic resources (e.g. taxation)
+		- Only allowed to account for cases where people are not incentivized to directly subsidize what they want. E.g. people want a museum, but people are not incentivized to provide initial funds (e.g. because startup costs are too high, there is little awareness of the museum initially, etc.).
+	- Voting on regulating personal movement/behavior.
+		- E.g. public nudity. 
 
 Lexical priority of basic opportunities/liberties that everyone needs as a means towards wellbeing. Constraints on the lower priority are justified to protect constraints of higher priority:
 1. Freedom from assault, natural disasters, bodily autonomy. Protection from constraints on one's choices.
@@ -195,14 +213,7 @@ Lexical priority of basic opportunities/liberties that everyone needs as a means
 
 Why liberty is the only thing that matters
 	- Imagine a world of fully informed, fully rational agents with maximal equal liberty. How can coercion be justified here? To promote the aims of a particular agent?
-	- Imagine every possible political/economic system was available to people, and people could make a fully informed, consensual uncoerced decision on where to live. In this case, there can be no justification for coercion, even if that coercion resulted in more equality, utility, etc. So liberty is the primary value, and all other values - e.g. equality, utility, social order, etc. - are pursuable only insofar as they respect the demands of liberty.
-	- At the very least one has to accept that coercion is prima facie wrong and there needs to be justified exceptions to the rule. What constitutes the exceptions?
-	Why anarchy is wrong:
-	- Minor coercion to alleviate minor constraints is justifiable. E.g. taxation to protect people, breaking a fence to save a child.
-	- A lot of our everyday actions put others at risk. E.g. smoking causes pollution.
-	- Uninitiated minor/major coercion is justifiable. Coercion against A in self-defense is justified independently of whether A is responsible. E.g. imagine A presents a danger to others, but he is not responsible, but coercing A is the only way to stop the danger.
-	Why negative rights are wrong:
-	- Negative rights only are unsustainable. All taxation assumes that people have a positive right to negative liberty. Why not assume a positive right to positive liberty?
+	- On what basis can we justify coercing A to benefit B?
 
 Why be concerned with *resources* rather than *wellbeing*?:
 	 - Some components of well-being are illegitimate - e.g. preferences that other people are harmed. External preferences, which are concerned with how the lives of others go, e.g. preferences to be loved by others. 
@@ -264,8 +275,25 @@ Trouble:
 ------- Lower Level Justification -------
 
 Idealization
+- Imagine idealized world: everyone is fully informed, fully rational, equal starting liberty (i.e. equal talents, equal abilities, equal starting natural resources, etc.) and none of our goals conflict. Coercion is not justified here (although no one would want to use coercion).
+- Now, say everyone is fully informed, fully rational, with equal starting positive liberty and our goals sometimes conflict. When is coercion justified?
+	- Property protection.
+	- Self-defense.
+	- Contract-enforcement.
+	- Protection against fraud.
 - What kind of world do fully informed, fully rational individuals prefer to live in?
+
+
 - How to move from equality to minarchism + decentralized democracy. Equality is valued in itself on principle. Minarchism, democracy and decentralization are valued based on various empirical facts (e.g. a benevolent dictator would be okay if it were possible). What is a test for what we value in principle? How to articulate what equality truly consists in? E.g. can it be articulated via some ideal procedure such as e.g. Rawl's veil of ignorance.
+- Problem with Rawl's veil of ignorance is that it reduces to maximizes one's expected value, which can result in subjugating someone else. It conflates blind rationality with moral justification. However, the veil of ignorance is useful for avoiding irrelevant considerations from fitting into one's moral reasoning, i.e. rich people are more disposed to favor laisez faire capitalism, and the poor will want to favor redistribution, racial majorities will be okay with subjugating the minority, etc. How else can we avoid this?
+	- Perhaps instead of using a veil of ignorance for the contractual setup, we keep people in the actual world where they are informed of their actual place in society. Instead of people voting on particular policies (e.g. protect freedom from assault), we vote on principles expressed in abstract terms of resources (not welfare or utility). Actually, instead of the principles being expressed in terms of *actual* resources, they are expressed in terms of *opportunity* to resources. Only accept principles concerning the distribution of opportunity to resources (expressed in an abstract manner) that can be justified to all. 
+	- Problem: Wouldn't people be incentivized to vote according to resource distribution, rather than opportunity distributions?
+		- It seems that resource distributions ought to be choice- or ambition-sensitive, i.e. if two people have equal opportunity and ability, and one prioritizes leisure over wealth, we need not correct for any inequalities in resources that result from this difference in choices. Perhaps this can be accounted for by including leisure time in the resource distribution that will be voted on. 
+		- But even including leisure time in the resources doesn't seem to account for the relevant choice sensitivity. People not only make different economic choices because of different values, but also because they are more risky or less rational. For example, A might come to have less economic resources than B not because A received some other good (such as leisure) which he values more than A does, but because he was irrationally lazy (e.g. due to weakness of will) or because he is fundamentally more risky. It seems that inequalities that arise from this difference in choices also need not be corrected.  
+	- Problem: Does this lead to the unintuitive conclusion that we distribute opportunity to resources equally? This might be intuitive in the case of ownership of property, but not for ownership over one's body. 
+		- Why would people vote to support equal access to property, but not mass equal access to physical bodies? Indeed, some limitations on the bodies of others are justified (e.g. think immigration, public nudity, laws etc.). But how to avoid the conclusion that the state should steal a healthy person's kidney and donate it to one in need?
+		- Perhaps, it cannot be avoided. Rather, let people vote to decide what kind of society to live in. Those who are willing to accept large resource deficits for larger benefits will be placed in a society where mandatory kidney extraction is allowed. Others will live in a different society.
+	- How will people vote in these issues? How does one know what it means for something to represent X resources rather than Y? It seems we cannot express these in terms of abstract resource amounts. But now people might be biased if they vote for policies directly.
 
 			==================================================================
 										Questions
@@ -302,6 +330,9 @@ Problems:
 		- Anti-nudity laws
 		- Anti- fraud/slander/libel laws
 		- Anti- hard drugs laws (e.g. even when they don't result in a reduce material quality of life for non-drug users, but they result in more homeless/laze underclass population).
+		- Suppressing free speech / freedom of association when it is needed to prevent oppression
+		- Various economic/occupational regulations (other than redistribution)
+		- Immigration restrictions
 	- This may be possible if:
 		- Certain laws are non-negotiable: e.g. police, courts, education, etc.
 		- The constraints imposed are low.
@@ -330,10 +361,10 @@ General:
 	- The intervention should be minor/temporary to bring the minor states up to a level of competence, rather than *merely* directly providing the resources/goods to the citizens.
 - Qualifications
 	- Emphasize the permissions of others to use force, not a duty by others to acquiesce.
-	- This avoids empirical questions:
-		- Whether a state is actually necessary. The only point is what kinds of coercive behavior an "agency" might be justified in doing. Whether it warrants the name "state" is another matter.
-		- The largest justified scope of a state. Probably smaller than a globe. Probably larger than a town. Somewhere in the middle. Whether this is consistent with anarchism is another question.
-		- Whether a welfare state is required for adults. Do adults have reasonable chance of gaining employment? Could it be justified from the fact that our economy has made some people worse-off?
+- This avoids empirical questions:
+	- Whether a state is actually necessary. The only point is what kinds of coercive behavior an "agency" might be justified in doing. Whether it warrants the name "state" is another matter.
+	- The largest justified scope of a state. Probably smaller than a globe. Probably larger than a town. Somewhere in the middle. Whether this is consistent with anarchism is another question.
+	- Whether a welfare state is required for adults. Do adults have reasonable chance of gaining employment? Could it be justified from the fact that our economy has made some people worse-off?
 
 			==================================================================
 											Other
@@ -433,15 +464,7 @@ General:
 
 Broader laws are mandatory, non-negotiable. Local laws are decided democratically. Note also that the broader laws tend to be more libertarian whereas the local laws have the potential to be more authoritarian. In principle, the broader laws could be more authoritarian in different countries where there is homogenous culture where everyone agrees to some authoritarian rules. 
 
-<<<<<<< HEAD
 Perhaps, the ideal laws for a given region are simply the upshot of norms of the culture of that region. For homogenous societies, they are free to enforce whatever rules they prefer. However, when a region has a large diversity of opinion, then the range of acceptable laws narrows. The ideal laws for a region are the laws that it would be rational for that region to accept. However, if the views of a region are so diverse, then the only laws that it would be rational for a region to accept would be minimal libertarian laws that emphasized freedom and liberty. Laws regulating international affairs are the extreme of this: the only international laws there are are basic respect for the sovereignty of nations, protection from genocide, etc.
-=======
-Idealization
-- What kind of world do fully informed, fully rational individuals prefer to live in?
-- How to move from equality to minarchism + decentralized democracy. 
-	- Equality is valued in itself on principle. Minarchism, democracy and decentralization are valued based on various empirical facts (e.g. a benevolent dictator would be okay if it were possible). What is a test for what we value in principle? How to articulate what equality truly consists in? E.g. can it be articulated via some ideal procedure such as e.g. Rawl's veil of ignorance.
-	- The problem with blind contracts is that people will be concerned with their future *expected* *well-being* rather than equal *opportunity* to *resources*.
->>>>>>> 96c70300ce1989510e7f5af6e8ca0af3ba4d0817
 
 Coercive laws for members of group G are justified if and only if such laws would be approved of by fully informed and fully rational members of group G assuming they sought coercive laws to regulate behavior. A law is appropriate for group G only if it is the upshot of ideal social construction. When there is broad disagreement, the only laws that overlap with everyone's fully rational interest would be minimal libertarian laws.
 
@@ -449,153 +472,56 @@ Must explain the relationship between disagreement and ideal socially constructe
 1. That widespread disagreement implies that minarchism.
 2. That minimal, but existent, disagreement does not imply minarchism.
 
-<<<<<<< HEAD
 ### Against common libertarian arguments
 
 #### Against Anarchism
-=======
-- Consent: 
-	- Explicit
-	- Implicit
-		- A implicitly suggests that they desire F (e.g. cues in romantic situations).
-		- A doesn't desire F, but they engage in an informal agreement that clearly indicated that F would be done to them (honor cultures, gangs, etc.). A implicit agrees to F iff they perform a behavior X whereby:
-			- There is a clear standard that F is the consequence for X,
-			- Performing X is optional, and they are not coerced into doing X.
-	- Revoked
-		- E.g. to enforce contracts
-- Impairment: 
-	- Lack of rationality
-	- Lack of information
-	- Maybe this isn't sufficient, maybe we also need A to prefer to be coerced under the condition that they are irrational/uninformed; otherwise, this force may not be permissible
-- Rectification: Compensation for constraints imposed
-	- Past physical damages
-	- Excess resource usage AND others attempt to access their fair share but are prevented
-	- Mandated safety nets in societies where a person is worse-off due to the presence of a state or economic system.
-- Forced Compensation: taking someone's resources and compensating them, only if:
-	- The portion taken is too small to cause large harm to the person's interests (e.g. in taxation)
-	- The person is compensated for the transaction in the same resources
-	- E.g. taxation to support welfare. If we didn't, we would have to pay for prisons, etc. Of course, this needs to be balanced against creating poor incentives for unfit reproduction.
-- The preconditions for basic democracy don't require democratic support
-	- Assuming they *did* have democratic support, we would still need these in place to know if they had democratic support.
-	- Courts, Voting Infrastructure
-	- Monopoly on force to prevent agencies from suppressing others expression using force
-	- Education
-		- Otherwise, people might not know they have the right to vote
-		- They might not know what's good for them
-		- They might be coerced non-violently by others 
-	- The goal is to make sure everyone's interests are taken into consideration during voting, not to make sure everyone has equal opportunity to a good life. Not sure if this covers food, healthcare, etc.
-	- Don't require democratic support.
-	- Should be provided at as local a level as possible. E.g. local police departments, education, etc. Broader governments steps in to administrate or bring local governments up to competence, but the broader government doesn't directly fulfill the role (i.e. by directly providing the required services)
-	- Examples: 
-		- Minarchism: directly providing police, military, courts, prisons, education
-		- Possibly: providing opportunity to food, healthcare, etc. Note it's providing *opportunity* not necessarily the resources directly. I.e. set up systems such that people *would* attain food, healthcare, etc. if they had the appropriate intentions. 
-- Protection against other major constraints don't require democratic support
-	- Minor vs Major: 
-		- This is considering minor constraints vs major constraints; but remember state government intervention isn't necessarily minor because they are always backed with the threat of imprisonment, physical assault or even death if someone retaliates. So instead of justifying minor constraints to alleviate major burdens, perhaps the theory should be changed to alleviating major burdens by imposing major constraints.
-		- The problem with this is it may lead to extremely controversial and unintuitive results. E.g. can the government kill 1 to save 5? Perhaps we should continue to say that forced coercion (even with the threat of assault, imprisonment, death, etc.) are minor in comparison to the burdens lifted. Questions about major vs major are left unanswered.
-	- Whether current or future (i.e. pre-emptive protection is justified).
-	- This extends beyond mere requirements for a democratic society. It applies to constraints generally, even non-intentional and non-agential.
-	- When considering whether to force A to assist B.
-	- Ways that A can be responsible for B's diminished liberty.
-		- R1: A *intended* B being worse-off. E.g. taking someone's water. 
-		- R2: A didn't *intend*, but his actions did *cause* B to be worse-off. i.e. if A stopped performing his actions, B would not be poor. E.g. owning the entire water supply.
-		- R3: A didn't *cause*, but it is not possible to alleviate B's condition with A's current behavior. i.e. if A stopped performing his actions, B would still be poor; nevertheless, the only way to improve B's situation is by coercing A. E.g. A has opportunity to water but doesn't know how to utilize it without education.
-	- Justified whenever:
-		- The burden alleviate from B is major
-		- The burden placed on A is minor
-		- Coercion is the only way to alleviate the force
-	- Examples: 
-		- Care for children (this might not be covered under protections for democracy because no care for children need not undermine democracy - the children would die, which means there is no person is unrepresented by the government).
-- Arbitrary (non-economic) communal preferences
-	- Doesn't have to be based on contracts.
-	- There is no causal responsibility.
-	- When a community has preferences which might conflict with the preferences of others.
-	- There are two kinds of conflicts:
-		- Conflicts with preferences of individuals within the community
-			- The community's preferences can be acted upon assuming:
-				- (1) There is widespread support. The amount of support required depends on the trade-off of harms by enacting the preferences versus not enacting the preferences. 
-				- (2) If the harms are comparable or the harm to the coerced/taxed is less than the harm that would be to the beneficiary, then we just go with the majority opinion. Otherwise, ???
-				- (3) The restriction is the only way to alleviate the other restrictions (R3 from above).
-				- (4) The decisions could not feasibly be made on a more local level.
-		- Conflicts with preferences of groups outside of the community
-			- The preferences can be acted upon assuming groups outside of the group have equal opportunity to accomplish those same preferences
-			- E.g. restrictive immigration don't coerce those outside the group, so its fine
-	- Examples: 
-		- Risk: Gun licenses, Driver's licenses
-		- Hard drug usage
-		- Utilities
-		- Public Transportation
-		- Taxation
-- Unwanted Economic Externalities
-	- Justification
-		- The justification here is different from the justification for protection. 
-		- I.e. it doesn't matter that it is a minor constraint to alleviate major restrictions. even if applying minor constraints to alleviate minor constraints is not generally justifiable, it's justifiable in this case because of its contractual nature. Contracts only get their validity from consensual support.
-		- It also doesn't need to be the only way to alleviate a constraint.
-	- Requirements:
-		- Most people in a region prefer the opportunities to form contracts with features X
-		- Most people are incentivized such that their actions in the market make it impossible for contracts of feature X to succeed
-		- Thus, people's choices in a free makert are not expressions of their preferred contract system
-		- People can express their contract preferences via voting
-		- Note that the competing harms here are identical, e.g. people being restricted due to the free market versus the voting system.
-		- Not that this applies to deciding how contracts are formed, not necessarily other preferred systems (e.g. this doesn't apply to whether people prefer gay people to be around). Why contracts?
-			- (1) If everyone in a free market acted to incentivize contracts of type X, then contracts of type not-X would be disincentenvized from existing.
-			- (2) If everyone in a free market acted to incentivize contracts of type X, this would not be an unjust restriction on employees/employers who prefer contracts of type not-X. 
-			- (3) Whether an employer/employee is restricted from engaging in contracts of type not-X due to forces of free market versus forces of the political system does not influence the *personal harm* that this places on those employees/employers. Harm here is measured in their opportunity to satisfy their preferences.
-			- (4) Whether a political/economic system is just supervenes on the harm it places on people.
-			- (5) [1 and 2] if contracts of type not-X are disincentivized from existing due to free market actions, then this would not be an unjust restrictions on those who preferred contracts of type not-X.
-			- (6) [3 and 4] Whether people are restricted from engaging in contracts of type not-X due to forces of the free market versus the political system is not relevant to whether they are treated justly.
-			- (7) [5 and 6] if contracts of type not-X are disincentivized from existing due to a voting system, then this would not be an unjust restriction on those who preferred contracts of type not-X.
-		- This does not work for things like wanting there to be no gay people because the 2nd permise wouldn't pass through. E.g. if everyone in a free makret acted to incentivize killing gay people, this WOULD be an unjust restriction on gay people.s
-	- Example: workplace benefits, economic/business regulations, etc. 
-		- Most employees in a region would prefer mandated time off from their employers if they were fully informed, fully rational and had the power to unilaterally decide what kind of system to live in.
-		- However, most employees are incentivized to go to companies that do not provide benefits because these companies tend to be more successful because they are more economically efficient.
-		- What about the employees who prefer companies that do not provide benefits? Aren't we forcing them by restricting their opportunities? 
-			- It is the same restriction that one would feel if either they preferred a style of company that offerred benefits but the market didn't incentivize it. 
-			- Thus, without these regulations, people who preferred these regulations would feel the same restrictions in the opposite direction. So the restrictions are equivalent and we should side with whatever is democratically decided. The only difference is one is decided by individuals via their choices in the market, and the other is decided by individuals via their voting preferences. The mechanism imposing the restriction is different, but the restriction *on the minority employees/employees* is identical.
-			- It might be argued that the restrictions are different, because in a regulated system there will be *no* companies without these benefits. Whereas in a free system, there would still be *some* companies with those benefits, but people would be incentivized against going there so they would be less successful/frequent. Two responses: (1) the hypothetical was that the free system was such that there are *no* viable, successful companies with benefits in a free market. In which case, the restrictions would be equivalent. (2) if it is the case that there would be some viable successful companies with benefits in a free market but they would be a bit less efficient and so less frequent, then it is not just to force all companies to offer benefits. However, it is just to manipulate taxation such that companies with benefits are at no disadvantage. Assuming the only unwanted externality of the free market as that one's preferred company receives less income (i.e. assuming that's the only reason why people are individually incentivized to perpetuate a system that they don't want), then this will be sufficient regulation and no more is justified. 
-		- Okay, employees are not forced any more than in a free market. What about the employers who do not want to provide benefits? Aren't we forcing them by not even allowing them to open up their business?
-			- See above. The same answers apply.
-	- Similar examlpes:
-		- Workplace benefits, economic/business regulations, etc.
-		- Large business undercutting small businesses with low profit margins
-		- Anti-monopoly measures
-	- When local preferences does not match global preferences
-		- I.e. when a person wants system X but they are individually incentivized to perform actions that lead to system Y, because their actions (in an unconstrained free market) only affect their individual benefits, rather than the system as a whole. 
-		- Prisoner dillemma, e.g. a company's existence makes everyone's lives worse (e.g. automates all jobs) but no individual has the economic ability to outcompete it (because the larger company's products are all uncompetitively cheap) due to no individual having the incentive to purchase from a different company. 
-		- ^ Similar justification as the argument for implementing private property over communally owned resources. E.g. avoids the tragedy of the commons. 
 
-Questions:
-- How to establish a theory of property rights? 
-	- Is it decided democratically?
-	- Do people deserve a baseline level of resources to have a sphere to control their life?
-	- Perhaps it should not be decided democratically, for the same reason it should not be decided democratically whether people in a region have democratic power over their regions. So people are guaranteed certain use-rights over varying levels of power: they have (near) absolute control over their property, strong control over their local community, weaker control over broader community, etc. 
-- Possibility of significant control over the most local communities?
-	- E.g. to ban public nudity in a small town?
-	- This doesn't fit the conditions I mentioned above (the burden of seeing nude people is certainly not comparable to the burden of being forced to wear clothes).
-	- How to ensure the region is small enough.
-	- Perhaps this: guarantee everyone a certain sphere of private property. Individuals can group together to form a super property that includes everyone's private property. These people can then vote on whatever policies they want (conditional on people being able to leave freely).
-	- Imagine people are allocated varying levels of power: the most narrow is private property - people can do whatever they want with their own private property; and groups that pool together their private property can vote for nearly anything they want. The most broad is e.g. federal government - people can do very little.
-	- Possibility: every person is entitled to some level of control to every resource (including other humans) in whatever jurisdiction we're referring to (e.g. a country). The levels of control are allocated in a way that provides each person with a maximum level of positive freedom. I.e. distribute use-rights in a way that maximizes the minimum level of positive freedom. The best way to achieve this would be to give some people access to protected private property (not to be interferred with via democratic votes), protections for the pre-conditions of democracy, limited and decentralized democracy. 
-- Gradations of usage rights
-	- Applies to how to handle self-ownership and property rights. 
-	- We cannot give people full control over their property or even their bodies because all bodily movements necessarily conflict with the bodily movement of others, and property rights necessarily entail constraints on the others bodily movements.
-	- So how do we determine what kinds of bodily movements are acceptable?
-	- We cannot do it by trying to "measure" one's freedom provided by certain usage rights. Instead, we must use our judgment/discretion to judge whether the coercion enacted by a particular policy is offset by the burden alleviated. We shouldn't appeal to pleasure or desire-satisfaction to measure one's level of bodily autonomy (as it reduces to a kind of utilitarianism) Nor should we define freedom as the opportunity to achieve an end if one had the appropriate intentions (this seems subjective; what about people who are overly sensitive and cannot help but, say, become upset at certain sights). Perhaps, due away with the notion of a gradation and just specify a certain threshold of basic rights - freedom from assault, theft, etc.
-	- This may not be a huge issue, because we are really only concerned with burdens that offset state coercion, which is major (i.e. under the threat of assault, death, imprisonment, etc.)
-- Threshold instead of major vs minor?
-	- Specify a threshold of positive freedom that we're all entitled to
-		- E.g. includes access to equal share of resources
-		- Ability to make informed, rational choices about how to live one's life
-		- Etc.
-	- People above the threshold can be taxed to bring others above the threshold, so long as it doesn't bring anyone below it.
-- How to handle state failures?
-	- Either due to incompetence or mallace, a state fails to provide individuals with certain opportunities.
-	- Do other sibling states or parent states have permission/obligation to intervene to provide individuals with opportunity?
-	- They have the permission, but not the obligation. It depends on the democratic support of the other/broader society.
-	- The intervention should be minor/temporary to bring the minor states up to a level of competence, rather than *merely* directly providing the resources/goods to the citizens.
-- This takes no stance over the exact scope of any government. They could be as broad as what we treat as governments. There need not be a single super-centralized world government (similar to what we have today). The govenrment with the largest possible scope is not answered here (so may be consistent with the spirit of anarachism).
-- This makes no claim on the justification of any actual states or if any states could be justified for actual humans. The empirical questions are left unanswered.
->>>>>>> 96c70300ce1989510e7f5af6e8ca0af3ba4d0817
+Elbow Room (intruding on innocents/non-responsible):
+- Unilateral property acquisition (opposed to joint ownership)
+- Lockean proviso
+- Trivial Intrusions
+- Lifeboat scenarios
+
+Iniations of force accepted by anarchist (admittedly, these are intrusions on those who are guilty or at least responsible)
+- Against tresspassers
+- Against those who would control our property
+- Against threats
+- Against fraud
+- To enforce contracts
+- Enforcement rights
+
+1. Violating the NAP is a violation of rights
+2. It is always morally permissible to violate rights
+3. The state violates the NAP
+4. Therefore, the state is morally impermissible
+
+Premise 3 is true
+- It takes property from others under the threat of force. 
+- It regulates their behavior. 
+- It maintains a monopoly on force, preventing others from exercising their rights to self-defense.
+
+Premise 2 is unclear
+- Can I violate your rights if it prevents 2 more serious rights violations against you in the future?
+- E.g. can I push you if it would prevent you from getting hit by a truck?
+- Perhaps, this aren't rights violations because the victim would permit it.
+- E.g. can I violate one of your minor rights, to alleviate major rights violations of others?
+- E.g. take some of your property to save someone from being raped?
+
+Permise 1 is doubful - there are two readings of the Non-aggression principle
+- Aggression = violation of someone's rights. Moralized conception.
+	- This is circular.
+- Aggression = an intrusion on someone's behavior. Non-moralized conception.
+	- But anarchists prohibit acts which are not physical aggression E.g. tresppassing on someone's land, breach of contract, or fraud.
+	- Anarchists permit initiations of physical aggression, i.e. when in defense of one's property. E.g. aggressing against tresspassed, breached a contract or committed fraud.
+	- The NAP alone doesn't tell us what theory of property rights to accept (unless one said that one's possessions was their property). One's theory of property rights needs an independent justification and articulation. Indeed, a socialists can claim to uphold the NAP and adopt an egalitarian theory of property.
+- The NAP is not a foundational value; it uses a moralized conception of aggression.
+
+So reject premise 1 because:
+- Even anarchist don't take NAP to be a foundational principle. 
+	- If it's moralized then its not foundation. 
+	- If its not moralized then its absurd.
+- Rather, accept something like the "anti-paralysis" postulate. Don't specify rights in a way such that the claim-rights are so strong that they prohibit individuals from exercising the liberty-rights that those the rights were meant to protect, even when doing so imposes a minor constraint on others.
+- Anarchists might not accept that because it ascribes to people rights to coerce others to avoid non-agent-caused constraints on their freedom (even though they should accept this given their other beliefs about our rights to e.g. property, protect against breach of fraud, etc. which involve coercing others to avoid non-agent-caused constraints on their freedom). Okay fine. But people do have a right to self-defense, to protect themselves to powerful gangs. They have the right to protect this right if the only way to reasonably do so is by imposing a minor constraints on others. This would be a moralized anti-paralysis postulate: Don't specify rights in a way such that the claim-rights are so strong that they prohibit individuals from protecting other rights that they have, even when doing so imposes a minor constraint on others. The "other rights" this refers to are the rights to protection from gangs.
 
 Historical:
 	- Anarchism has been destroyed at every point in history. Why assume an anarchist society could defend itself?
