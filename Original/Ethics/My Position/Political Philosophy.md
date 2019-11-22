@@ -55,16 +55,19 @@ Important Works
 - Michael Sandel, _Liberalism and the Limits of Justice_
 - Alasdair MacIntyre, _After Virtue_
 
-Other
+Conception of Self-ownership
+- 
+Property Rights: Left-Libertarianism vs Right-Libertarianism
+- Barbara Fried, "Left-Libertarianism: A Review Essay"
+- Peter Vallentyne, Hillel Steiner & Michael Otsuka, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried"
+Uncategorized
 - [ ] Peter Vallentyne et. al, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant" (2005)
 - [x] Matt Zwonlinski, "The Libertarian Nonaggression Principle" (2016)
-
+- [x] Brennan and Van der Vossen, "The myths of the self-ownership Thesis" 
 Minor Intrusions
 - [ ] Peter Railton, "Locke, Stock, and Peril: Natural Property Rights, Pollution, and Risk" (1985) 
 - [ ] David Sobel, "Backing Away from Libertarian Self-Ownership" (2012)
 - [ ] David Sobel, "Self-Ownership and the Conflation Problem" (2012)
-Responses:
-- [x] Brennan and Van der Vossen, "The myths of the self-ownership Thesis" 
 - [x] Eric Mack, "Elbow Room for Rights" (2015)
 - [x] David Sobel, "The point of Self-ownership" (2018)
 - [x] Marcus Agnafors, "Self-Ownership, the conflation problem, and presumptive libertarianism" (2018)
