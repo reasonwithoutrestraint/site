@@ -1,3 +1,64 @@
+Affirmative Action (Stanford Encyclopedia of Philosophy)
+
+Hasnas: Equal opportunity, affirmative action, and... - Google Scholar
+
+Rosenfeld: Affirmative Action, Justice, and Equalities:... - Google Scholar
+
+Strong/preferential vs weak/procedural
+
+Defending AA as non-rights-violations, not a justification per se.
+
+Some main arguments: corrective, compensatory, diversity
+
+Sidestep these main arguments. Argue by analogy
+
+Most authors accept affirmative action by income
+
+Most probably also accept affirmative action by other features
+
+Is racial discrimination special? Neither arbitrary (assuming AA based on income is not arbitrary) nor does it perpetuate subjugation either in purpose or in effect
+
+AA may be rejected for other reasons. E.g. hurts minorities, builds resentment, etc.
+
+For
+
+Arguments:
+
+Compensatory: compensate historical discrimination/disadvantage (past)
+Corrective: compensate present discrimination/disadvantage (present)
+Diversity: (in university or in society) (future)
+
+A Defense of Affirmative Action - Most people would agree that weak or precautionary affirmative action is a good thing, and worth its cost in time and energy. But this does not imply that strong affirmative action is also justified. I shall claim that in the present state of things it is justified, most clearly with respect to blacks...My own view is that while strong affirmative action is intrinsically undesirable, it is a legitimate and perhaps indispensable method of pursuing a goal so important to the national welfare that it can be justified as a temporary, though not short-term, policy for both public and private institutions. In this respect it is like other policies that impose burdens on some for the public good (diversity, "Nagel, by contrast, argued that preferences might work a kind of social good, and without doing violence to justice. Institutions could for one or another good reason properly depart from standard meritocratic selection criteria because the whole system of tying economic reward to earned credentials was itself indefensible.").
+
+Thomson, Judith Jarvis, 1973, “Preferential Hiring,” Philosophy & Public Affairs, 2 (Summer): 364–384. (compensatory, "Thomson endorsed job preferences for women and African-Americans as a form of redress for their past exclusion from the academy and the workplace.")
+
+In defense of Affirmative Action - Affirmative action refers to positive steps taken to hire persons from groups previously and presently discriminated against. Considerable evidence indicates that this discrimination is intractable and cannot be eliminated by the enforcement of laws. Numerical goals and quotas are justified if and only if they are necessary to overcome the discriminatory effects that could not otherwise be eliminated with reasonable efficiency. Many past as well as present policies are justified in this way. (diversity)
+
+Tierney: The parameters of affirmative action: Equity... - Google Scholar - This article provides a historical, philosophical, and theoretical analysis of affirmative action in higher education. It begins with the historical basis for affirmative action and the rationale for why it has been needed. The author outlines the philosophy behind affirmative action and its legal ramifications. The article then evaluates the success of affirmative action, outlines the criticisms that have been made of it, and considers alternatives. It is argued that affirmative action goes to the heart of what we mean by public higher education and what we mean by "merit." Although the policy has not succeeded in creating dramatic improvements, it has been consistent with basic assumptions about the meaning of academic community (good overview of arguments; expressed my position as well).
+
+Discrimination and Disidentification: The Fair-Start Defense of Affirmative Action - The Fair-Start Defense justifies affirmative action preferences as a response to harms caused by race- and sex-based discrimination. Rather than base a justification for preferences on the traditional appeal to self-esteem, I argue they are justified in virtue of the effects institutional discrimination has on the goals and aspirations of its victims. In particular, I argue that institutional discrimination puts women and blacks at an unfair competitive disadvantage by causing academic disidentification. Affirmative action is justified as a means of negating this unfair disadvantage (corrective).
+
+Against
+
+
+Eastland: The Case Against Affirmative Action - Google Scholar - Merely touting the successes of affirmative action, of course, is to glance at only one side of the ledger. On the other side are substantial costs. When examined in terms of both theory and practice, affirmative action deserves a negative judgment. Affirmative action cannot remain a way of life unless we wish to change for the worse the very essence of what it means to be an American (supported class-based AA; mentions rights-based arguments?).
+
+Preferential Policies Have Become Toxic - What is keeping such [affirmative action] programs in place in spite of growing opposition to them is largely a combination of institutional inertia and a feeling on the part of many people that to favor affirmative action for women and people of color is to be on the side of the angels. I don’t think this is true. The arguments in favor of preferential policies do not withstand critical examination; such policies are unjust, and they are having and can be expected to continue to have very bad consequences (supported class-based AA; mentions outcomes as reason against AA).
+
+Simon, Robert L., 1974, “Preferential Hiring: A Reply to Judith Jarvis Thomson,” Philosophy & Public Affairs, 3 (Spring): 312–320. (rights-based arguments)
+
+Simon, Robert L, 1979, “Individual Rights and ‘Benign’ Discrimination,” Ethics, 90 (October): 88–97. (uses rights-based argument)
+
+Goldman, Alan, 1976, “Affirmative Action,” Philosophy & Public Affairs, 5 (Winter): 178–195. (uses rights-based argument; competence-based)
+
+Newton, Lisa, 1973, “Reverse Discrimination as Unjustified,” Ethics, 83 (July): 308–312.
+
+Black, Virginia, 1974, “The Erosion of Legal Principles in the Creation of Legal Policies,” Ethics, 84 (January): 93–115.
+
+Pojman: The case against affirmative action - Google Scholar
+
+--- Notes ----
+
 ## Justification of the intentions
 
 We don't think discrimination should be illegal on an individual small scale level (i.e. individuals agreeing to make a transaction) but we do think it should be illegal for larger companies. What's the difference?
