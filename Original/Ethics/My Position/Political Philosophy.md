@@ -54,6 +54,7 @@ Research Topics:
 - Special Topics 
 	- Immigration
 	- Sovereignty
+	
 
 Property Rights: Left-Libertarianism vs Right-Libertarianism 
 - [ ] Eric Mack, "The self-ownership proviso: a new and improved Lockean proviso" (1995)
