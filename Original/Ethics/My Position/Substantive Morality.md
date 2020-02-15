@@ -19,21 +19,38 @@ Readings:
 				- Constituitive vs Causal consequences
 				- Forms of Value
 	- SEP paper
-	- [x] Nozick, Seperateness of persons paper. Why assigning a value to acts is not sufficient.
-	- [ ] Drier, "Structures of Normative Theories" (1993)
-		- [ ] Portmore, "Consequentializing moral theories" (2007)
-		- [ ] Schroeder, "Teleology, Agent-Relative Value, and ‘Good’" (2007)
+	1 - [x] Robert Nozick, "Moral Constraints and the State" 
+	https://spot.colorado.edu/~heathwoo/readings/nozick.pdf
+	2 - [ ] Drier, "Structures of Normative Theories" (1993) 
+	https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/StructuresOfNormativeTheories_0.pdf
+	- [ ] Jennie Louise, "Relativity of Value and the Consequentialist Umbrella" (2004)
+	3	- [ ] Portmore, "Consequentializing moral theories" (2007) 
+		http://www.public.asu.edu/~dportmor/Consequentializing_Moral_Theories.pdf
+		- [ ] Mark Schroeder, "Teleology, Agent-Relative Value, and ‘Good’" (2007) 
+		https://www.jstor.org/stable/10.1086/511662
 	- [ ] Portmore, "Consequentializing" (2009)
 		- [ ] Peterson, "A Royal Road to Consequentialism?" (2010)
-	- [x] Brown, "Consequentialize This" (2011)
-	- [x] Drier, "In defense of consequentialization" (2011)
-		- [ ] Schroeder, "You Don't Have to Do What's Best!" (2011)
+		https://pure.tue.nl/ws/files/3046038/Metis232152.pdf
+	4 - [x] Brown, "Consequentialize This" (2011)
+	https://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf
+	5 - [x] Drier, "In defense of consequentialization" (2011) 
+	https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/Dreier%20In%20Defense%20of%20Consequentizling.pdf
+	6 	- [ ] Schroeder, "You Don't Have to Do What's Best!" (2011)
+		https://philarchive.org/archive/SCHYDH
 		- [ ] Hurley, "Consequentializing and Deontologizing" (2013)
+		https://www.academia.edu/13806543/Consequentializing_and_Deontologizing_Clogging_the_Consequentialist_Vacuum
 		- [ ] Tenenbaum, "The Perils of Earnest Consequentializing" (2014)
-		- [ ] Portmore, "Replies to Gert, Hurley, and Tenenbaum" (2014)
-	- [x] Schroeder, "Consequentializing and Its Consequences" (2017)
-	- [ ] Sauer, "The cost of consequentialization" (2019)
+		http://www.sergiotenenbaum.org/papers.html
+	7	- [ ] Portmore, "Replies to Gert, Hurley, and Tenenbaum" (2014)
+		https://philarchive.org/archive/PORPOCv1
+	8 - [x] Schroeder, "Consequentializing and Its Consequences" (2017) 
+	https://philarchive.org/archive/SCHCAI-11v1
+	9 - [ ] Sauer, "The cost of consequentialization" (2019)
+	https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12347
 - Aggregation
+	- Does collective goodness even make sense?
+		- [x] Robert Nozick, "Moral Constraints and the State" 
+		- [ ] Christine Korsgaard, "The Relational Nature of the Good"
 	- Repugnant Solution
 		- https://plato.stanford.edu/entries/repugnant-conclusion/
 		- originally found in Parfit's *Reasons and Person*
@@ -411,12 +428,12 @@ Hedonism < Commensurability
 From SEP entry on consequentialism
 
 - Consequentialism = whether an act is morally right depends only on consequences (as opposed to the circumstances or the intrinsic nature of the act or anything that happens before the act).
+- Evaluative Consequentialism = moral rightness depends only on the value of the consequences (as opposed to non-evaluative features of the consequences).
 - System
 	- Actual Consequentialism = whether an act is morally right depends only on the actual consequences (as opposed to foreseen, foreseeable, intended, or likely consequences).
 	- Direct Consequentialism = whether an act is morally right depends only on the consequences of that act itself (as opposed to the consequences of the agent's motive, of a rule or practice that covers other acts of the same kind, and so on).
 	- Maximizing Consequentialism = moral rightness depends only on which consequences are best (as opposed to merely satisfactory or an improvement over the status quo).
 - Value
-	- Evaluative Consequentialism = moral rightness depends only on the value of the consequences (as opposed to non-evaluative features of the consequences).
 	- Hedonism = the value of the consequences depends only on the pleasures and pains in the consequences (as opposed to other supposed goods, such as freedom, knowledge, life, and so on).
 - Aggregation Function
 	- Aggregative Consequentialism = which consequences are best is some function of the values of parts of those consequences (as opposed to rankings of whole worlds or sets of consequences).

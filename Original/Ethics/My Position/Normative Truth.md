@@ -118,27 +118,53 @@ Readings:
 	- Dorsey, "A Puzzle for Constructivism and How to Solve It"
 	- Schwartz, Velasco (2018), "Towards a semantics for metanormative constructivism"
 	- Kirun Kumar Sankaran (2014), "Two Essays on Constructivism: Lessons from Semantic Theory"
-	- van Roojen, Mark. 2015. Metaethics: A Contemporary Introduction -> contention between judgment internalism and existence internalism
+	- Van Roojen, Mark. 2015. Metaethics: A Contemporary Introduction -> contention between judgment internalism and existence internalism
+
+
+Ought/Reasons claims are indexed to information and motivations for the attitudes being evaluated. For reasons to intentions, let's say the motivations are always desires.
+- Relative to information:
+	- Subjective: relative to what he [believes]
+	- Objective: relative to what he [ought to believe]
+		- Available evidence: relative to what he [ought to believe, given his perceptions]
+		- Truth: relative to what he [ought to believe, given the facts]
+- Relative to desires:
+	- Subjective: relative to what he [desires]
+	- Objective: relative to what he [ought to desire]
+		- Available evidence?: is no grounding for desires, as there is perception for beliefs. Some desires are non-inferential, whereas beliefs are inferred from perceptions. 
+		- Truth?: the externalist must maintain that there are some things that we just ought to desire, given facts about value.
+
+Generalize:
+- Reasons are always relative to circumstances, where the circumstances are the potential *rational explanations* of the attitude. For actions, reasons are always relative to values and information. We can speak of reasons relative to the agent's actual values and agent's actual beliefs, or potentially to some preferred values or to true facts. For beliefs, reasons are relative to perceptions, intuitions, other beliefs, etc.
+
+So there are three options for the externalist:
+1. Deny that our reasons for action _flow from_ our desires or what have reason to desire. This would seem to make our reasons not the proper exercise of rationality. There would be no rational procedure one could take to acquire their reasons, even if they were fully informed.
+2. Affirm that we have reasons to desire certain goods (i.e. that which has value) independently of our current desires.
+
 
 ??? question "Some questions left unanswered"
 	- Conception of rationality that doesn't beg the question against externalism.
-	- How constructivism and expressivism can be reconciled. Two kinds of judgments. Constructivists claim that the truth of a normative claim is consituted by the normative judgments of the given agent. The normative judgments of the given agent are analyzed under expressivism. How are we to analyze the normative claim which constructivists state can be true? 
-	- How to distinguish well-being (what makes a life go best) from reasons for action/desires? 
-		- Some differences:
-			1. X might provide high well-being without an agent having reason to X, e.g. experience machine, animals, etc.
-			2. It is sensible to ask whether an agent has reason to do something that promotes their well-being due to some other end.
-		- Reasons for action/desire = considerations in favor of an action, whether the agent knows it or not.
-		- Well-being = how an agent assesses their own life to be going from their first-personal perspective, possibly under idealized conditions.
-	- I understand the argument that there is no normative truth independent of normative judgments (i.e. the metaphysical/epistemological/motivational problems with realism).. But how do we establish that normative truth for a given agent's depends on *that* agent's normative judgments? E.g. why not the normative judgments of the agent's community? Or the normative judgments of the speaker? Why not understood "reasons" broadly as a standard by which to criticize someone, e.g. because people are subject to criticism for being cruel, and because reasons are standards of criticism, why not say cruel people are unreasonable? There are infinitely many possible theories of normative truth that don't reduce normative truth for A to A's normative judgments, without also having the metaphysical/epistemological problems of realism. 
-		- We can understand "should" claims as general standards to ground criticism, e.g. people "should" not act immorally, even though they may have no reason not to do so.
-		- "Reasons" may be sometimes used in this broad sense, but for clarity this concept will be identified with the narrow sense (connected with an agent's normative judgments) leaving "should" the job of handling general grounds for criticism. 
-		- A motivational argument can be given perhaps. 
-		- Kosgaard's states that such an account is the only thing that can explain the normative authority of deliberation for agents. What does this mean?
-		- Why focus on reasons in the internal sense? Similar considerations can be used to explain why reasons for belief are internal rather than external (i.e. rather than simply beliefs that are true).
-		- The internal sense is what we use not just for charges of criticism but for charges of irrationality.
-		- The internal sense is the kind of reason we acknowledge when we judge that something is a reason from a first-person perspective rather thana third-person perspective.
-	- What is the general strategy for determining what is constitutive of a given activity?
-
+	- Meta-issues:
+		- We need a theory of meaning. For the non-cognitive aspect of first-personal judgments. Classic Theory: Meaning => how a concept presents a property.
+		- We need a theory of truth. For the constructivist aspect of normative judgments. Classic Theory: "X is F" is true iff X has the property F.
+		- Not just theories, but meta-theories. Expressivism/Constructivism are the theories. We need theories of how terms get their meaning (how their concepts play the role they play) and how attitudes truth conditions.
+	- How constructivism and expressivism can be reconciled. Two kinds of judgments. Constructivists claim that the truth of a normative claim is consituted by the normative judgments of the given agent. The normative judgments of the given agent are analyzed under expressivism. How are we to analyze the normative claim which constructivists state can be true? A few options:
+		1. Claim that constructivism/internalism is itself a substantive claim about the reasons we have, not a metaethical claim about metaphysics or language. 
+			- Adopt a relative conception of reasons. Accept that both normative claims (by those advocating for internalism/constructivism) and normative judgments (which are accepted by agents deciding what to do) are always non-cognitive. But reasons claims are still internal because the concept of ought is fundamentally relative/indexical. i.e. just as one can speak of what one ought to do relative to their beliefs (subjective reasons) vs what one ought to do relative to the facts (objective reasons), one can speak of what one ought to do relative to their ends (internalist) vs some other ends (externalist). When one says what one ought to do relative to their ends, this is an internal/constuctivist claim, but it is still expressivist, because this statement is an expression of the speaker's endorsement of that behavior, given certain ends. So that's how you get internal claims. 
+			- But why can't a speaker say what an agent ought to do relative to the speaker's ends rather than the agent? They can, but usually this is not what is meant (hence why internalism is mostly true):
+				1. Ought implies can for the agent. We tend not to speak about what e.g. an agent ought to perceive or feel, as these are independent of an agent's rational control.
+				2. Otherwise, whenever we want to know whether an agent has reason to X, we would need to stipulate the set of ends that we're referring to. E.g. we can only say "A has reason to X relative to end E". We wouldn't need this stipulation if we implicitly assumed that the relevant ends where the agent's ends rather than the speaker's ends.
+				3. If an agent agrees with the speaker that the agent has a reason to X, then this should rationally motivate the agent to X. But this is possible only if the speaker was speaking of ends relative to the agent's ends. 
+				4. Similar to 3, only if the ends are the agent's ends will here be a satisfying termination to the regress "Why I should I care about R" when someone claims that R is a reason for the agent.
+			- There can be external forms of reasons, e.g. moral reasons. But they do not have moral force for an agent, i.e. an agent who recognizes them as a reasons is not committed to obeying those reasons. Moral reasons can be constructed out of the primary internal reasons, i.e. the reasons we have after considering everyone's internal reasons. Other forms of reasons are not normative at all, e.g. reasons related to chess which are reasons are supposing the values of chess.
+		2. Claim that constructivism is a metaphysical theory. Adopt a non-semantic theory of truth.
+			- The truth of a normative claim is not determined by whether the object in the sentence possesses the properties attributed to it by the sentence.
+			- I.e. reject semantic internalism.
+			- Would likely be non-correspondence theory
+			- Possibilities:
+				- Causal regulation theory
+				- Inferentialist semantic theory
+				- Coherentist theory
+			- Normative claims (as opposed to normative judgments) are ambiguous. They can be seen as non-truth apt speaker endorsements or truth-apt constructivist/internalist claims (perhaps truth-apt end-relative ought claims). Normative judgments are first-personal decisions about what to do.
 
 Conceptual constraints on reasons agreed to by internalists and externalists:
 - Everyone agrees: A's judgment that he has reason to X will motivate A to X insofar as he is rational
@@ -151,8 +177,8 @@ Conceptual constraints on reasons agreed to by internalists and externalists:
 	- The question is still what is the *content* of the judgment that something is a reason, and how can this motivate anyone to do anything?
 
 Some thoughts:
-- But the question isn't even about the *content* of reasons judgments. For a non-cognitivist, there is no content. For constructivists, truth is not based on the contents (i.e. one has reason to X only if they judge that they have reason to X, but clearly the judgment that one has reason to X cannot just reduce to this). But if the *content* of reasons judgment does not determine what counts as a reason, then what does? What is the job description of a theory of reasons. When one says A has reason to X iff p (e.g. p = internalism, some form of externalism, etc.), what are the requirements on p? 
-- Perhaps, the requirement is this: if it is true that A has reason to X iff P, then A's recognition of P must entail a judgment that they have reason to P. This will satisfy constructivism and internalism. The only way that recognition of P could entail a judgment that A has reason to X (which is itself a motivation; normative judgments are motivating) is if P was intimately tied to A's motiation to begin with (the internalism thesis). Likewise, under constructivism, P just is the fact that A judges that they have reason to X (or that it follows from their normative judgments that they have reason to X). Anyone who recognizes this must neessarily recognize that they have reason to X.
+- But the question isn't even about the *content* of reasons judgments. For a non-cognitivist, there is no content. For constructivists, truth is not based on the contents (i.e. one has reason to X only if they judge that they have reason to X, but clearly the judgment that one has reason to X cannot just reduce to this). But if the *content* of reasons judgment does not determine what counts as a reason, then what does? What is the job description of a theory of reasons? When one says A has reason to X iff p (e.g. p = internalism, some form of externalism, etc.), what are the requirements on p? 
+- Perhaps, the requirement is this: if it is true that A has reason to X iff P, then A's recognition of P must entail a judgment that they have reason to P. This will satisfy constructivism and internalism. The only way that recognition of P could entail a judgment that A has reason to X (which is itself a motivation; normative judgments are motivating) is if P was intimately tied to A's motivation to begin with (the internalism thesis). Likewise, under constructivism, P just is the fact that A judges that they have reason to X (or that it follows from their normative judgments that they have reason to X). Anyone who recognizes this must neessarily recognize that they have reason to X.
 - But why accept this job description? This job description may be true for conceptual analysis where you say reasons judgments MEAN a certain thing (even then, such a job description would be controversial), but asserting necessary/sufficient conditions is not conceptual analysis. So why accept this? E.g. X is yellow iff X reflects light of a certain wavelength, but this does not imply anyone who judges X has a certain wavelength has to judge that it has a certain color (or vice-versa). There are a few responses
 	- Perhaps reasons are different because there are no actual reasons properties or relations, unlike color
 	- Perhaps we are actually doing conceptual analysis by positing this job description. But I thought non-cognitivism was the conceptual analysis and there is no content of reasons judgments.
@@ -176,13 +202,6 @@ Some thoughts:
 - Normative Truth consists in what follows from an agent's evaluative standpoint.
 	- This is not what we *mean* when we form a normative judgment. When we're form a normative judgment, we are just settling the practical question of what to do, rather than the theoretical question of what the upshots of our commitments are. Abandon a semantic theory of truth (whereby the truth of a proposition occurs when the state of affairs *meant* by the proposition are obtained)
 	- Rather, this is a question that we are aimed to answer (whether we know it or not), when in the process of settling practical questions.
-	- Final question: why should normative truth be construed as relative to the evaluative standpoint of the agent in question rather than the speaker? The reasoning here has all taken a person characterization; i.e. we are considering the standpoint and perspective of the agent. But why not instead focus on the judge? This analysis might capture what agents are attempting to do when answering normative questions, but it need not be what judges are doing when they are answering normative questions for others. Two possibilities:	
-		1. Posit that there is some special semantic/psychological difference between speakers endorsing actions for others, and endorsing actions for themselves. In the former case, truth is not relative to their (the speaker's) motivations; it is somehow relative to the subject's motivations. I.e. the speaker commits themselves to judging what follows from the agent's evaluative standpoint whether they know it or not. In the latter case, the judge is only committed to judging what follows from their own evaluative standpoint. The former seems difficult to explain if the function of the judgments is merely to express plans/sentiments.
-			- Perhaps it has to do with the fact that we expect that if the agent accepts our claim that they have reason to X, this will instill in them a motivation to X insofar as they are rational. But this only makes sense if X is connected to their evaluative standpoint.
-				-> But this doesn't necessarily work to show that truth is relative to the agent. Because if "accept our claim that they have reason to X" just means "agree that they have reason to X" which just means adopting a motivation to X, then the speaker cannot expect that without believing that X is connected to their evaluattive standpoint. It would be equivalent to a speaker believing: if the agent becomes motivated to X, then they will be motivated to X insofar as they are rational. But clearly this doesn't require X be connected to their present evaluative standpoint.
-				-> Perhaps instead it should be: when we judge that Y (a proposition) *is* a reason to X (a behavior), then we expect that agents aware of Y will become motivated to X (because of their awareness of Y) insofar as they are rational [or perhaps, that agents aware of Y will judge that they have reason to X insofar as they are rational; or that a rational agent's awareness of Y could *explain* why they judge themselves to have reason to X]. So the constructivist/internalist conceptual component is only about judgments about what *constitute* reasons rather than all reasons judgments. Now we need an analysis of what fully rational means without begging the question. 
-				-> So we need to explain the conceptual connection between explanation/motivation and third-personal normative judgments, and how this can be reconciled with non-cognitivism which denies that there is any essential content to normative judgments.
-		2. Don't divorse semantics/psychology of third-person and first-person normative judgments. Rather, adopt a theory of truth that is not tied to the judgments themselves. It's not clear how this can secure speaker's being committed to an agent's evaluative perspective.
 
 Constructivist theories of the meaning of truth, semantics, compatibility with expressivism:
 - Street, "What is Constructivism in Ethics and Metaethics", See section on Expressivism. She outlines three strategies for explaining semantics of moral terms (1) state that its impossible because normative attitudes cannot be reduced, (2) argue for an inferentialist semantics, whereby the truth of claim consists in what inferences one needs to make to be competent with the concept, (3) argue for a reforming definition, or (4) adopt the expressivist theory.
@@ -192,6 +211,22 @@ Strategies:
 - Normative judgments can be explained by an expressivist theory, possibly the judgments cannot be reduced to non-normative judgments.
 - Normative assertions and normative truth can be explained by either (1) an inferentialist theory as described above or (2) a pragmatic theory. (1) may be acceptable but (a) it needs to be fleshed out more and (b) why is it concerned with the agent rather than the speaker. (2) requires more investigation.
 
+Could be useful: From "Metaethics and Metasemantics"
+- This metasemantic challenge seems less daunting if one can invoke entailment and consistency relations among the representational contents of thought rather than abstracting them from relations among the attitudinal aspect of thought. See Ridge (2014) and Silk (2015) for two recent proposals for how to meet this metasemantic challenge to attitude expressivism, and see Chrisman (2015) for an inferential role expressivism in the spirit of Robert Brandom’s (1994) inferential role semantics. Expressivists also face a challenge in explaining logical relations among normative
+- Ridge, M. (2014) Impassioned Belief, Oxford: Oxford University Press.
+- Silk, A. (2015) “How to Be an Ethical Expressivist,” Philosophy and Phenomenological Research
+- Chrisman, M. (2015) The Meaning of “Ought”: Beyond Descriptivism and Expressivism in Metaethics, Oxford:
+Oxford University Press.
+
+Arguments for internalism/constructivism:
+1. If R is a reason for A to X, then awareness of R should be possible to explain why A did X (insofar as one is practically rational). Thus, R must be connected to an agent's existing motivations. Williams.
+2. If R is a reason for A to X, then awareness of R should be possible to explain why A judged that he has reason to X (insofar as one is theoretically rational). Thus, R must be connected to an agent's existing normative judgments. My argument. 
+3. Reasons judgments must be motivating. Thus, the content of that judgment must involve motivating features of the agent. My argument.
+4. Analogy with theoretical reasons. My argument.
+5. Reasonable metaphysics/epistemology. 
+6. Provides satisfactory answers to the question "Why ought I do what I have reason to do?"
+7. Provides an explanation for why reasons are limited to (1) rational agents and (2) their attitudes that are receptive to normative thinking. E.g. we don't have any reasons to feel hungry, or to have certain perceptions.
+
 ## Existence Internalism
 
 Some twists
@@ -199,7 +234,10 @@ Some twists
 2. Actual motivations too narrow, require idealized conditions.
 3. Not all actual states provide reasons, move to constructivism.
 
-Consider analogy with theoretical reasons along the way.
+Forms of internalism:
+- Constructivism: X is a reason for A to Y if the judgment that X is a reason to Y withstands scrutiny from A's normative judgments.
+- Dispositionalism: X is a reason for A to Y if A would judge that A is a reason to Y under ideal conditions (e.g. full rationality, full information, etc.)
+- Rational sentimentalism: X is a reason for A to Y if the object of attitude Y possesses the features attributed to it by attitude Y. E.g. part of what it is to fear something is to attribute danger to it, so a thing's "fear-worthiness" is determined by its danger.
 
 Varieties of internalism:
 - Actual Motivation: A has reason to X only if A is motivated to X.

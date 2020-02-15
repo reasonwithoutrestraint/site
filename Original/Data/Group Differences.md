@@ -112,9 +112,9 @@ Group Success
 - Black America: Cultural Deficiencies:
 	- Specifics, can be measured
 		- Violence. Homicide = main cause of death for young black men.
-		- Lack of Entrepreneurship. Economic success dependent on other cultures.
-		- Promiscuity. Unfit Reproduction. Teenage births. Births before marriage. Births before occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
+		- Unplanned Births. Births before marriage/occupation. One parent => 1/2 income, married blacks => 8% poverty rate.
 		- Materialism. More luxory cars bought by blacks. 20% of weath gap explained on cars, jewelry, clothes. 
+		- Lack of Entrepreneurship. Economic success dependent on other cultures.
 		- Wealth building. Similar income, different wealth.
 		- Anti-intellectualism. "Acting white", HS dropout
 		- Unemployment

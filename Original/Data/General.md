@@ -5,6 +5,15 @@ IQ differences predict national success
 
 
 NAEP differences
+
+Wide gaps in every state 
+
+https://nces.ed.gov/nationsreportcard/pdf/studies/2009455.pdf
+
+IQ and SES
+
+https://thealternativehypothesis.org/index.php/2016/04/15/iq-and-socio-economic-status/
+
 ...
 
 

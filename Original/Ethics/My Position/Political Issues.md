@@ -50,6 +50,7 @@ Left-Leaning:
 
 Right-Leaning:
 
+- Decentralization
 - Free Speech
 	- Hate Speech allowed
 	- Can be outlawed to prevent systematic subjugation (e.g. Nazi Germany)

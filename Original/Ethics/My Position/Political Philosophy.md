@@ -17,22 +17,7 @@
 - David Friedman, Machinery of Freedom
 
 From Sep: https://plato.stanford.edu/entries/libertarianism
--  They hold, for example, that each person has a right to maximum equal negative liberty, which is understood as the absence of forcible interference from other agents (e.g., Narveson 1988; Steiner 1994; Narveson & Sterba 2010). This is sometimes called “Spencerian Libertarianism” (after Herbert Spencer).
-- Most, however, focus more on the idea of self-ownership. Famously, this view is attributed to Robert Nozick (Cohen 1995; but see the discussion below).
-- Full self-ownership might seem to condemn as wrongful even very minor infringements of the personal sphere, such as when tiny bits of pollution fall upon an unconsenting person...This objection, however, is of dubious force as it presupposes an (even more) implausible conception of full self-ownership than its defenders have reason to endorse. Suppose we understand the moral benefits that self-ownership confers along two dimensions: protections from unwanted uses of our bodies, and liberties to use our bodies. As the objection points out, it is not possible to simultaneously maximize the value of both dimensions: our protections restrict our liberties by restricting the possible uses of one’s body, and vice versa. Since maximizing the protection-dimension implausibly restricts the use-dimension, the correct response is not to reject self-ownership, but rather to loosen the protection-dimension somewhat in order to enhance the use-dimension. Doing this would allow minor infringements for the sake of self-ownership. As Eric Mack (2015) puts it, a good theory of self-ownership offers people some “elbow room.” (For more discussion, see Brennan & Van der Vossen 2017)
-- Libertarian theory can thus be defended in many different ways [rather than taking self-ownership to be a self-evident foundational principle]. This is true both of theories that give pride of place to self-ownership and of theories that don’t. Examples of the former include Eric Mack (2002, 2010) who sees self-ownership rights as among several natural rights grounded in our nature as purposive beings. In Mack’s view, the protections and freedoms offered by the idea are justified in order to grant to all individuals a separate sphere in which they can act in accordance to their self-chosen purposes. Similarly, Loren Lomasky (1987) derives rights from a related, although slightly different, conception of people as project pursuers. John Tomasi (2012) argues that strong rights over our bodies are required by the ideal of democratic legitimacy. According to Daniel Russell (2018), self-ownership rights provide the only way that people who live together can all genuinely live their own lives.
-- Some theorists depart from consequentialist or teleological principles, which they see as best served by these policies (Epstein 1995, 1998; Friedman 1962; Rasmussen & Den Uyl 2005; Shapiro 2007). Others adopt a Rawlsian framework, either claiming that the spirit of John Rawls’ theory of justice (particularly a concern for the least well off) calls for a far greater respect for individual freedom than is usually thought (Tomasi 2012). Yet others see classically liberal requirements flowing from a public reason or justificatory approach (Gaus 2010, 2012)
-
 From Sep: https://plato.stanford.edu/entries/liberty-positive-negative/ (read to get in text citations)
-- Feinberg, J., 1973, Social Philosophy, New Jersey: Prentice-Hall, ch. 1 [article-length general introduction].
-- Flickschuh, K., 2007, Freedom. Contemporary Liberal Perspectives, Cambridge: Polity [introduction to Berlin and MacCallum together with analysis of the conceptions of freedom of Nozick, Steiner, Dworkin and Raz].
-- Carter, I., Kramer, M. H. and Steiner, H. (eds.), 2007, Freedom: A Philosophical Anthology, Oxford: Blackwell [large number of excerpts from all the major contemporary contributions to the interpretation of freedom, with editorial introductions. The first of its nine sections is specifically on positive vs negative liberty].
-- Gray, T., 1991, Freedom, London: Macmillan [comprehensive book-length introduction].
-- Kukathas, C., 1993, Liberty, in R. Goodin and P. Pettit (eds.), A Companion to Contemporary Political Philosophy, Oxford: Blackwell [article-length general introduction].
-- Pelczynski, Z. and Gray, J. (eds.), 1984, Conceptions of Liberty in Political Philosophy, London: Athlone Press [collection of essays on single authors, mostly historical].
-- Miller, D. (ed.), 1991, Liberty, Oxford: Oxford University Press. 2nd ed., The Liberty Reader, Boulder, CO: Paradigm Publishers, 2006 [representative collection of contemporary essays, including Berlin and his critics, with editorial introduction and a guide to further reading].
-- Plant, R., 1991, Modern Political Thought, Oxford: Blackwell, ch 1 [article-length general introduction].
-- Schmidtz, D. (ed.), 2017, The Oxford Handbook of Freedom, New York: Oxford University Press [collection of up-to-date essays by major contemporary authors].
 
 From Kymlicka's Introduction to Political Philosophy
 - For collections of recent libertarian thought, 
@@ -54,16 +39,43 @@ Important Works
 - Ronald Dworkin, _Sovereign Virtue: The Theory and Practice of Equality_
 - Michael Sandel, _Liberalism and the Limits of Justice_
 - Alasdair MacIntyre, _After Virtue_
+- Michael Otsuka, _Libertarianism Without Inequality_
+- Peter Vallentyne; Hillel Steiner,  _Left-libertarianism and its critics: the contemporary debate_
 
-Conception of Self-ownership
-- 
-Property Rights: Left-Libertarianism vs Right-Libertarianism
-- Barbara Fried, "Left-Libertarianism: A Review Essay"
-- Peter Vallentyne, Hillel Steiner & Michael Otsuka, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried"
+Research Topics:
+- Principles to ground self-ownership, property ownership, and democracy:
+	- Self-ownership (non-equal opportunity of bodily goods)
+	- Left-libertarianism vs Right-libertarianism (equal opportunity to extrapersonal goods)
+	- The limits of democracy (what's subject to vote)
+- Aggression
+	- Non-Aggression principle
+	- Minor Intrusions (distinguish reasonable - e.g. nuisance - from unreasonable - e.g. kidney extraction).
+	- Minimal State
+- Special Topics 
+	- Immigration
+	- Sovereignty
+
+Property Rights: Left-Libertarianism vs Right-Libertarianism 
+- [ ] Eric Mack, "The self-ownership proviso: a new and improved Lockean proviso" (1995)
+- [ ] Barbara Fried, "Left-Libertarianism: A Review Essay" (2004)
+- [ ] Peter Vallentyne, Hillel Steiner & Michael Otsuka, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried" (2005)
+- [ ] Barbara Fried, Left-libertarianism, once more: A rejoinder to Vallentyne, Steiner, and Otsuka" (2005)
+- [ ] Peter Vallentyne, "Left-Libertarianism and liberty" (2009) [response to Fried?]
+- [ ] P Vallentyne, "Left-libertarianism as a promising form of liberal egalitarianism" (2009)
+- [ ] RJ Arneson, "Self-ownership and world ownership: Against left-libertarianism" (2010)
+
+Self-Ownership: Is conception and coherence
+- [ ] RS Taylor, "A Kantian defense of self-ownership" (2004)
+- [ ] Barbara Fried, "Left-Libertarianism: A Review Essay" (2004)
+- [ ] Peter Vallentyne, Hillel Steiner & Michael Otsuka, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried" (2005)
+- [ ] K Lippert-Rasmussen, "Against self-ownership: There are no fact-insensitive ownership rights over one's body" (2008)
+- [ ] RJ Arneson, "Lockean self‐ownership: Towards a demolition" 
+- [ ] Russell, D., 2018. "Self-Ownership as a Form of Ownership" (2018)
+
 Uncategorized
-- [ ] Peter Vallentyne et. al, "Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant" (2005)
 - [x] Matt Zwonlinski, "The Libertarian Nonaggression Principle" (2016)
 - [x] Brennan and Van der Vossen, "The myths of the self-ownership Thesis" 
+
 Minor Intrusions
 - [ ] Peter Railton, "Locke, Stock, and Peril: Natural Property Rights, Pollution, and Risk" (1985) 
 - [ ] David Sobel, "Backing Away from Libertarian Self-Ownership" (2012)
@@ -71,14 +83,47 @@ Minor Intrusions
 - [x] Eric Mack, "Elbow Room for Rights" (2015)
 - [x] David Sobel, "The point of Self-ownership" (2018)
 - [x] Marcus Agnafors, "Self-Ownership, the conflation problem, and presumptive libertarianism" (2018)
+
 Minimal State
 - [x] Christopher Wellman, "Liberalism, Political Legitimacy, and Samaritanism" (1998)
 - [x] Fabian Wendt, "Political Authority and the Minimal State" (2016) (mentions "anti-paralysis")
 - [x] Nicolás Maloberti, "Libertarianism and Exception Rights" (2017)
 
+Non-Aggression Principle
+- Matt Zwonlinski, "The Libertarian Nonaggression Principle" (2016)
+- Billy Christmas, "Rescuing the Libertarian Non-Aggression Principle" (2018)
+
 			==================================================================
 										Formulation
 			==================================================================
+
+Idealization:
+- Assume the citizens are fully informed, fully moral, fully compatible interests. This makes political analysis pointless. We wouldn't need to use force.
+- Assume incompatible interests among the citizens. Now, we must introduce democratic votes to figure out what to do. Still, no govenrment needed though. We wouldn't need to force people to follow the upshots of the votes. They would just follow them. Now, how to determine what should be up for democratic votes and how voting should be structured. Probably would be a limited, decentralized government.
+- Assume immorality, but rights-respecting citizens. But assume we have fully informed, fully rational, fully law-respecting politicians. Now, what should the laws be? This establishes the PROPER function of government. This government is needed to assist those who need assistance, but who aren't helped by others (because the others refuse to help, they just refuse to violate anyone else's rights). 
+- Assume rights-violating citizens. Now, the government must stop these rights violations. The government would also enforce the upshots of these democratic votes.
+- Assume the politicians are flawed. Introduce checks/balances on the government to best approximate the PROPER functions of government given these flaws.
+- Assume the citizens are uninformed, irrational. Introduce more limitations on democracy (not just limitations on the proper scope of democracy, i.e. what should be determined by popular vote, but restrictions on the power of the people on decisions that are subject to popular vote). E.g. epistocracy, representative vs direct democracy. Strike a balance between weight being given to the people (so their interests are considered) and more weight being gven to experts.
+
+Roles of government:
+- [1] Defend the exception rights of the disadvantaged (minarchism).
+- [2] Protect everyone's rights (minarchism). 
+- [3] Enforce limited, decentralized democratic decisions.
+
+How to delineate rights:
+- Assume fully rational, fully informed agents.
+- Any delineation of rights must have formal equality. There shoud be no reference to proper names.
+- We are concerned with rights to perform certain actions in specific circumstances, rather than rights to property. This is because there are different ways of conceptualizing rights to the same property. E.g. two people can agree that someone has a right to a house, but disagree about what this entails, e.g. how tall the house can be.
+- How to use this model:
+	- There are no fact-insensitive rights. All rights depend on the particular kinds of behaviors that are important to humans.
+	- The model doesn't apply when it's not possible to ascribe a set of rights where everone is above a certain given threshold. E.g. one has a right to prevent another from amputating them even if that's the only way to prevent that person from death. This framework doesn't make sense in those mutually dire situations.
+	- This model should be used to determine whether a proposed right should be ascribed as opposed to trying to derive an entire list of rights. When considering whether to ascribe to someone a particular right to perform a certain action, we must consider all of the actions that are permitted/forbidden, their relative strengths, and whether such rights can be achieved using other means.
+	- A balance must be striked between liberty rights and claim rights. Perhaps the goal is this: maximize the set of actions x such that a person has liberty right and claim right to x.
+	- More weight should be given to important actions. How to determine which actions are more important? 
+		- How to justify different standards for bodily rights versus property rights? E.g. regarding property, everyone has equal right to natural resources. But this is not the case with bodily rights. E.g. if a person lacks a kidney, they do not have access to someone else's extra kidney just because they have equal right to a kidney. At the same time, people don't have absolute right to their bodies (e.g. minor intrusions are okay). What principle explains the delineation of bodily rights and the delineation of property rights? 
+		- Well-being?
+		- Democratic voting? Perhaps we need to use some standard other htan well-being...because we need to determine which decisions should be decided democratically versus left to individual choice, but surely *this* cannot be decided democratically. E.g. the fact that abortion access should not be decided democratically and the fact that pollution laws should be decided democratically should not be decided democratically.
+		- Idealized democratic voting? A right to action x is more important than a right to action y for person A iff A would prefer a right to x over y if he were fully informed and fully rational.
 
 From Vallentyne, Steiner, and Otsuka: "full self-ownership is a bundle of rights that is (roughly) equal to the logically strongest set of ownership rights that people can have over themselves compatible with others having equal such rights over themselves".
 - This is not determinate for a few reasons:
@@ -228,53 +273,6 @@ Why be concerned with *opportunity* to resources rather than *holdings* in resou
 	- Because some disparities in resources may be the result of choices, i.e. people can be responsible for the resources they acquire.
 	- People with more than their fare share of resources should be penalized only insofar as it prevents others from acquiring a similar share of resources.
 
-Strategy:
-1. Appeal of self-ownership
-2. Some qualifications on self-ownership rights
-	- Lockean Proviso - people have to leave enough for others
-	- Non-pacifism / Enforcement rights - people have a right to self-defense
-	- Unilateral Property rights - people have a right to prevent others from controlling a resource if they are in some special relation with that resource (i.e. if they are the owners of the resource), even if they don't get consent of a large group of other people
-	- Strong liberty-rights over infinite claim-rights - to avoid the paralysis objection. E.g. otherwise, I can't smoke because smoke particles might land on your property. Conflicts between liberty-rights and claim-rights:
-		- Moral anarchy: everyone has a right to do whatever they want. This doesn't work because having a right to X requires that others not have a right to stop one from X-ing.
-		- Rights equilibrium: A only has a right to X if B does not have a right to stop from X-ing. I.e. if A has a liberty-right to X, then A has a claim-right to X, which is to say that B does not have a liberty-right to stop X-ing. 
-		- Moral paralysis: But this is compatible with saying everyone has a right to not be annoyed/disturbed in the slightest. I.e. Everyone has infinite claim-rights, which means no one has any liberty-rights.
-		- For every proposed claim-rights, there is a correspondingly reduced liberty-right. Thus, there are infinitely many possible systems of rights in equilibrium, some that give infinite weight to claim-rights (no one can do anything), and some that give more power to liberty-rights. How do we strike the perfect balance?
-		- We must strike the balance that choses the right that is more serious. E.g. A's liberty-right to smoke trumps B's claim-right to be completely free of smoke particles, as the former is more serious than the latter. On the other hand, A's liberty-right to buy unowned land is trumped by B's right to travel (e.g. imagine these rights conflict because the unowned land is the only possible path for B to exit an island).
-3. Similar considerations support exception rights. 
-	- Appealing to self-ownership alone doesn't seem to motivate these moves. An equally consistent self-ownership position might deny all of these. On the other hand, an equal liberty thesis can explain this. It can also account for the unintuitive aspects of anarchism.
-	- These considerations are meant to prevent paralysis
-	- Without these additional constraints, some people (or all, in the case of the infinite claim rights) would be paralyzed from being able to act morally. They would be forced to die.
-	- E.g. everyone needs property. With no lateral property rights, people woudn't have permission to get the resources they need without consent of others, which might make them starve. Without lockean proviso, someone could own the entire planet, and people would be forced to starve. Without qualified claim-rights, people wouldn't be able to do any action because every action has a tiny affect on others (e.g. causing a speck of dust to enter their home). Which means people wouldn't have the ability to do anything. They would be forced to starve.
-	- Likewise, without exception rights (i.e. minor infingements on the rights of others if it is necessary to alleviate major constraints on an innocent person; or, in a different formulation, a re-articulation of rights such that people don't have claim-rights so strong that others are forbidden from such minor intrusions), people would be forced to starve through no fault of their own. E.g. Pushing someone to save a life? 
-4. Exception rights are sufficient to justify a minimum state - national defense, police protection, criminal justice, courts, and private property (whatever conception of property rights is decided). 
-5. None of these qualifications are necessary for a self-ownership position
-	- None of these considerations are necessary for a system of rights. They are all internally consistent.
-	- They seem to be motivated not be placing self-ownership as the fundamental value, but by either (1) valuing maximum equal positive liberty or (2) guaranteeing a maximum baseline of positive liberty above all else.
-6. If we are focusing on maximum equal positive liberty, that supports democratic processes for policies that would equally affect all parties. 
-	- Different regions can enact different policies on contract enforcement, private property usage, economic systems, etc. based on their choosing. While this need not support *full* property ownership rights, everyone should have some basic property *usage* rights, even though it might be subject to taxation, regulation, etc. 
-	- The government also needs to guarantee the minimum requirements for a functioning democratic society. E.g. free care for children, free education, etc.
-
-Principles: Key 
-- "Major" hindrances to freedom (i.e. acts of assault, imprisonment, death, etc.) are justified only to prevent other "major" hindrances to freedom (idea from Kant). Fully informed, fully rational parties with equal opportunity are not allowed to aggress one another, even for some overall increase in utility. This is consistent with basic self-defense rights allowed under anarcho-capitalism. I.e. people have a negative right to their negative freedom.
-- Victim-defensed based permissions. If X is justified in coercing/aggressing Y in self-defense when Y is the criminal, X is also justified in aggressing/coercing Z in self-defense when Z is innocent. I.e. strangers have a negative right to defend the negative freedom of others, even if this violates the negative rights of others.
-- Third-party protection. If X is justified in coercing/aggressing Y in self-defense, then X is also justified in coercing/aggressing Y to protect third-party Z. Defense-based protections + third-party protections justifies mandated taxation protecting everyone's negative freedom allowed under minarchism. 
-- Positive freedom matters more than negative freedom. This justifies minarchism + welfare protections from non-agent caused constraints. 
-- Equal freedom for everyone. This justifies the kind of minarchism + limited, decentralized democracy that I support.
-
-Two possible strategies to move away from anarchism
-1. Downplay the importance of self-ownership (i.e. against right-winged libertarianism)
-	- Either accept a list of exceptions that justify violating one's rights to self-ownership, or
-	- Re-formulate self-ownership in a way that justifies initiating intrusions on one's autonomy.
-	- Can be used to justify:
-		- Suppressing free speech / freedom of association when it is needed to prevent oppression
-		- Slander/libel laws
-		- Various economic/occupational regulations (other than redistribution, which can be justified purely with an egalitarian theory of property rights)
-2. Accept full self-ownership in the same way as right-winged libertarians, but
-	- Deny that this leads to a right-leaning theory of property rights
-	- Instead accept an egalitarian theory of property rights
-Trouble: 
-	- We want an egalitarian theory of property rights, without an egalitarian theory of natural assets/autonomy. I.e. everyone in the world is not equally entitled to the use of one's body.
-
 ------- Lower Level Justification -------
 
 Idealization
@@ -285,7 +283,6 @@ Idealization
 	- Contract-enforcement.
 	- Protection against fraud.
 - What kind of world do fully informed, fully rational individuals prefer to live in?
-
 
 - How to move from equality to minarchism + decentralized democracy. Equality is valued in itself on principle. Minarchism, democracy and decentralization are valued based on various empirical facts (e.g. a benevolent dictator would be okay if it were possible). What is a test for what we value in principle? How to articulate what equality truly consists in? E.g. can it be articulated via some ideal procedure such as e.g. Rawl's veil of ignorance.
 - Problem with Rawl's veil of ignorance is that it reduces to maximizes one's expected value, which can result in subjugating someone else. It conflates blind rationality with moral justification. However, the veil of ignorance is useful for avoiding irrelevant considerations from fitting into one's moral reasoning, i.e. rich people are more disposed to favor laisez faire capitalism, and the poor will want to favor redistribution, racial majorities will be okay with subjugating the minority, etc. How else can we avoid this?
@@ -302,7 +299,13 @@ Idealization
 										Questions
 			==================================================================
 
-Problems:
+To Research:
+- Maximal equal liberty might be appropriate for property, but not for self-ownership or natural assets. Imagine a government decides to kill members of a minority group to save the lives of 5 members of a majority group (e.g. kidney donation). It may also have democratic appeal (since the beneficaries are in the majority). This does not seem just. People really do come into the world owning certain things. Some ways to account for this intuition while accomodating state coercion generally:
+	- The state is justified in *threatening* to use assault or forcibly confiscating innocent's resources to save the lives of others, but they are not justified in *actually* assaulting innocents.
+	- The individuals in the dire situations in the majority group may be permitted to kill the members of the minority (for the same reasons an individual can take the last piece of food to save his life even if it kills others), but that doesn't mean the state is.
+	- All members need some reason to respect the policy.
+
+To think about:
 - Individual permissions without state permissions, and vice-versa?
 	- E.g. Enacting major constraints to alleviate major constraints
 		- The state is not permitted to do this
@@ -311,16 +314,6 @@ Problems:
 	- E.g. Can the state be selective in who it coerces (e.g. a certain racial group)?
 		- Individuals can, but not a state. 
 		- Why? States must be fair?
-	- E.g. state permissions without individual permissions
-		- Can neighbors steal from your account to fund a charity? 
-		- No, Why? We must have a monopoly on force? 
-			- But this proves too much. If I'm in a blizzard, can I break into your house?
-				- The difference between the blizzard and the charity is the blizzard is an unexpected rare event. This is relevant because if we allow private coercion in rare cases (e.g. a blizzard) this will not undermine general safety. But if we allow it generally (e.g. people can steal from others to donate to charity), this puts us back into the state of nature.
-- Does laws against slander/libel count as minor constraints to alleviate major constraints? What about subsidizing laws against petty theft? Is it because the effects of not having a law against these actions would result in major constraints?
-- Maximal equal liberty might be appropriate for property, but not for self-ownership or natural assets. Imagine a government decides to kill members of a minority group to save the lives of 5 members of a majority group (e.g. kidney donation). It may also have democratic appeal (since the beneficaries are in the majority). This does not seem just. People really do come into the world owning certain things. Some ways to account for this intuition while accomodating state coercion generally:
-	- The state is justified in *threatening* to use assault or forcibly confiscating innocent's resources to save the lives of others, but they are not justified in *actually* assaulting innocents.
-	- The individuals in the dire situations in the majority group may be permitted to kill the members of the minority (for the same reasons an individual can take the last piece of food to save his life even if it kills others), but that doesn't mean the state is.
-	- All members need some reason to respect the policy.
 - Do exception rights support samariton laws? I.e. it should be illegal to let someone die.
 	- Problem: my intuition against samariton laws plus 
 	- Maybe. Only if the punishment is fines (comparable to taxation) instead of imprisonment. Otherwise the burden is too great.

@@ -48,3 +48,17 @@ But this objection has no force, because this is the very thing up for debate!
 
 Not sure yet.
 I probably only care about the intellectual capacity/potential, i.e. the sufferring that a being would recieve as a result of us accepting a principle that allowed their slaughter.
+
+Four conditions:
+- Beings of a high enough intellectual capacity: 
+	- Wrong rule-consequentially; their awareness of their impending death causes them suffering.
+	- Wrong deontologically; their intellectual capacity grants them rights.
+- Humans of low intellectual capacity who will develop more intelligence:
+	- Wrong deontologically; their potential for intellectual capacity grants them rights (not sure if I accept)
+	- Wrong aesthetically; killing other humans invokes a disgust reaction, e.g. eating a dead person (probably don't accept; no disgust response to killing fetuses)
+- Humans of permanently low intellectual capacity:
+	- Wrong aesthetically; killing other humans invokes a disgust reaction, e.g. eating a dead person (probably don't accept; no disgust response to killing fetuses)
+- Non-humans of permanently low intellectual capacity:
+	- Not wrong rule-consequentially
+	- Not wrong deontologically
+	- Not wrong aesthetically

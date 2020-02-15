@@ -24,14 +24,6 @@ I.e. it is referring *directly* to our reasons to stand in mutual justification 
 One might ask, "Why not rely upon the idea of what would be *rational* for a person who has the aim of intersubjective justification"
 The reason is that "rationality" has been understood to mean "what is most conducive to an agent's aims" (even though this conception is mistaken).
 A claim about what it is "reasonable" for a person to do presupposes a certain body of information and a certain range of reasons which are taken to be relevant, and goes on to make a claim about what these reasons, properly understood, in fact support.
-
-E.g. imagine parties are negotiating water usage in a country with one person who controls owns much of the water.
-Assume that the landowner is not ungenerous and will sell/give water to anyone who desperately needs it.
-Also assume that he is rather irritable; if we question his decisions, he will become upset and may refrain from sharing the water.
-It would be *reasonable* for people there to demand a better distribution of water (i.e. not just in cases of desperation).
-However, it might not be *rational* to make such a demand, since it could enrage the owner, leading to worse consequences.
-It would be *unreasonable* for the owner to be ungenerous with the water.
-However, whether it would be *irrational* for him depends on his particular aims.
 Whether a principle is *reasonable* reflects a substantive judgment about the *merits* of the principle. 
 Whereas a principle is *rational* depends on the consequences of accepting the principle. 
 
@@ -49,11 +41,7 @@ An act is wrong if it would be disallowed by any *principle* that no one could r
 To justify an action to others is to offer reasons supporting it, and to claim that those reasons are sufficient to defeat any objections that others may have.
 But this is to also defend a principle: claiming that such reasons are sufficient grounds for acting under the conditions.
 This is what is meant by principle.
-The emphasis on principles is familiar in everyday moral reasoning, which differs from other evaluative judgments.
-We don't usually merely judge *that* an action is wrong, but that it is wrong because of some reason, of some general characteristic.
-In other evaluative domains, e.g. claims that something is beautiful or funny, the evaluative judgment comes first and an explanation later (or not at all).
-Nor is there any pressure to provide reasons for one's evaluative judgments in other domains, such as aesthetics or humor.
-However, there is a pressure and expectation for one to provide reasons for their moral judgments.
+The emphasis on principles is familiar in everyday moral reasoning, which differs from other evaluative judgments, such as aesthetics or humor where reasons/principles are not expected.
 
 "Principle" is not meant to be a rule that can be applied to settle a wide range of questions without exercise of judgment.
 There are very few moral principles of this kind, if any.

@@ -25,18 +25,26 @@ Readings for analyzing normativity
 - Maybe
 	- Henry Sidgwick, "Ethical Judgments", from _The Methods of Ethics_
 	- H.A. Prichard, "Does Moral Philosophy Rest on a Mistake?"
+- SEP, "Fitting Attitude Theories of Value"
 
-Outline:
-Bold means seperate create a article for that section
+Evaluative vs Deontic:
+- Christine Tappolet, "The normativity of evaluative concepts"
+- Christine Tappolet, "Evaluative vs Deontic concepts"
+- "Values, Reasons and Oughts"
+- Scanlon, _What We Owe to Each Other_
+- Stratton-Lake, Philip and Brad Hooker, "Scanlon versus Moore on Goodness"
+- Jonas Olson, "Fitting Attitude Analyses of Value and the Partiality Challenge"
+- Krister Bykvist, "No Good Fit: Why the Fitting Attitude Analysis of Value Fails"
 
-Copied in Topics.md
+
+Copied in Topics.md 
 
 - *Normativity*
 	- Examples
 	- Contrast with descriptions
 	- Plattitudes
 - *Analysis* (the *content* of normative judgments)
-	- Domains
+	- Domains:
 		- Rationality
 		- Well-being versus reasons for action
 		- Epistemology
@@ -44,24 +52,30 @@ Copied in Topics.md
 		- Morality
 		- Ettiquette
 	- Flexibility of language
-	- General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally. 
-	- Narrow: Reasons. A relation that grounds charges of irrationality specifically.
+		- Evaluative: "good", "bad", "admirable", "desirable", etc.
+		- Deontic: "should", "ought", "justifications", "warrant", etc. 
+		- Reasons: considerations that explain deontic facts
+		- Any relation involving an agent and an attitude.
 	- Kinds of reasons concepts
-		- Normative vs non-normative "should" (e.g. "he should arrive here soon")
-		- Explanatory vs Justificatory reasons
-		- Objective vs Subjective reasons / Available vs Potential Reasons (e.g. reasons under lack of information)
-		- Right/Wrong kinds of reasons
+		- Non-normative "reasons"/"oughts"
+			- Normative vs non-normative "should" (e.g. "he should arrive here soon")
+			- Explanatory vs Justificatory reasons
+		- Seemingly Similar but distinct concepts
+			- Right vs Wrong kinds of reasons
+			- Object vs State given reasons
+			- Intrinsic/Extrinsic
+			- Intrinsic/Instrumental
+		- Agent-Neutral vs Agent-relative
+		- Objective vs Subjective reasons / Available vs Potential Reasons
+			-> Subjective => Reasons for action given one's beliefs -> what's rational
+			-> Objective => Reasons for action given the facts -> what one has most reason
+			-> Unified by a common reason concept that is fact-indexed
 		- Internal vs External reasons
-		--->
-			- Available Reasons => Rationality
-			- Potential Reasons => Counterfactual endorsements under rationally endorsed conditions
-			- External Reasons
-	- Other different categories of reasons
-		- Deontic vs Evaluative (proposition P should be true versus agent A ought to acquire attitude X)
-		- Agent-Neutral / Agent-relative
-	- Intrinsic/Instrumental
-	- Not all based in pleasure/happiness
-	- Not all based in teleology
+			-> Similar distinction as objective/subjective, except relative to ends/desires rather than facts?
+			-> Internal => Reasons for action given one's desires
+			-> External => Reasons for action given what's valuable (i.e. given what they have reason to desire)
+			-> Unified by a common reason concept that is end-indexed
+	- Non-teleological reasons
 	- Hierarchical structure, pro-tanto & prima facie
 	- Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D'arms/Jacobson, Parfit, Raz
 - Psychology (the *psychology* of normative judgments)

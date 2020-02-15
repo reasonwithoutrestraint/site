@@ -104,8 +104,7 @@ Miscellaneous
     - Book: David Enoch - _Taking Morality Seriously_ (ch. 3)
     - Book: Derek Parfit - _On what Matters_ (ch. 31)
     - Book: Michael Huemer - _Ethical Intuitionism_ (ch. 5 "Moral Knowledge")
-	- Book: Ralph Wedgwood - _The Nature of Normativity (chs. 3 & 7)
-    - Book: Derek Parfit - _Reasons and Persons_
+	- Book: Ralph Wedgwood - _The Nature of Normativity_ (chs. 3 & 7)
 - Sensibility
     - Essays: David Wiggins - "A Sensible Subjectivism" from _Needs, Values, Truth_
 	- Chapter: John McDowell - "Values and Secondary Qualities" from _Morality and Objectivity_

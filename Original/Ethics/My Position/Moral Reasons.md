@@ -65,6 +65,29 @@ Substantive vs Formal characterizations - what kind of reasons are moral reasons
 
 Thomas Scanlon distinctions on blame (from a YouTube series, similar to the one where he mentions the substantive vs formal characterizations above)
 
+Establishing a moral theory:
+
+1. What are moral norms:
+	- Provide reasons for blame/shame/guilt
+	- Provide reasons for action that can be accepted by all
+2. Putatively relevant moral considerations:
+	- Goodness
+	- Fairness
+	- Responsibility
+	- Desert
+	- Previous agreements, contracts, promises, etc.
+	- Reasonable/legitimacy of one's interests
+3. Goal of moral THEORY
+	- Three levels:
+		a. Tell us how to act in particular cases
+		b. Tell us what considerations to take into accont during moral reasoning
+		c. Explain why those considerations
+	- It's unlikely that a moral theory can do (a) usefully. That will require moral judgment in discretion.
+	- It can do (b) but it probably shouldn't invalidate the moral considerations that we are most confident in (e.g. goodness is relevant to rightness).
+	- The real goal of a moral theory is (c). 
+		- Provide an explanation for the moral considerations that we take to be relevant.
+		- Do so in a way that connects them to the goal of moral norms, i.e. show why it makes sense that we all have reason to accept the relevance of these moral considerations. 
+
 ## Moral Reasons
 
 Moral judgments are deeply tied to distinctly moral emotions and attitudes - blame and guilt. There are two ways that moral judgments are associated with these basic attitudes. Firstly, agents who make moral judgments directly express those attitudes, or a disposition to have those attitudes in certain situations. Secondly, agents who make moral judgments express a normative judgment that said attitudes are appropriate, i.e. they express their *endorsement* of those attitudes in certain situations. First, let us discuss the motivational implications of moral judgments. When an agent makes a moral judgment, (1) the agent is disposed to regulate his behavior as prescribed by the judgment, (2) he is disposed to feel guilt himself for violating the standard, and (3) he is disposed to blame others for violating the perscribed standard. Oftentimes, the agent thinks others are *capable* of being motivated to regulate their behavior in accord with the norm, i.e. they would be receptive to the reasons favoring the norm. E.g. while it might make sense for A to *dislike* B's preference for ice crean, it doesn't make sense for A to *disapprove* of B's preference for ice cream, but it would make sense if B regarded A as his dietary adviser. This is true even when B's actions might harm A. E.g. it doesn't make sense for A to disapprove of B's attack against him if B would be completely unreceptive (e.g. animal, child, evil person, aliens etc.), but it would make sense for someone who was receptive (i.e. normal rational agent).
@@ -148,14 +171,8 @@ The solution is to somehow strike a balance between the two features. The proble
 		- Korsgaard: Valuing anything requires valuing the capacity to value.
 		- Denial of Metaphysical Egoism: There is no valid distinction to make between different individuals.
 	- Aggregation
-		- Reasons that follow after considering everyone's individual goodness. 
+		- Railton: reasons that follow after considering everyone's individual goodness. 
 		- Maximizing the total utility of everyone (e.g. utilitarianism).
-		- Technical problem with aggregate
-			- The idea of there being a numerical assessment of well-being is dubious. What would the numbers mean?
-		- Intuitive problems with aggregation
-			- If we must choose between causing one person extreme harm and N people minor harm, then it the size of N doesn't matter.
-			- If we must choose between causing one person harm and N people comparable harm, then it the size of N does matter.
-			- If we must choose between causing one person extreme harm and N people serious but not as extreme harm (e.g. paralysis versus loss of limb), then does the size of N matter? There may be no determinate answer to cases like this.
 	- Veil of Ignorance
 		- What is rational assuming an equal chance of being anyone
 		- Note that "reasonable assuming equal chance of being anyone" =/= "reasonable for everyone".

@@ -11,21 +11,42 @@ Also, analytic non-reductive naturalism (e.g. Michael Smith) is not considered h
 
 It is not clear what the difference is between non-reductive naturalism (analytic and Synthetic) and metaphysically naturalist forms of non-naturalism. Perhaps one difference is that naturalistic theories appeal to explanation. Nor is it clear what the difference is bewteen Realism with non-ontologically committed conceptions of truth and constructivism/non-cognitivism. The difference seems to amount to difference in a conceptual scheme (e.g. like the differences between saying a statue is identical with its constituent marble versus being seperate). The difference must lie in the attitudinal nature of the judgments. Is motivation necessarily entailed or not?
 
+Outline:
+- Terms, Concepts, Properties and Extension
+- Varieties of Naturalism
+- Analytic Naturalism
+	- Against
+		- The Naturalistic Fallacy and the Open Question Argument (Moore)
+		- Descriptive beliefs don't *entail* normative beliefs (or vice-versa)
+		- Insistence on Normative Language (Stevenson)
+	- Against the Non-trivial conceptual analysis response
+		- Where is the Normativity? (Parfit)
+		- Descriptive beliefs don't *contradict* normative beliefs (or vice-versa)
+		- Disagreements are merely descriptive or misunderstanding of our terms?
+- Synthetic Naturalism
+	- Against Subjectivism
+		- Cannot have disagreement. Realism is the only viable account (Stevenson)
+	- Epistemological problems:
+		- Account for a priori truth? (?)
+		- How to fix the referrent of ethical terms like other natural kinds (?)
+	- Translation requires looking at motivations (Hare)
+	- Twin Earth Arguments (Timmons & Horgan)
+
 ## Analytic Naturalism
 
 Note: some of the arguments here seem similar to the arguments shown in Descriptivism.md. The reason these arguments are also here is because they don't defeat descriptivism broadly. Because, these arguments, by not mentioning the importance of attitudes, don't generally defeat cognitive theories that ignore attitudes.
 
 *Open Question Argument*. (1) Any proposed analytic reduction of a term must be uninformative and obvious. (2) Any analytic reduction of goodness would be informative and nonobvious. (3) Therefore, there can be no analytic reduction of moral terms. Consider the question "Is X good". Now, imagine that a proposed complex analysis of goodness states that all questions of the form 'Is X good' are questions of the form 'Does X have naturalistic property Y'. The problem with this is that, we can always further ask "Is it good that X has property Y". This further question is clearly intelligible and coherent. But, if goodness that could be analyzed in terms of Y, then such a question would not be intelligible.
 
-*Descriptive beliefs don't entail normative judgments*. If M and N are *definitionally* identical, then if A *believes* that X has property M, then it logically follows that A also *believes* X has property N (and vice-versa). Note that this is stronger than mere *property* identity, e.g. H2O might be identical to water, but the fact that A believes water is H2O does not logically entail that A believes it is water (or vice-versa). However, this logical relation does not hold between and normative property and any natural property. If we know that A believes that X has natural property N and he later says that "X has moral property M", then we have always learned something new about A.
+*Descriptive beliefs don't entail normative judgments* (or vice-versa). If M and N are *definitionally* identical, then if A *believes* that X has property M, then it logically follows that A also *believes* X has property N (and vice-versa). Note that this is stronger than mere *property* identity, e.g. H2O might be identical to water, but the fact that A believes water is H2O does not logically entail that A believes it is water (or vice-versa). However, this logical relation does not hold between and normative property and any natural property. If we know that A believes that X has natural property N and he later says that "X has moral property M", then we have always learned something new about A.
 
-*Insistence on Normative Language*. If normative term N really meant natural term M, then why not carry on making claims about M? If the thesis were true, this would be equivalent to making claims about N, so there should be no difference. The fact that one chooses not to do so implies either (1) he believes that there really is something about N not captured in M, or (2) he believes that society believes that there is something about N not captured in M. Either way, either he or society believes that N and M are not analytically equivalent.
+*Insistence on Normative Language*. If normative term N really meant natural term M, then why not carry on making claims about M? If the thesis were true, this would be equivalent to making claims about N, so there should be no difference. E.g. if you want to convince someone that x has wrong, and wrongness=suffering, then why not just convince them that x causes suffering? You've convinced them that x is wrong. If THEY continue to disagree, then they merely have different semantics, and you've done all you wanted to do. The fact that one chooses not to do so implies either (1) he believes that there really is something about N not captured in M, or (2) he believes that society believes that there is something about N not captured in M. Either way, either he or society believes that N and M are not analytically equivalent.
 
 Response: deny that all analytic reductions must be trivial and uninformative. Counter: Explain why the normative instance of the paradox of analysis differs from other cases. Normative judgments are supposed to provide reasons for action. In other cases, we would be fine to abandon the terms being analyzed (i.e. no problem switching from "knowledge" to "justified true belief"). But this is not true in the normative case.
 
-*Normativity reduced to Tautology*. While it may be appropriate for an analytic reduction to be nontrivial, it is not appropriate that an analytic reduction could ever provide one with a *reason* for action. If normative concept M can be analytically reduced to natural concept N, then saying "N is M" would be a tautology, and thus could provide no reason for action. For example, if goodness could be analytically reduced to pleasure, then if someone said "pleasure is good", then this would be equivalent to saying "pleasure is pleasure" or "goodness is goodness". But presumably the claim "pleasure is good" is supposed to provide someone with reason for action. But no tautology such as "pleasure is pleasure" or "goodness is goodness" could ever provide a reason or motive for someone to promote pleasure.
+*Normativity reduced to Tautology* (lookup "Where is the normativity argument, by Parfit). While it may be appropriate for an analytic reduction to be nontrivial, it is not appropriate that an analytic reduction could ever provide one with a *reason* for action. If normative concept M can be analytically reduced to natural concept N, then saying "N is M" would be a tautology, and thus could provide no reason for action. For example, if goodness could be analytically reduced to pleasure, then if someone said "pleasure is good", then this would be equivalent to saying "pleasure is pleasure" or "goodness is goodness". But presumably the claim "pleasure is good" is supposed to provide someone with reason for action. But no tautology such as "pleasure is pleasure" or "goodness is goodness" could ever provide a reason or motive for someone to promote pleasure.
 
-*Ethical disagreements reduced to disputed semantics or descriptions.* If analytic naturalism is true, then two parties disagree ethically only if they disagree descriptively. But people can disagree ethically without disagreeing descriptively. There can be two people who represent reality identically without having similar ethical attitudes with regard to that representation. This can only be explained by positing that the two parties have different semantics, but then this wouldn't even be a genuine disagreement. This means that two societies with ethical terms that had different semantic meaning (but were identical in that those terms guided the respective society's behavior) would not really disagree with each other. They would be talking passed one another.
+*Ethical disagreements reduced to disputed conceptual analysis or descriptive beliefs.* If analytic naturalism is true, then two parties disagree ethically only if they disagree descriptively. But people can disagree ethically without disagreeing descriptively. There can be two people who represent reality identically without having similar ethical attitudes with regard to that representation. This can only be explained by positing that the two parties have different semantics, but then this wouldn't even be a genuine disagreement. This means that two societies with ethical terms that had different semantic meaning (but were identical in that those terms guided the respective society's behavior) would not really disagree with each other. They would be talking passed one another.
 
 ## Reductive Synthetic Naturalism
 
@@ -38,3 +59,9 @@ Response: deny that all analytic reductions must be trivial and uninformative. C
 These take a *causal reference theory* for moral properties, because a causal reference theory is the standard theory of reference for natural kind terms. This rejects the *description theory of reference*. What determines whether a natural property is good is not whether it has the attributes ascribed to it by the term "good", but whether it causally regulates our use of the word "good". We are looking not at the semantic attribution behind the term, but rather at the properties causally responsible for that word. 
 
 This is similar to how we use the word "health". When we say that someone is "healthy", it's unclear what the *meaning* of that might be. "Healthiness" is a complex natural property that is not directly observable. Thus, "healthiness" cannot be *equated* with any simpler set of properties that are directly observable. However, we can determine what property "healthy" *refers to* by finding what causally regulates our use of the term "health". This can be done by looking at the simpler set of properties that *are* directly observable; these would be *indicators* of "healthiness" rather than *equivalent*. "Healthiness" thus has a robust causal profile, which means the property of being healthy can figure into causal explanations of our observations. Much the same is true of moral properties.
+
+Also from Descriptivism.md
+-> Translation Arguments (against Realism)
+-> Twin Earth Arguments (against Realism)
+
+Try not to emphasize the importance of attitudes. As we're just trying to disprove naturalism. Not prove non-cognitivism
