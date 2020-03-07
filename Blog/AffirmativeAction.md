@@ -4,6 +4,8 @@
 
 [Rosenfeld: Affirmative Action, Justice, and Equalities:... - Google Scholar](https://scholar.google.com/scholar?cluster=11636351808541605373&hl=en&as_sdt=0,48)
 
+
+
 Strong/preferential vs weak/procedural
 
 Defending AA as non-rights-violations, not a justification per se.
@@ -30,7 +32,7 @@ Diversity: (in university or in society) (future)
 
 [A Defense of Affirmative Action](http://scholar.googleusercontent.com/scholar?q=cache:KQGIuoeO8_sJ:scholar.google.com/+affirmative+action+philosophy&hl=en&as_sdt=0,48) - Most people would agree that weak or precautionary affirmative action is a good thing, and worth its cost in time and energy. But this does not imply that strong affirmative action is also justified. I shall claim that in the present state of things it is justified, most clearly with respect to blacks...My own view is that while strong affirmative action is intrinsically undesirable, it is a legitimate and perhaps indispensable method of pursuing a goal so important to the national welfare that it can be justified as a temporary, though not short-term, policy for both public and private institutions. In this respect it is like other policies that impose burdens on some for the public good (diversity, "Nagel, by contrast, argued that preferences might work a kind of social good, and without doing violence to justice. Institutions could for one or another good reason properly depart from standard meritocratic selection criteria because the whole system of tying economic reward to earned credentials was itself indefensible.").
 
-Thomson, Judith Jarvis, 1973, “Preferential Hiring,”     Philosophy & Public Affairs, 2 (Summer): 364–384. (compensatory, "Thomson endorsed job preferences for women and African-Americans as a form of redress for their past exclusion from the academy and the workplace.")
+Thomson, Judith Jarvis, 1973, “Preferential Hiring,”     Philosophy & Public Affairs, 2 (Summer): 364–384. (compensatory, "Thomson endorsed job preferences for women and African-Americans as a form of redress for their past exclusion from the academy and the workplace.")
 
 [In defense of Affirmative Action](https://scholar.google.com/scholar?cluster=8304057655993507338&hl=en&as_sdt=0,48) - Affirmative action refers to positive steps taken to hire persons from groups previously and presently discriminated against. Considerable evidence indicates that this discrimination is intractable and cannot be eliminated by the enforcement of laws. Numerical goals and quotas are justified if and only if they are necessary to overcome the discriminatory effects that could not otherwise be eliminated with reasonable efficiency. Many past as well as present policies are justified in this way. (diversity)
 
@@ -45,15 +47,15 @@ Against
 
 [Preferential Policies Have Become Toxic](http://www.academia.edu/download/15630539/20110315163924748.pdf#page=72) - What is keeping such [affirmative action] programs in place in spite of growing opposition to them is largely a combination of institutional inertia and a feeling on the part of many people that to favor affirmative action for women and people of color is to be on the side of the angels. I don’t think this is true. The arguments in favor of preferential policies do not withstand critical examination; such policies are unjust, and they are having and can be expected to continue to have very bad consequences (supported class-based AA; mentions outcomes as reason against AA).
 
-Simon, Robert L., 1974, “Preferential Hiring: A Reply to Judith Jarvis Thomson,”     Philosophy & Public Affairs, 3 (Spring): 312–320. (rights-based arguments)
+Simon, Robert L., 1974, “Preferential Hiring: A Reply to Judith Jarvis Thomson,”     Philosophy & Public Affairs, 3 (Spring): 312–320. (rights-based arguments)
 
 Simon, Robert L, 1979, “Individual Rights and ‘Benign’ Discrimination,” Ethics, 90 (October): 88–97. (uses rights-based argument)
 
 Goldman, Alan, 1976, “Affirmative Action,” Philosophy & Public Affairs, 5 (Winter): 178–195. (uses rights-based argument; competence-based)
 
-Newton, Lisa, 1973, “Reverse Discrimination as Unjustified,”     Ethics, 83 (July): 308–312.
+Newton, Lisa, 1973, “Reverse Discrimination as Unjustified,”     Ethics, 83 (July): 308–312.
 
-Black, Virginia, 1974, “The Erosion of Legal Principles in the Creation of Legal Policies,”     Ethics, 84 (January): 93–115.
+Black, Virginia, 1974, “The Erosion of Legal Principles in the Creation of Legal Policies,”     Ethics, 84 (January): 93–115.
 
 [Pojman: The case against affirmative action - Google Scholar](https://scholar.google.com/scholar?cluster=16723212326905877416&hl=en&as_sdt=5,48&sciodt=0,48)
 
@@ -123,5 +125,6 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE5NDYzMDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU4ODY2OTEsLTExMzE5NDYzMDNdfQ
+==
 -->
