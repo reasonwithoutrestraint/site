@@ -20,7 +20,7 @@ The vast majority of people believe that universities are morally permitted to g
 
 First, we must evaluate the claim that lower-SES students are disadvantaged in a way that permits preferential treatment by universities, i.e. lowering standards for students from lower-SES backgrounds. What evidence exists for this claim? It seems to me that the only evidence that matters is the statistical fact that lower-SES students tend to perform worse on traditional admission standards by universities, i.e. they tend to perform worse on standardized test scores, they tend to have worse grades, etc. This is the primary justficiation for the claim that lower-SES students are disadvantaged. If lower-SES did not score worse on standardized test scores or grades (or, if they performed *better*), I believe that there would be very little basis for the claim that students from lower-SES backgrounds are disadvantaged in a way that justifies giving them lower standards for university admissions. In other words, the mere fact that lower-SES students perform worse on university admission standards is the primary justification for providing lower admission standards to these students.
 
-Now, 
+Now, members of underrepresented racial groups () also perform worse on university admission standards.
 
 ### Preferential treatment based on non-academic qualities
 
@@ -135,7 +135,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTQxNjU3NywtMTQ5NTExOTY5NSw1OT
-Q1MDMwMTMsMTY1NzM5NjUzNiwxNDg0MDE0MzU5LC0xNTMyODc1
-MDI5LC0xNDQ1ODg2NjkxLC0xMTMxOTQ2MzAzXX0=
+eyJoaXN0b3J5IjpbLTgwMzE0MjAxLC0xNDk1MTE5Njk1LDU5ND
+UwMzAxMywxNjU3Mzk2NTM2LDE0ODQwMTQzNTksLTE1MzI4NzUw
+MjksLTE0NDU4ODY2OTEsLTExMzE5NDYzMDNdfQ==
 -->
