@@ -18,7 +18,7 @@ There are strong objections to each of these arguments, but I will not be consid
 
 The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend race-based affirmative action to compensate or correct for unfair disadvantages, rarely do people object by negating the importance of compensating or correcting for these disadvantages. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So the idea by most people is that universities *should* compensate or correct for a student's disadvantage, but that this disadvantage is properly compensated or corrected for by controlling for a student's SES. In other words, the assumption is that any disadvantages due to race are erased after controlling for SES. I will argue that this assumption is actually flawed. Therefore, if universities are morally permitted to grant preferential treatment to students based on SES, then they are also morally permitted to grant preferential treatment to students base don race.
 
-First, we must evaluate the claim that lower-SES students are disadvantaged in a way that permits preferential treatment by universities, i.e. lowering standards for students from lower-SES backgrounds. What evidence exists for this claim? It seems to me that the only evidence that matters is the statistical fact that 
+First, we must evaluate the claim that lower-SES students are disadvantaged in a way that permits preferential treatment by universities, i.e. lowering standards for students from lower-SES backgrounds. What evidence exists for this claim? It seems to me that the only evidence that matters is the statistical fact that lower-SES students tend to perform worse on traditional admission standards by universities, i.e. they tend to perform worse on standardized test scores, they tend to have worse grades, etc. This is the primary justficiation for the claim that lower-SES students are disadvantaged; if lower-SES 
 
 ### Preferential treatment based on non-academic qualities
 
@@ -133,7 +133,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NDM0NTEsLTE0OTUxMTk2OTUsNTk0NT
-AzMDEzLDE2NTczOTY1MzYsMTQ4NDAxNDM1OSwtMTUzMjg3NTAy
-OSwtMTQ0NTg4NjY5MSwtMTEzMTk0NjMwM119
+eyJoaXN0b3J5IjpbLTc1ODc4OTI2LC0xNDk1MTE5Njk1LDU5ND
+UwMzAxMywxNjU3Mzk2NTM2LDE0ODQwMTQzNTksLTE1MzI4NzUw
+MjksLTE0NDU4ODY2OTEsLTExMzE5NDYzMDNdfQ==
 -->
