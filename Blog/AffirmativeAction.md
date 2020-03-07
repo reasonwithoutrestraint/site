@@ -12,11 +12,13 @@ There are three main argument commonly invoked to defend affirmative action (Tie
 
 There are strong objections to each of these arguments, but I will not be considering any of these objections here (see objections for these arguments in Tierney). I won't be considering any of these objections because I will not (directly) use any of the aforementioned arguments. Instead, I will defend affirmative action by appealing to two other forms of preferential treatment by university admissions that the vast majority of people (including myself) take to be defensible: (1) preferential treatment based on socioeconomic status, and (2) preferential treatment based on non-academic qualities. These two other forms of preferential treatment, I will argue, are relevantly similar to preferential treatment based on race. If I'm correct about this, then if we continue to defend these two other forms of preferential treatment, then we have strong reason to also defend preferential treatment based on race. 
 
-The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend race-based affirmative action to compensate or correct for unfair disadvantages, rarely do people object by negating the importance of compensating or correcting for these disadvantages. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So the idea by most people is that universities *should* compensate or correct for a student's disadvantage, but that this disadvantage is properly accounted for by controlling for a student's SES. 
+## Preferential treatment based on socioeconomic status
+
+The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend race-based affirmative action to compensate or correct for unfair disadvantages, rarely do people object by negating the importance of compensating or correcting for these disadvantages. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So the idea by most people is that universities *should* compensate or correct for a student's disadvantage, but that this disadvantage is properly accounted for by controlling for a student's SES. In other words, the assumption is that any disadvantages due to race are erased after controlling for SES. I will argue that this assumption is actually flawed. Therefore, if universities are permitted to 
 
 Sidestep these main arguments. Argue by analogy
 
-Most authors accept affirmative action by income
+Most authors accept affirmative 
 
 Most probably also accept affirmative action by other features
 
@@ -127,7 +129,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NT
-czOTY1MzYsMTQ4NDAxNDM1OSwtMTUzMjg3NTAyOSwtMTQ0NTg4
-NjY5MSwtMTEzMTk0NjMwM119
+eyJoaXN0b3J5IjpbMTI2NzE4OTE2MywtMTQ5NTExOTY5NSw1OT
+Q1MDMwMTMsMTY1NzM5NjUzNiwxNDg0MDE0MzU5LC0xNTMyODc1
+MDI5LC0xNDQ1ODg2NjkxLC0xMTMxOTQ2MzAzXX0=
 -->
