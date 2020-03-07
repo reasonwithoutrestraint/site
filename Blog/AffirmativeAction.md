@@ -4,6 +4,8 @@
 
 [Rosenfeld: Affirmative Action, Justice, and Equalities:... - Google Scholar](https://scholar.google.com/scholar?cluster=11636351808541605373&hl=en&as_sdt=0,48)
 
+# A defense of Affirmative Action
+
 Thomas Nagel distinguishes between two forms of affirmative action. "Weak" affirmative action refers to "to special efforts to ensure equal opportunity for members of groups that had been subject to discrimination". This can include public advertisement of positions to be filled, active recruitment of qualified applicants from the formerly excluded groups, and special training programs to help them meet the standards for admission or appointment. "Strong" affirmative action refers to "some degree of definite preference for members of these groups in determining access to positions from which they were formerly excluded." The "weak" vs "strong" distinction has also been referred to as the "minimalist" vs "maximalist" distinction (Beauchamp) or the "procedural" vs "preferential" distinction. As Nagel and Beauchamp note, most people agree that "weak" or "procedural" affirmative action is justified (and perhaps even morally obligatory). However, there is significant controversy regarding "strong" or "preferential" forms of affirmative action. In this post, I will defend "strong or "preferential" affirmative action. Whenever I refer to "affirmative action" for the rest of this post, it will always be in reference to this strong or preferential form.
 
 A few caveats are in order about my argument. Firstly, I will restrict my argument only to affirmative action within the context of the admission practices of colleges and universities. Affirmative action is also relevant to the hiring practices of employers and other organizations, but I will ignore these issues in my post here. Secondly, when I refer to affirmative action, I will specifically refer to affirmative action based on *race*, i.e. admission policies that give preferential treatment to members of underrepresented racial groups. I focus on defending race-based affirmative action because I believe this is the most controversial form of affirmative action. Thirdly, my defense of affirmative action is only intended to defend from charges that affirmative action is morally impermissible because it is an unjust form of *racial discrimination*. I will argue that, while affirmative action *does* discriminate against the members of overrepresented racial groups, it is not an *unjust* form of discrimination. Of course, it is possible that affirmative action should be avoided or banned for other reasons (e.g. perhaps it does not actually benefit the members of the underrepresented racial groups). Lastly, my defense of affirmative action consists of defending both the *legalization* of affirmative action (i.e. the government should not ban affirmative action by colleges and universities) and the *moral permissibility* of affirmative action (i.e. colleges and universities are not *blameworthy* for imposing affirmative action policies).
@@ -12,15 +14,15 @@ There are three main argument commonly invoked to defend affirmative action (Tie
 
 There are strong objections to each of these arguments, but I will not be considering any of these objections here (see objections for these arguments in Tierney). I won't be considering any of these objections because I will not (directly) use any of the aforementioned arguments. Instead, I will defend affirmative action by appealing to two other forms of preferential treatment by university admissions that the vast majority of people (including myself) take to be defensible: (1) preferential treatment based on socioeconomic status, and (2) preferential treatment based on non-academic qualities. These two other forms of preferential treatment, I will argue, are relevantly similar to preferential treatment based on race. If I'm correct about this, then if we continue to defend these two other forms of preferential treatment, then we have strong reason to also defend preferential treatment based on race. 
 
-## Preferential treatment based on socioeconomic status
+### Preferential treatment based on socioeconomic status
 
 The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend race-based affirmative action to compensate or correct for unfair disadvantages, rarely do people object by negating the importance of compensating or correcting for these disadvantages. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So the idea by most people is that universities *should* compensate or correct for a student's disadvantage, but that this disadvantage is properly accounted for by controlling for a student's SES. In other words, the assumption is that any disadvantages due to race are erased after controlling for SES. I will argue that this assumption is actually flawed. Therefore, if universities are permitted to 
 
-Sidestep these main arguments. Argue by analogy
-
-Most authors accept affirmative 
+### Preferential treatment based on non-academic qualities
 
 Most probably also accept affirmative action by other features
+
+## Is race-based affirmative action special?
 
 Is racial discrimination special? Neither arbitrary (assuming AA based on income is not arbitrary) nor does it perpetuate subjugation either in purpose or in effect
 
@@ -129,7 +131,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzE4OTE2MywtMTQ5NTExOTY5NSw1OT
+eyJoaXN0b3J5IjpbMTM2MjUxOTMyMiwtMTQ5NTExOTY5NSw1OT
 Q1MDMwMTMsMTY1NzM5NjUzNiwxNDg0MDE0MzU5LC0xNTMyODc1
 MDI5LC0xNDQ1ODg2NjkxLC0xMTMxOTQ2MzAzXX0=
 -->
