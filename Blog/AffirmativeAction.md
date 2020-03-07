@@ -8,7 +8,7 @@ Thomas Nagel distinguishes between two forms of affirmative action. "Weak" affir
 
 A few caveats are in order about my argument. Firstly, I will restrict my argument only to affirmative action within the context of the admission practices of colleges and universities. Affirmative action is also relevant to the hiring practices of employers and other organizations, but I will ignore these issues in my post here. Secondly, when I refer to affirmative action, I will specifically refer to affirmative action based on *race*, i.e. admission policies that give preferential treatment to members of underrepresented racial groups. I focus on defending race-based affirmative action because I believe this is the most controversial form of affirmative action. Thirdly, my defense of affirmative action is only intended to defend from charges that affirmative action is morally impermissible because it is an unjust form of *racial discrimination*. I will argue that, while affirmative action *does* discriminate against the members of overrepresented racial groups, it is not an *unjust* form of discrimination. Of course, it is possible that affirmative action should be avoided or banned for other reasons (e.g. perhaps it does not actually benefit the members of the underrepresented racial groups). Lastly, my defense of affirmative action consists of defending both the *legalization* of affirmative action (i.e. the government should not ban affirmative action by colleges and universities) and the *moral permissibility* of affirmative action (i.e. colleges and universities are not *blameworthy* for imposing affirmative action policies).
 
-There are three main justifications commonly invoked to defend affirmative action (Tierney): the compensatory justification, the corrective argument, and 
+There are three main argument commonly invoked to defend affirmative action (Tierney): the compensatory argument, the corrective argument, and the diversity argument. The compensatory argument states that members of underrepresented racial groups should be granted preferential treatment by colleges and universities to compensate for past or historical discriminati
 
 Some main arguments: corrective, compensatory, diversity
 
@@ -125,7 +125,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDM4MTIzMywxNjU3Mzk2NTM2LDE0OD
-QwMTQzNTksLTE1MzI4NzUwMjksLTE0NDU4ODY2OTEsLTExMzE5
-NDYzMDNdfQ==
+eyJoaXN0b3J5IjpbMTg4ODU3NzI3LDE2NTczOTY1MzYsMTQ4ND
+AxNDM1OSwtMTUzMjg3NTAyOSwtMTQ0NTg4NjY5MSwtMTEzMTk0
+NjMwM119
 -->
