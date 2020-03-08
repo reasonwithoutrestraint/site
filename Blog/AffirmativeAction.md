@@ -24,9 +24,7 @@ Now, let us return to those who support preferential treatment based on SES yet 
 
 It turns out that this is not the case. URMs perform significantly worse on standardized test scores *even after* controlling for SES. For example, the Black-White gap in SAT scores is not mostly acconted for after controlling for income. In fact, in 2005, the Black-White gap in SAT scores was 204 points, but the mean SAT score for Whites from families earning less than $10,000 was 129 points higher than the mean SAT score for *all* Blacks [[sourcel](http://www.jbhe.com/features/49_college_admissions-test.html)]. Further, studies find that racial disparities in other measures of cognitive ability are not eliminated after controlling for SES. For example, in _The Black-White Test Score Gap_, [Jencks and Phillips (1998)]([https://www.brookings.edu/wp-content/uploads/2013/01/9780815746096_chapter1.pdf](https://www.brookings.edu/wp-content/uploads/2013/01/9780815746096_chapter1.pdf)) measured the scores of Black and White children taking the Peabody Picture Vocabulary Test (PPVT). The authors report that "a two-year reduction in the black-white education gap among mothers would cut the PPVT gap by about a point" (page 22), "eliminating black-white income differences would cut the PPVT gap by less than 1 point" (page 23) and "children who have grown up in an intact family score no higher on the PPVT than children from single-parent families" (page 23). This shows that controlling for traditional measures of SES - e.g. income, parental education, family structure - does not eliminate the majority of the Black-White gap on standardized test performance.
 
-Thus, controlling for SES does not eliminate most of the disadvantage faced by URMs (at least for Blacks. I will assume similar patterns can be applied to other URMs). In other words, URMs face disadvantage even after controlling for SES. But the rationale given for supporting preferential treatment based on SES while opposing preferential treatment based on race was that the disadvantage faced by URMs is mostly eliminated after controlling for SES. Because this rationale rests on a false empirical assumption, there is no rationale to reject preferential treatment to URMs if we support preferential treatment base
-
-the fact that a particular group performs worse according to traditional admission standards is evidence that the group is disadvantaged.
+Thus, controlling for SES does not eliminate most of the disadvantage faced by URMs (at least for Blacks. I will assume similar patterns can be applied to other URMs). In other words, URMs face disadvantage even after controlling for SES. But the rationale given for supporting preferential treatment based on SES while opposing preferential treatment based on race was that the disadvantage faced by URMs is mostly eliminated after controlling for SES. Because this rationale rests on a false empirical assumption, there is no rationale to reject preferential treatment to URMs if we support preferential treatment based on low-SES status. Giving preferential treatment to members of low-SES status will not account for most of the disadvantage faced by URMs. Therefore, 
 
 ### Preferential treatment based on non-academic qualities
 
@@ -141,10 +139,10 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjQ2NDYwLDk1MTcyNjE0MSwtNzI4Mj
-IxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2
-LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OT
-UxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1MzYsMTQ4NDAxNDM1
-OSwtMTUzMjg3NTAyOSwtMTQ0NTg4NjY5MSwtMTEzMTk0NjMwM1
-19
+eyJoaXN0b3J5IjpbLTg5NDg3NjA0OCw5NTE3MjYxNDEsLTcyOD
+IyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5
+NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0MjAxLC0xND
+k1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2NTM2LDE0ODQwMTQz
+NTksLTE1MzI4NzUwMjksLTE0NDU4ODY2OTEsLTExMzE5NDYzMD
+NdfQ==
 -->
