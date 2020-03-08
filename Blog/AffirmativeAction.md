@@ -28,6 +28,7 @@ Note that this argument is agnostic with respect to the particular rationale use
 
 ### Preferential treatment based on non-academic qualities
 
+
 Most probably also accept affirmative action by other features
 
 ## Is *racial* discrimination special?
@@ -139,7 +140,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjI0NzE3MCwtNzcwNjU1NDkzLDk1MT
+eyJoaXN0b3J5IjpbMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
 cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
 MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
 AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
