@@ -24,7 +24,7 @@ Now, let us return to the rationale for supporting preferential treatment to low
 
 Thus, controlling for SES does not eliminate most of the disadvantage faced by URMs (at least for Blacks students. I will assume similar patterns can be found for other URMs). In other words, the disadvantaged faced by URMs persists even after controlling for SES. But the rationale given for supporting preferential treatment to low-SES students while opposing preferential treatment to URMs was that the disadvantage faced by URMs is mostly eliminated after controlling for SES. Since this rationale rests on a false empirical assumption, we are left without a reason to oppose preferential treatment to URMs if we support preferential treatment based on low-SES status. Giving preferential treatment to low-SES students will not account for most of the disadvantage faced by URMs. Therefore, because universities are morally permitted to grant preferential treatment to disadvantaged students, universities are morally permitted to grant preferential treatment to URMs even after controlling for SES.
 
-Note that this argument is agnostic with respect to the particular rationale used to justify preferential treatment to disadvantaged students. One might give either a corrective, compensatory or diversity rationale. Whichever rationale is used, a similar rationale should apply to URMs since their disadvantage persists even after controlling for SES. My argument is also agnostic with respect to the *causes* of the disadvantage faced by URMs. For example, some argue that URMs are disadvantaged mainly due to inferior environments and others argue that URMs disadvantaged mainly due to inferior genes. I make no claims on this debate here. 
+Note that this argument is agnostic with respect to the particular rationale used to justify preferential treatment to disadvantaged students. One might give either a corrective, compensatory or diversity rationale. Whichever rationale is used, a similar rationale should apply to URMs since their disadvantage persists even after controlling for SES. My argument is also agnostic with respect to the *causes* of the disadvantage faced by URMs. For example, URMs might be disadvantaged due to inferior schooling, teacher bias, inferior parenting, inferior genes, etc. Again, I make no claims on this debate here. Whatever cause one prefers to explain the disadvantage faced 
 
 ### Preferential treatment based on non-academic qualities
 
@@ -139,10 +139,10 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMDI3Mzc1LC03NzA2NTU0OTMsOTUxNz
-I2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4NCwtNTgzMjE2MzMx
-LC01ODQxNTQ5OTYsLTgzNzc3NzI4NiwtNTM2ODg2NTkxLC04MD
-MxNDIwMSwtMTQ5NTExOTY5NSw1OTQ1MDMwMTMsMTY1NzM5NjUz
-NiwxNDg0MDE0MzU5LC0xNTMyODc1MDI5LC0xNDQ1ODg2NjkxLC
-0xMTMxOTQ2MzAzXX0=
+eyJoaXN0b3J5IjpbLTQ5NDg1OTg3NiwtNzcwNjU1NDkzLDk1MT
+cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
+MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
+AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
+MzYsMTQ4NDAxNDM1OSwtMTUzMjg3NTAyOSwtMTQ0NTg4NjY5MS
+wtMTEzMTk0NjMwM119
 -->
