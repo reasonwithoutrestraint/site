@@ -22,7 +22,7 @@ First, we must evaluate the claim that low-SES students are disadvantaged in a w
 
 Now, let us return to those who support preferential treatment based on SES yet oppose preferential treatment based on race. As I stated earlier, the primary assumption underlying this distinction is *not* that we shoudn't give preferential treatment to disadvantaged students. Rather, the underlying assumption is that we *should* give preferential treatment to disadvantaged students, but the disadvantaged of underrepresented racial groups is completely or mostly erased after controlling for SES. Also recall that the fact that a group performs worse according to traditional admission standards is evidence that the group is disadvantaged. Therefore, in order to assess whether the disadvantage of underrepresented racial groups is completely or mostly erased after controlling for SES, we must determine whether underrepresented racial groups tend to perform worse according to traditional admission standards after controlling for SES. 
 
-It turns out that this is not the case. Underrepresented racial groups tend to perform far worse on standardized test scores even after controlling for SES. 
+It turns out that this is not the case. Underrepresented racial groups tend to perform far worse on standardized test scores even after controlling for SES. For example, the Black-White gap in SAT scores is not accounted
 
 ### Preferential treatment based on non-academic qualities
 
@@ -137,7 +137,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzUxODAwMiwtODM3Nzc3Mjg2LC01Mz
+eyJoaXN0b3J5IjpbMTI5OTY3ODQ0MiwtODM3Nzc3Mjg2LC01Mz
 Y4ODY1OTEsLTgwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAx
 MywxNjU3Mzk2NTM2LDE0ODQwMTQzNTksLTE1MzI4NzUwMjksLT
 E0NDU4ODY2OTEsLTExMzE5NDYzMDNdfQ==
