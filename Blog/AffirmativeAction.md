@@ -16,7 +16,7 @@ There are strong objections to each of these arguments, but I will not be consid
 
 ### Preferential treatment based on socioeconomic status
 
-The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend preferential treatment for URMs on the grounds that such groups are disadvantaged, rarely do people object by denying that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So these people grant that universities *should* provide preferential treatment to disadvantaged students. However, the rationale for supporting preferential treatment for low-SES students but not URMs is the assumption that  I will argue that this belief is actually false. Therefore, if universities are morally permitted to grant preferential treatment to low-SES students because such students are disadvantaged, then universities are also morally permitted to grant preferential treatment to URMs because such students are similarly disadvantaged.
+The vast majority of people believe that universities are morally permitted to grant preferential treatment to individuals from families with lower socioeconomic statuses (SES). In fact, when people defend preferential treatment for URMs on the grounds that such groups are disadvantaged, rarely do people object by denying that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So these people grant that universities *should* provide preferential treatment to disadvantaged students. However, the rationale for supporting preferential treatment to low-SES students but not URMs is based on the assumption that disadvantage faced by URMs is explained mostly by their low-SES status. I will argue that this assumption is actually false. Therefore, if universities are morally permitted to grant preferential treatment to low-SES students because such students are disadvantaged, then universities are also morally permitted to grant preferential treatment to URMs because such students are similarly disadvantaged.
 
 First, we must evaluate the claim that low-SES students are disadvantaged in a way that permits preferential treatment by universities, i.e. lowering standards for students from low-SES backgrounds. What evidence exists for this claim? It seems to me that the primary evidence is the statistical fact that low-SES students tend to perform worse according to traditional admission standards by universities. For example, the fact that low-SES students tend to have lower SAT scores is evidence that these students are relevantly disadvantaged, which justifies lowering SAT admission standards for such students. If low-SES students did *not* have lower standardized test scores (or, if they had *higher* test scores), then there would be very little evidence that low-SES students are relevantly disadvantaged. In other words, the fact that a particular group performs worse according to traditional admission standards is evidence that the group is disadvantaged.
 
@@ -139,10 +139,10 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTg3NTAzNCw5NTE3MjYxNDEsLTcyOD
-IyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5
-NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0MjAxLC0xND
-k1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2NTM2LDE0ODQwMTQz
-NTksLTE1MzI4NzUwMjksLTE0NDU4ODY2OTEsLTExMzE5NDYzMD
-NdfQ==
+eyJoaXN0b3J5IjpbMzI3OTExNjAxLDk1MTcyNjE0MSwtNzI4Mj
+IxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2
+LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OT
+UxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1MzYsMTQ4NDAxNDM1
+OSwtMTUzMjg3NTAyOSwtMTQ0NTg4NjY5MSwtMTEzMTk0NjMwM1
+19
 -->
