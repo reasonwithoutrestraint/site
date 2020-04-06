@@ -40,7 +40,7 @@ Now, someone might respond that earlier instances of racial discrimination are p
 
 I have two responses: (1) the arbitrariness of an act of discrimination can be sufficient only to establish that the discrimination is morally impermissible, not necessarily that it should be forbidden; and (2) racial discrimination by private universities is not arbitrary since private universities may have a vested interest in promoting a certain racial makeup of its student body.
 
-Firstly, I'm willing to grant that the arbitrariness of an act of discrimination can be sufficient to establish that the discrimination is morally wrong. This can explain why racial discrimination seems almost always wrong. The reason is that racial discrimination is almost always arbitrary. Most jobs require you to apply manual labor or process information or something that has nothing to do with race. But if we imagine cases where race  _is_  a relevant characteristic (e.g. casting or movie directors), we see that racial discrimination is actually morally permissible. This can also explain why discrimination seems morally wrong when it has nothing to do with race. (e.g. if an applicant is denied a programming job because of their eye color). However, even if I grant this, this is not sufficient to establish that such discrimination should be forbidden. 
+Firstly, I'm willing to grant that the arbitrariness of an act of discrimination can be sufficient to establish that the discrimination is morally wrong. This can explain why racial discrimination seems almost always wrong. The reason is that racial discrimination is almost always arbitrary. Most jobs require you to apply manual labor or process information or something that has nothing to do with race. But if we imagine cases where race  _is_  a relevant characteristic (e.g. casting or movie directors), we see that racial discrimination is actually morally permissible. This can also explain why discrimination seems morally wrong when it has nothing to do with race. (e.g. if an applicant is denied a programming job because of their eye color). However, even if I grant this, this is not sufficient to establish that such discrimination should be forbidden. For example, imagine an employer choices to give preference to an candidate that is more pleasant to be around than an otherwise more qualified candidate. 
 
 So the arbitrariness of discrimination is what determines whether discrimination is morally wrong. Now, the question is whether affirmative action (of the kind I mentioned earlier) by private universities is arbitrary. In other words, is race a  _relevant feature_  of the students of a university? It seems clear to me that it almost always is. Universities aren’t just selling library usage and lectures to students. They also purport to offer a college campus of a certain kind. That is, the makeup and “atmosphere” of the college campus is a part of the overall product that universities wish to sell. Therefore, students are not just  _customers_  of a university; they are also a part of  _the product_  (just like actors/actresses are a part of the product of movies/plays). Thus, race  _is_  an essential component of the product/service of all universities that wish to advertise a college campus with a certain racial makeup (whether that be a racially diverse campus or a racially homogenous campus). Because of this, affirmative action among private universities is not an arbitrary form of racial discrimination, and is therefore not immoral.
 
@@ -156,11 +156,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMD
-IzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5
-Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01OD
-MyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1
-OTEsLTgwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNj
-U3Mzk2NTM2LDE0ODQwMTQzNTksLTE1MzI4NzUwMjksLTE0NDU4
-ODY2OTFdfQ==
+eyJoaXN0b3J5IjpbOTY2MjcxMzM3LC01MzExMzU2NjEsLTE2NT
+EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
+LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
+U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
+NiwtNTM2ODg2NTkxLC04MDMxNDIwMSwtMTQ5NTExOTY5NSw1OT
+Q1MDMwMTMsMTY1NzM5NjUzNiwxNDg0MDE0MzU5LC0xNTMyODc1
+MDI5XX0=
 -->
