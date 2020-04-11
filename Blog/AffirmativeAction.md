@@ -80,7 +80,7 @@ If this still seems unintuitive, consider the fact that many universities alread
 
 ### Subjugation
 
-In
+In the previous section, I argued that the _Arbitrariness Argument_ fails because affirmative action is not arbitrary because the racial makeup of a university's campus is relevant to the university's economic goals.
 
 Why are these properties important? Why are arbitrariness and balancing versus exclusion relevant considerations that determine whether discrimination is bad? Well, we have to discuss why discrimination is ever bad. We cannot just assume that discrimination is bad sometimes without understanding *why*? In order for anything to be bad, it has to be considerably bad for someone somewhere. Now, note that there's nothing inherent to discrimination that implies that it is considerably bad for someone somewhere, i.e. their life would have to be relevantly damanged (I don't consider upset feelings as relevantly bad, because if that were the case then all discrimination would be bad). So what is it about discrimination that sometimes makes it significantly bad in the relevant manner? The answer has to be that discrimination has historically been used as a tool for racial oppression and subjugation, something that destroyed the lives of many minorities. Thus, we implicitly associate discrimination (which isn't inherently bad) with oppression/subjugation (which is inherently bad, as people's lives are destroyed). That is what makes arbitrariness and balancing versus exclusion relevant factors: in order for discrimination to actually ruin a group's lives, it must be arbitrary and it must be exclusionary. Otherwise, there's no way that it can be harmful. 
 
@@ -162,11 +162,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA5MDA1NTYsLTM0ODEwMjM1NCw3ND
-U3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2
-NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMD
-EyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEz
-NjgsLTU2MDU1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLT
-gzNzc3NzI4NiwtNTM2ODg2NTkxLC04MDMxNDIwMSwtMTQ5NTEx
-OTY5NV19
+eyJoaXN0b3J5IjpbNTM0Nzg0ODYxLC0zNDgxMDIzNTQsNzQ1Nz
+gwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYx
+LC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMj
+A0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4
+LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mz
+c3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2
+OTVdfQ==
 -->
