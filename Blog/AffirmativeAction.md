@@ -61,7 +61,7 @@ My other argument for affirmative action is based on a general freedom to discri
 2. We have not been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. 
 3. Therefore, we ought to grant private universities the freedom to discriminate prospective students based on race (i.e. affirmative action).
 
-Like my first argument, it seems to me that the first premise of the *Freedom Argument* does not require much defense. Note that this premise does not imply that all instances of discrimination ought to be permitted. This premise only establishes that in a moral dispute concerning whether to legally permit an instance of discrimination, the party who endorses outlawing such discrimination has the *burden* to provide sufficiently strong reasons to deny the legal freedom (this is similar to the "burden of proof" in epistemic disputes: in epistemic disputes concerning what to believe, the party who advances the stronger claim has the *burden of proof* to be met). In the absence of any sufficiently strong reasons that meet this burden, we ought to grant the private entity the freedom to practice the discrimination. 
+Like my first argument, it seems to me that the first premise of the *Freedom Argument* does not require much defense. Note that this premise does not imply that all instances of discrimination ought to be permitted. This premise only establishes that in a moral dispute concerning whether to legally permit an instance of discrimination, the party who endorses outlawing such discrimination has the *burden* of providing sufficiently strong reasons to deny the legal freedom. In the absence of sufficiently strong reasons that meet this burden, we ought to grant the private entity the freedom to practice the discrimination (the burden here operates similarly to the "burden of proof" in epistemic debate).
 
 This first premise must be accepted for essentially any private corportation to feasibly operate. All employers discriminate between applicants on the basis of skill, knowledge, traits, etc. Universities also discriminate on the basis of academic achievement, intelligence, extra-curricular activities, athletic ability, etc. We need to be given strong reasons before we outlaw a particular form of discrimination, but we do not need strong reasons before we legally permit a particular form of discrimination. As a *default*, all forms of discrimination should be permitted; we require positive reasons to override this default in any particular case. Again, I doubt that most people oppose this first premise, so I will not spend more time defending it. The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. In this section, I will consider some possible reasons that challenge premise 2. In the end, I will argue that all such reasons fail. Thus, I will argue, we ought to grant private universities the freedom to discriminate prospective students based on race due to the *Freedom Argument*.
 
@@ -180,11 +180,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMzgzOTMzLDM4MDc5MjM5MSwtOTA5Mj
-E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
-ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
-AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
-LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
-U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
-XX0=
+eyJoaXN0b3J5IjpbLTE3NzgxMDYyMDIsMzgwNzkyMzkxLC05MD
+kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
+LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
+UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
+OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
+A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
+ODZdfQ==
 -->
