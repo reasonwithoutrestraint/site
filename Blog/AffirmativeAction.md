@@ -51,12 +51,7 @@ To start, it may be useful to consider some obviously bad reasons to justify out
 1. Affirmative action is against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that the law permits or forbids certain conduct does not demonstrate that such conduct _should_ be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I'm sure I don't need to list examples of laws that should (or should have been) changed.
 2. The public disaproves of affirmative action. This argument is bad because society can be _wrong_ in their approval or disapproval. To say otherwise implies that society should never change its current norms for approval or disapproval, which is clearly absurd. Again, I need not list examples where society should change (or should have changed) its norms for approval and disapproval. But even if society is correct to disapprove of affirmative action, that does not imply that affirmative action should be banned. For example, society should disapprove of adulterers, but this does not imply that adultery should be illegal.
 3. Universities benefit heavily from the government. This reason is just as bad as the previous reasons but I've heard it too many times to ignore. The reasoning goes: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the argument goes, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. Further, surely there are _some_ aspects of an institution's conduct that should _not_ be controlled by the government (e.g. whether a sports apparel store sells basketball jerseys or football jerseys). These examples show that the fact that the government provides a benefit over an entity does not tell us how the government should regulate that entity. 
-
-### Racial discrimination
-
-Someone might oppose affirmative action because it is specifically _racial_ discrimination. Such an argument might go as follows. Affirmative action is an instance of racial discrimination. All instances of *racial* discrimination ought to be forbidden. Therefore, affirmative action ought to be forbidden. Call this the *Racial Discrimination Argument* against affirmative action.
-
-The *Racial Discrimination Argument* might seem intuitive on first inspection, but it is clearly unsound on closer examination. There are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. I highly doubt that the vast majority of people would oppose such instances of racial discrimination. I will be assuming that the intuitions of most people are correct in this case: there are instances of racial discrimination by casting directors that are not morally wrong and that should not be forbidden. So the *Racial Discrimination Argument* is unsound and therefore fails to establish that affirmative action should be forbidden.
+4. Affirmative Action is racial discrimination. One might argue as follows: Affirmative action is an instance of racial discrimination. All instances of *racial* discrimination ought to be forbidden. Therefore, affirmative action ought to be forbidden. In response to this argument, some deny that affirmative action is a form of racial discrimination. I will not deny this as it seems an obvious truth. However, the problem with the argument is that here are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. I highly doubt that the vast majority of people would oppose such instances of racial discrimination. I will be assuming that the intuitions of most people are correct in this case: there are instances of racial discrimination by casting directors that are not morally wrong and that should not be forbidden. So the *Racial Discrimination Argument* is unsound and therefore fails to establish that affirmative action should be forbidden.
 
 ### Arbitrary discrimination
 
@@ -159,11 +154,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY0MzA2NjMsLTg2NDU5Mjk1OSwtMz
-Q4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODky
-NDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLT
-M3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYx
-NDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLT
-U4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0
-MjAxXX0=
+eyJoaXN0b3J5IjpbLTI1MDE3NDgyMCwtODY0NTkyOTU5LC0zND
+gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
+OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
+c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
+MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNT
+g0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQy
+MDFdfQ==
 -->
