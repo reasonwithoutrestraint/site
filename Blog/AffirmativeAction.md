@@ -73,7 +73,7 @@ An alternative explanation for why Lewis's pleasantness is not an arbitrary trai
 
 There could be other alternative explanations for why Lewis's pleasantness is not an arbitrary trait. However, it seems to me that the two explanations that I have considered - that no trait is arbirtary if it is desired by an employer and that no trait is arbirtary if it advances the economic interests of a company - are the most plausible explanations. If that's right, then, on any plausible explanation for why Lewis's pleasantness is not an arbitrary trait, the *Arbitrariness Argument* would be unsound, since premise (a) would be false (as I've argued earlier). On the other hand, if Lewis's pleasantness *is* an arbitrary trait, then the *Arbitrariness Argument* would also be unsound, since premise (b) would be false (as I've argued earlier). Thus, we should conclude that the *Arbitrariness Argument* is unsound, since it has at least one false premise (a or b). So the *Arbitrariness Argument* fails to meet the burden presented by the first premise of the *Freedom Argument*.
 
-
+### Subjugation
 
 If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit that sex-based discrimination from these colleges is immoral. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell; thus, sex-based discrimination would not be arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
 
@@ -151,11 +151,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjMxMTIxLC04MDY2NjM1NDUsLTg5Mj
-Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
-MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
-cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
-MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
-AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTQxMjAzNDYyNywtODA2NjYzNTQ1LC04OT
+I0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3
+MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NT
+E3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYz
+MzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLT
+gwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2
+NTM2XX0=
 -->
