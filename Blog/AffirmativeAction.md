@@ -34,7 +34,7 @@ Note that this argument is agnostic with respect to the particular rationale use
 
 ## The freedom to discriminate
 
-My other argument for affirmative action is based on a general freedom to discriminate that I believe all private individuals and companies should be afforded. These freedoms typically only apply to private individuals and companies (governments should not have the same freedom to discriminate that private individuals are given), so my argument here is limited to *private* universities. Further, I believe this argument is only sufficient to defend the *legal* right to discriminate; it is not sufficient to defend the *moral permissibility* of such discrimination. Call this the *Freedom Argument*. The basic structure is as follows:
+My other argument for affirmative action is based on a general freedom to discriminate that I believe all private persons and companies should be afforded. Because these freedoms only apply to entities (governments should not have the same freedom to discriminate that private individuals should have), so my argument here is limited to *private* universities. Further, I believe this argument is only sufficient to defend the *legal* right to discriminate; it is not sufficient to defend the *moral permissibility* of such discrimination. Call this the *Freedom Argument*. The basic structure is as follows:
 
 1. We ought to grant private entities the legal freedom to discriminate based on any features that they prefer, except in cases where we are provided with sufficiently strong reasons to restrict such freedoms.
 2. We have not been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. 
@@ -151,11 +151,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE4ODI0OTYsLTgwNjY2MzU0NSwtOD
-kyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQz
-NzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOT
-UxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4NCwtNTgzMjE2
-MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4NiwtNTM2ODg2NTkxLC
-04MDMxNDIwMSwtMTQ5NTExOTY5NSw1OTQ1MDMwMTMsMTY1NzM5
-NjUzNl19
+eyJoaXN0b3J5IjpbMTM5NjQ1NTE5OSwtODA2NjYzNTQ1LC04OT
+I0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3
+MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NT
+E3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYz
+MzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLT
+gwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2
+NTM2XX0=
 -->
