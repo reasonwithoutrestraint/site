@@ -13,11 +13,11 @@
 * Lastly, I'm only concerned with affirmative action within the United States.
 
 There are three main arguments commonly invoked to defend affirmative action [(Tierney 1997)]([https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf](https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf)). 
-1. The *compensatory* argument states that URMs should be granted preferential treatment by colleges and universities to compensate for past or historical discrimination against them or members of their racial group. See [Thompson (1973)]([https://www.jstor.org/stable/pdf/2265014.pdf?seq=1](https://www.jstor.org/stable/pdf/2265014.pdf?seq=1)) for some compensatory arguments (although her argument focused on the hiring practices in the workplace). 
+1. The *compensatory* argument states that URMs should be granted preferential treatment by colleges and universities to compensate for past or historical discrimination against them or members of their racial group. See [Thompson (1973)]([https://www.jstor.org/stable/pdf/2265014.pdf?seq=1](https://www.jstor.org/stable/pdf/2265014.pdf?seq=1)) for some compensatory arguments (although her argument focused on the hiring decisions of employers). 
 2. The *diversity* argument justifies affirmative action based on the benefits of a more racially diverse student body (e.g. the benefit from being exposed to members of different races). See [Nagel (1981)](http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006) and [Beauchamp (1998)]([https://scholar.google.com/scholar?cluster=8304057655993507338&hl=en&as_sdt=0,48](https://scholar.google.com/scholar?cluster=8304057655993507338&hl=en&as_sdt=0,48)) for such arguments. 
 3. The *corrective* argument claims that preference should be given to URMs in order to better select for the most qualified students (e.g. because a Black student's score on standardized test might be artificially impaired due to disadvantaged schooling, stereotype threat, etc.). See [Himma (2001)]([http://link.springer.com/article/10.1023/A:1006401619357](http://link.springer.com/article/10.1023/A:1006401619357)) for some corrective arguments.
 
-There are strong objections to each of these arguments, but I will not be considering any of these objections here (see objections for these arguments in Tierney). I won't be considering any of these objections because I will not (directly) use any of the aforementioned arguments. Instead, I will defend affirmative action by appealing to two other forms of preferential treatment by university admissions that the vast majority of people (including myself) take to be defensible: (1) preferential treatment based on socioeconomic status, and (2) preferential treatment based on non-academic qualities. These two other forms of preferential treatment, I will argue, are relevantly similar to preferential treatment based on race. If I'm correct about this, then if we continue to defend these two other forms of preferential treatment, then we have strong reason to also defend preferential treatment based on race. 
+There are strong objections to each of these arguments, but I will not be considering any of these objections here (see [Tierney (1997)](https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf) for some objections). I won't be considering any of these objections because I will not (directly) use any of the aforementioned arguments. Instead, I will defend affirmative action by appealing to two other forms of preferential treatment by university admissions that the vast majority of people (including myself) take to be defensible: (1) preferential treatment based on socioeconomic status, and (2) preferential treatment based on non-academic qualities. These two other forms of preferential treatment, I will argue, are relevantly similar to preferential treatment based on race. If I'm correct about this, then if we continue to defend these two other forms of preferential treatment, then we have strong reason to also defend preferential treatment based on race. 
 
 ## Preferential treatment based on socioeconomic status
 
@@ -186,11 +186,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyODYxMDMsLTEyMzQyOTIzNzEsNzcxNT
-A0NzIyLDM4MDc5MjM5MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwt
-MzQ4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0OD
-kyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAs
-LTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3Mj
-YxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzFd
-fQ==
+eyJoaXN0b3J5IjpbLTYyNTk3OTIyMywtMTIzNDI5MjM3MSw3Nz
+E1MDQ3MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5
+LC0zNDgxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5Mj
+Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
+MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
+cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
+MV19
 -->
