@@ -44,20 +44,20 @@ Like my first argument, it seems to me that the first premise of the *Freedom Ar
 
 This first premise must be accepted for essentially any private corportation to feasibly operate. All employers discriminate between applicants on the basis of skill, knowledge, traits, etc. Universities also discriminate on the basis of academic achievement, intelligence, extra-curricular activities, athletic ability, etc. We need to be given strong reasons before we outlaw a particular form of discrimination, but we do not need strong reasons before we legally permit a particular form of discrimination. As a *default*, all forms of discrimination should be permitted; we require positive reasons to override this default in any particular case. Again, I doubt that most people oppose this first premise, so I will not spend more time defending it. The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. In this section, I will consider some possible reasons that challenge premise 2. In the end, I will argue that all such reasons fail. Thus, I will argue, we ought to grant private universities the freedom to discriminate prospective students based on race due to the *Freedom Argument*.
 
-#### Bad reasons
+### Bad reasons
 
 * It's currently illegal
 * People offended
 * Society decided to not endorse these decisions
 * They get governmental protection
 
-#### Racial discrimination
+### Racial discrimination
 
 Someone might oppose affirmative action because it is specifically  _racial_ discrimination. Such an argument might go as follows. Affirmative action is an instance of racial discrimination. All instances of *racial* discrimination ought to be forbidden. Therefore, affirmative action ought to be forbidden. Call this the *Racial Discrimination Argument* against affirmative action. 
 
 The *Racial Discrimination Argument* might seem intuitive on first inspection, but it is clearly unsound on closer examination. There are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. I highly doubt that the vast majority of people would oppose such instances of racial discrimination. I will be assuming that the intuitions of most people are correct in this case: there are instances of racial discrimination by casting directors that are not morally wrong and that should not be forbidden. So the *Racial Discrimination Argument* is unsound and therefore fails to establish that affirmative action should be forbidden.
 
-#### Arbitrary discrimination
+### Arbitrary discrimination
 
 Now someone might respond by saying that affirmative action ought to be opposed but not racial discrimination by casting directors because race is an _arbitrary_ feature in the former case but is a _relevant_ feature in the latter case. Racial discrimination by casting directors is relevant because the race of the actors and actresses has a direct influence on the product. On the other hand, one might argue, private universities are only trying to sell a quality education, and the racial makeup of a campus's student body has no direct influence on the quality of the education of its students. Call this the *Arbitrariness Argument* against affirmative action. The argument can be put roughly as follows. (a) Race is an arbitrary trait of prospective university students. (b) All instances of discrimination based on arbitrary traits should be forbidden. &#40;c) Affirmative action is discrimination based on the race of prospective. (d) Therefore, affirmative action should be forbidden.
 
@@ -79,7 +79,7 @@ There could be other alternative explanations for why Lewis's pleasantness is no
 
 There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
 
-This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. If affirmative action ought to be opposed, it is not _because_ it's an unjust form of discrimination. However, affirmative action may very well be opposed for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination.
+This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. If affirmative action ought to be opposed, it is not _because_ it's an unjust form of discrimination. However, affirmative action may very well be worth opposing for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination.
 
 
 # Intel
@@ -147,7 +147,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MDI5MzExLC04MDY2NjM1NDUsLTg5Mj
+eyJoaXN0b3J5IjpbLTg2ODY3NjE5LC04MDY2NjM1NDUsLTg5Mj
 Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
 MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
 cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
