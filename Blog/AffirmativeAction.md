@@ -46,7 +46,10 @@ This first premise must be accepted for essentially any private corportation to 
 
 ### Bad reasons
 
-To start, it may be useful to consider some obviously bad reasons to restrict a private university's ability to discriminate.
+To start, it may be useful to consider some obviously bad reasons to justify outlawing affirmative action.
+
+1. Affirmative action should be illegal because it's against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that something is legal d
+2. 
 * It's currently illegal
 * People offended
 * Society decided to not endorse these decisions
@@ -54,7 +57,7 @@ To start, it may be useful to consider some obviously bad reasons to restrict a 
 
 ### Racial discrimination
 
-Someone might oppose affirmative action because it is specifically  _racial_ discrimination. Such an argument might go as follows. Affirmative action is an instance of racial discrimination. All instances of *racial* discrimination ought to be forbidden. Therefore, affirmative action ought to be forbidden. Call this the *Racial Discrimination Argument* against affirmative action. 
+Someone might oppose affirmative action because it is specifically _racial_ discrimination. Such an argument might go as follows. Affirmative action is an instance of racial discrimination. All instances of *racial* discrimination ought to be forbidden. Therefore, affirmative action ought to be forbidden. Call this the *Racial Discrimination Argument* against affirmative action. 
 
 The *Racial Discrimination Argument* might seem intuitive on first inspection, but it is clearly unsound on closer examination. There are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. I highly doubt that the vast majority of people would oppose such instances of racial discrimination. I will be assuming that the intuitions of most people are correct in this case: there are instances of racial discrimination by casting directors that are not morally wrong and that should not be forbidden. So the *Racial Discrimination Argument* is unsound and therefore fails to establish that affirmative action should be forbidden.
 
@@ -152,11 +155,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMzgwOTI2LC04MDY2NjM1NDUsLTg5Mj
-Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
-MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
-cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
-MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
-AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
-MzZdfQ==
+eyJoaXN0b3J5IjpbMTM5MjU4MzczMiwtODA2NjYzNTQ1LC04OT
+I0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3
+MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NT
+E3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYz
+MzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLT
+gwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2
+NTM2XX0=
 -->
