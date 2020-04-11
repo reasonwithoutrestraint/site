@@ -114,9 +114,6 @@ Under this standard, it seems quite clear to me that affirmative action by priva
 
 ## Conclusion
 
-Let's summarize the points made here. First, I presented my _Freedom Argument_. Then I considered some straightforwardly bad arguments earlier in this section that I believe fail to meet this burden. The *Racial Discrimination Argument*, for example, is unsound because there are plenty of instances of discrimination based on race that ought not be forbidden. Deprivation, on the other hand, can justify restricting a private institution's general right to discriminate, but the students who are rejected from universities due to affirmative action do not undergo significant levels of deprivation.
-
-There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
 
 This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. If affirmative action ought to be opposed, it is not _because_ it's an unjust form of discrimination. However, affirmative action may very well be worth opposing for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination.
 
@@ -207,11 +204,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDk4NzcwLC03NTY5ODc5MzksMTA3MD
-Q4MjU5MiwxMzU4NTczMjY1LC0xMjM0MjkyMzcxLDc3MTUwNDcy
-MiwzODA3OTIzOTEsLTkwOTIxNDgwLC04NjQ1OTI5NTksLTM0OD
-EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
-LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
-YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
-XX0=
+eyJoaXN0b3J5IjpbMTk3NzM3OTQyNCwtNzU2OTg3OTM5LDEwNz
+A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
+MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
+gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
+OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
+c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
+MV19
 -->
