@@ -76,7 +76,7 @@ However, if we accept this explanation, we should not consider race to be an arb
 
 There could be other alternative explanations for why Lewis's pleasantness is not an arbitrary trait. However, it seems to me that the two explanations that I have considered - that no trait is arbirtary if it is desired by an employer and that no trait is arbirtary if it advances the economic interests of a company - are the most plausible explanations. If that's right, then, on any plausible explanation for why Lewis's pleasantness is not an arbitrary trait, the *Arbitrariness Argument* would be unsound, since premise (a) would be false (as I've argued earlier). On the other hand, if Lewis's pleasantness *is* an arbitrary trait, then the *Arbitrariness Argument* would also be unsound, since premise (b) would be false (as I've argued earlier). Thus, we should conclude that the *Arbitrariness Argument* is unsound, since it has at least one false premise (a or b). 
 
-If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit that sex-based discrimination from these colleges is immoral. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell; thus, sex-based discrimination would not be arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
+If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit such institutions should be outlawed. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell, which means the sex of the students is not arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
 
 ### Subjugation
 
@@ -158,11 +158,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY2MTQzMzEsNzQ1NzgwMjkxLC04MD
-Y2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2
-Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNz
-cwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgy
-ODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLT
-UzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAz
-MDEzXX0=
+eyJoaXN0b3J5IjpbLTM0ODEwMjM1NCw3NDU3ODAyOTEsLTgwNj
+Y2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYz
+OTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03Nz
+A2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4
+NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4NiwtNT
+M2ODg2NTkxLC04MDMxNDIwMSwtMTQ5NTExOTY5NSw1OTQ1MDMw
+MTNdfQ==
 -->
