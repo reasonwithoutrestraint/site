@@ -84,7 +84,7 @@ In the previous section, I argued that the _Arbitrariness Argument_ fails becaus
 
 So what makes arbitrary decisions regarding _discrimination_ special? Why treat this differently than the countless other arbitrary decisions by a company that are permissible? Surely, it can't be because of societal disapproval since, as I mentioned above, society's current norms of approval and disapproval cannot constitute reasons to ban certain conduct. Instead, what makes discrimination special, I believe, is the fact that it can be the cause of the perpetual deprivation of disenfranchised minority populations. If there is rampant discrimination against a particular minor group, then this can leave individuals in that group without access to vital goods such as healthcare, education, occupation, housing, etc. In fact, I believe that our strong intuitions against discrimination (especially racial discrimination) are explained by an implicit association between discrimination and deprivation due to the troubled history of minorities (especially Black people) in America. If not for this association, there would be no good reason to treat arbitrary discrimination any differently from any other arbitrary decision that companies make all the time.
 
-This suggests that 
+This suggests that there isn't really anything inherently problematic about arbitrary discrimination that warrants banning it outright. Rather, rampant arbitrary discrimination, if frequent enough, can result in enough suffering that the government becomes justified in banning the practice. 
 
 Now, racial discrimination would definitely be deemed immoral by most people. But I contend that the intuitions of most people are wrong here. Such a school would *not* be immoral. The intuition that it is immoral can be explained by the deep connection we have between racial *discrimination* and racial *oppression*. We have an immediate disapproving reaction to racial discrimination in schools because this was used as a tool for racial oppression in the past. If we could magically disassociate racial discrimination from racial oppression, then I think our intuitions regarding race-based discrimination would be more in line with our intuitions regarding socially accepted forms of discrimination (e.g. sex-based discrimination at all-male/all-female schools, sexual/racial discrimination by casting directors, sexual balancing at night clubs).
 
@@ -164,11 +164,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNjQyMTIwLC0zNDgxMDIzNTQsNzQ1Nz
-gwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYx
-LC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMj
-A0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4
-LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mz
-c3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2
-OTVdfQ==
+eyJoaXN0b3J5IjpbMTIwNzY1MTc2MywtMzQ4MTAyMzU0LDc0NT
+c4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2
+MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMT
+IwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2
+OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtOD
+M3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0MjAxLC0xNDk1MTE5
+Njk1XX0=
 -->
