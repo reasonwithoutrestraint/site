@@ -78,6 +78,8 @@ There could be other alternative explanations for why Lewis's pleasantness is no
 
 ### Subjugation
 
+
+
 If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit that sex-based discrimination from these colleges is immoral. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell; thus, sex-based discrimination would not be arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
 
 ## Conclusion
@@ -154,7 +156,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTM2NjI5OCw3NDU3ODAyOTEsLTgwNj
+eyJoaXN0b3J5IjpbMTY3ODU3MTEyNiw3NDU3ODAyOTEsLTgwNj
 Y2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYz
 OTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03Nz
 A2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4
