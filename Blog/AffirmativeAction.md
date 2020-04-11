@@ -61,7 +61,7 @@ My other argument for affirmative action is based on a general freedom to discri
 2. We have not been provided with sufficiently strong reason to override a private universities' freedom to discriminate prospective students based on race. 
 3. Therefore, we ought to grant private universities the freedom to discriminate prospective students based on race (i.e. affirmative action).
 
-### B
+### Burden of proof
 
 Like my first argument, it seems to me that the first premise of the *Freedom Argument* does not require much defense. Note that this premise does not imply that all instances of discrimination ought to be permitted. This premise only establishes that in a moral dispute concerning whether to legally permit an instance of discrimination, the party in favor of outlawing such discrimination has the "burden of proof" to provide sufficiently strong reasons to deny this freedom. This principle is similar to the "[presumption of innocence]([https://en.wikipedia.org/wiki/Presumption_of_innocence](https://en.wikipedia.org/wiki/Presumption_of_innocence))" legal principle. The prosecutor in a criminal case has to prove "beyond a reasonable doubt" that the defendent is guilty. It is not the defendant's job to prove that they're innocent. In the absence of sufficient proof from the prosecutor, we should judge the defendent as not guilty, i.e. the defendent is "innocent until proven guilty". Likewise, the first principle of my argument here should be read as a "presumption of freedom". In the absence of sufficiently strong reasons to deny a private entity the freedom to practice a certain form of discrimination, we ought to legally permit the discrimination.
 
@@ -69,12 +69,14 @@ This first premise must be accepted for essentially any private corportation to 
 
 ### Bad reasons
 
-To start, it may be useful to consider some obviously bad reasons to justify outlawing affirmative action.
+Let's begin by considering some obviously bad reasons to justify outlawing affirmative action.
 
 1. Affirmative action is against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that the law permits or forbids certain conduct does not demonstrate that such conduct _should_ be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I'm sure I don't need to list examples of laws that should (or should have been) changed.
 2. The public disaproves of affirmative action. This argument is bad because society can be _wrong_ in their approval or disapproval. To say otherwise implies that society should never change its current norms for approval or disapproval, which is clearly absurd. Again, I need not list examples where society should change (or should have changed) its norms for approval and disapproval. But even if society is correct to disapprove of affirmative action, that does not imply that affirmative action should be banned. For example, society should disapprove of adulterers, but this does not imply that adultery should be illegal.
 3. Universities benefit heavily from the government. The reasoning goes as follows: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. Further, surely there are _some_ aspects of an institution's conduct that should _not_ be controlled by the government (e.g. whether a sports apparel store sells basketball jerseys or football jerseys). These examples show that the fact that the government provides a benefit over an entity does not tell us _how_ the government should regulate that entity. 
-5. Affirmative Action is racial discrimination. In response to this argument, some deny that affirmative action is a form of racial discrimination. I will not deny this as it is an obvious truth on any straightforward definition of "discrimination". The actual problem with this argument is that there are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. Surely, these are forms of racial discrimination that should not be banned.
+4. Affirmative Action is racial discrimination. In response to this argument, some deny that affirmative action is a form of racial discrimination. I will not deny this as it is an obvious truth on any straightforward definition of "discrimination". The actual problem with this argument is that there are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. Surely, these are forms of racial discrimination that should not be banned.
+
+These are all bad reasons. None of these are sufficiently strong reasons to deny a university's general freedom to discriminate, i.e. none of the arguments here meet the "burden of proof" required to justify restricting 
 
 ### Arbitrariness
 
@@ -182,11 +184,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYzMTUwNzcsMzgwNzkyMzkxLC05MD
-kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
-LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
-UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
-OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
-A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTk2MzQ1NTE2LDM4MDc5MjM5MSwtOTA5Mj
+E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
+ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
+AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
+LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
+U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
+XX0=
 -->
