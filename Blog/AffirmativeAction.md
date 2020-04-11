@@ -48,10 +48,9 @@ This first premise must be accepted for essentially any private corportation to 
 
 To start, it may be useful to consider some obviously bad reasons to justify outlawing affirmative action.
 
-1. Affirmative action should be illegal because it's against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that the law permits or forbids certain conduct does not demonstrate that such conduct _should_ be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I'm sure I don't need to list examples of laws that should (or should have been) changed.
+1. Affirmative action is against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that the law permits or forbids certain conduct does not demonstrate that such conduct _should_ be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I'm sure I don't need to list examples of laws that should (or should have been) changed.
 2. The public disaproves of affirmative action. This argument is bad because society can be _wrong_ in their approval or disapproval. To say otherwise implies that society should never change its current norms for approval or disapproval, which is clearly absurd. Again, I need not list examples where society should change (or should have changed) its norms for approval and disapproval. 
-* Society decided to not endorse these decisions
-* They get governmental protection
+3. Universities are protected by society (e.g. in the form of government-subsidized protection). This reason 
 
 ### Racial discrimination
 
@@ -153,7 +152,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIwNTA1NzgsLTgwNjY2MzU0NSwtOD
+eyJoaXN0b3J5IjpbLTE2ODg5MDM3ODksLTgwNjY2MzU0NSwtOD
 kyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQz
 NzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOT
 UxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4NCwtNTgzMjE2
