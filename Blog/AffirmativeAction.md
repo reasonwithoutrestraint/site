@@ -44,7 +44,7 @@ Now, let's evaluate the assumption that the assumption that the disadvantage fac
 
 So controlling for traditional measures of SES - e.g. income, parental education, family structure, etc. - does not reduce most of the Black-White gap on traditional admissions standards. Thus, we have evidence that the disadvantage experienced by URMs (at least Black students. I assume similar patterns can be found for other URMs) is _not_ mostly explained by their low-SES status. But recall that the only good rationale for treating race and SES differently is an assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. Since this assumption is false, there is no good rationale for treating SES and race differently with regard to preferential treatment by colleges. This suffices to show that premise 2 of my argument is true: if we ought to support preferential treatment based on SES, then we also ought to support preferential treatment based on race. Since premise 1 of my argument is also true - that we ought to support preferential treatment based on SES - the conclusion of my argument follows: we ought to support preferential treatment based on race.
 
-Note that this argument is agnostic with respect to the _cause_ of the disadvantage experienced by low-SES students and URMs. One might give either a corrective, compensatory or diversity rationale. Whichever rationale is used, a similar rationale should apply to URMs since their disadvantage persists even after controlling for SES. My argument is also agnostic with respect to the *explanation* of the disadvantages faced by URMs. For example, there is a lively debate about the degree to which the disadvantage experienced by URMs can be explained by environments vs genes. Again, I make no claims on this debate here. Either explanation can probably also be applied to the disadvantage faced by low-SES students (especially since intelligence is influenced by both environment and genes). Thus, if universities are morally permitted to grant preferential treatment to low-SES students on the basis of their disadvantage (regardless of whether that disadvantage is caused by disadvantaged environments or genes), then universities are also morally permitted to grant preferential treatment to URMs on the basis of their disadvantage (regardless of whether that disadvantage is caused by disadvantaged environments or genes).
+Note that this argument is agnostic with respect to the _cause_ of the disadvantages faced by low-SES students and URMs. Some posit systemic racism, lack of motivation, lack of role models, cultural deficiencies and others event posit genetic explanations. I offer no  _causal_ explanations of the disadvantages here. 
 
 ## The freedom to discriminate
 
@@ -168,11 +168,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ3Mzg3NzAsMzgwNzkyMzkxLC05MD
-kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
-LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
-UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
-OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
-A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTUzNjk2MjUzNSwzODA3OTIzOTEsLTkwOT
+IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
+LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
+EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
+LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
+U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
+Nl19
 -->
