@@ -50,7 +50,7 @@ To start, it may be useful to consider some obviously bad reasons to justify out
 
 1. Affirmative action is against the law. This is a straightforwardly bad argument from legality which can be easily dismissed. The fact that the law permits or forbids certain conduct does not demonstrate that such conduct _should_ be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I'm sure I don't need to list examples of laws that should (or should have been) changed.
 2. The public disaproves of affirmative action. This argument is bad because society can be _wrong_ in their approval or disapproval. To say otherwise implies that society should never change its current norms for approval or disapproval, which is clearly absurd. Again, I need not list examples where society should change (or should have changed) its norms for approval and disapproval. 
-3. Universities benefit heavily from the government. This reason is just as bad as the previous reasons but I've heard it too many times to ignore. The reasoning goes: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the argument goes, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. The fact that the government provides a benefit over an entity does not tell us how the government should regulate that entity. After all, surely, there are some aspects of an institutions conduct that should _not_ be controlled by the government (e.g. whether a sports store sells apparel by Kobe or Lebron)
+3. Universities benefit heavily from the government. This reason is just as bad as the previous reasons but I've heard it too many times to ignore. The reasoning goes: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the argument goes, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. Further, surely there are _some_ aspects of an institutions conduct that should _not_ be controlled by the government (e.g. whether a sports store sells basketball jerseys or football jerseys). These examples show fact that the government provides a benefit over an entity does not tell us how the government should regulate that entity. 
 
 ### Racial discrimination
 
@@ -152,11 +152,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTk0MDE5OSwtODA2NjYzNTQ1LC04OT
-I0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3
-MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NT
-E3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYz
-MzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLT
-gwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2
-NTM2XX0=
+eyJoaXN0b3J5IjpbMjYzMTgwMzU1LC04MDY2NjM1NDUsLTg5Mj
+Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
+MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
+cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
+MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
+AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
+MzZdfQ==
 -->
