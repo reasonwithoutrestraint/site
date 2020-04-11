@@ -79,7 +79,7 @@ There could be other alternative explanations for why Lewis's pleasantness is no
 
 There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
 
-This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. However, affirmative action may very well be opposed for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should 
+This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. However, affirmative action may very well be opposed for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination. 
 * hurts minorities
 * builds resentment
 
@@ -149,11 +149,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkxODc5LC04MDY2NjM1NDUsLTg5Mj
-Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
-MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
-cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
-MSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtOD
-AzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTQ1NzcxNzMyMSwtODA2NjYzNTQ1LC04OT
+I0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3
+MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NT
+E3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYz
+MzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLT
+gwMzE0MjAxLC0xNDk1MTE5Njk1LDU5NDUwMzAxMywxNjU3Mzk2
+NTM2XX0=
 -->
