@@ -67,7 +67,7 @@ Like my first argument, it seems to me that the first premise of the *Freedom Ar
 
 This first premise must be accepted for essentially any private corportation to feasibly operate. All employers discriminate between applicants on the basis of skill, knowledge, traits, etc. Universities also discriminate on the basis of academic achievement, intelligence, extra-curricular activities, athletic ability, etc. We need to be given strong reasons before we outlaw a particular form of discrimination, but we do not need strong reasons before we legally permit a particular form of discrimination. Again, I doubt that most people oppose this first premise, so I will not spend more time defending it. 
 
-The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. I will do so by considering a variety of reasons that I've seen which attempt to justify restricting a private university's freedom to practice affirmative action. In the end, I will argue that all such reasons fail. None of these reasons meet the "burden of proof" required to justify restricting a private universtiy's freedom to practice affirmative action. If I'm correct, this means premise 2 of my _ Thus, I will argue, we ought to grant private universities the freedom to discriminate prospective students based on race due to the *Freedom Argument*.
+The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. I will do so by considering a variety of the strongest reasons (that I've seen) which attempt to justify restricting a private university's freedom to practice affirmative action. In the end, I will argue that all such reasons fail. None of these reasons meet the "burden of proof" required to justify restricting a private universtiy's freedom to practice affirmative action. If I'm correct, this means premise 2 of my _Freedom Argument_ is true. This means that the conclusion of my argument follows: we ought to grant private universities the freedom to discriminate prospective students based on race (i.e. practice affirmative action).
 
 ### Bad reasons
 
@@ -78,7 +78,7 @@ Let's begin by considering some obviously bad reasons to justify outlawing affir
 3. Universities benefit heavily from the government. The reasoning goes as follows: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. Further, surely there are _some_ aspects of an institution's conduct that should _not_ be controlled by the government (e.g. whether a sports apparel store sells basketball jerseys or football jerseys). These examples show that the fact that the government provides a benefit over an entity does not tell us _how_ the government should regulate that entity. 
 4. Affirmative Action is racial discrimination. In response to this argument, some deny that affirmative action is a form of racial discrimination. I will not deny this as it is an obvious truth on any straightforward definition of "discrimination". The actual problem with this argument is that there are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. Surely, these are forms of racial discrimination that should not be banned.
 
-These are all bad reasons. None of these are sufficiently strong reasons to deny a university's general freedom to discriminate, i.e. none of the arguments here meet the "burden of proof" required to justify restricting this general freedom.
+These are all bad reasons. None of these are sufficiently strong reasons to deny a university's general freedom to discriminate. none of the arguments here meet the "burden of proof" required to justify restricting this general freedom.
 
 ### Arbitrariness
 
@@ -186,11 +186,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzM4MjA5NywzODA3OTIzOTEsLTkwOT
-IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
-LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
-EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
-LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
-U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
-Nl19
+eyJoaXN0b3J5IjpbOTEyMzI1MDU1LDM4MDc5MjM5MSwtOTA5Mj
+E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
+ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
+AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
+LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
+U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
+XX0=
 -->
