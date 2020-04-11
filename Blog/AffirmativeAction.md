@@ -67,7 +67,7 @@ Like my first argument, it seems to me that the first premise of the *Freedom Ar
 
 This first premise must be accepted for essentially any private corportation to feasibly operate. All employers discriminate between applicants on the basis of skill, knowledge, traits, etc. Universities also discriminate on the basis of academic achievement, intelligence, extra-curricular activities, athletic ability, etc. We need to be given strong reasons before we outlaw a particular form of discrimination, but we do not need strong reasons before we legally permit a particular form of discrimination. Again, I doubt that most people oppose this first premise, so I will not spend more time defending it. 
 
-The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. I will consider some possible reasons that challenge premise 2. In the end, I will argue that all such reasons fail. None of these reasons meet the "burden of proof" required to justify restricting a private universtiy's freedom to practice affirmative action. If I'm correct, this means Thus, I will argue, we ought to grant private universities the freedom to discriminate prospective students based on race due to the *Freedom Argument*.
+The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities' freedom to discriminate prospective students based on race. I will do so by considering a variety of reasons that I've seen which attempt to justify restricting a private university's freedom to practice affirmative action. In the end, I will argue that all such reasons fail. None of these reasons meet the "burden of proof" required to justify restricting a private universtiy's freedom to practice affirmative action. If I'm correct, this means premise 2 of my _ Thus, I will argue, we ought to grant private universities the freedom to discriminate prospective students based on race due to the *Freedom Argument*.
 
 ### Bad reasons
 
@@ -186,11 +186,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2NDYyMzIsMzgwNzkyMzkxLC05MD
-kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
-LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
-UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
-OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
-A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
-ODZdfQ==
+eyJoaXN0b3J5IjpbMjA2MzM4MjA5NywzODA3OTIzOTEsLTkwOT
+IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
+LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
+EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
+LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
+U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
+Nl19
 -->
