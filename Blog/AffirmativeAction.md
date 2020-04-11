@@ -18,15 +18,16 @@ There are strong objections to each of these arguments, but I will not be consid
 
 My first argument to defend affirmative action is based on an analogy with preferential treatment to prospective students from lower socioeconomic statuses (SES). The basic structure for this first argument is based on the following:
 
-1. We ought not oppose preferential treatment to low-SES students.
-2. If we ought not oppose preferential treatment to low-SES students, then we also ought not oppose preferential treatment to URMs.
-3. Therefore, we ought not oppose preferential treatment to URMs.
+1. We ought to support preferential treatment to low-SES students.
+2. If we ought to support preferential treatment to low-SES students, then we also ought to support preferential treatment to URMs.
+3. Therefore, we ought to support preferential treatment to URMs.
 
 I do not believe that a substantial defense of premise 1 is needed. The majority of people believe that universities should grant preferential treatment to low-SES students. A 2016 Gallup poll shows that [61% of Americans]([https://news.gallup.com/poll/193508/oppose-colleges-considering-race-admissions.aspx](https://news.gallup.com/poll/193508/oppose-colleges-considering-race-admissions.aspx)) believe that a student's economic circumstances be a factor in college admissions. Also, a 2018 [Boston-based poll]([https://dailyfreepress.com/2018/09/21/americans-favor-diversity-on-college-campuses-according-to-boston-based-poll/](https://dailyfreepress.com/2018/09/21/americans-favor-diversity-on-college-campuses-according-to-boston-based-poll/)) found that [83% of Americans]([https://www.wgbh.org/news/education/2018/09/16/wgbh-news-higher-education-poll-top-line-data](https://www.wgbh.org/news/education/2018/09/16/wgbh-news-higher-education-poll-top-line-data)) believe that colleges should consider whether a prospective student has overcome hardships such as poverty or health problems in admissions decisions. Because the majority of people already agree that we should support preferential treatment for students from low-SES backgrounds, I will not spend time defending premise 1. Instead, I will be assuming most people's intuitions are correct here: we ought to support preferential treatment to low-SES students.
 
 The controversial premise of the argument is premise 2. My argument for premise 2 will be as follows.
 
-1. If the justification to support preferential treatment to low-SES students also applies to URMs, then 
+1. If the justification to support preferential treatment to low-SES students also applies to URMs and if we ought to support preferential treatment to low-SES students, then we also ought to support preferential treatment to URMs.
+2. The justification to support preferential treatment
 
 In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So these people grant that universities *should* provide preferential treatment to disadvantaged students.  Now, the rationale to simultaneously support preferential treatment to low-SES students and oppose preferential treatment to URMs is based on the assumption that the disadvantage faced by URMs can be at least mostly eradicated by eradicating their disadvantage to their low-SES status. I will argue that this assumption is actually false. This undermines the rationale for treating low-SES and URMs differently in this regard. This suggests that premise 2 is true: if we ought not oppose preferential treatment to low-SES students because such students are disadvantaged, then we ought not oppose preferential treatment to URMs because such students are disadvantaged. Thus, since both premise 1 and premise 2 of the above argument are true, as I will argue, the conclusion of the argument follows: we ought not oppose preferential treatment to URMs because such students are disadvantaged.
 
@@ -163,11 +164,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDMyNjQyOSwzODA3OTIzOTEsLTkwOT
-IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
-LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
-EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
-LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
-U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
-Nl19
+eyJoaXN0b3J5IjpbLTIxMzMyNzk4NjksMzgwNzkyMzkxLC05MD
+kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
+LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
+UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
+OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
+A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
+ODZdfQ==
 -->
