@@ -82,7 +82,7 @@ If this still seems unintuitive, consider the fact that many universities alread
 
 In the previous section, I argued that the _Arbitrariness Argument_ fails because affirmative action is not arbitrary because the racial makeup of a university's campus is relevant to the university's economic goals. In actuality, I don't believe that arbitrariness matters at all. Even if race is a completely arbitrary characteristic with respect to a university, private universities should still be permitted to practice affirmative action. Why should a private institution not be permitted to discriminate on arbitrary grounds? After all, these institutions are (and should be) permitted to make all kinds of arbitrary decisions. For example, a sports apparel store decision to sell basketball versus football sportswear, a baker's decision to sell strawberry versus chocolate cake, a restuarant's decision to offer hamburgers versus tacos, etc. could very well be arbitrary decisions. Assuming these are all arbitrary decisions, should the government force the company to make a particular choice? Of course not.
 
-So what makes arbitrary decisions regarding _discrimination_ special? Why treat this differently than the countless other arbitrary decisions by a company that are permissible? Surely, it can't be because of societal disapproval since, as I mentioned above, society's current norms of approval and disapproval cannot constitute reasons to ban certain conduct. Instead, what makes discrimination special, I believe, is the fact that it can be the cause of the perpetual deprivation of disenfranchised minority populations. If there is rampant discrimination against a particular minor group, then this can leave individuals in that group without access to vital goods such as healthcare, education, occupation, housing, etc. In fact, I believe that our strong intuitions against discrimination (especially racial discrimination) are explained by an implicit association between discrimination and deprivation due to the history of minorities (especially Black people) in America. If not for the associat
+So what makes arbitrary decisions regarding _discrimination_ special? Why treat this differently than the countless other arbitrary decisions by a company that are permissible? Surely, it can't be because of societal disapproval since, as I mentioned above, society's current norms of approval and disapproval cannot constitute reasons to ban certain conduct. Instead, what makes discrimination special, I believe, is the fact that it can be the cause of the perpetual deprivation of disenfranchised minority populations. If there is rampant discrimination against a particular minor group, then this can leave individuals in that group without access to vital goods such as healthcare, education, occupation, housing, etc. In fact, I believe that our strong intuitions against discrimination (especially racial discrimination) are explained by an implicit association between discrimination and deprivation due to the troubled history of minorities (especially Black people) in America.  If not for the fact that discrimination can be a tool for deprivation, there would be no good reason to treat arbitrary discrimination any differently from any other arbitrary decision that companies make all the time.
 
 hus, we implicitly associate discrimination (which isn't inherently bad) with oppression/subjugation (which is inherently bad, as people's lives are destroyed). That is what makes arbitrariness and balancing versus exclusion relevant factors: in order for discrimination to actually ruin a group's lives, it must be arbitrary and it must be exclusionary. Otherwise, there's no way that it can be harmful. 
 
@@ -164,11 +164,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODU3MzIzLC0zNDgxMDIzNTQsNzQ1Nz
-gwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYx
-LC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMj
-A0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4
-LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mz
-c3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTg2NzM1ODk2MCwtMzQ4MTAyMzU0LDc0NT
+c4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2
+MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMT
+IwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2
+OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtOD
+M3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0MjAxLC0xNDk1MTE5
+Njk1XX0=
 -->
