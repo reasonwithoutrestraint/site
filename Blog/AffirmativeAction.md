@@ -80,9 +80,11 @@ If this still seems unintuitive, consider the fact that many universities alread
 
 ### Subjugation
 
+Why are these properties important? Why are arbitrariness and balancing versus exclusion relevant considerations that determine whether discrimination is bad? Well, we have to discuss why discrimination is ever bad. We cannot just assume that discrimination is bad sometimes without understanding *why*? In order for anything to be bad, it has to be considerably bad for someone somewhere. Now, note that there's nothing inherent to discrimination that implies that it is considerably bad for someone somewhere, i.e. their life would have to be relevantly damanged (I don't consider upset feelings as relevantly bad, because if that were the case then all discrimination would be bad). So what is it about discrimination that sometimes makes it significantly bad in the relevant manner? The answer has to be that discrimination has historically been used as a tool for racial oppression and subjugation, something that destroyed the lives of many minorities. Thus, we implicitly associate discrimination (which isn't inherently bad) with oppression/subjugation (which is inherently bad, as people's lives are destroyed). That is what makes arbitrariness and balancing versus exclusion relevant factors: in order for discrimination to actually ruin a group's lives, it must be arbitrary and it must be exclusionary. Otherwise, there's no way that it can be harmful. 
 
+Now, racial discrimination would definitely be deemed immoral by most people. But I contend that the intuitions of most people are wrong here. Such a school would *not* be immoral. The intuition that it is immoral can be explained by the deep connection we have between racial *discrimination* and racial *oppression*. We have an immediate disapproving reaction to racial discrimination in schools because this was used as a tool for racial oppression in the past. If we could magically disassociate racial discrimination from racial oppression, then I think our intuitions regarding race-based discrimination would be more in line with our intuitions regarding socially accepted forms of discrimination (e.g. sex-based discrimination at all-male/all-female schools, sexual/racial discrimination by casting directors, sexual balancing at night clubs).
 
-
+I think the laws enacted during the civil rights era chased morality in the sense that they corrected for the wrongs and damages resulting from governmental systematic racial oppression and they gave racial minorities a fair chance at integrating into society. Therefore, civil rights laws had a deeply moral motivation. However, it doesn't follow from this that all policies prohibited by these laws were themselves immoral. The reason it doesn't follow is that prohibiting some otherwise moral activities might be necessary to accomplish some broader moral goal. For example, I don't think hard drug usage or prostitution is inherently immoral, but outlawing them might be necessary to accomplish a broader moral goal - i.e. to prevent violence and harms that would inevitably occur when these acts are legal. Likewise, I would say racial discrimination by private companies is not inherently immoral, but outlawing them might have been necessary to accomplish a broader moral goal - i.e. to correct for systematic racial injustice and integrate racial minorities into society. 
 
 ## Conclusion
 
@@ -158,11 +160,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODEwMjM1NCw3NDU3ODAyOTEsLTgwNj
-Y2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYz
-OTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03Nz
-A2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4
-NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4NiwtNT
-M2ODg2NTkxLC04MDMxNDIwMSwtMTQ5NTExOTY5NSw1OTQ1MDMw
-MTNdfQ==
+eyJoaXN0b3J5IjpbNjg5NzM0NjAzLC0zNDgxMDIzNTQsNzQ1Nz
+gwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYx
+LC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMj
+A0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4
+LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mz
+c3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2
+OTVdfQ==
 -->
