@@ -124,12 +124,12 @@ This concludes my defense of affirmative action. Recall from my introduction tha
 
 Arguments in support of Affirmative Action
 
-* [Thomas Nagel (1981)](http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006)
-* [Thompson (1973)]([https://www.jstor.org/stable/pdf/2265014.pdf?seq=1](https://www.jstor.org/stable/pdf/2265014.pdf?seq=1))
+* Thomas Nagel (1981) - ["In defense of Affirmative Action"](http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006)
+* Judith Jarvis Thomson (1973) - ["Preferential Hiring"]([https://www.jstor.org/stable/pdf/2265014.pdf?seq=1](https://www.jstor.org/stable/pdf/2265014.pdf?seq=1))
 
 Arguments against Affirmative Action
 
-* Robert Simon (1974), "Preferential Hiring: A Reply to Judith Jarvis Thomson"[https://www.jstor.org/stable/2264983?seq=1](https://www.jstor.org/stable/2264983?seq=1)
+* Robert Simon (1974) - ["Preferential Hiring: A Reply to Judith Jarvis Thomson"](https://www.jstor.org/stable/2264983?seq=1)
 * 
 
 
@@ -199,11 +199,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ3MTk5MDYsLTc1Njk4NzkzOSwxMD
-cwNDgyNTkyLDEzNTg1NzMyNjUsLTEyMzQyOTIzNzEsNzcxNTA0
-NzIyLDM4MDc5MjM5MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwtMz
-Q4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODky
-NDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLT
-M3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYx
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ2OTg5MSwtNzU2OTg3OTM5LDEwNz
+A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
+MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
+gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
+OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
+c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
+MV19
 -->
