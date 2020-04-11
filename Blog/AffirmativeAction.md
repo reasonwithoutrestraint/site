@@ -87,7 +87,7 @@ This suggests that there isn't really anything inherently problematic about arbi
 
 ## Conclusion
 
-Let's summarize the points made here. I also considered some other arguments earlier in this section that I believe fail to meet this burden. The *Racial Discrimination Argument*, for example, is unsound because there are plenty of instances of discrimination based on race that ought not be forbidden. Deprivation, on the other hand, can justify restricting a private institution's general right to discriminate, but the students who are rejected from universities due to affirmative action do not 
+Let's summarize the points made here. First, I presented my _Freedom Argument_. Then I considered some straightforwardly bad arguments earlier in this section that I believe fail to meet this burden. The *Racial Discrimination Argument*, for example, is unsound because there are plenty of instances of discrimination based on race that ought not be forbidden. Deprivation, on the other hand, can justify restricting a private institution's general right to discriminate, but the students who are rejected from universities due to affirmative action do not undergo significant levels of deprivation.
 
 There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
 
@@ -159,11 +159,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODg4MTI2LC04NjQ1OTI5NTksLTM0OD
-EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
-LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
-YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
-LC03MjgyMjEzNjgsLTU2MDU1ODI4NCwtNTgzMjE2MzMxLC01OD
-QxNTQ5OTYsLTgzNzc3NzI4NiwtNTM2ODg2NTkxLC04MDMxNDIw
-MV19
+eyJoaXN0b3J5IjpbLTE0MTY0MzA2NjMsLTg2NDU5Mjk1OSwtMz
+Q4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODky
+NDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLT
+M3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYx
+NDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLT
+U4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1OTEsLTgwMzE0
+MjAxXX0=
 -->
