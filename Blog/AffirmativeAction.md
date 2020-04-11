@@ -89,7 +89,7 @@ Now someone might respond by saying that affirmative action ought to be opposed 
 3. Affirmative action involves discrimination based on the race of prospective students. 
 4. Therefore, affirmative action should be illegal.
 
-The *Arbitrariness Argument* seems intuitive. It explains why it seems that racial discrimination should almost always be forbidden. The reason is that racial discrimination is almost always arbitrary. Most jobs require you to apply manual labor or process information, which usually has nothing to do with race. But if we imagine cases where race _is_ a relevant characteristic (e.g. casting or movie directors), we see that racial discrimination ought to be permitted. This argument can also explain why discrimination seems morally wrong when it has nothing to do with race. For example, it can explain why it seems like a company should not be allowed to discriminate against candidates based on gender, assuming gender is an arbitrary feature with respect to the position.
+The *Arbitrariness Argument* seems intuitive. It explains why it seems that racial discrimination should almost always be illegal. The reason is that racial discrimination is almost always arbitrary. Most jobs require you to apply manual labor or process information, which usually has nothing to do with race. But if we imagine cases where race _is_ a relevant characteristic (e.g. casting or movie directors), we see that racial discrimination ought to be legal. This argument can also explain why discrimination seems so wrong when it has nothing to do with race. For example, it can explain why it seems wrong for a company to discriminate against a candidate based on, say, blood type, assuming blood type is an arbitrary feature with respect to the position.
 
 To address the *Arbitrariness Argument*, we must first clearly define what is meant by "arbitrary". Let us do so by considering the following scenario. Imagine an employer, Evan, must choose between two candidates for a job, Mark and Lewis. Mark is more qualified than Lewis. However, based on interviews with both candidates, Evan predicts that Lewis, while less qualified, will be considerably more pleasant to be around than Mark because Lewis has a more compatible personality. So Evan hires Lewis over Mark. I believe most people believe that this form of preferential treatment by Evan should be legal, so I will not spend any time defending Evan's right to make this decision. Instead, I will assume that most people's intuitions here are correct: the preferential treatment by Evan should *not* be illegal. The question is whether the preferential treatment by Evan is *arbitrary*. More specifically, the question is whether the pleasantness of Lewis is an arbitrary trait with respect to his position (using the definition of "arbitrary" as it is used in the *Arbitrariness Argument*). There are two possible answers: either Lewis's pleasantness *is* an arbitrary trait, or Lewis's pleasantness is *not* an arbitrary trait. Either answer, I will argue, implies that the *Arbitrariness Argument* is unsound.
 
@@ -186,11 +186,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM2NTIzMCwzODA3OTIzOTEsLTkwOT
-IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
-LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
-EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
-LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
-U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
-Nl19
+eyJoaXN0b3J5IjpbNDI2NDA0NDcxLDM4MDc5MjM5MSwtOTA5Mj
+E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
+ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
+AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
+LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
+U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
+XX0=
 -->
