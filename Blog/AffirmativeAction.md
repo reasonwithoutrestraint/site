@@ -26,9 +26,11 @@ I do not believe that a substantial defense of premise 1 is needed. The majority
 
 The controversial premise of the argument is premise 2. My argument for premise 2 will be as follows.
 
-1. If we ought to support preferential treatment to low-SES students and if the justification of this preferential treatment also applies to URMs, then we also ought to support preferential treatment to URMs.
-2. The justification of preferential treatment to low-SES also applies to URMs.
-3. Therefore, if we ought to support preferential treatment to low-SES students, then we also ought to support preferential treatment to URMs.
+* If we ought to support preferential treatment to low-SES students and if the justification of this preferential treatment also applies to URMs, then we also ought to support preferential treatment to URMs.
+* The justification of preferential treatment to low-SES also applies to URMs.
+* Therefore, if we ought to support preferential treatment to low-SES students, then we also ought to support preferential treatment to URMs.
+
+Again, I don't think the first premise here requires much support. It basically amounts to saying if we support preferential treatment to a group of people because of reasons X, then we 
 
 In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So these people grant that universities *should* provide preferential treatment to disadvantaged students.  Now, the rationale to simultaneously support preferential treatment to low-SES students and oppose preferential treatment to URMs is based on the assumption that the disadvantage faced by URMs can be at least mostly eradicated by eradicating their disadvantage to their low-SES status. I will argue that this assumption is actually false. This undermines the rationale for treating low-SES and URMs differently in this regard. This suggests that premise 2 is true: if we ought not oppose preferential treatment to low-SES students because such students are disadvantaged, then we ought not oppose preferential treatment to URMs because such students are disadvantaged. Thus, since both premise 1 and premise 2 of the above argument are true, as I will argue, the conclusion of the argument follows: we ought not oppose preferential treatment to URMs because such students are disadvantaged.
 
@@ -165,11 +167,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzA4NzM1LDM4MDc5MjM5MSwtOTA5Mj
-E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
-ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
-AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
-LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
-U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
-XX0=
+eyJoaXN0b3J5IjpbLTIwNDk4ODMwMTcsMzgwNzkyMzkxLC05MD
+kyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkx
+LC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
+UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
+OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
+A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
+ODZdfQ==
 -->
