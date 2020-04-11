@@ -46,6 +46,7 @@ This first premise must be accepted for essentially any private corportation to 
 
 ### Bad reasons
 
+To start, it may be useful to consider some obviously bad reasons to restrict a private university's ability to discriminate.
 * It's currently illegal
 * People offended
 * Society decided to not endorse these decisions
@@ -151,7 +152,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzE1Nzg2LC04MDY2NjM1NDUsLTg5Mj
+eyJoaXN0b3J5IjpbODUzMzgwOTI2LC04MDY2NjM1NDUsLTg5Mj
 Q4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0Mzcy
 MCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MT
 cyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMz
