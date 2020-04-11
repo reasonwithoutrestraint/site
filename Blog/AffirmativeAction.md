@@ -120,6 +120,19 @@ There are, of course, other arguments that could be provided to meet the burden 
 
 This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. If affirmative action ought to be opposed, it is not _because_ it's an unjust form of discrimination. However, affirmative action may very well be worth opposing for other reasons. For example, there is [controversy]([https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)) regarding whether URMs are actually harmed by affirmative action because of "mismatch theory", which is the idea that affirmative action beneficiaries are inserted into academic environments that teach "above" their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination.
 
+## Further Reading
+
+Arguments in support of Affirmative Action
+
+* Thomas Nagel (1981)
+* Thompson
+
+Arguments against Affirmative Action
+
+* 
+* 
+
+
 
 # Intel
 
@@ -186,11 +199,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDQ4MjU5MiwxMzU4NTczMjY1LC0xMj
-M0MjkyMzcxLDc3MTUwNDcyMiwzODA3OTIzOTEsLTkwOTIxNDgw
-LC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEsLTgwNj
-Y2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYz
-OTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03Nz
-A2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4
-NF19
+eyJoaXN0b3J5IjpbLTc1Njk4NzkzOSwxMDcwNDgyNTkyLDEzNT
+g1NzMyNjUsLTEyMzQyOTIzNzEsNzcxNTA0NzIyLDM4MDc5MjM5
+MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NT
+c4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2
+MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMT
+IwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2
+OF19
 -->
