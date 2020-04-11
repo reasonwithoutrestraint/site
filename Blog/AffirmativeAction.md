@@ -112,11 +112,11 @@ I actually agree with the importance of deprivation with regard to discriminatio
 
 Under this standard, it seems quite clear to me that affirmative action by private universities _should_ be permitted. The students who are rejected admissions into universities due to affirmative action almost certainly will not experience immense deprivation as a result. This is because most colleges are not very selective. In fact, [most colleges admit most of their applicants]([https://www.pewresearch.org/fact-tank/2019/04/09/a-majority-of-u-s-colleges-admit-most-students-who-apply/](https://www.pewresearch.org/fact-tank/2019/04/09/a-majority-of-u-s-colleges-admit-most-students-who-apply/)). So the students who are rejected admissions due to affirmative action are primarily students who were rejected by fairly elite universities. These students - i.e. those who _would_ have been accepted into an elite university if not for affirmative action - overwhelmingly come from upper and upper middle class households and usually remain in those economic circumstances during adulthood. These rejected students tend to resort to attending either other elite universities or slightly less selective universities. If there is any systemic, aggregate "harm" to these students, it is relatively minor, e.g. instead of rising to the _upper upper_ middle class, they "merely" rise to the _upper_ middle class. This "harm" does not meet the "burden of proof" demanded by the _Freedom Argument_. The fact that fairly wealthy students are made slightly less wealthy due to affirmative action is not sufficiently strong reason to restrict a private university's general freedom to discriminate.
 
-Allow me to recap the points made in this argument. First, I presented my _Freedom Argument_ in defense of affirmative action, which maintains that a "burden of proof" that must be met in order to justify restricting a private institutions freedom to discriminate as they please. We need to be provided with sufficiently strong reason to deprive a private entity of the right to freely discriminate. Next, I considered some straightforwardly bad arguments that fail to meet this burden, e.g. arguments based on public opinion or arguments that prohibit _all_ instances of racial discrimination. Then I considered the _Arbitrariness Argument_, but concluded that it is unsound and therefore fails to meet the burden of proof.
+#### The burden is not met
 
-for example, is unsound because there are plenty of instances of discrimination based on race that ought not be forbidden. Deprivation, on the other hand, can justify restricting a private institution's general right to discriminate, but the students who are rejected from universities due to affirmative action do not undergo significant levels of deprivation.
+Allow me to recap the points made in this argument. First, I presented my _Freedom Argument_ in defense of affirmative action, which maintains that a "burden of proof" that must be met in order to justify restricting a private institutions freedom to discriminate as they please. We need to be provided with sufficiently strong reason to deprive a private entity of the right to freely discriminate. Next, I considered some straightforwardly bad arguments that fail to meet this burden, e.g. arguments based on public opinion or arguments that prohibit _all_ instances of racial discrimination. Then I considered the _Arbitrariness Argument_, but concluded that it is unsound and therefore fails to meet the burden of proof. Lastly, I admited that the systemic deprivation caused to a particular group of people _does_ meet the burden presented by the _Freedom Argument_, but countered that affirmative action does not result in such deprivation. Thus, none of the arguments considered thus far provide sufficiently strong reason to deprive private universities the right to practice affirmative action. 
 
-There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
+Of course, someone could imagine _other_ arguments that attempt to present sufficiently strong reason to  Thus, we should grant private universities universities the legal freedom to practice affirmative action.
 
 ## Conclusion
 
@@ -209,11 +209,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1MjQyMTcsLTc1Njk4NzkzOSwxMD
-cwNDgyNTkyLDEzNTg1NzMyNjUsLTEyMzQyOTIzNzEsNzcxNTA0
-NzIyLDM4MDc5MjM5MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwtMz
-Q4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODky
-NDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLT
-M3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYx
-NDFdfQ==
+eyJoaXN0b3J5IjpbMjA0OTU4NTE1MiwtNzU2OTg3OTM5LDEwNz
+A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
+MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
+gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
+OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
+c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
+MV19
 -->
