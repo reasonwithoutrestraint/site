@@ -80,7 +80,7 @@ There could be other alternative explanations for why Lewis's pleasantness is no
 There are, of course, other arguments that could be provided to meet the burden presented in the first premise of the *Freedom Argument*. However, I believe I have considered the most common and plausible arguments for why private universities ought not be granted the freedom to practice affirmative action. I have argued that all such arguments fail. If that's correct, then private universities ought to be granted the freedom to practice affirmative action, at least until we are provided with a new argument that provides sufficiently strong reason to restrict this freedom.
 
 This concludes my defense of affirmative action. Recall from my introduction that this was a "defense" in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. However, affirmative action may very well be opposed for other reasons. For example, 
-AA may be rejected for other reasons.
+AA may be rejected for other reasons. Test
 * hurts minorities
 * builds resentment
 
@@ -150,11 +150,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNj
-UxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0
-OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01Nj
-A1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3Nzcy
-ODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2OTUsNT
-k0NTAzMDEzLDE2NTczOTY1MzYsMTQ4NDAxNDM1OSwtMTUzMjg3
-NTAyOV19
+eyJoaXN0b3J5IjpbLTE2NTE0Nzk5NTksLTg5MjQ4OTI0OSwtNT
+MxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQz
+MTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNz
+I4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0
+OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQyMDEsLT
+E0OTUxMTk2OTUsNTk0NTAzMDEzLDE2NTczOTY1MzYsMTQ4NDAx
+NDM1OV19
 -->
