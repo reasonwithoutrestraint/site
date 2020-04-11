@@ -133,7 +133,7 @@ Arguments against Affirmative Action
 
 * Robert Simon (1974) - ["Preferential Hiring: A Reply to Judith Jarvis Thomson"](https://www.jstor.org/stable/2264983?seq=1)
 * Terry Eastland (1992) - ["The Case Against Affirmative Action"](https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1827&context=wmlr))
-
+*  Louis P. Pojman (1998) - ["The Case Against Affirmative Action"](https://pdfs.semanticscholar.org/20cf/6e192eab2da0f267e90dd1fb24b694c6191d.pdf])
 
 
 # Intel
@@ -201,7 +201,7 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzMzNjQzNiwtNzU2OTg3OTM5LDEwNz
+eyJoaXN0b3J5IjpbMjA4OTIyMjU4OCwtNzU2OTg3OTM5LDEwNz
 A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
 MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
 gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
