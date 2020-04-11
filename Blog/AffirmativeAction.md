@@ -53,7 +53,7 @@ To start, it may be useful to consider some obviously bad reasons to justify out
 3. Universities benefit heavily from the government. The reasoning goes as follows: private universities (and other private institutions) benefit from the government because in the form of government-subsidized police protection, military protection, economic regulations, etc. all of which are necessary for such institutions to prosper. Therefore, the government is permitted to ban private institutions from practicing affirmative action (or discriminating against any of the "protected classes" that the government decides). This is a really bad argument. A similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private _individuals_ benefit from the government just as much as private companies. Further, surely there are _some_ aspects of an institution's conduct that should _not_ be controlled by the government (e.g. whether a sports apparel store sells basketball jerseys or football jerseys). These examples show that the fact that the government provides a benefit over an entity does not tell us _how_ the government should regulate that entity. 
 5. Affirmative Action is racial discrimination. In response to this argument, some deny that affirmative action is a form of racial discrimination. I will not deny this as it is an obvious truth on any straightforward definition of "discrimination". The actual problem with this argument is that there are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and plays constantly discriminate prospective actors and actresses constantly based on race. Surely, these are forms of racial discrimination that should not be banned.
 
-### Arbitrary discrimination
+### Arbitrariness
 
 Now someone might respond by saying that affirmative action ought to be opposed (but not racial discrimination by casting directors) because race is an _arbitrary_ feature with respect to university admissions (but it is a _relevant_ feature with respect to movie casting). Racial discrimination by casting directors is relevant because the race of the actors and actresses has a direct influence on the product. On the other hand, one might argue, private universities are only trying to sell a quality education, and the racial makeup of a campus's student body has no direct influence on the quality of the education of its students. Call this the *Arbitrariness Argument* against affirmative action. The argument can be put roughly as follows. (a) Race is an arbitrary trait of prospective university students. (b) All instances of discrimination based on arbitrary traits should be forbidden. &#40;c) Affirmative action is discrimination based on the race of prospective. (d) Therefore, affirmative action should be forbidden.
 
@@ -154,11 +154,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjExNzcwMiwtODY0NTkyOTU5LC0zND
-gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
-OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
-c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
-MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNT
-g0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5MSwtODAzMTQy
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTkwOTIxNDgwLC04NjQ1OTI5NTksLTM0OD
+EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
+LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
+YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
+LC03MjgyMjEzNjgsLTU2MDU1ODI4NCwtNTgzMjE2MzMxLC01OD
+QxNTQ5OTYsLTgzNzc3NzI4NiwtNTM2ODg2NTkxLC04MDMxNDIw
+MV19
 -->
