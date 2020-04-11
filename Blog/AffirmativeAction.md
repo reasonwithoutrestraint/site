@@ -74,13 +74,15 @@ An alternative explanation for why Lewis's pleasantness is not an arbitrary trai
 
 However, if we accept this explanation, we should not consider race to be an arbitrary trait of prospective university students. The reason is that the racial makeup of a university's campus *does* advance the economic interests of the university. Private universities don't merely sell libraries and lectures. They also aim to offer a college campus of a certain kind that is appealing to a certain market of prospective students. For example, universities usually promote a racially diverse campus to prospective students. In other words, students are not just the *consumers* of a university; they also play a direct role in creating the _the product_ (in the same way that actors and actresses are related to movies and plays). Thus, the race of prospective students *does* advance the economic interests of (most) private universities, since most private universities wish to sell a college campus with a certain racial makeup to prospective students. Thus, if we assume that a trait is not arbitrary if it advances the economic interests of a company, then *race* is not an arbitrary trait of prospective university students. This implies that premise (a) of the *Arbitrariness Argument* is false, rendering the argument unsound. 
 
-There could be other alternative explanations for why Lewis's pleasantness is not an arbitrary trait. However, it seems to me that the two explanations that I have considered - that no trait is arbirtary if it is desired by an employer and that no trait is arbirtary if it advances the economic interests of a company - are the most plausible explanations. If that's right, then, on any plausible explanation for why Lewis's pleasantness is not an arbitrary trait, the *Arbitrariness Argument* would be unsound, since premise (a) would be false (as I've argued earlier). On the other hand, if Lewis's pleasantness *is* an arbitrary trait, then the *Arbitrariness Argument* would also be unsound, since premise (b) would be false (as I've argued earlier). Thus, we should conclude that the *Arbitrariness Argument* is unsound, since it has at least one false premise (a or b). So the *Arbitrariness Argument* fails to meet the burden presented by the first premise of the *Freedom Argument*.
+There could be other alternative explanations for why Lewis's pleasantness is not an arbitrary trait. However, it seems to me that the two explanations that I have considered - that no trait is arbirtary if it is desired by an employer and that no trait is arbirtary if it advances the economic interests of a company - are the most plausible explanations. If that's right, then, on any plausible explanation for why Lewis's pleasantness is not an arbitrary trait, the *Arbitrariness Argument* would be unsound, since premise (a) would be false (as I've argued earlier). On the other hand, if Lewis's pleasantness *is* an arbitrary trait, then the *Arbitrariness Argument* would also be unsound, since premise (b) would be false (as I've argued earlier). Thus, we should conclude that the *Arbitrariness Argument* is unsound, since it has at least one false premise (a or b). 
+
+If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit that sex-based discrimination from these colleges is immoral. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell; thus, sex-based discrimination would not be arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
 
 ### Subjugation
 
 
 
-If this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Most do not intuit that sex-based discrimination from these colleges is immoral. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell; thus, sex-based discrimination would not be arbitrary. No doubt there are also colleges out there that perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female on campus. People don’t intuit that sex-based discrimination from such universities is morally wrong (I would argue) because it’s not  _arbitrary_  discrimination. I see no reason to treat race-based discrimination any differently.
+
 
 ## Conclusion
 
@@ -156,11 +158,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODU3MTEyNiw3NDU3ODAyOTEsLTgwNj
-Y2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYz
-OTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03Nz
-A2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MDU1ODI4
-NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4NiwtNT
-M2ODg2NTkxLC04MDMxNDIwMSwtMTQ5NTExOTY5NSw1OTQ1MDMw
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjY2MTQzMzEsNzQ1NzgwMjkxLC04MD
+Y2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2
+Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNz
+cwNjU1NDkzLDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgy
+ODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLT
+UzNjg4NjU5MSwtODAzMTQyMDEsLTE0OTUxMTk2OTUsNTk0NTAz
+MDEzXX0=
 -->
