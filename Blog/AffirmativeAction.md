@@ -116,7 +116,7 @@ Under this standard, it seems quite clear to me that affirmative action by priva
 
 Allow me to recap the points made in this argument. First, I presented my _Freedom Argument_ in defense of affirmative action, which maintains that a "burden of proof" that must be met in order to justify restricting a private institutions freedom to discriminate as they please. We need to be provided with sufficiently strong reason to deprive a private entity of the right to freely discriminate. Next, I considered some straightforwardly bad arguments that fail to meet this burden, e.g. arguments based on public opinion or arguments that prohibit _all_ instances of racial discrimination. Then I considered the _Arbitrariness Argument_, but concluded that it is unsound and therefore fails to meet the burden of proof. Lastly, I admited that the systemic deprivation caused to a particular group of people _does_ meet the burden presented by the _Freedom Argument_, but countered that affirmative action does not result in such deprivation. Thus, none of the arguments considered thus far provide sufficiently strong reason to deprive private universities the right to practice affirmative action. 
 
-Of course, someone could imagine _other_ arguments that attempt to present sufficiently strong reason to restrict a private university's legal freedom to discriminate. I cannot currently prove that all such future arguments will fail. However, I believe that the arguments that I considered here are the strongest arguments against the legalization of affirmative action (at least to my knowledge). So, while I cannot prove that all future arguments against affirmative action fail, I think the failure of the strongest arguments presented thus far provides strong inductive argument that any future arguments will likewise fail. Regardless, until we are presented with such arguments and  Thus, we should grant private universities universities the legal freedom to practice affirmative action.
+Of course, someone could imagine _other_ arguments that attempt to present sufficiently strong reason to restrict a private university's legal freedom to discriminate. I cannot currently prove that all such future arguments will fail. However, I believe that the arguments that I considered here are the strongest arguments against the legalization of affirmative action (at least to my knowledge). So, while I cannot prove that all future arguments against affirmative action fail, I think the failure of the strongest arguments presented thus far provides strong inductive argument that any future arguments will likewise fail. Regardless, until we are presented with such arguments and we are shown that they provide sufficiently strong reason to outlaw affirmative action, private universities should be legally permitted to practice affirmative action.
 
 ## Conclusion
 
@@ -209,11 +209,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNzY5NjA0LC03NTY5ODc5MzksMTA3MD
-Q4MjU5MiwxMzU4NTczMjY1LC0xMjM0MjkyMzcxLDc3MTUwNDcy
-MiwzODA3OTIzOTEsLTkwOTIxNDgwLC04NjQ1OTI5NTksLTM0OD
-EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
-LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
-YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
-XX0=
+eyJoaXN0b3J5IjpbLTE5MTE1ODgzODUsLTc1Njk4NzkzOSwxMD
+cwNDgyNTkyLDEzNTg1NzMyNjUsLTEyMzQyOTIzNzEsNzcxNTA0
+NzIyLDM4MDc5MjM5MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwtMz
+Q4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODky
+NDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLT
+M3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYx
+NDFdfQ==
 -->
