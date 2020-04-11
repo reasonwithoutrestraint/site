@@ -36,7 +36,7 @@ It seems to me that the justification of preferential treatment to low-SES stude
 
 Now, let's evaluate the assumption that the assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. First, we should ask ourselves what evidence exists for the claim that low-SES students are disadvantaged in the first place? I mentioned factors like school quality, low income, single parenthood, violent neighborhoods, etc. But why are these characteristics instances of _disadvantage_? Why not say that wealthier children are disadvantaged because they don't get an opportunity to develop the "perseverance" and "grit" that comes from being poor? Why not say the wealthy are disadvantaged? Now, it becomes an empirical question whether low-SES or high-SES students are disadvantaged. It seems to me that the only good empirical evidence that low-SES students are disadvantaged is the statistical fact that these students tend to score poorly according to traditional admission standards by universities. For example, the fact that low-SES students tend to have poor SAT scores is evidence that these students are relevantly disadvantaged. On the other hand, while there may be some merit to the idea that high-SES students lack "grit" or "perseverance", we know that these students are not disadvantaged _with respect to college admissions_ because they score relatively well on admissions standards. So the empirical evidence for whether a group is disadvantaged reduces to how well that group performs according to traditional admissions standards.
 
-If that is correct, then, in order to determine whether the disadvantage faced by URMs is mostly explained by their low-SES status, we should determine whether URMs tend to perform worse according to traditional admission standards after controlling for SES. It turns out that this is not the case. Consider the following data points. 
+Recall that the current goal is to determine whether the disadvantage faced by URMs is mostly explained by their low-SES status. Then, in order accomplish this goal, we should determine whether URMs tend to perform worse according to traditional admission standards after controlling for SES.  Consider the following data points. 
 
 * URMs perform significantly worse on standardized test scores *even after* controlling for SES. For example, most of the Black-White gap in SAT scores remains even after controlling for income. In fact, in 2005, the Black-White gap in SAT scores was 204 points, but the mean SAT score for Whites from families earning less than $10,000 was 129 points higher than the mean SAT score for *all* Blacks [[sourcel](http://www.jbhe.com/features/49_college_admissions-test.html)]. 
 * Studies find that racial disparities in other measures of cognitive ability are not eliminated after controlling for SES. For example, in _The Black-White Test Score Gap_, [Jencks and Phillips (1998)]([https://www.brookings.edu/wp-content/uploads/2013/01/9780815746096_chapter1.pdf](https://www.brookings.edu/wp-content/uploads/2013/01/9780815746096_chapter1.pdf)) measured the scores of Black and White children taking the Peabody Picture Vocabulary Test (PPVT). The Black children scored about 16 points lower than the White children on these tests. However, the authors report that "a two-year reduction in the black-white education gap among mothers would cut the PPVT gap by about a point" (page 22), "eliminating black-white income differences would cut the PPVT gap by less than 1 point" (page 23) and "children who have grown up in an intact family score no higher on the PPVT than children from single-parent families" (page 23). 
@@ -167,11 +167,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNTU5OTU3LDM4MDc5MjM5MSwtOTA5Mj
-E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
-ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
-AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
-LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
-U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
-XX0=
+eyJoaXN0b3J5IjpbMTI1NTE2OTczMiwzODA3OTIzOTEsLTkwOT
+IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
+LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
+EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
+LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
+U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
+Nl19
 -->
