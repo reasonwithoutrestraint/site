@@ -32,7 +32,7 @@ The controversial premise of the argument is premise 2. My argument for premise 
 
 Again, I don't think the first premise here requires much support. It basically amounts to saying we should treat like cases alike. If two behaviors are equally justified, and if we ought to perform one of the behaviors, then we also ought to perform the other. I very much doubt anyone rejects this. So the conversy is around the second premise: the justification of preferential treatment to low-SES also applies to URMs. To evaluate this claim, first we must become determine what is the justification for preferential treatment to low-SES students. 
 
-It seems to me that the justification of preferential treatment to low-SES students is the fact that such students are _disadvantaged_. In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior method to account for a student's disadvantage. Now, the question is whether URMs are also disadvantaged. It seems quite clear to me that they are, and I doubt anyone would seriously deny this (assuming they also grant that low-SES students are disadvantaged). Whatever metrics one uses to indicate that low-SES students are disadvantaged (e.g. school quality, single parent households, income, etc.) apply equally well to URMs. However, some people deny that this justifies preferential treatment based on race in a way that is comparable to SES. The rationale for treating race and SES differently is an assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. I will argue that this assumption is actually false, undermining the rationale for treating SES and race differently. 
+It seems to me that the justification of preferential treatment to low-SES students is the fact that such students are _disadvantaged_. In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior method to account for a student's disadvantage. Now, the question is whether URMs are also disadvantaged. It seems quite clear to me that they are, and I doubt anyone would seriously deny this (assuming they also grant that low-SES students are disadvantaged). Whatever metrics one uses to indicate that low-SES students are disadvantaged (e.g. school quality, single parent households, income, etc.) apply equally well to URMs. However, some people deny that this justifies preferential treatment based on race in a way that is comparable to SES. The only good rationale for treating race and SES differently is an assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. I will argue that this assumption is actually false, undermining the rationale for treating SES and race differently. If that's right, then there would be no good rationale for treating race and SES differently. This would show that premise 2 of my argument is true: if we ought to support preferential treatment based on SES, then we also ought to support preferential treatment based on race.
 
 This suggests that premise 2 is true: if we ought not oppose preferential treatment to low-SES students because such students are disadvantaged, then we ought not oppose preferential treatment to URMs because such students are disadvantaged. Thus, since both premise 1 and premise 2 of the above argument are true, as I will argue, the conclusion of the argument follows: we ought not oppose preferential treatment to URMs because such students are disadvantaged.
 
@@ -169,11 +169,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjg5OTM4OCwzODA3OTIzOTEsLTkwOT
-IxNDgwLC04NjQ1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEs
-LTgwNjY2MzU0NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NT
-EwMDYzOTksMTAyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4
-LC03NzA2NTU0OTMsOTUxNzI2MTQxLC03MjgyMjEzNjgsLTU2MD
-U1ODI4NCwtNTgzMjE2MzMxLC01ODQxNTQ5OTYsLTgzNzc3NzI4
-Nl19
+eyJoaXN0b3J5IjpbNjA3NzEzNDMyLDM4MDc5MjM5MSwtOTA5Mj
+E0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwt
+ODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MT
+AwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgs
+LTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNT
+U4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2
+XX0=
 -->
