@@ -19,8 +19,8 @@ There are strong objections to each of these arguments, but I will not be consid
 My first argument to defend affirmative action is based on an analogy with preferential treatment to prospective students from lower socioeconomic statuses (SES). The basic structure for this first argument is based on the following:
 
 1. We ought not oppose preferential treatment to low-SES students.
-2. If the rationale for supporting preferential treatment to low-SES students because such students are disadvantaged, then we ought not oppose preferential treatment to URMs because such students are disadvantaged.
-3. Therefore, we ought not oppose preferential treatment to URMs because such students are disadvantaged.
+2. If we ought not oppose preferential treatment to low-SES students, then we also ought not oppose preferential treatment to URMs.
+3. Therefore, we ought not oppose preferential treatment to URMs.
 
 I do not believe that a substantial defense of premise 1 is needed. The majority of people believe that universities are morally permitted to grant preferential treatment to low-SES students. In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior alternative to race-based preferential treatment. So these people grant that universities *should* provide preferential treatment to disadvantaged students. I will be assuming most people's intuitions are correct here regarding premise 1: we ought not oppose preferential treatment to low-SES students. Now, the rationale to simultaneously support preferential treatment to low-SES students and oppose preferential treatment to URMs is based on the assumption that the disadvantage faced by URMs can be at least mostly eradicated by eradicating their disadvantage to their low-SES status. I will argue that this assumption is actually false. This undermines the rationale for treating low-SES and URMs differently in this regard. This suggests that premise 2 is true: if we ought not oppose preferential treatment to low-SES students because such students are disadvantaged, then we ought not oppose preferential treatment to URMs because such students are disadvantaged. Thus, since both premise 1 and premise 2 of the above argument are true, as I will argue, the conclusion of the argument follows: we ought not oppose preferential treatment to URMs because such students are disadvantaged.
 
@@ -157,11 +157,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTk4OTA1OCwtOTA5MjE0ODAsLTg2ND
-U5Mjk1OSwtMzQ4MTAyMzU0LDc0NTc4MDI5MSwtODA2NjYzNTQ1
-LC04OTI0ODkyNDksLTUzMTEzNTY2MSwtMTY1MTAwNjM5OSwxMD
-IzNDM3MjAsLTM3NjI0MzE5LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5
-Myw5NTE3MjYxNDEsLTcyODIyMTM2OCwtNTYwNTU4Mjg0LC01OD
-MyMTYzMzEsLTU4NDE1NDk5NiwtODM3Nzc3Mjg2LC01MzY4ODY1
-OTFdfQ==
+eyJoaXN0b3J5IjpbMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NT
+kyOTU5LC0zNDgxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUs
+LTg5MjQ4OTI0OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMj
+M0MzcyMCwtMzc2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkz
+LDk1MTcyNjE0MSwtNzI4MjIxMzY4LC01NjA1NTgyODQsLTU4Mz
+IxNjMzMSwtNTg0MTU0OTk2LC04Mzc3NzcyODYsLTUzNjg4NjU5
+MV19
 -->
