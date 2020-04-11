@@ -124,7 +124,9 @@ This concludes my defense of affirmative action. Recall from my introduction tha
 
 General Overview
 
-* Affirmative Action
+* Robert Fullinwider (2018) - ["Affirmative Action"]([https://plato.stanford.edu/entries/affirmative-action/](https://plato.stanford.edu/entries/affirmative-action/)) _Stanford Encyclopedia of Philosophy_
+* John Hasnas (2002) - ["Equal Opportunity, Affirmative Action, and the Anti-Discrimination Principle: The Philosophical Basis for the Legal Prohibition of Discrimination"](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3857&context=flr)
+* 
 
 Arguments in support of Affirmative Action
 
@@ -205,11 +207,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTY3Nzg4LC03NTY5ODc5MzksMTA3MD
-Q4MjU5MiwxMzU4NTczMjY1LC0xMjM0MjkyMzcxLDc3MTUwNDcy
-MiwzODA3OTIzOTEsLTkwOTIxNDgwLC04NjQ1OTI5NTksLTM0OD
-EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
-LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
-YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
-XX0=
+eyJoaXN0b3J5IjpbMTA3NjM3MDI3NSwtNzU2OTg3OTM5LDEwNz
+A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
+MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
+gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
+OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
+c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
+MV19
 -->
