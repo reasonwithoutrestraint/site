@@ -126,6 +126,7 @@ Arguments in support of Affirmative Action
 
 * Judith Jarvis Thomson (1973) - ["Preferential Hiring"]([https://www.jstor.org/stable/pdf/2265014.pdf?seq=1](https://www.jstor.org/stable/pdf/2265014.pdf?seq=1))
 * Thomas Nagel (1981) - ["A defense of Affirmative Action"](http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006)
+* William G. Tierney (1997) - "### ["The Parameters of Affirmative Action: Equity and Excellence in the Academy"](https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf)"
 * Beauchamp (1998) - ["In defense of Affirmative Action"](https://scholar.google.com/scholar?cluster=8304057655993507338&hl=en&as_sdt=0,48)
 
 Arguments against Affirmative Action
@@ -200,11 +201,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTY3ODA5MiwtNzU2OTg3OTM5LDEwNz
-A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
-MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
-gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
-OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
-c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
-MV19
+eyJoaXN0b3J5IjpbOTU2ODExNTg2LC03NTY5ODc5MzksMTA3MD
+Q4MjU5MiwxMzU4NTczMjY1LC0xMjM0MjkyMzcxLDc3MTUwNDcy
+MiwzODA3OTIzOTEsLTkwOTIxNDgwLC04NjQ1OTI5NTksLTM0OD
+EwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0NSwtODkyNDg5MjQ5
+LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMTAyMzQzNzIwLC0zNz
+YyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0OTMsOTUxNzI2MTQx
+XX0=
 -->
