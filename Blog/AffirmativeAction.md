@@ -6,7 +6,7 @@
 
 # A defense of Affirmative Action
 
-Thomas Nagel distinguishes between two forms of affirmative action. "Weak" affirmative action refers to "to special efforts to ensure equal opportunity for members of groups that had been subject to discrimination". This can include public advertisement of positions to be filled, active recruitment of qualified applicants from the formerly excluded groups, and special training programs to help them meet the standards for admission or appointment. "Strong" affirmative action refers to "some degree of definite preference for members of these groups in determining access to positions from which they were formerly excluded." The "weak" vs "strong" distinction has also been referred to as the "minimalist" vs "maximalist" distinction (Beauchamp) or the "procedural" vs "preferential" distinction. As Nagel and Beauchamp note, most people agree that "weak" or "procedural" affirmative action is justified (and perhaps even morally obligatory). However, there is significant controversy regarding "strong" or "preferential" forms of affirmative action. In this post, I will defend "strong or "preferential" affirmative action. Whenever I refer to "affirmative action" for the rest of this post, it will always be in reference to this strong or preferential form.
+Thomas Nagel distinguishes between [two forms of affirmative action]([http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006](http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006)). "Weak" affirmative action refers to "to special efforts to ensure equal opportunity for members of groups that had been subject to discrimination". This can include public advertisement of positions to be filled, active recruitment of qualified applicants from the formerly excluded groups, and special training programs to help them meet the standards for admission or appointment. "Strong" affirmative action refers to "some degree of definite preference for members of these groups in determining access to positions from which they were formerly excluded." The "weak" vs "strong" distinction has also been referred to as the "minimalist" vs "maximalist" distinction (Beauchamp) or the "procedural" vs "preferential" distinction. As Nagel and Beauchamp note, most people agree that "weak" or "procedural" affirmative action is justified (and perhaps even morally obligatory). However, there is significant controversy regarding "strong" or "preferential" forms of affirmative action. In this post, I will defend "strong or "preferential" affirmative action. Whenever I refer to "affirmative action" for the rest of this post, it will always be in reference to this strong or preferential form.
 
 A few clarifications are in order before proceeding. 
 * Firstly, my goal is to defend affirmative action as practiced by the admissions officers of colleges and universities specifically (as opposed to employers and other organizations). 
@@ -188,11 +188,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTczODA4Myw3NzE1MDQ3MjIsMzgwNz
-kyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zNDgxMDIzNTQs
-NzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0OSwtNTMxMT
-M1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMzc2MjQzMTks
-MjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0MSwtNzI4Mj
-IxMzY4LC01NjA1NTgyODQsLTU4MzIxNjMzMSwtNTg0MTU0OTk2
-XX0=
+eyJoaXN0b3J5IjpbLTEyMzQyOTIzNzEsNzcxNTA0NzIyLDM4MD
+c5MjM5MSwtOTA5MjE0ODAsLTg2NDU5Mjk1OSwtMzQ4MTAyMzU0
+LDc0NTc4MDI5MSwtODA2NjYzNTQ1LC04OTI0ODkyNDksLTUzMT
+EzNTY2MSwtMTY1MTAwNjM5OSwxMDIzNDM3MjAsLTM3NjI0MzE5
+LDIwMTIwNDQ5NDgsLTc3MDY1NTQ5Myw5NTE3MjYxNDEsLTcyOD
+IyMTM2OCwtNTYwNTU4Mjg0LC01ODMyMTYzMzEsLTU4NDE1NDk5
+Nl19
 -->
