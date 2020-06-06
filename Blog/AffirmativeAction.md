@@ -201,7 +201,7 @@ TBD
 
 The problem *with certain implementations of affirmative action* (this qualifier is important) is that it leads to *under*qualified students. This is a problem because admitting underqualified applicants actually hurts the students that it tries to help. Admitting students who don't have the qualifications to succeed is setting them up for failure, and we should not be setting students up for failure. For example, [here's an interview](https://www.youtube.com/watch?v=VVvnTByzTmA) where economist Thomas Sowell shares that the black students at MIT were in the top 10% of the country in terms of mathematics, but they were in the bottom 10% at MIT. The result was that many were on academic probation and one-fourth never graduated. That's absurd. Students who would have otherwise excelled in their environment were struggling just to pass. This is not helping anyone.
 
-For a somewhat more modern example, look at [Harvard University](http://www.foxnews.com/us/2014/11/18/rejected-asian-students-sue-harvard-over-admissions-that-favor-other-minorities.html). The 2009 study cited notes that "the average Asian American applicant needed a much higher 1460 SAT score to be admitted, a white student with similar GPA and other qualifications only needed a score of 1320, while blacks needed 1010 and Hispanics 1190." Combining that with [these percentile charts](http://www.collegeboard.com/prod_downloads/about/news_info/cbsenior/yr2005/02_v&m_composite_percentile_ranks_0506.pdf), Asians were in the 98th percentile, Whites were in the 92nd percentile, Hispanics were in the 77th percentile, and Blacks were in the 48th percentile. These are huge differences and it would be naive to assume that this was the best environment for the underrepresented students to thrive academically. 
+For a somewhat more modern example, look at [Harvard University](http://www.foxnews.com/us/2014/11/18/rejected-asian-students-sue-harvard-over-admissions-that-favor-other-minorities.html). The 2009 study cited notes that "the average Asian American applicant needed a much higher 1460 SAT score to be admitted, a white student with similar GPA and other qualifications only needed a score of 1320, while blacks needed 1010 and Hispanics 1190." Combining that with [these percentile charts](http://www.collegeboard.com/prod_downloads/about/news_info/cbsenior/yr2005/02_v&m_composite_percentile_ranks_0506.pdf), Asians were in the 97th percentile, Whites were in the 88th percentile, Hispanics were in the 73rd percentile, and Blacks were in the 42nd percentile. These are huge differences and it would be naive to assume that this was the best environment for the underrepresented students to thrive academically. 
 
 If a kid from a disadvantaged background is in the 80th percentile of students, then the most *effective* way for this kid to succeed is to attend an institution that teaches to kids roughly in the 80th percentile. Sending him to an institution that teaches to, say, the 99th percentile will increase the probability that he will switch to a "soft" major and/or drop out. That puts the kid in an even *more* disadvantaged position, all in the ironic pursuit of equality. You might think that academics are not the only valuable attribute of college applicants, and you might be right. But it must be granted that there is a *base threshold* of college readiness that all students should have to meet before being accepted (you seem to grant this in your first paragraph). No doubt this threshold varies from college to college depending on the abilities of each school's student body. Accepting students who do not meet this threshold hurts them more than it helps them. My central claim is that affirmative action is wrong at least insofar as it allows for the acceptance of students that do not meet this threshold of college readiness.
 
@@ -209,11 +209,11 @@ It is not sufficient that the *intentions* of affirmative action are morally jus
 
 You might say that certain groups tend to experience pre-university disadvantages that unfairly reduce their performance on traditional measurements of scholarly assessment (e.g. grades, test scores, writing ability, etc.). Okay, I can grant all of that. However, insofar as these disadvantages exist, the fact is that these disadvantages also (albeit unfairly) reduce their college *readiness*. The fact is, accepting unprepared students is not going to erase the lifetime of disadvantages that they have already endured. I grant the disadvantages, but the solution cannot be to add *more* disadvantages by mismatching students to institutions that don't cater to their abilities. The solution must be to remove disadvantages for the next generation and to help disadvantaged students by sending them to institutions that cater to their abilities (whether that be less prestigious universities, community colleges, trade schools, etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTc4MjE2MiwtNzU2OTg3OTM5LDEwNz
-A0ODI1OTIsMTM1ODU3MzI2NSwtMTIzNDI5MjM3MSw3NzE1MDQ3
-MjIsMzgwNzkyMzkxLC05MDkyMTQ4MCwtODY0NTkyOTU5LC0zND
-gxMDIzNTQsNzQ1NzgwMjkxLC04MDY2NjM1NDUsLTg5MjQ4OTI0
-OSwtNTMxMTM1NjYxLC0xNjUxMDA2Mzk5LDEwMjM0MzcyMCwtMz
-c2MjQzMTksMjAxMjA0NDk0OCwtNzcwNjU1NDkzLDk1MTcyNjE0
-MV19
+eyJoaXN0b3J5IjpbMTY2NDc5MDc1NiwyMDQ5NzgyMTYyLC03NT
+Y5ODc5MzksMTA3MDQ4MjU5MiwxMzU4NTczMjY1LC0xMjM0Mjky
+MzcxLDc3MTUwNDcyMiwzODA3OTIzOTEsLTkwOTIxNDgwLC04Nj
+Q1OTI5NTksLTM0ODEwMjM1NCw3NDU3ODAyOTEsLTgwNjY2MzU0
+NSwtODkyNDg5MjQ5LC01MzExMzU2NjEsLTE2NTEwMDYzOTksMT
+AyMzQzNzIwLC0zNzYyNDMxOSwyMDEyMDQ0OTQ4LC03NzA2NTU0
+OTNdfQ==
 -->
