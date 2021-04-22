@@ -1,0 +1,240 @@
+Logic
+Psychology
+Language
+Metaphysics
+Epistemology
+Ethics
+
+-------------
+
+0. Normativity.
+1. Moral Language (language, psychological)
+	-> Understand moral judgments
+	-> Expressions, imperatives, descriptive statements, etc.
+	-> I understand it as a normative realm.
+2. Nature of Morality (psychological, metaphysical, epistemological)
+	-> Understand moral practice
+	-> What kind of normative system is it (see below, answer questions about T,R,P; this assumes an answer to the moral language question, it assumes that morality is a normative system).
+	-> Must explain moral beliefs, moral arguments and moral reasons/motivation.
+	-> Will tell us what good moral arguments must look like.
+	-> Examples: Moral norms = norms of social rationality, norms to justify ourselves to others, norms for administering blame/praise, etc.
+3. Content of morality (normative)
+	-> The actual moral norms to follow.
+	-> Must be internally coherent (i.e. pass reflective equilibrium) and fit with the nature of morality.
+
+-------------
+
+Moral Practice/Discourse: Conflicts and Potential Explanations; Language of morality answers these questions about moral judgment.
+
+1. Moral judgments are beliefs -> Rejected by non-cognitivism.
+2. Moral judgments entail motivation for action.
+3. Desire is needed to motivate action (not just beliefs).
+
+Moral Facts: Conflict and Potential Explanations; Nature of morality answers these questions about moral facts.
+
+0. Moral facts are other-regarding
+1. Moral facts exist -> Rejected by error theorists
+2. Moral facts are categorical -> Rejected by subjectivists/relativists
+3. Moral facts provide reasons for action -> Rejected by morality/reasons externalists
+4. Reasons require desire/interests -> Rejected by reasons/desire externalists
+5. Our desires/interests may be independent -> Rejected by metaphysical egoists
+
+-------------
+
+Normativity for normative system N:
+
+	A normative system can be understood by the following components:
+		T - The types of behavior regulated (actions, beliefs, driving, etc.).
+		R - The considerations that can serve as reasons for certain rules.
+		P - The responses for following or violating the rules.
+	Then we can determine the content of the normative system:
+		S - The actual norms of the normative system.
+		
+	A set of norms S(N) is normative for behaviors of type T(N) (actions, beliefs, driving, etc.). It regulates those behaviors (provides oughts for those behaviors) on the basis of a specific reasons R(N). 
+
+	Some normative systems are conventional: moral norms, legal norms, etiquette norms, health norms. You [morally ought] not kill, you [legally ought] not drive above a speed limit, etc. 
+	
+	Some normative systems are not conventional: 
+		> The best example is rational norms, etc. You [rationally ought] to take the means to fulfill your ends, you [rationally ought] to believe the conclusion of a valid argument if you believe its premises.
+		> Other examples include conventional norms idealized: legal norms, idealized etiquette norms, idealized moral norms. You [ideal legally ought] not drive above a speed limit. You [ideal morally ought] not have abortion.
+	
+	Some normative systems are optional: moral norms, legal norms, health norms. Only rational norms are necessarily rationally mandatory. You [rationally ought] to do what you [(ideal or actual) legally ought] depending on the contingent overlap of rational and (ideal or actual) legal norms. The same applies to (ideal or actual) moral norms. You [rationally ought] to do what you [ideal legally/morally ought] to do only insofar as you endorse the function of those normative systems.
+
+-------------
+
+	I'm committed to the following moral norms:
+		
+		If the following conditions are met, then morality is pointless:
+			1. All relevant parties are fully informed/rational.
+			2. All relevant parties have non-conflicting interests.
+
+		If this occurs, then there is no point in morality, since everyone would agree. Morality is concerned only when people disagree, so either (1) or (2) must be false. So morality is concerned with when we are obligated/preferred to (not) perform actions that other agents have not explicitly agreed/consented to.
+		
+		The following concerns when an action is prohibited, preferred, obligatory or permissible given that A has not explicitly agreed/consented to the action.
+		
+		1. Applying FORCEFUL action F to agent A is morally prohibited, unless:
+			> A explicitly consents (probably does not count as forceful, but I'll include it here for completeness).
+			> A implicitly consents, while informed/rational
+				* A implicitly suggests that they desire F (e.g. cues in romantic situations).
+				* A doesn't desire F, but they engage in an informal agreement that clearly indicated that F would be done to them (honor cultures, gangs, etc.).
+			> A is too ignorant/irrational to decide whether to have F done, and we believe that doing F promote's A's interests.
+			> A is causally responsible for a gap in wellfare between himself and others; F is permissible insofar as it is the only reasonable method to dimish this gap. IMPORTANT: this is not just a matter of saying all actions must maximize our interests equally; you can favor your own interets; the point is, you cannot be causally responsible for diminishing someone else's interests
+				* A directly impedes the interests of others (e.g. theft, assault, etc.)
+				* A indirectly impedes the interests of others (e.g. monopolizing an industry and charges high prices)
+		2. Applying non-forceful action X to agent A is morally...
+	
+-------------
+
+Features of moral practice:
+	* Normative: concerns with oughts
+	* Reason-based: concerned with reasons
+	* Motivating/practical: reasons for action/attitude (not reasons for beliefs)
+	* Critical/Contestable
+	* Supervenient
+
+Absolutism Features (Controversial) of moral practice:
+	* Categorical: Everyone has some moral norms that apply to them.
+	* Impartial: Morality does not necessarily favor certain individuals/interests.
+	* Universal: There are some general moral norms that apply to everyone.
+	* Objective: truth of a moral norm is independent of belief in its truth.
+
+Other Controversial features of moral practice:
+	* Truth-apt
+	* Knowable
+
+1. Language/Psychology: Outline the actual, current practice of morality. Find the features essentially necessary to understanding the practice.
+2. Ontological/Epistemological: Determine to what extent an ontology could vindicate this practice.
+3. Normative: Imagine if there could be an improved, revisionary account moral practice (what features must we abandon and what new featuers must we add). We can identify an understanding of normativity in actual moral practice (there might actually be other elements as well). Use this understanding of normativity to create an improve, revisionary account of moral practice.
+4. Ontologica/Epistemological: give an ontology that vindicates this new and improved practice.
+-------------
+
+Central Problem:
+
+	1. Morality/Reasons internalism	-> I accept; Otherwise, moral reasons are no more required than ettiquette reasons
+	2. Reasons/Motivation internalism 	->  I accept; seems unavoidable.
+	3. Moral absolutism 	-> I reject, people who don't negotiate have no moral reasons.
+
+[Cognitivism] Cognitive Normative Expressions:
+
+	> These terms are sometimes used non-cognitively - i.e. sometimes expressively, emotively, as imperatives, etc.
+	> But they can also be used cognitively.
+	> An agent who uses a normative term non-cognitively will also believe the cognitive component of that term.
+	
+	[ELABORATION] The assertion "P" (where P is a proposition) is accepted as cognitive; an agent *believes* P. It also seems that "P is credible" is a belief; an agent *believes* that P is credible. This seems to be the case. That is, it seems that "we have reason to believe P" is a cognitive expression. If so, then it should also follow that "P is good" is a cognitive expression. "P is good" can be formulated as "we have reason to promote/desire P". But if "we have reason to believe P" is cognitive, then it seems that "we have reason to promote/desire P" is also cognitive. In both cases, the speaker is asserting that we have reason to have certain response; the only difference is the particular response that we have reason to have, but this is a difference in content rather than form. Thus, it should not detract from its cognitive status.
+	
+	> There is some conceptual tie to explanatory reasons.
+	
+	[ELABORATION] (intuitive?) Conceptual tie to explanatory reasons. Normative Reasons are tied in some way to explanatory reasons. You might say:
+		(a) normative reasons are considerations that ought to be explanatory reasons. 
+		(b) all normative reasons are such that, for each normative reason...that explanatory reason could explain their action if they did the action for that reason. That is, we can make sense of the statement "he did X because he had normative reason to do X". But this explanation works only if normative reasons can also explain behavior. (is this true? Is the requirement only that we need to make sense of the statement "he did X because he believe he had normative reason to do X" rather than "he did X because he had normative reason to do X").
+		(c) if one sincerely judges that they have normative reason P, they must be moved to perform P.
+	
+Truth Conditions of Normative Expressions:
+
+	> Normative reasons derive from explanatory basis.
+	
+	[ELABORATION] (1) Normative Reasons are tied in some way to explanatory reasons.  (2) Explanatory reasons derive in some sense from an explanatory basis for that particular type of response (e.g. for action, this is desires, motivations, pleasure receptors, etc; for beliefs, this is perceptions, intuitions, experiences, etc.). (3) From (1) and (2), normative reasons must be appropriately connected to the explanatory basis for that type of response.
+	
+	[ELABORATION] What does "appropriately connected" mean? Do we look at motivations (e.g. pleasure receptors) or conscious states (e.g. desires)? Are we concerned with actual motivations/states or counter-factual motivations/states?
+	
+Normative Argument:
+	> A person's responses can be improved insofar as they become more reasonable, i.e. insofar as they become more appropriately connected to the explanatory basis for those responses.
+	
+	> Normative argument (i.e. sharing of reasons for belief) is valuable if and only if (a) if presented with valid reason for response R, then an agent will be moved to believe he has reason for response R, and (b) if an agent believes he has reason for response R, then he will be moved to hold response R. For (a), we better hope this is true or all discussion is pointless. For (b) if R is of type belief, this seems necessarily true - if an agent believes he has reason to believe P, then he must be moved to believe P. For actions/desires, not so much: if an agent believes he has reason to act/desire a certain way, then he may be moved to act/desire in said way, but not necessarily. In the case of action, weak will can be a hindrance. In the case of desire, what is the hindrance. This must be true even if one comes to believe a reason by learning purely about values (i.e. even when they don't learn about new empirical facts).
+	
+	> Is there a problem if our responses aren't modified in accord with reasons.
+
+	
+Objectivity:
+
+	> A normative reason A is objectively true if it is appropriately connected to an agent's explanatory basis independent of an particular agent's desires. This seems true in the case of reasons for beliefs/attitudes. Our reasons for these responses are independent of our desires, motives. But this may not be true for reasons for actions, because these are necessarily dependent on our desires, motives, etc. because these constitute the explanatory basis for actions.
+	
+	> I say *may* not be true because it may be possible for there to be objective reasons for action for all agents, even though these reasons for action depend on each agent's personal motivational set. To see why: consider belief. All agents have reason to believe in the uniformity of nature, causal relations, etc. independent of the particulars of their motivational set. Perhaps actions is similar.
+	
+Universality:
+
+	> Even though there are some reasons for belief that hold indepenent of an agent's explanatory basis, these beliefs are rather weak - two agents might agree on the uniformity of nature, causal relations, yet disagree on every substantive empirical fact. So we haven't reached any interesting sort of universal standards yet. What gets us to universal standards for beliefs is one of the following (or perhaps both):
+	
+		1. Just the fact that our explanatory basis for beliefs are so similar (i.e. we have similar perceptions, experiences, etc.).
+	
+		2. There is also a explanatory-basis-independent correct way to go about settling the disputes in explanatory basis for belief (i.e. the scientific method).
+	
+Morality:
+
+	> Morality is concerned with reason for action. In particular, reasons for action that derive as a result of our committment to negotiation with others. Agents have moral reasons whenever they are committed to negotiation with others.
+	
+	> This means not all agents have moral reasons. But this is fine for 2 reasons:
+		1. All humans negotiate. Moral reasons apply to all of them. The fact that moral reasons  don't apply to some hypothetical creatures is fine.
+		2. For those hypothetical creatures unwilling to negotiation, we cannot judge them morally. But given that they are unwilling to negotiate, this does not matter. Note that we can still say that we have reason to blame, resent, despise, hate, etc. them (i.e. they are bad, but they aren't wrong). We would have to modify their behavior via coercion, not via negotiation. More importantly, we would still be morally justified in coercing them.
+		
+		[COUNTER-ARGUMENT TO 1] Do all humans negotiate? What about creatures who merely pretend to negotiate? This is a problem, but I don't think it undercuts anything.
+	
+	> Can morality reach the same sort of interesting universal standards as are found for beliefs? Is it the case that all agents comitted to negotiation share some substantive moral reasons? Yes, but it does not rely on shared underlying perceptions of agents (as with beliefs). Instead, it must rely on shared underlying desires/motives of agents. In particular, it relies on the shared committment to negotiation in each agents' motivational set.
+	
+	[ELABORATION] What does it mean to be committed to negotiation
+	
+	[ELABORATION] If an agent is comitted to negotation (he places the interests of others in his motivational set), then the following moral reasons follow.
+	
+	> How to handle moral disagreement that can't be reduced to empirical disagreement? It is assumed that the latter form of disagreements can be rationally settled, whereas the former cannot. But why assume that the latter can be settled? Because the latter can be resolved as we align our perceptions, experiences. We can align our explanatory basis for belief to converge on our reasons for belief. But we can do the same with moral disagreement (assuming all parties share negotiation as a component of their motivational set). It may be difficult to settle what non-trivial actions are reasonable given the overlap of our motivational set. But it is also non-trivial to settle what non-trivial beliefs are reasonable given the overlap of our perceptions, experiences, etc. (see: the entire field of metaphysics, interpreting science, etc.)
+	
+	Why this analysis of morality (reasons for actions deriving from negotiation) is accurate:
+	
+		1. Dynamicism: it explains the action guiding character of morality - both in terms of how it motivate and/or provide reasons for action to those who internalize a moral judgments, and in terms of how moral statements are used to express sentiments and influence the sentiment/actions of others. How other analysis fare with this requirement.
+		2. Disagreement: it explains how people can believe others to be wrong in making opposing moral judgments.
+		3. Non-reductive: it explains how everyone can agree on all of the moral facts, yet still disagree on on moral terms, since normative disputes can still exist after all facts are agreed upon.
+		
+	In terms of analysis, I basically agree with Stevenson. Except I add that moral expressions can be represented as normative expressions, which are cognitive.
+		
+
+-------------
+
+	Summary:
+	
+	1. Normativity is cognitive.
+	2. Normative truth depends on an agent's explanatory basis.
+	3. Reasons for beliefs/attitudes are objective because they are independent of our desires.
+	4. Interesting universality is reached with reasons for belief because of our shared explanatory basis for beliefs (outside of some people with defective perceptions, etc.).
+	5. Interesting universality is reached with moral reasons for actions because of our shared motivational set (outside of people disinterested in negotiation).
+	
+	Notes:
+		* Normative argument is valuable insofar as are responses can be improved via purely normative argument.
+		* There may be no interesting universality for reasons for attitudes.
+		
+------
+
+1. Expressivism
+2. Error Theory
+3. Subjectivism/relativism
+---> Moral Rationalism
+---> Moral non-rationalism
+4. Realism
+---> Moral Rationalism
+---> Moral non-rationalism
+
+Realism for me:
+1. Disprove expressivism
+	> Bad Appeal (Ayer): There are no synthetic a priori propositions
+	> Response: You're wrong; normative propositions
+	> Better Appeal (Stevenson): Account for action-guiding character.
+	> Response: Morality is often purely expressive, but sometimes also cognitive.
+	> In particular, it purports to provide reasons for action 
+	> It seems that we can have normative beliefs, not just attitudes.\
+2. Disprove error-Theory 
+	> Appeal: (1) Moral Rationalism, (2) Moral Absolutism, and (3) Agent-Relative reasons.
+	> Reject (1): Moral norms purport to be rationally necessary, but this is not always the case [REVISIONARY].
+	> Make parallel with normativity generally
+	> Describe nature of moral facts distinguished from normative facts generally.
+3. Disprove subjectivism/relativism
+	> Appeal: (1) Moral Rationalism and (2) Agent-Relative reasons
+	> Reject (1): Norms can be universal/absolute without being rationally necessary.
+	> For exactly, there might be some ideal forms of etiquette, that best regulate how we can interact pleasantly (e.g. norms about forks would not be relevant).
+4. Prove some sort of moral rationalism | or special authority of morality over etiquette
+	> Ideal etiquette norms shows how to interact pleasantly.
+	> Ideal moral norms show how to interact/cooperate PERIOD.
+	> They provide reasons for action IF you want to interact/cooperate.
+	> Etiquette provides reason for action IF you want to interact pleasantly.
+	
+Strategy:
+	A. Find linguistic similarity with normativity generally to escape non-cognitivism.
+	B. Find linguistic difference between morality and other normative realms.
+	C. Emphasize authority of morality over etiquette to escape subjectivism.

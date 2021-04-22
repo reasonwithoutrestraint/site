@@ -1,0 +1,35 @@
+Commonly held theses:
+1. To every name or designating expression 'X', there corresponds a cluster of properties, namely the family of those properties p such that A believes 'pX'
+2. One of the properties, or some conjointly, are believed by A to pick out some individual uniquely.
+3. If most, or a weighted most, of the p's are satisfied by one unique object y, then y is the referent of 'X'.
+4. If the vote yields no unique object, 'X' does not refer
+5. The statement, "if X exists, then X has most of the p's" is known a priori by the speaker.
+6. The statement, "if X exists, then X has most of the p's" is necessariy true.
+
+
+(6) must be abandoned.
+- The most common properties associated with 'Hitler' is that he committed genocide. But it is not necessarily true that he committed this genocide.
+- Even if we define what a meter is by reference to the standard meter stick, it is not necessarily true that that particular meter stick is one meter long.
+- In general, even though property p is commonly associated with object X (even if p is somehow defined using X), it may still be a contingent truth that X has that property p. This happens if p rigidly designates what we refer to in our actual world, which means in other worlds where X does not have what we rigidly designate, it will not have property p.
+
+(5) must be abandoned.
+- (2), (3) and (4) have many counterexamples. Even when they are true, the truth of (3) and ($) are empirical truths which the speaker can not know a priori.
+
+(2) must be abandoned
+- When most people think of "Cicero", they just think of some famous Roman orator, without blieving that he was the only famous Roman orator, or without knowing anything else about Cicero.
+- Most people think that Richard Feyman was just a famous physicist, without being about to differentiate him from Gell-Mann.
+- What about Einstein? Most people know he was the man who discovered the theory of relativity. But most people don't know what the theory of relativity is other than that it was discovered by Einstein.
+
+(3) must be abandoned.
+- Imagine that the property associated with "Godel" is the man who proved the incompleteness of arithmetic. But let's say it turned out that Godel actually didn't prove the incompleteness of arithmetic, it was actually Schmidt. It just so happened that Godel's friend found the proof and attributed it to Godel. Does it mean we refer to "Schmidt" when we use "Godel"? No. 
+- Might we say it is the man to whom the incompleteness of arithmetic is attributed? No, this leads to a circle.
+- The properties commonly attributed to Columbus - that he was the first man to discover the Western hemisphere - actually designate someone else.
+- Some properies attributed to Einstein - that he invented the atomic bomb - actually designate someone else.
+
+(4) must be abandoned.
+- We already showed that the properties need not designate a unique object, e.g. see Cicero and Feynman.
+- What if it shows that they designate no unique object? What if no one discovered the incompleteness of arithmetic? Or what if arithmetic is actually complete? This wouldn't mean that "Godel" doesn't refer.
+
+Kripke's "picture" (not theory) of reference:
+- An initial baptism of a word takes place. The object is named by ostension or the reference of the name is fixed by a description.
+- When the name is passed from link to link, person to person, the receiver of the name must intend when he learns it to use it with the same reference as the man from whom he heard it.
