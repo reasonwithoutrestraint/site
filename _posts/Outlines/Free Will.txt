@@ -1,0 +1,159 @@
+---------------
+
+The Principle is not true
+
+What do people normally mean for something to be free?
+
+What would the world look like if free will were true in the incompatiblist sense?
+
+Is Free Will in such a sense conceptually possible
+
+There's a lot of ways we're going to distinguish actions
+	* Actions that an agent could have changed if given motivation versus otherwise
+	* Actions that one was free to do in the incompatibalist sense
+	* The former is more useful
+	* The latter is useless
+	* May as well define the former as free will
+	
+The incompatibalist conception doesn't get at what we mean by free will. We really mean:
+* Event -> Thing -> Event -> .... -> Person -> Event -> Thing -> Event -> Event
+* Free Will incompatible with indeterminism
+
+It doesn't make sense to say that internal events force a person to do something; internal events just is what makes up a person.
+-> Agent A has property P only if: there is no E where A and E are R related
+-> This doesn't apply when E makes up A
+-> A person has free will only if: there is no entity where the entity forces A to do something
+-> E.g. A nation runs an army absolutely only if: no other entity has control over the person
+-> This holds even if the other entity is "citizens of the nation", *that* is the nation
+-> This holds even if the citizens of the nation are influenced by outsiders
+
+----------------- Our intuitions of free will / responsibility (combined with simulation)
+
+To say that "X is responsible for Y" is to say that...
+
+									X did Y 
+			AND
+									X would have done not Y		-> No
+	
+	There exists an X',	X' would have done Y			-> We already know that
+	For all X', 					X' would have done Y			-> Negates Free Will
+	
+	There exists an X',	X' would have done not Y	-> Provides Free Will
+	For all X'				,	X' would have done not Y	-> Provides Ultimate Free Will	
+
+									X' = All X that are exactly the same, except with different wills
+	
+-> Incompatibalist will agree that "there exists an X' s.t. X' would have done not Y" is a necessary condition.
+-> Presumably, it will be important to distinguish ordinary cases from cases where X' could have not done otherwise. Call this power Free Will Lite. Note that this does not require indeterminism.
+-> Incompatibalist also wants to add that "X would have done otherwise" is a necessary condition, a stricter necessary condition.
+-> Incompatabalist will want to call this power Free Will. This requires indeterminism.
+
+So we have agreed that Free Will Lite is an important, necessary distinction (it seems we shouldn't say someone has Free Will if they had to do X, regardless of their will.).
+
+->  There are reasons for this agreement
+
+The question is, whether there is any value in cases where X could have done differently even with the same will?
+
+No, then there must be some other fact F, outside of the person, such that A did X because of F. But it seems that in these cases, one clearly does not have Free Will. Consider:
+
+-> A person is driving and someone bumps the car, forcing him to kill children. 
+-> A person is minding his own business and accidentally does something good.
+
+In neither case is A morally responsible for X. Why? Because in both cases, whether or not A did X depended upon external factors.
+
+Incompatibalist: No, he isn't morally responsible because in both cases, his action was determined. 
+
+Me: Okay, let us imagine analgous scenarios where the person's action is not determined. Again, the person doesn't have free will. Why? Because whether he did those actions is independent of himself
+
+Incompatibalist: Actually, he does have free will, and is morally responsible.
+
+But this is the same issue: You're saying that A is responsible for doing X even in cases where whether or not A did X depends on some other fact F, where that outside F is "whether or not the thing controlling A is determined or not"
+
+---------- Simulate indeterminism (combined with intuitions)
+
+Maybe you still think there's a difference. Fine.
+
+(1) If Free Will doesn't exist, then we could create it:
+
+	Imagine there's some indeterminacy in our world via quantum mechanics.
+	Place in everyone's brain a chip of that accesses quantum mechanic information. 
+	It occassionally makes your brain make random decisions.
+	Better yet, make it biological; so instead of a chip, we alter their brains.
+	Evaluate someone's brain and it's impossible to tell what decision they will make.
+	
+(2) This does not seem like free will at all. 
+
+	It's not like we FINALLY have free will and moral responsibility
+	Is THIS what enables us to make the following blameworthy/praiseworthy judgements
+	Because of some random quantum fluctuation event?
+	At the very least, it's not something we want.
+	This doesn't seem like free will.
+
+(3) These people would be more similar to mental insanity and instability: 
+
+	We tend to give less moral responsibility to such unstable persons.
+	
+(4) Compare that with our lives now:
+
+	In an deterministic world, you coud have inclinations to do right, but nothing is free.
+	But in an indeterministic world, you could have inclinations to do right, but screw up.
+	The latter is free?
+
+----------
+
+Agent Causation:
+
+	Event Causation:
+	
+		A causal relationship between two propositions
+		An event caused another event.
+		An object having some feature caused another object to have a feature
+		
+		
+	Agent Causation:
+
+		A causal relationship between an agent and an event.
+		An agent caused an event/proposition.
+
+
+Ultimate Source:
+
+	Requires that agents be the ultimate source of all factors that go into our acts.
+	
+	But we cannot be such an ultimate source, so there's no free will.
+	
+	Types of explanations for acts:
+	
+		1. Agent-Causation
+		2. No explanation; it's random
+		3. Character traits, reasons, etc. (it's not random)
+			
+			a. These traits can be determined, but don't determine the act 
+				(though they somehow explain the act).
+			
+			b. The traits must be determined in the right way, but don't determine the act
+				(though they somehow explain the act).
+				(seems like determinism)
+			
+			c. These traits cannot be determined by outside factors, and don't determine the act.
+				(ultimate source)
+	
+			Can a thing not be random, yet not be determined?
+
+----------------
+
+First order desire: A desire to do a particular action
+
+Will: his effective desire; the desire by which he is motivated in an action he performs, or the desire by which he would be motivated when or if he acts.
+
+Higher order desire: To want a particular desire
+
+Higher order volitions: To want a particular desire to be his will (or to be effective)
+
+Freedom of will: to satisfy a higher order volition: he is free to have the will he wants; he is free to want a particular desire to be effective, and to have that particular desire actually be effective - his desired will actually constitutes his will.(even if he lacked freedom of action)
+
+Freedom of action: free to do what he wants. If desire D (to do X) was effective, then he would have done X (does not require freedom of will)
+
+A person has moral responsibility: he did X freely or he did X because of his will (requires neither freedom of action nor freedom of will)
+
+Two properties of free will: There needs to be a reason why we desire it, and we should not ascribe it to other animals.

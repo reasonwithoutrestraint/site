@@ -1,0 +1,1418 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Normative Talk - Your Site Title</title>
+
+<meta name="description" content="Readings for analyzing normativity  A.C. Ewing, “A Suggested Non-Naturalistic Definition of Good”  Christine Kosgaard, “The Sources of Normativity”  Justin D...">
+<link rel="canonical" href="http://localhost:4000/2019/06/19/Normative-Talk.html"><link rel="alternate" type="application/rss+xml" title="Your Site Title" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets --><script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.4',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page layout--page--sidebar clearfix js-page-root">
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="page__viewport">
+    <div class="page__actions d-print-none">
+      <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+        <i class="fas fa-bars icon--show"></i>
+      </div>
+    </div>
+
+    <div class="grid page__grid">
+
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Philosophy </li><li class="toc-h2"><a href="/">My Ethical Theories</a></li><li class="toc-h3 active"><a href="/2019/06/19/Normative-Talk.html">Normative Talk</a></li><li class="toc-h3"><a href="/2019/06/19/Normative-Thought.html">Features of Normative Thought</a></li><li class="toc-h3"><a href="/2019/06/19/Theories-of-Normative-Talk.html">Theories of Normative Talk</a></li><li class="toc-h3"><a href="/2019/06/19/Normative-Truth.html">Normative Truth</a></li><li class="toc-h3"><a href="/2019/06/19/Moral-Reasons.html">Moral Reasons</a></li><li class="toc-h3"><a href="/2019/06/19/Substantive-Morality.html">Substantive Morality</a></li><li class="toc-h3"><a href="/2019/06/19/Political-Philosophy.html">Political Philosophy</a></li><li class="toc-h2"><a href="/">Criticisms</a></li><li class="toc-h3"><a href="/2019/06/19/Descriptivism.html">Descriptivism</a></li><li class="toc-h3"><a href="/2019/06/19/Naturalism.html">Naturalism</a></li><li class="toc-h3"><a href="/2019/06/19/Non-naturalism.html">Non-Naturalism</a></li><li class="toc-h2"><a href="/">Topics</a></li><li class="toc-h3"><a href="/2019/06/19/Abortion.html">Abortion</a></li><li class="toc-h3"><a href="/2019/06/19/Affirmative-Action.html">Affirmative Action</a></li><li class="toc-h3"><a href="/2019/06/19/Free-Will.html">Free Will</a></li><li class="toc-h3"><a href="/2019/06/19/Determinism.html">Determinism</a></li><li class="toc-h1">Science </li><li class="toc-h2"><a href="/2019/06/19/Race-and-IQ.html">Race and IQ</a></li></ul></div></div><div class="page__main js-page-main has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24">
+<style type="text/css">
+	.st0{fill:#515151;}
+</style>
+<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
+	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+</svg><a title="Your Site Description
+" href="/">Your Site Title</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/">Home</a></li><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Normative Talk</h1></header><span class="split-space">&nbsp;</span>
+          <a class="edit-on-github"
+            title="Edit on Github"
+            href="https://github.com/user_name/repo_name/tree/master/_posts/Original/Ethics/My Position/2019-06-19-Normative Talk.md">
+            <i class="far fa-edit"></i></a></div><meta itemprop="headline" content="Normative Talk"><div class="article__info clearfix"><ul class="right-col menu"><li><i class="fas fa-user"></i> <span>Your Name</span></li><li><i class="far fa-calendar-alt"></i> <span>Jun 19, 2019</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2019-06-19T00:00:00-04:00"><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><p>Readings for analyzing normativity</p>
+<ul>
+  <li>A.C. Ewing, “A Suggested Non-Naturalistic Definition of Good”</li>
+  <li>Christine Kosgaard, “The Sources of Normativity”</li>
+  <li>Justin D’Arms, “Two Arguments for Sentimentalism”</li>
+  <li>Maybe
+    <ul>
+      <li>Henry Sidgwick, “Ethical Judgments”, from <em>The Methods of Ethics</em></li>
+      <li>H.A. Prichard, “Does Moral Philosophy Rest on a Mistake?”</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Outline:
+Bold means seperate create a article for that section</p>
+
+<p>Copied in Topics.md</p>
+
+<ul>
+  <li><em>Normativity</em>
+    <ul>
+      <li>Examples</li>
+      <li>Contrast with descriptions</li>
+      <li>Plattitudes</li>
+    </ul>
+  </li>
+  <li><em>Analysis</em> (the <em>content</em> of normative judgments)
+    <ul>
+      <li>Domains
+        <ul>
+          <li>Rationality</li>
+          <li>Well-being versus reasons for action</li>
+          <li>Epistemology</li>
+          <li>Aesthetics</li>
+          <li>Morality</li>
+          <li>Ettiquette</li>
+        </ul>
+      </li>
+      <li>Flexibility of language</li>
+      <li>General: shoulds, justifications, warrant, etc. a relation involving an agent and an attitude. Grounds charges of criticism generally.</li>
+      <li>Narrow: Reasons. A relation that grounds charges of irrationality specifically.</li>
+      <li>Kinds of reasons concepts
+        <ul>
+          <li>Normative vs non-normative “should” (e.g. “he should arrive here soon”)</li>
+          <li>Explanatory vs Justificatory reasons</li>
+          <li>Objective vs Subjective reasons / Available vs Potential Reasons (e.g. reasons under lack of information)</li>
+          <li>Right/Wrong kinds of reasons</li>
+          <li>Internal vs External reasons
+  —&gt;
+            <ul>
+              <li>Available Reasons =&gt; Rationality</li>
+              <li>Potential Reasons =&gt; Counterfactual endorsements under rationally endorsed conditions</li>
+              <li>External Reasons</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Other different categories of reasons
+        <ul>
+          <li>Deontic vs Evaluative (proposition P should be true versus agent A ought to acquire attitude X)</li>
+          <li>Agent-Neutral / Agent-relative</li>
+        </ul>
+      </li>
+      <li>Intrinsic/Instrumental</li>
+      <li>Not all based in pleasure/happiness</li>
+      <li>Not all based in teleology</li>
+      <li>Hierarchical structure, pro-tanto &amp; prima facie</li>
+      <li>Works: Moore, Ross, Ewing, Sidgwick, Wiggins, McDowell, D’arms/Jacobson, Parfit, Raz</li>
+    </ul>
+  </li>
+  <li>Psychology (the <em>psychology</em> of normative judgments)
+  <em>Introduction</em>: the problem and possible solutions
+  <em>Failure of descriptivism</em> 
+  <em>Characterization of non-descriptivism</em>
+      - World-to-mind fit that cannot be otherwise reduced
+      - Expressive of deliberative endorsement and prescriptive
+      - Possibility of an alternative standard of truth
+      - Competing motivational faculties
+  <em>Evolution</em>: selections for descriptivism vs non-descriptivism
+  <em>Observations</em>: examples of other evaluative language, normative education, emphasizing the dynamic component of certain terms (e.g. no one admits to being “racist” despite meeting the criteria)
+  <em>Objections</em>
+      - Seems intuitively false
+      - Frege-Geach
+      - Which attitude
+    <ul>
+      <li>Works: Stevenson, Ayer, Gibbard, Blackburn, Timmons/Horgan</li>
+    </ul>
+  </li>
+  <li>Correctness (the <em>correctness</em> of normative judgments)
+    <ul>
+      <li><em>Introduction</em>: the problem and possible solutions</li>
+      <li><em>Failure of externalism</em>
+        <ul>
+          <li>Repeat many arguments from Williams’s article</li>
+          <li>Use analogy with theoretical reasons</li>
+        </ul>
+      </li>
+      <li><em>Failure of broad internalism</em>
+        <ul>
+          <li>Critique Williams’s position</li>
+          <li>Use analogy with thoeretical reasons (e.g. desires don’t justify beliefs, even if they can explain them).</li>
+        </ul>
+      </li>
+      <li><em>Constructivism</em>
+        <ul>
+          <li>Normative judgments, not desires/sensations, provide reasons</li>
+          <li>Analogy with other domains</li>
+          <li>Constituitive features</li>
+          <li>Explaining intuitive reasons versus broad internalism, externalism, etc.</li>
+        </ul>
+      </li>
+      <li><em>Objections</em>
+        <ul>
+          <li>Methodology
+            <ul>
+              <li>General Theory unlikely</li>
+              <li>Conflicting reasons</li>
+              <li>Deliberation/reflection</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Works: Koorsgard, Street, Scanlon, Parfit, Frankfurt, Nagel, Gauthier</li>
+    </ul>
+  </li>
+  <li><em>Morality</em>
+    <ul>
+      <li><em>Introduction</em>: the problem of reasons and objectivity</li>
+      <li>Sentimentalism</li>
+      <li>Contractualism</li>
+      <li>Methodology
+        <ul>
+          <li>General Theory unlikely</li>
+          <li>Conflicting interests</li>
+          <li>Argumentation/Discussion</li>
+        </ul>
+      </li>
+      <li>Works: Scanlon, Kant</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Some insights that I haven’t seen explored elsewhere</p>
+
+<ol>
+  <li>Individual rationality need not reduce to individual goodness. For example, individual goodness might reduce to desired states of consciousness, even though it might be rational to act to attain desired states of consciousness (e.g. experience machine). Can this relate to morality? How should goodness and rationality be analyzed? If this is true, then what does it mean to say that something ought to be desired/preferred/promoted (i.e. goodness) even though we ought not necessarily act to promote it (e.g. rationality). So not even individual rationality need be consequentialist.</li>
+  <li>Different irreducible domains of morality, e.g. ettiquette, aesthetic morality and justice morality. These distinctions are not necessarily a part of a linguistic culture.</li>
+  <li>We are not consequentialist about epistemology.</li>
+  <li>Formulating a revisionist cognitivist analysis of normative judgments from historical non-cognitive uses.</li>
+  <li>Normative judgments are all judgments of relations, not properties.</li>
+</ol>
+
+<h2 id="introduction">Introduction</h2>
+
+<h3 id="applies-ethics-normative-ethics-and-metaethics">Applies Ethics, Normative Ethics and Metaethics</h3>
+
+<h3 id="the-insufficiency-of-reflective-equilibrium-and-the-need-for-metaethics">The insufficiency of reflective equilibrium and the need for metaethics</h3>
+
+<p>Can we recreate moral positions using non-moral terms?</p>
+
+<p>Reflective equilibrium with regard to normative ethical reasoning fails to settle disputes when two different parties reach different conclusions in their reflective equilibriums, either because of different foundational principles or different considered judgments. At this point, it may seem that the disagreements are irresolvable. To settle the dispute, we need to take a step back from answering the normative questions themselves. Instead of internally justifying our positions, we need to ask external questions about the normative questions. We need to determine what is actually at dispute among the parties.</p>
+
+<p>We need a strategy for communicating the meanings of our expressions to an agent unfamiliar with our language. This can work for descriptive concepts by merely presenting instances of the entity in question and associating it with certain words.</p>
+
+<p>The strategy for doing this is as follows. (1) list out all of the assertions from two parties in an ethical debate. (2) Replace the assertions that the parties make with different non-ethical statements about the parties in a manner that preserves the significant psychological and social commitments of all parties.</p>
+
+<p>For example, if given the following ethical dispute:</p>
+<ul>
+  <li>A judges that X is morally wrong.</li>
+  <li>B judges that X is not morally wrong.</li>
+</ul>
+
+<p>There are a few ways to translate this:</p>
+
+<h4 id="definitions">Definitions</h4>
+
+<p>We might do this by substituting the normative terms with non-normative terms as if in a strict dictionary definition. The definition could be the agent’s subjective definition, societal definitions, etc. For example, the earlier dispute might be replaced as:</p>
+<ul>
+  <li>A believes that X promotes suffering.</li>
+  <li>B believes that X does not promote suffering.</li>
+</ul>
+
+<h4 id="plattitudes">Plattitudes</h4>
+
+<p>Maybe there can be no strict definition. Instead, we just encapsulate all the plattitudes that are necessary to come to have mastery of the concept, i.e. the inferential and judgmental dispositions of those who have mastery. This can be done by finding the role that these terms play in linguistic discourse.</p>
+<ul>
+  <li>A judges that we have reason to disapprove of those who X.</li>
+  <li>A is disposed to disapprove of X.</li>
+  <li>A is disposed to not do X, all things else being equal.
+…</li>
+  <li>B denies these.</li>
+</ul>
+
+<p>One issue with these is that they also use other normative terms, e.g. “reasons”. More work would need to be done to explain those.</p>
+
+<p>Another issue is that it may seem that some terms don’t have a clear role in language. For example, while the role of moral rightnes/wrongness might be clearly associated with motivation for and reasons for approval/disapproval, etc. but other normative terms like “rationality” might not have such a clear role in language. So it may be unclear how to settle disputes about “rationality”. Perhaps, what we can do is look for what roles we would need to be filled in, and argue that only certain interpretations of “rationality” can fill that void, and other interpretations don’t account for anything linguistically important.</p>
+
+<h4 id="job-of-metaethics">Job of metaethics</h4>
+
+<p>Explain the following</p>
+<ul>
+  <li>Semantics: what we mean when making a moral statement.</li>
+  <li>Psychology: what state of mind characterized by moral judgment.</li>
+  <li>Ontology: what grounds moral properties, if they exist.</li>
+  <li>Epistemology: how we can learn/reason about moral truth.</li>
+  <li>Rationality: why we have reason to be moral.</li>
+</ul>
+
+<p>The most important are accounting for semantics/psychology and giving a realistic account of epistemology/rationality, i.e. we need an objective methodology for handling moral disputes, as disputes are the most important feature of moral beliefs. The ontology doesn’t really matter.</p>
+
+<h2 id="plattitudes-1">Plattitudes</h2>
+
+<p>The role of normative thinking is to handle conflicts in our motivations.
+Normative thinking requires the followings: (a) beings with motivations, which sometimes conflict, (b) beings capable of stepping back and acknowledging these motivations and assessing them, (c) beings capable of deciding on which motivation to will after normative reflection.
+This explains why there cannot be inconsistent upshots of normative reasoning.
+The very practice of normative thinking was created as a response to motivational conflicts.
+Thus, a being who doesn’t care about such conflicts doesn’t count as a normative reasoning agent.
+Or, a person who doesn’t have normative conflicts wouldn’t count as a normative reasoning agent. There would be no need for normativity to arise.
+The basic goal is to move from disjointed conflict to unity.</p>
+
+<p>Normative “conflict” generally does not mean inconsistency specifically. 
+Inconsistency refers to conflicts in beliefs, where there can be conflicts in desires, intentions, attitudes, etc.</p>
+
+<h3 id="ubiquitous">Ubiquitous</h3>
+
+<p>Normative judgments are found in all creatures who deliberate, insofar as those deliberations influence action.</p>
+
+<p>Perceptions and desires are pre-reflective cognitive elements that dispose us towards a certain behavior. A perception that p consists of a pre-reflective disposition towards believing p. A desire that p consists of a pre-reflective dispositions towards performing M whenever one believes M -&gt; p. These pre-reflective elements can be identified as the animalistic motivational system.</p>
+
+<p>Non-human animals typically behave according to their pre-reflective cognitive dispositions. They believe whatever they perceive, and they act according to whatever desire happens to be strongest. The beliefs and actions of humans, on the other hand, are usually not strictly identical with our perceptions and desires. We deliberate and reflect about what to do, and this inevitably involves our perceptions and desires. However it involves much more than our perceptions and desires. (1) We decide which beliefs and actions are <em>justified</em> from our perceptions/desires, which may not be identical with whatever the perceptions/desires indicate/favor. (2) We <em>reject</em> some perceptions/desires as mistaken or irrational. (3) We <em>endorse</em> certain perceptions/desires as rational or justified.</p>
+
+<p>When we deliberate and reflective, we try to determine the <em>reasons</em> we have for a kind of behavior. Whenever we act, insofar as we are deliberative and reflective, we act according to what we have judged ourselves to have <em>reason</em> to do. To the extent that we don’t act according to what we judge ourselves to have reason to do, we are acting <em>irrationally</em>. The deliberation involved with the connection between are given pre-reflective <em>dispositions</em> favoring a certain behavior (i.e. perceptions, desires, sensations, etc.) and are post-reflective conscious <em>endorsements</em> of a certain behavior (i.e. what we determined ourselves to have reason to do) is <em>normative reasoning</em>. The motivational system associated with normative reasoning is the <em>normative motivational system.</em></p>
+
+<p>Supplement:</p>
+<ul>
+  <li>Korsgaard’s contrast of animals and humans</li>
+</ul>
+
+<h3 id="supervenience">Supervenience</h3>
+
+<p>Normative judgments supervene on non-normative beliefs. If one has a competent grasp of normative concepts, then if they judge two things to be different normatively then this must be due to a judged difference in non-normative properties. Equivalently, once one’s beliefs about the non-normative properties of a thing is fixed, so too are his normative judgments about the thing.</p>
+
+<h3 id="deliberative">Deliberative</h3>
+
+<p>Argumentation/reasoning influences our normative judgments. Our judgments of normative reason are typically the upshots of deliberation, whereas our motivating reasons can be a given</p>
+
+<p>Supplement:</p>
+<ul>
+  <li>Smith’s elaboration on the deliberative and the intentional.</li>
+  <li>Koorsgard’s theory of normativity</li>
+</ul>
+
+<h3 id="motivational">Motivational</h3>
+
+<p>Normative judgments influence action. Judging that one has normative reason to do x is typically associated with a motivating reason to do x. But this is not perfect: there are cases where one judges that they have normative reason to do x without having a corresponding motivating reason to do x, and there are cases where one has a motivating reason to do x without a corresponding judgment that they have normative reason to do x. Think of cases of psychological compulsion, physical addiction or emotional disturbances. Such cases are usually not the norm; an explanation of some such sort must be invoked to explain not intending what one judges to have reason to do.</p>
+
+<p>Supplement:</p>
+<ul>
+  <li>Supplement on Smith’s elaboration of the deliberative and the intentional</li>
+  <li>Gibbard’s evolutionary arguments for the value of motivational content</li>
+  <li>considerations about translations from other cultures</li>
+  <li>sincere inferences of normative judgments of others</li>
+</ul>
+
+<h3 id="disagreement">Disagreement</h3>
+
+<p>People have normative disagreements.</p>
+
+<p>People have epistemic disagreements. Two parties can have identical perceptions and evidence in front of them, and yet disagree about what they have most <em>epistemic reason</em> to believe given the evidence. They can disagree about what can be <em>rationally inferred</em> given the evidence.</p>
+
+<p>People have moral disagreements. Two parties can have identical beliefs with regard to the empirical world, and yet disagree about what we have <em>moral reason</em> to do. They can.</p>
+
+<p>People have prudential disagreements. Two parties can have identical beliefs about a hypothetical agent’s desires, interests, etc. and the empirical world, and yet have disagreements about what that agent has most reason to do. One parties might say he should satisfy his present desires, others say he should do what will in fact make him happiest, others that he should do what will result in the least regret, etc.</p>
+
+<p>People have aesthetic disagreements.</p>
+
+<p>While these disagreements sometimes stem from logical or semantic errors, they need not always. Rather, the disagreements are often the result of differing normative principles.</p>
+
+<p>We need a shared concept in order for disagreement to be possible.</p>
+
+<p>Supplement:</p>
+<ul>
+  <li>Stevenson’s article on disagreement.</li>
+</ul>
+
+<h2 id="unification">Unification</h2>
+
+<p>All normative judgments can be expressed in the form of a prescription that recommends a particular behavior X for an agent A in circumstances. There are often expressed in declarative form via some relation that involves entities A, X, C. The basic terms underlying this relation can be any term that supports this relation grammatically, i.e. “A ought to X in circumstances C”, “A has reason to X in circumstances C”, “A is justified in X-ing in circumstances C”, “It is fitting for A to X in circumstances C”, etc.</p>
+
+<p>They are also sometimes expressed without using strictly normative terms, e.g. “A must do X in C”, “A has to do X in C”, etc. Finally, they can also be expressed purely as imperatives, i.e. “A, do X in C”. All of these are ways of communicating a normative judgment to someone else.</p>
+
+<p>A normative system can be understood by the following components:</p>
+
+<ul>
+  <li>T - The types of behavior regulated (actions, beliefs, driving, etc.) - this constraints genuine normative statements to be action guiding in some way. Normative propositions that cannot be expressed in this manner are not coherent normative propositions.</li>
+  <li>R - The considerations that serve as reasons for the norm. Different normative realms have different relavent considerations.
+Then we can determine the content of the normative system:</li>
+  <li>S - The actual norms of the normative system. These are entailed from whatever the relevant considerations are plus any observational content.</li>
+</ul>
+
+<p>Other considerations concerning the content of normative judgments</p>
+
+<ul>
+  <li>Right/Wrong kinds of reason</li>
+  <li>Ought implies can &amp; cannot</li>
+  <li>Is/Ought gap -&gt; logical/analytic/synthetic</li>
+</ul>
+
+<p>There are a few different classes of normative judgments:</p>
+<ul>
+  <li>Rational judgments - A has reason to do X</li>
+  <li>Aesthetic judgments - A expresses attitude with regard to X</li>
+  <li>Moral judgments - A encourages the attitudes of others</li>
+</ul>
+
+<h2 id="rational-psycholgoy">Rational Psycholgoy</h2>
+
+<p><a href="Rational Psychology.md">Main Page</a></p>
+
+<h3 id="intentional-and-deliberative">Intentional and Deliberative</h3>
+
+<p>Intentional action can be explained from two perspectives, the <em>intentional</em> and the <em>deliberative</em>. From the intentional perspective, intentional action can be explained by citing <em>motivating reasons</em>, i.e. by citing a belief-desire pair that fits into a pattern of teleological explanation. From the deliberative perspective, intentional action can be explained by citing <em>normative reasons</em>, i.e. by citing a pattern of rational deliberation that either did, or could have, produced it. This involves citing the considerations that one reflects over in deciding what to do.</p>
+
+<p>The deliberative perspective must be explanatory to satisfy the judgment internalism thesis about normativity, i.e. when we decide what to do after deliberation, that often makes a difference in what we do. This would be impossible if the deliberative perspective were not explanatory, since the connection between deliberation and our action would be purely causally contingent. Thus, our attitudes towards the propositions that figure in our deliberations must be capable of figuring an explanation of our action.</p>
+
+<p>However, there must also be some slack between desires and values. An agent may desire to X without valuing to X (e.g. kleptomaniac, addicts, etc.). Likewise, an agent may value X without desiring to X (e.g. the depressed, weakness of will). In general, due to psychological compulsions, physical addictions, emotional disturbances, etc. there is an imperfect connection between what an agent judges to be a normative reasons for action and the agent’s motivating reasons for action.</p>
+
+<p>To judge that one has normative reason to X is to <em>endorse</em> X under deliberation. Normative judgments then can be vaguely characterized as <em>deliberative endorsement</em> of some propositional content. Contrast this with undeliberative or unreflective endorsement, which are the sources of one’s <em>motivating reasons</em>, the explanation of their intentional behavior. Voluntary actions can be explained by a belief and desire; these actions are done on the basis of normative reasnoing insofar as deliberation and reflection play a role in how the belief and desire manifest into action, e.g. if deliberation influences what one desires, which desires are actualized, etc. The question is to determine what it is to form deliberative endorsement of an action. Is it a desire, belief of some sort, etc?</p>
+
+<h3 id="world-to-mind">World-to-mind</h3>
+
+<p>The question is whether deliberative endorsement is a world-to-mind fit (dispositional) or mind-to-world fit (representational). Good candidates for a representational analysis are counterfactual beliefs about an agent’s hypothetical attitudes under certain circumstances. Nevertheless, it seems that normative judgments and deliberative endorsement are best explained by a world-to-mind, dispositional fit. This best explains why people who judge that they have normative reason to X are disposed to X. If it was a mere mind-to-world state of mind (even if a counterfactual belief about one’s attitudes), then there would have to be some <em>additional</em> world-to-mind state of mind that explained why one’s deliberation influences their motivation, and <em>this</em> state of mind would be the core feature of normative judgments.</p>
+
+<p>However, normative judgments are not best characterized as desires. It seems clear that normative judgments and desires can sometimes diverge. Goals and preferences seem to be a distinctive form of world-to-mind fit. And we can clearly understand how one might not have a desire to achieve one of their goals. It seems like the distinction between desires and goals are similar to the distinction between desires and values. It seems like we can distinguish different world-to-mind fits based on their relationship to consciousness (thoughts) and deliberation (thoughts about thoughts).</p>
+
+<h2 id="rational-correctness">Rational Correctness</h2>
+
+<p><a href="Rational Correctness.md">Main Page</a></p>
+
+<h3 id="existence-internalist">Existence Internalist</h3>
+
+<p>R is a normative reason for A to X iff R would be a motivating reason for A to X insofar as A is rational and A was aware of R. Thus, R is a reason for agent A if and only if R is the upshot of sound rational deliberation. In other wrods, normative reasons are the rational extensions of one’s motivating reasons. A consideration C counts as a reason if and only if there is a sound deliberative route from an agent’s motivational reasons to C.</p>
+
+<p>The question is then how to account for what “rational extension” and “sound deliberative route” consists in. At the very least, this seems to require logical consistency. A constructivist account of normativity can explain what rational extension consists in generally.</p>
+
+<h3 id="constructivist">Constructivist</h3>
+
+<p>Truth for rationality is not correspondence. That is, the standard of correctness for a normative proposition is not an mind-independent entity or set of entities which the proposition is purported to correspond to. Rather, the standard of correctness is rules and requirements constructed by and internal to the agents who hold the proposition.</p>
+
+<p>The fact that X is a reason to Y for agent A is constituted by the fact that the judgment that X is a reason to Y (for A) withstands scrutiny from the standpoint of A’s other judgments about reasons. Note that X is never a reason in favor of Y, absolutely. X can only be in favor of Y for some particular agent, as determined by the standards set by the normative judgments of A himself.</p>
+
+<p>A normative judgment withstands scrutiny for an agent only if the agent could mantain the judgment in full awareness, which is determined by the constituitive standards of the attitude in question. For example, someone who judges that X is a reason to Y cannot also simultaneously and in full awareness judge that X is not a reason to Y (consistency is constitutive of normative judgments). Also, one cannot take oneself to have conclusive reason to Y without taking oneself to have reason to take the means to Y (means-end reasoning is constituitive of normative judgments). The force of <em>cannot</em> is not rational, but what is <em>constituitive</em> of the concept of forming normative judgments.</p>
+
+<p>These standards of correctness are legislated by the very person making the normative judgments. This allows that one can be genuinely mistaken about their normative judgments only insofar as they are not in full awareness of certain relevant features of their judgments.</p>
+
+<h3 id="constituitive-features">Constituitive Features</h3>
+
+<p>The central question is how to determine what requirements are constitutive of a type of behavior. One candidate is this: a requirement is constituitive of a behavior if no agent could consciously reject the requirement in full awareness.</p>
+
+<p>Logical Consistency. One basic constituitive feature of normative judgments (and thuoghts generally) is logical consistency. No person can consciously believe X and believe not-X in full awareness.</p>
+
+<h4 id="epistemic">Epistemic</h4>
+
+<ul>
+  <li>Perceptions/memories: the reason that a perception that p provides one with reason to believe that p is because part of what it is to perceive p is to acquire an unreflective belief that p. If perceptions didn’t provide one with an unreflective belief that p, then perceiving that p would be like imagining that p, and this would not provide one with a reason to believe p. Similar considerations apply to memories.</li>
+  <li>Abduction:</li>
+  <li>Induction:</li>
+  <li>Causation:</li>
+</ul>
+
+<h4 id="prudential">Prudential</h4>
+
+<ul>
+  <li>Desires: the reason that a desire to X tends to provide one with reason to X is (1) people tend to judge that they have reason to X if they desire to X, and (2) all intentional actions are done because of some desire; if they are not done because of a desire, then they would be involuntary actions.</li>
+  <li>Instrumental Reasoning: one cannot take oneself to have conclusive reason to X without taking oneself to have reason to take the means to X. Part of what it is to judge one has a reason to X consists of judging one to have a reason to adopt the means.</li>
+  <li>Pain/Suffering: the reason that pain/suffering provides one with reason to avoid it is precisely because people judge that they have reason to avoid it (or they have an unreflective aversion towards it). If a person had no aversion toward pain and didn’t judge that they had reason to avoid it, then there would be no actual reason to avoid it. It is not the pure sensation of pain that provides us with reason to avoid it.</li>
+</ul>
+
+<h3 id="competing-reasons">Competing reasons</h3>
+
+<p>The most fundamental question is how to determine what one ought to do when there are some considerations that give one reason to X and some considerations that give one reason to not-X. This is especially important for moral considerations when weighing reasons from different agents.</p>
+
+<h2 id="moral-psychology">Moral Psychology</h2>
+
+<p><a href="Moral Psychology.md">Main Page</a></p>
+
+<p>Two puzzles that must be resolved by a moral psychology and ontology (or standard of correctness)</p>
+
+<p>Psychology</p>
+
+<ol>
+  <li>Moral judgments are truth-apt.</li>
+  <li>Truth-apt judgments must be beliefs (i.e. descriptive).</li>
+  <li>Moral judgments are intrinsically motivating.</li>
+  <li>Beliefs are not sufficient for intrinsic motivation.</li>
+</ol>
+
+<p>Truth</p>
+
+<ol>
+  <li>Rational: Moral duties provide agents with reason for action.</li>
+  <li>Categorical: Moral duties apply to all agents (some infer an independence of any agent’s desires).</li>
+  <li>Internalism: Practical reasons are necessarily dependent on desires.</li>
+  <li>Contingency: There are no necessary desires in all rational agents</li>
+  <li>Success Theory: There are moral truths.</li>
+</ol>
+
+<h2 id="moral-reasons">Moral Reasons</h2>
+
+<p><a href="Moral Reasons.md">Main Page</a></p>
+
+<h3 id="aesthetic">Aesthetic</h3>
+
+<h3 id="constructivist-1">Constructivist</h3>
+
+<h3 id="objectivity">Objectivity</h3>
+
+<h4 id="game-only-exists-in-certain-cultures">Game only exists in certain cultures</h4>
+
+<p>This constructed morality “game” only exist in cultures where moral discussion involves providing reasons for all persons to follow. But this need not necessarily be the case in certain authoritarian/hierarchical societies where moral discussion is a vehicle for the powerful to issue non-negotiable and enforced commands rather than a cooperative, negotiative role. E.g. if there is a king commanding peasants to act in a certain way. There are no objective moral standards that the kind has to follow; the best one can hope for is to destroy their opponents and/or try to manipulate their emotions.</p>
+
+<p>Did we really lose anything by being unable to say that they are unreasonable? We can still say that they are immoral, bad, evil, etc. So what have we lost? The only thing we’ve realize now is that they cannot be <em>rationally motivated</em> to be moral. But this would be the case even if there was an independent ontology of moral facts. Do we really think that if such a realm existed, we could <em>rationally motivate</em> all undesirable villians to behave. We have lost nothing.</p>
+
+<h4 id="not-motivationally-necessary-constructivist">Not motivationally necessary (constructivist)</h4>
+
+<h4 id="contingent-upon-our-interests-aesthetic">Contingent upon our interests (aesthetic)</h4>
+
+<h4 id="not-rationally-necessary">Not rationally necessary</h4>
+
+<p>One could say morality is not rationally necessary in the sense that one has no reason to be moral if they didn’t already have an interest in being moral. But a similar truth is found in other domains:</p>
+
+<ul>
+  <li>One has no reason to accept logic if they didn’t already accept it (this wouldn’t really be an agent to begin with).</li>
+  <li>One has no reason to believe X if none of their perceptions indicated X.</li>
+  <li>One has no reason to accept science if they had no interest in science.</li>
+  <li>One has no reason to avoid pain if they had no interest in avoiding the sensation.</li>
+</ul>
+
+<p>Standards of moral correctness only matter for people who are interested in settling moral arguments for moral reasons. For people who are uninterested, no objective moral ontology would have mattered to them anyway. For those who are interested, a standard of correctness that’s internal to contingent moral desires is motivating enough.</p>
+
+<h4 id="objective-methodology">Objective methodology</h4>
+
+<p>The importance of objectivity does not require an independent realm of moral facts, nor does it require rational reason for all agents. The importance of objectviity was:</p>
+
+<ul>
+  <li>Normative thinking is a rational enterprise.</li>
+  <li>Someone is incorrect in moral arguments.</li>
+  <li>There is an independent standard to determine who is incorrect.</li>
+</ul>
+
+</div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2019-06-19T00:00:00-04:00"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet --><div class="article__subscribe"><div class="subscribe"><i class="fas fa-rss"></i> <a type="application/rss+xml" href="/feed.xml">Subscribe</a></div></div><div class="article__license"><div class="license">
+    <p>This work is licensed under a <a itemprop="license" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</a> license.
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Attribution-NonCommercial 4.0 International" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+      </a>
+    </p>
+  </div></div></footer><div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/2019/06/19/Race-and-IQ.html">Race and IQ</a></div></div></div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet --></div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main"><div itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Your Name"><meta itemprop="url" content="/"><meta itemprop="description" content="I am an amazing person."><div class="footer__author-links"><div class="author-links">
+  <ul class="menu menu--nowrap menu--inline"></ul>
+</div>
+</div>
+    </div><div class="site-info mt-2">
+      <div>© Your Site Title 2019,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  </div>
+</footer></div></div>
+    </div></div></div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"><script>
+(function () {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    // search panel
+    var search = (window.search || (window.search = {}));
+    var useDefaultSearchBox = window.useDefaultSearchBox === undefined ?
+      true : window.useDefaultSearchBox ;
+
+    var $searchModal = $('.js-page-search-modal');
+    var $searchToggle = $('.js-search-toggle');
+    var searchModal = $searchModal.modal({ onChange: handleModalChange, hideWhenWindowScroll: true });
+    var modalVisible = false;
+    search.searchModal = searchModal;
+
+    var $searchBox = null;
+    var $searchInput = null;
+    var $searchClear = null;
+
+    function getModalVisible() {
+      return modalVisible;
+    }
+    search.getModalVisible = getModalVisible;
+
+    function handleModalChange(visible) {
+      modalVisible = visible;
+      if (visible) {
+        search.onShow && search.onShow();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].focus();
+      } else {
+        search.onShow && search.onHide();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].blur();
+        setTimeout(function() {
+          useDefaultSearchBox && ($searchInput.val(''), $searchBox.removeClass('not-empty'));
+          search.clear && search.clear();
+          window.pageAsideAffix && window.pageAsideAffix.refresh();
+        }, 400);
+      }
+    }
+
+    $searchToggle.on('click', function() {
+      modalVisible ? searchModal.hide() : searchModal.show();
+    });
+    // Char Code: 83  S, 191 /
+    $(window).on('keyup', function(e) {
+      if (!modalVisible && !window.isFormElement(e.target || e.srcElement) && (e.which === 83 || e.which === 191)) {
+        modalVisible || searchModal.show();
+      }
+    });
+
+    if (useDefaultSearchBox) {
+      $searchBox = $('.js-search-box');
+      $searchInput = $searchBox.children('input');
+      $searchClear = $searchBox.children('.js-icon-clear');
+      search.getSearchInput = function() {
+        return $searchInput.get(0);
+      };
+      search.getVal = function() {
+        return $searchInput.val();
+      };
+      search.setVal = function(val) {
+        $searchInput.val(val);
+      };
+
+      $searchInput.on('focus', function() {
+        $(this).addClass('focus');
+      });
+      $searchInput.on('blur', function() {
+        $(this).removeClass('focus');
+      });
+      $searchInput.on('input', window.throttle(function() {
+        var val = $(this).val();
+        if (val === '' || typeof val !== 'string') {
+          search.clear && search.clear();
+        } else {
+          $searchBox.addClass('not-empty');
+          search.onInputNotEmpty && search.onInputNotEmpty(val);
+        }
+      }, 400));
+      $searchClear.on('click', function() {
+        $searchInput.val(''); $searchBox.removeClass('not-empty');
+        search.clear && search.clear();
+      });
+    }
+  });
+})();
+</script><div class="search search--dark">
+  <div class="main">
+    <div class="search__header">Search</div>
+    <div class="search-bar">
+      <div class="search-box js-search-box">
+        <div class="search-box__icon-search"><i class="fas fa-search"></i></div>
+        <input type="text" />
+        <div class="search-box__icon-clear js-icon-clear">
+          <a><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+      <button class="button button--theme-dark button--pill search__cancel js-search-toggle">
+        Cancel</button>
+    </div>
+    <div class="search-result js-search-result"></div>
+  </div>
+</div>
+<script>var SOURCES = window.TEXT_VARIABLES.sources;
+var PAHTS = window.TEXT_VARIABLES.paths;
+window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
+  var search = (window.search || (window.search = {}));
+  var searchData = window.TEXT_SEARCH_DATA || {};
+
+  function memorize(f) {
+    var cache = {};
+    return function () {
+      var key = Array.prototype.join.call(arguments, ',');
+      if (key in cache) return cache[key];
+      else return cache[key] = f.apply(this, arguments);
+    };
+  }
+
+  /// search
+  function searchByQuery(query) {
+    var i, j, key, keys, cur, _title, result = {};
+    keys = Object.keys(searchData);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      for (j = 0; j < searchData[key].length; j++) {
+        cur = searchData[key][j], _title = cur.title;
+        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
+          if (result[key] === undefined) {
+            result[key] = [];
+          }
+          result[key].push(cur);
+        }
+      }
+    }
+    return result;
+  }
+
+  var renderHeader = memorize(function(header) {
+    return $('<p class="search-result__header">' + header + '</p>');
+  });
+
+  var renderItem = function(index, title, url) {
+    return $('<li class="search-result__item" data-index="' + index + '"><a class="button" href="' + url + '">' + title + '</a></li>');
+  };
+
+  function render(data) {
+    if (!data) { return null; }
+    var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
+    keys = Object.keys(data);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      $root.append(renderHeader(key));
+      for (j = 0; j < data[key].length; j++) {
+        cur = data[key][j];
+        $root.append(renderItem(itemIndex++, cur.title, cur.url));
+      }
+    }
+    return $root;
+  }
+
+  // search box
+  var $result = $('.js-search-result'), $resultItems;
+  var lastActiveIndex, activeIndex;
+
+  function clear() {
+    $result.html(null);
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+  }
+  function onInputNotEmpty(val) {
+    $result.html(render(searchByQuery(val)));
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+    $resultItems.eq(0).addClass('active');
+  }
+
+  search.clear = clear;
+  search.onInputNotEmpty = onInputNotEmpty;
+
+  function updateResultItems() {
+    lastActiveIndex >= 0 && $resultItems.eq(lastActiveIndex).removeClass('active');
+    activeIndex >= 0 && $resultItems.eq(activeIndex).addClass('active');
+  }
+
+  function moveActiveIndex(direction) {
+    var itemsCount = $resultItems ? $resultItems.length : 0;
+    if (itemsCount > 1) {
+      lastActiveIndex = activeIndex;
+      if (direction === 'up') {
+        activeIndex = (activeIndex - 1 + itemsCount) % itemsCount;
+      } else if (direction === 'down') {
+        activeIndex = (activeIndex + 1 + itemsCount) % itemsCount;
+      }
+      updateResultItems();
+    }
+  }
+
+  // Char Code: 13  Enter, 37  ⬅, 38  ⬆, 39  ➡, 40  ⬇
+  $(window).on('keyup', function(e) {
+    var modalVisible = search.getModalVisible && search.getModalVisible();
+    if (modalVisible) {
+      if (e.which === 38) {
+        modalVisible && moveActiveIndex('up');
+      } else if (e.which === 40) {
+        modalVisible && moveActiveIndex('down');
+      } else if (e.which === 13) {
+        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+      }
+    }
+  });
+
+  $result.on('mouseover', '.search-result__item > a', function() {
+    var itemIndex = $(this).parent().data('index');
+    itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
+  });
+});
+</script></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $pageMask = $('.js-page-mask');
+    var $pageRoot = $('.js-page-root');
+    var $sidebarShow = $('.js-sidebar-show');
+    var $sidebarHide = $('.js-sidebar-hide');
+
+    function freeze(e) {
+      if (e.target === $pageMask[0]) {
+        e.preventDefault();
+      }
+    }
+    function stopBodyScrolling(bool) {
+      if (bool === true) {
+        window.addEventListener('touchmove', freeze, { passive: false });
+      } else {
+        window.removeEventListener('touchmove', freeze, { passive: false });
+      }
+    }
+
+    $sidebarShow.on('click', function() {
+      stopBodyScrolling(true); $pageRoot.addClass('show-sidebar');
+    });
+    $sidebarHide.on('click', function() {
+      stopBodyScrolling(false); $pageRoot.removeClass('show-sidebar');
+    });
+  });
+})();
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  var TOC_SELECTOR = window.TEXT_VARIABLES.site.toc.selectors;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window);
+    var $articleContent = $('.js-article-content');
+    var $tocRoot = $('.js-toc-root'), $col2 = $('.js-col-aside');
+    var toc;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+    var hasToc = $articleContent.find(TOC_SELECTOR).length > 0;
+
+    function disabled() {
+      return $col2.css('display') === 'none' || !hasToc;
+    }
+
+    tocDisabled = disabled();
+
+    toc = $tocRoot.toc({
+      selectors: TOC_SELECTOR,
+      container: $articleContent,
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      tocDisabled = disabled();
+      toc && toc.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script>
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>

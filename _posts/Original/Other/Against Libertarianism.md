@@ -1,0 +1,54 @@
+- Anarchists:
+    - deontological negative liberty
+    
+- Minarchists:
+    - If they are consequentialist about negative liberty, see below
+    - If they say they are deontologist about negative liberty, check for consistency:
+        - Me: Why police, military, courts but not education, healthcare, etc.
+        - Them: Because police, courts, etc. are necessary for a government with properties XYZ (minimum sized stable, cohesive, functional government)
+        - Me: How are you justified in forcing someone to pay into a system with properties XYZ if they don't care about XYZ?.
+            - Them: Because I care about XYZ, because that increases happiness, etc. 
+                - Me: The same argument can be used to support a socialist government.
+            - Them: Because I value deontological liberty.
+                - Me: deontological liberty gets you to anarchism, not minarchism.
+            - Them: Because I value consequential liberty
+                - Me: Check for consistency
+                - Me: You are okay with violating someone's liberty (e.g. via taxation) to prevent another liberty violation (e.g. assault)? What about these cases:
+                    - You need money to pay off a (kidnapping/property) ransom.
+                    - You need money to pay for repairment after an assault.
+                    - You need money to pay to nullify force of damage after an assault (e.g. property degradation, injected diseases).
+                    - All of these increase overall negative liberty, so you have to accept them. 
+                        - In the case of injected disease, this would mean a universal healthcare is justified so long as it treats diseases that were caused by a criminal. These treatments would be preventions of liberty violations, whereas treatments of unfortunate circumstances would not.
+
+- How to understand negative liberty that accounts for the following:
+    - Contract Reneging
+    - Fraud
+    - False advertising
+    - Defamation
+    - Threats
+    - Theft - requires a theory of property. Need a principle other than non-aggression. Taking resource X is not coercive.
+    - Not explicitly physical coercion.
+    - Why not say that the companies who engage with these practices will be outvoted in a free market
+             
+- Why care about (deontological or consequential) negative liberty?
+    - Imagine two options:
+        - Full negative liberty, no positive liberty (disability, no opportunity, etc.)
+            - Don't think I support this
+        - A lot of negative liberty, a lot of positive liberty (e.g. you are taxed, but no disabilities, you have opportunity, etc.).
+    - Minarchism maximizes positive liberty.
+        - So you're a consequentialist for positive liberty? Boom!
+
+- Conditions of Property acquisition
+    - No constraints
+        - Someone can own the entire ocean.
+        - So the governments own everything.
+    - Leave enough for equal share of everyone else
+        - Then we would never be able to really own anything, as there are 7 billion people on the planet.
+    - What about historically unjustly acquired property
+        - They own it now. Its war. 
+            - Oh, so you're not an anarchist. Since uses of force (i.e. war) can justly acquire resources. The NAP is not true.
+            - Well, governments have won wars, so they own it now.
+
+- A better libertarian theory (left-leaning libertarian; deontological indirect negative liberty)
+    - You can take as many resources as you want, but to the extent that others have been hindered from acquiring their proportionate share of resources because you took more than your disproportionate share, you owe others either (1) the excess resources or (2) compensation (e.g. profit) for your excess resources. Whether (1) or (2) depends on what the other individuals decide.
+    - Communal properties: the extent to which a community can enforce more positive, substantive laws, is based on the extent to which: (a) people are free to exit the community, (b) there is sufficient equal valuable resources outside of the community, and (c) the impact of these laws on the lives of others. This allows for, say, criminalizing certain drugs.

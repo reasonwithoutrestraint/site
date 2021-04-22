@@ -1,0 +1,76 @@
+header:
+  - title: Home
+    link: /
+  - titles:
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+    url: /archive.html
+  - titles:
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+    url: /about.html
+org:
+  - title: Philosophy
+    children:
+      - title: My Ethical Theories
+        children:
+          - title: Normative Talk
+            url: /2019/06/19/Normative-Talk.html
+          - title: Features of Normative Thought
+            url: /2019/06/19/Normative-Thought.html
+          - title: Theories of Normative Talk
+            url: /2019/06/19/Theories-of-Normative-Talk.html
+          - title: Normative Truth
+            url: /2019/06/19/Normative-Truth.html
+          - title: Moral Reasons
+            url: /2019/06/19/Moral-Reasons.html
+          - title: Substantive Morality
+            url: /2019/06/19/Substantive-Morality.html
+          - title: Political Philosophy
+            url: /2019/06/19/Political-Philosophy.html
+      - title: Criticisms
+        children:
+          - title: Descriptivism
+            url: /2019/06/19/Descriptivism.html
+          - title: Naturalism
+            url: /2019/06/19/Naturalism.html
+          - title: Non-Naturalism
+            url: /2019/06/19/Non-naturalism.html
+      - title: Topics
+        children:
+          - title: Abortion
+            url: /2019/06/19/Abortion.html
+          - title: Affirmative Action
+            url: /2019/06/19/Affirmative-Action.html
+          - title: Free Will 
+            url: /2019/06/19/Free-Will.html
+          - title: Determinism
+            url: /2019/06/19/Determinism.html
+  - title: Science
+    children:
+      - title: Race and IQ
+        url: /2019/06/19/Race-and-IQ.html

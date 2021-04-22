@@ -104,7 +104,8 @@ Miscellaneous
     - Book: David Enoch - _Taking Morality Seriously_ (ch. 3)
     - Book: Derek Parfit - _On what Matters_ (ch. 31)
     - Book: Michael Huemer - _Ethical Intuitionism_ (ch. 5 "Moral Knowledge")
-	- Book: Ralph Wedgwood - _The Nature of Normativity_ (chs. 3 & 7)
+	- Book: Ralph Wedgwood - _The Nature of Normativity (chs. 3 & 7)
+    - Book: Derek Parfit - _Reasons and Persons_
 - Sensibility
     - Essays: David Wiggins - "A Sensible Subjectivism" from _Needs, Values, Truth_
 	- Chapter: John McDowell - "Values and Secondary Qualities" from _Morality and Objectivity_
@@ -126,6 +127,19 @@ Miscellaneous
 	- Essay: Sharon Street - "A Darwinian Dilemma for Realist Theories of Value"
 	- Essay: Katia Vavova - "Evolutionary Debunking of Moral Realism"
 	- Essay: Erik J. Wielenberg - "On the Evolutionary Debunking of Morality"
+- Libertarians
+	- John Locke, Second Treatise of Civil Government
+	- Murray Rothbard, For a New Liberty
+	- Robert Nozick, Anarcy, State and Utopia
+	- John Stuart Mill, On Liberty
+	- Kantian contractualist (Gaus and, I think, Hayek)
+	- Hobbesian contractarian (Narveson, Gauthier), 
+	- Other Contractarian (Jan Narveson, The Libertarian Idea; Loren Lomasky, Persons, Rights, and the Moral Community).
+	- Natural Rights (Chartier, Mack), 
+	- Eudaemonist (Long, Den Uyl, Rasmussen, Rand)
+	- Rule-utilitarian (most economist libertarians, Friedman, Mises), 
+	- Institutional-consequentialist justifications (Schmidtz),
+	- Rossian pluralist (I think MZ counts here, and maybe Huemer).
 
 ## Anthologies/Overviews
 

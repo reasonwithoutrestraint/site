@@ -1,0 +1,94 @@
+----------------------
+I. No descriptive difference between an indeterministic and deterministic world
+
+The events in an indeterministic world could play out the same as our world. 
+
+The two worlds, descriptively, are the same.
+
+Imagine two worlds: 
+	one where quantum mechanics is random (current random), 
+	one where quantum mechanics is determined, but the events are identical to our own
+	This can be generalized to movements of photons, electrons, quarks, etc. all that make up the world.
+
+2 Routes from here:
+
+-> There is no real actual difference in reality
+-> We lack epistemic ability to identify if our world is one or the other.
+
+First, the metaphysical difference:
+--------------------
+
+II. There is no relevant difference between the two.
+
+Okay, so maybe free will supervene on other facts, facts that are neither logical in nature, nor metaphysical in nature, nor even descriptive in nature.
+
+What is the nature of these facts?
+
+There must be some fact P about indeterministic worlds, that are absent deterministic worlds.
+
+How can this be? If two worlds are descriptively identical, then how could they have different facts?
+
+-> Example: imagine non-physical facts that govern particular physical objects, but whereby the particular physical objects don't exist. 
+-> Then in what sense might it be said that those facts hold?
+-> It seems facts must be held the same if all of the physical facts are the same 
+	* Necessary facts are always fixed
+	* In what sense might contingent facts be said to be different
+
+------------------
+
+III: There is no important difference
+
+There is no way to interpret "could have done otherwise" in a way that requires indeterminism
+
+FOUR WORLDS:
+
+W1 - deterministic 	- A did X at time T
+W2 - deterministic	- A did Y at time T
+W3 - indeterministic	- A did X at time T
+W4 - indeterministic	- A did Y at time T
+
+----------------
+
+III.1: There is no metaphysical difference
+
+The difference between W1 & W2 = the difference between W3 & W4.
+
+Incompatiablist:
+-> At time T, all the facts about W3 and W4 are the same
+-> At time T, all the facts about W1 and W2 are not the same (namely, that certain things are determined) 
+-> Note that indetermined facts are not facts
+
+---------------
+
+III.2: Determinism is indetermined
+
+Me:
+-> At time T in W1/W2, it is also indetermined as to whether A will do X/Y
+-> There might be some fact F = "A is determined to do X"
+-> But is the following fact determined to hold?: "Fact F will hold always"
+
+Incompatibalist: 
+->
+
+---------------
+
+III.3: If there is some difference, it can have no implication on moral.
+
+There's a lot of place to limit scope when discussing whether A could have done otherwise. The question is what are we holding fixed
+
+-> Hold fixed his circumstances, allowing changes in will (compatibalist position)
+-> Hold fixed his character 
+-> Hold fixed all descriptive facts
+-> Hold fixed all facts, including deterministic facts (incompatibalist position)
+
+Examples of moral difference:
+-> ....
+
+None of these cases fit the current example
+
+-------------------
+
+
+
+
+

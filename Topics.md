@@ -1,4 +1,4 @@
-### Large intellectual YouTube channels with prepared content (TEST)
+### Large intellectual YouTube channels with prepared content
 
 Philosophy
 - CosmicSkeptic - 200k
