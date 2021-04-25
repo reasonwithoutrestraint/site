@@ -1,0 +1,1118 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Two arguments in defense of affirmative action - Reason Without Restraint</title>
+
+<meta name="description" content="Thomas Nagel (1981) distinguishes between two forms of affirmative action. “Weak” affirmative action refers to “to special efforts to ensure equal opportunit...">
+<link rel="canonical" href="http://localhost:4000/Affirmative-Action.html"><link rel="alternate" type="application/rss+xml" title="Reason Without Restraint" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets --><script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.4',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page layout--page--sidebar clearfix js-page-root">
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="page__viewport">
+    <div class="page__actions d-print-none">
+      <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+        <i class="fas fa-bars icon--show"></i>
+      </div>
+    </div>
+
+    <div class="grid page__grid">
+
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Philosophy </li><li class="toc-h2"><a href="/">Metaethics</a></li><li class="toc-h3"><a href="/Normative-Skepticism.html">Normative skepticism is unreasonable</a></li><li class="toc-h3"><a href="/Reasons-Internalism.html">Reasons Internalism: an argument by analogy with epistemic reasons</a></li><li class="toc-h2"><a href="/">Normative Ethics</a></li><li class="toc-h3"><a href="/Utilitarianism.html">Why Utilitarianism should be rejected</a></li><li class="toc-h3"><a href="/Consequentialism.html">Why Consequentialism should be rejected</a></li><li class="toc-h2"><a href="/">Political Philosophy</a></li><li class="toc-h3"><a href="/Ownership-Rights.html">A sketch of plausible libertarian ownership rights</a></li><li class="toc-h3"><a href="/State-Activities.html">State activities compatible with libertarian ownership rights</a></li><li class="toc-h3"><a href="/Anti-paralysis-Postulate.html">Delineating libertarian ownership rights: the anti-paralysis postulate</a></li><li class="toc-h3"><a href="/Mandatory-Taxation.html">A libertarian justification of mandatory taxation by the state</a></li><li class="toc-h2"><a href="/">Applied Ethics</a></li><li class="toc-h3"><a href="/Abortion.html">A defense of abortion: bodily integrity, responsibility, and deprivation</a></li><li class="toc-h3 active"><a href="/Affirmative-Action.html">Two arguments in defense of affirmative action</a></li><li class="toc-h1">Social Issues </li><li class="toc-h2"><a href="/Race-and-IQ.html">Race and IQ</a></li><li class="toc-h2"><a href="/Predictive-Validity.html">Predictive Validity</a></li></ul></div></div><div class="page__main js-page-main has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24">
+<style type="text/css">
+	.st0{fill:#515151;}
+</style>
+<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
+	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+</svg><a title="Your Site Description
+" href="/">Reason Without Restraint</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/">Home</a></li><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Two arguments in defense of affirmative action</h1></header><span class="split-space">&nbsp;</span>
+          <a class="edit-on-github"
+            title="Edit on Github"
+            href="https://github.com/user_name/repo_name/tree/master/_posts/Philosophy/Applied Ethics/2021-04-20-Affirmative Action.md">
+            <i class="far fa-edit"></i></a></div><meta itemprop="headline" content="Two arguments in defense of affirmative action"><div class="article__info clearfix"><ul class="right-col menu"><li><i class="fas fa-user"></i> <span>Jay M</span></li></ul></div><meta itemprop="author" content="Jay M"/><meta itemprop="datePublished" content="2021-04-20T00:00:00-07:00"><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><p><a href="http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006">Thomas Nagel (1981)</a> distinguishes between two forms of affirmative action. “Weak” affirmative action refers to “to special efforts to ensure equal opportunity for members of groups that had been subject to discrimination”. This can include public advertisement of positions to be filled, active recruitment of qualified applicants from the formerly excluded groups, and special training programs to help them meet the standards for admission or appointment. “Strong” affirmative action refers to “some degree of definite preference for members of these groups in determining access to positions from which they were formerly excluded.” The “weak” vs “strong” distinction has also been referred to as the “minimalist” vs “maximalist” distinction <a href="http://homepage.westmont.edu/hoeckley/readings/symposium/PDF/301_400/358.pdf">(Beauchamp 1998)</a> or the “procedural” vs “preferential” distinction. As Nagel and Beauchamp note, most people agree that “weak” or “procedural” affirmative action is justified (and perhaps even morally obligatory). However, there is significant controversy regarding “strong” or “preferential” forms of affirmative action. In this post, I will defend “strong or “preferential” affirmative action. Whenever I refer to “affirmative action” for the rest of this post, it will always be in reference to this strong or preferential form. A few clarifications are in order before proceeding:</p>
+
+<ul>
+  <li>My goal is to defend affirmative action by colleges and universities (as opposed to e.g. employers).</li>
+  <li>When I refer to affirmative action, I will specifically refer to admissions policies that give preferential treatment to underrepresented racial minorities, or URMs.</li>
+  <li>My defense of affirmative action is only intended to defend from charges that affirmative action should be opposed <em>because</em> it is an unjust form of (racial) discrimination. My defense is agnostic with respect to whether it should be opposed because of other reasons (e.g. because it is ineffective).</li>
+  <li>I’m only concerned with affirmative action within the United States.</li>
+</ul>
+
+<p>There are three main arguments commonly invoked to defend affirmative action <a href="https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf">(Tierney 1997)</a>:</p>
+
+<ol>
+  <li>The <em>compensatory</em> argument states that URMs should be granted preferential treatment by colleges and universities to compensate for past or historical discrimination against them or members of their racial group. See <a href="https://categoricalrigor.wordpress.com/wp-admin/%5Bhttps://www.jstor.org/stable/pdf/2265014.pdf?seq=1%5D(https://www.jstor.org/stable/pdf/2265014.pdf?seq=1)">Thompson (1973)</a> for some compensatory arguments (although her argument focused on the hiring decisions of employers).</li>
+  <li>The <em>diversity</em> argument justifies affirmative action based on the benefits of a more racially diverse student body (e.g. the benefit from being exposed to members of different races). See <a href="http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006">Nagel (1981)</a> and <a href="https://scholar.google.com/scholar?cluster=8304057655993507338&amp;hl=en&amp;as_sdt=0,48">Beauchamp (1998)</a> for such arguments.</li>
+  <li>The <em>corrective</em> argument claims that preference should be given to URMs in order to better select for the most qualified students (e.g. because a Black student’s score on standardized test might be artificially impaired due to disadvantaged schooling, stereotype threat, etc.). See <a href="http://link.springer.com/article/10.1023/A:1006401619357">Himma (2001)</a> for some corrective arguments.</li>
+</ol>
+
+<p>I will not rely on any of these arguments (see <a href="https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf">Tierney (1997)</a> for objections). Instead, I will provide two separate arguments in defense of affirmative action that are based on principles that I believe almost everyone accepts. The first is an argument based on analogy with preferential treatment to students from low socioeconomic statuses (low-SES students). The second argument is more specific in that it only applies to private universities. This second argument is based on a general “presumption of freedom” that should be granted to all private entities. I’ll now begin with the first argument.</p>
+
+<h2 id="preferential-treatment-based-on-socioeconomic-status">Preferential treatment based on socioeconomic status</h2>
+
+<hr />
+
+<p>This argument is based on an analogy between URMs and low-SES students. The basic structure of the argument as follows:</p>
+
+<ol>
+  <li>Preferential treatment to low-SES students is not an instance of unjust discrimination.</li>
+  <li>If preferential treatment to low-SES students is not an instance of unjust discrimination, then preferential treatment to URMs is also not an instance of unjust discrimination.</li>
+  <li>Therefore, preferential treatment to URMs is not an instance of unjust discrimination.</li>
+</ol>
+
+<ul>
+  <li>Note: when I say that X is not an unjust instance of discrimination, what I really mean is that X is not wrong (or bad, or impermissible, or ought to be avoided, etc.) <em>because</em> it is an unjust instance of discrimination (I use the former wording because it is far more convenient). X may very well be wrong for other reasons, but if it is, it is not <em>made</em> wrong by the fact that it is an unjust instance of discrimination. For example, imagine that giving preferential treatment to low-SES students resulted in worse outcomes for those students because they were placed in academic environments in which they lacked the necessary preparation. It is coherent for someone to say that this preferential treatment is bad <em>because</em> of these negative consequences, but not <em>because</em> it’s an instance of unjust discrimination. This is because such a person might believe that the treatment would not be bad if the negative consequences were not present. On the other hand, if someone believed that preferential treatment to low-SES students <em>was</em> an unjust form of discrimination (i.e. it’s wrong <em>because</em> it’s an unjust form of discrimination), then they might say that such treatment would be bad (or wrong) <em>even if</em> these negative consequences were not present.</li>
+</ul>
+
+<p>I do not believe that a substantial defense of premise 1 is needed. Most people believe that universities should grant preferential treatment to low-SES students. A 2016 Gallup poll shows that <a href="https://news.gallup.com/poll/193508/oppose-colleges-considering-race-admissions.aspx">61% of Americans</a> believe that a student’s economic circumstances be a factor in college admissions. Also, a 2018 <a href="https://dailyfreepress.com/2018/09/21/americans-favor-diversity-on-college-campuses-according-to-boston-based-poll/">Boston-based poll</a> found that <a href="https://www.wgbh.org/news/education/2018/09/16/wgbh-news-higher-education-poll-top-line-data">83% of Americans</a> believe that colleges should consider whether a prospective student has overcome hardships such as poverty or health problems in admissions decisions. Because most people already agree that we should support preferential treatment for students from low-SES backgrounds, I will not bother defending premise 1. Instead, I will be assuming most people’s intuitions are correct here: preferential treatment to low-SES students is not an instance of unjust discrimination.</p>
+
+<p>The controversial premise of the argument is premise 2. My argument for premise 2 will be as follows.</p>
+
+<ol>
+  <li>If preferential treatment to low-SES students is not an instance of unjust discrimination and if the justification of preferential treatment to low-SES students also applies to URMs, then preferential treatment to URMs is also not an instance of unjust discrimination.</li>
+  <li>The justification of preferential treatment to low-SES students also applies to URMs.</li>
+  <li>Therefore, if preferential treatment to low-SES students is not an instance of unjust discrimination, then preferential treatment to URMs is also not an instance of unjust discrimination.</li>
+</ol>
+
+<p>Again, I don’t think the first premise here requires much support. It basically amounts to saying we should treat like cases alike. If two behaviors are equally justified, and if one behavior is not unjust, then the other behavior is also not unjust. I very much doubt anyone rejects this. So the controversy is around the second premise: that the justification of preferential treatment to low-SES students also applies to URMs. To evaluate this claim, first we must determine what is the justification for preferential treatment to low-SES students.</p>
+
+<p>It seems to me that the justification of preferential treatment to low-SES students is the fact that such students are <em>disadvantaged</em>. In fact, when people object to affirmative action, rarely do they deny that disadvantaged students should be given preferential treatment. Rather, the objection is almost always to propose SES-based preferential treatment as a superior method to account for a student’s disadvantage. Now, the question is whether URMs are also disadvantaged. It seems quite clear to me that they are, and I doubt anyone would seriously deny this (assuming one grants that low-SES students are disadvantaged). Whatever metrics one uses to indicate that low-SES students are disadvantaged (e.g. school quality, single parenthood, income, violent neighborhoods, parental education, etc.) also apply to URMs. However, some people deny that this justifies preferential treatment based on race in a way that is comparable to SES. The only good rationale for treating race and SES differently in this respect is an assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. I will argue that this assumption is actually false, undermining the rationale for treating SES and race differently.</p>
+
+<ul>
+  <li>Before proceeding, I would like to note that my argument here is agnostic with respect to the <em>cause</em> of the disadvantages faced by low-SES students and URMs. Some posit systemic racism, lack of motivation, lack of role models, cultural deficiencies and others even posit genetic explanations. I offer no <em>causal</em> explanations of the disadvantages here.</li>
+</ul>
+
+<p>Now, let’s evaluate the assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. In order to do this, we must do two things. Firstly, we need to determine what evidence supports the claim that low-SES students are disadvantaged. Secondly, we need to determine whether this evidence also exists for URMs <em>after controlling for SES</em>. If so, we should reject the assumption that the disadvantage faced by URMs is mostly explained by their low-SES status.</p>
+
+<ol>
+  <li>Firstly, what evidence exists for the claim that low-SES students are disadvantaged in the first place? I mentioned factors like school quality, low income, single parenthood, violent neighborhoods, parental education, etc. But why are these characteristics instances of or evidence of <em>disadvantage</em>? Why not say that wealthy students are disadvantaged because they lack the opportunity to develop the perseverance and “grit” that poor students develop? Whether low-SES or high-SES students are more disadvantaged is an empirical question, so it must be resolved by appeal to empirical evidence. It seems to me that the only good empirical evidence for the claim that low-SES students are disadvantaged is the statistical fact that these students tend to score poorly according to traditional admission standards by universities. For example, the fact that low-SES students tend to have poor SAT scores is evidence that these students are relevantly disadvantaged. On the other hand, while there may be some merit to the idea that high-SES students lack “grit” or perseverance, we know that these students are not disadvantaged (in the relevant sense here) because they score relatively well on admissions standards. So the empirical evidence for whether a group is disadvantaged reduces to how well that group performs according to traditional admissions standards.</li>
+  <li>Secondly, does this evidence also apply to URMs after controlling for SES? That is, is there evidence that URMs perform poorly according to traditional admissions standards <em>after controlling for SES</em>? The answer is a resounding “Yes”. Consider the following data points.
+    <ul>
+      <li>URMs perform significantly worse on standardized test scores <em>even after</em> controlling for SES. For example, most of the Black-White gap in SAT scores remains even after controlling for income. In fact, in 2005, the Black-White gap in SAT scores was 204 points, but the mean SAT score for Whites from families earning less than $10,000 was 129 points higher than the mean SAT score for <em>all</em> Blacks [<a href="http://www.jbhe.com/features/49_college_admissions-test.html">source</a>].</li>
+      <li>Studies find that racial disparities in other measures of cognitive ability do not shrink much even after controlling for SES. For example, in <em>The Black-White Test Score Gap</em>, <a href="https://www.brookings.edu/wp-content/uploads/2013/01/9780815746096_chapter1.pdf">Jencks and Phillips (1998)</a> measured the scores of Black and White children taking the Peabody Picture Vocabulary Test (PPVT). The Black children scored about 16 points lower than the White children on these tests. However, the authors report that “a two-year reduction in the black-white education gap among mothers would cut the PPVT gap by about a point” (page 22), “eliminating black-white income differences would cut the PPVT gap by less than 1 point” (page 23) and “children who have grown up in an intact family score no higher on the PPVT than children from single-parent families” (page 23).</li>
+    </ul>
+  </li>
+</ol>
+
+<p>So controlling for traditional measures of SES - e.g. income, parental education, family structure, etc. - does not reduce most of the Black-White gap on traditional admissions standards. Thus, we have evidence that the disadvantage experienced by URMs (at least Black students. I assume similar patterns can be found for other URMs) is <em>not</em> mostly explained by their low-SES status. But recall that the only good rationale for treating race and SES differently (with respect to preferential treatment by colleges) is an assumption that the disadvantage faced by URMs is mostly explained by their low-SES status. Since this assumption is false, there is no good rationale for treating SES and race differently (with regard to preferential treatment by colleges). The fact that there is no good rationale for treating SES and race differently (with regard to preferential treatment by colleges) suffices to show that premise 2 of my argument is true: if preferential treatment to low-SES students is not an instance of unjust discrimination, then preferential treatment to URMs is also not an instance of unjust discrimination. Since I’m assuming premise 1 of my argument is also true - preferential treatment to low-SES students is not an instance of unjust discrimination - the conclusion of my argument follows: preferential treatment to URMs is also not an instance of unjust discrimination.</p>
+
+<h2 id="the-freedom-to-discriminate">The freedom to discriminate</h2>
+
+<hr />
+
+<p>My other argument for affirmative action is based on a general freedom to discriminate that I believe all private persons and companies should be afforded. The conclusion of my argument here is different from my earlier argument in the following two respects:</p>
+
+<ol>
+  <li>This argument is limited to <em>private</em> universities (governments should not have all of the same freedoms to discriminate that private individuals should have).</li>
+  <li>This argument only defends the <em>legal</em> right to discriminate; it is not meant to defend the <em>moral permissibility</em> of such discrimination.</li>
+</ol>
+
+<p>Call this the <em>Freedom Argument</em>. The basic structure is as follows:</p>
+
+<ol>
+  <li>We ought to grant private entities the legal freedom to discriminate based on any features that they please, except in cases where we are provided with sufficiently strong reason to restrict this freedom.</li>
+  <li>We have not been provided with sufficiently strong reason to restrict a private universities’ freedom to discriminate prospective students based on race.</li>
+  <li>Therefore, we ought to grant private universities the legal freedom to discriminate prospective students based on race (which includes the practice of affirmative action).</li>
+</ol>
+
+<h3 id="burden-of-proof">Burden of proof</h3>
+
+<p>I should emphasize that the first premise does not imply that all instances of discrimination ought to be permitted. The premise only establishes that in a moral dispute concerning whether to legally permit an instance of discrimination, the party in favor of outlawing such discrimination has the “burden of proof” to provide sufficiently strong reasons to deny this freedom. This principle is similar to the <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence">“presumption of innocence”</a> principle in law. The prosecutor in a criminal case has the burden to prove “beyond a reasonable doubt” that the defendant is guilty. It is not the defendant’s job to prove that they’re innocent. In the absence of sufficient proof from the prosecutor, we should declare the defendant not guilty, i.e. the defendant is “innocent until proven guilty”. Likewise, the first principle of my argument here should be read as a “presumption of freedom”. In the absence of sufficiently strong reasons to deny a private entity the freedom to practice a certain form of discrimination, we ought to legally permit the discrimination. In other words, we should grant private entities a <em>default</em> freedom to discriminate as they please, which holds unless we are provided with strong reasons to override this default in particular cases.</p>
+
+<p>Like my first argument, it seems to me that the first premise of the <em>Freedom Argument</em> does not require much defense. This premise must be accepted for essentially any private corporation to feasibly operate. All employers discriminate between applicants based on skill, knowledge, traits, etc. Universities also discriminate based on academic achievement, intelligence, extra-curricular activities, athletic ability, etc. We need to be given strong reasons before we outlaw a particular form of discrimination, but we do not need strong reasons before we legally permit a particular form of discrimination. Again, I doubt that most people oppose this first premise, so I will not spend more time defending it.</p>
+
+<p>The controversy, then, concerns the truth of premise 2, i.e. whether we have been provided with sufficiently strong reason to restrict private universities’ freedom to discriminate prospective students based on race. I will consider a variety of arguments that present the strongest of such reasons (that I’ve seen). In the end, I will argue that all of these arguments fail. None of the proposed reasons meet the “burden of proof” required to override a private entity’s default freedom to discriminate as they please.</p>
+
+<h3 id="bad-reasons">Bad reasons</h3>
+
+<p>Let’s begin by considering some obviously bad reasons in favor of outlawing affirmative action.</p>
+
+<ol>
+  <li><em>Affirmative action is against the law</em>. Firstly, this is not even true in all areas. Secondly, and more importantly, this is a straightforwardly fallacious <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-the-Law">appeal to legality</a>. The fact that the law permits or forbids certain conduct does not suggest that such conduct <em>should</em> be permitted or forbidden. To say otherwise implies that the law should never change, which is absurd. I’m sure I don’t need to list examples of laws that should (or should have been) changed.</li>
+  <li><em>The public disapproves of affirmative action</em>. Firstly, <a href="https://news.gallup.com/poll/247046/americans-support-affirmative-action-programs-rises.aspx">it’s not even clear</a> if this is true. Secondly, this is a fallacious <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum">appeal to popularity</a>. Society can be <em>wrong</em> in their approval or disapproval. To say otherwise implies that society should never change its current norms for approval or disapproval, which is clearly absurd. Again, I need not list examples where society should change (or should have changed) its norms for approval and disapproval. Thirdly, and most importantly, even if society is correct to disapprove of affirmative action, that does not imply that affirmative action should be illegal. For example, society should disapprove of adulterers, but this does not imply that adultery should be illegal.</li>
+  <li><em>Universities benefit heavily from the government</em>. The reasoning goes as follows: private universities (and other private institutions) benefit from the government through government-subsidized police protection, military protection, economic regulations, subsidies, etc. which are essential to the institution’s prosperity. Therefore, the government should ban private universities from practicing affirmative action (and from discriminating against a sacred group of “protected classes”). The problem with this is that a similar argument can be used to show that the government is permitted to ban, say, interracial marriage. After all, private <em>individuals</em> benefit from the government just as much as private companies. Further, surely there are <em>some</em> aspects of <em>some</em> private entity’s conduct that should <em>not</em> be controlled by the government (e.g. whether a sports apparel store sells basketball jerseys or football jerseys). These examples show that the fact that the government provides substantial benefit to an entity does not tell us <em>how</em> the government should regulate that entity.</li>
+  <li><em>Affirmative Action is an instance of racial discrimination</em>. The problem with this is that there are plenty of instances of racial discrimination that should not be forbidden. For example, casting directors for movies and television shows frequently discriminate prospective actors and actresses based on race. Surely, these instances of racial discrimination should not be illegal.</li>
+</ol>
+
+<p>These are all bad arguments. None of them provide sufficiently strong reasons to deny a university’s general freedom to discriminate. All of them can be shown to lead to absurd conclusions by applying the reasoning to other circumstances. So none of the arguments here meet the “burden of proof” required to override a private entity’s default freedom to discriminate as they please.</p>
+
+<h3 id="arbitrariness">Arbitrariness</h3>
+
+<p>Now someone might respond by saying that affirmative action ought to be opposed because race is an <em>arbitrary</em> feature with respect to university admissions. Private universities are only trying to sell a quality education, and the racial makeup of a campus’s student body has no direct influence on the quality of the education of its students. Call this the <em>Arbitrariness Argument</em> against affirmative action. The argument can be put roughly as follows.</p>
+
+<ol>
+  <li>Race is an arbitrary trait of prospective university students.</li>
+  <li>All instances of discrimination based on arbitrary traits should be illegal.</li>
+  <li>Affirmative action involves discrimination based on the race of prospective students.</li>
+  <li>Therefore, affirmative action should be illegal.</li>
+</ol>
+
+<p>The <em>Arbitrariness Argument</em> seems intuitive. It explains why it seems that racial discrimination should almost always be illegal. The reason is that racial discrimination is almost always arbitrary. Most jobs require you to apply manual labor or process information, which usually has nothing to do with race. But if we imagine cases where race <em>is</em> a relevant characteristic (e.g. casting for a movie), we see that racial discrimination ought to be legal. This argument can also explain why discrimination seems wrong when it has nothing to do with race. For example, it can explain why it seems wrong for a company to discriminate against a candidate based on, say, blood type, assuming blood type is an arbitrary feature with respect to the position. So it <em>seems</em> that the arbitrariness of an instance of discrimination can meet the “burden of proof” that is demanded by the <em>Freedom Argument</em>.</p>
+
+<p>To address the <em>Arbitrariness Argument</em>, we must first clearly define what is meant by “arbitrary”. Let us do so by considering the following scenario. Imagine an employer, Evan, must choose between two candidates for a job, Mark and Lewis. Mark is more qualified than Lewis. However, based on interviews with both candidates, Evan predicts that Lewis, while less qualified, will be considerably more pleasant to be around than Mark because Lewis has a more compatible personality. So Evan decides to hire Lewis over Mark. I don’t think most people believe that Evan’s decision should be legal, so I will not bother defending Evan’s legal right to make this decision. Instead, I will assume that most people’s intuitions here are correct: the preferential treatment by Evan should <em>not</em> be illegal. The question is whether the preferential treatment by Evan is <em>arbitrary</em>. More specifically, the question is whether the pleasantness of Lewis is an arbitrary trait with respect to his position (using the definition of “arbitrary” as it is used in the <em>Arbitrariness Argument</em>). There are two possible answers: either Lewis’s pleasantness <em>is</em> an arbitrary trait, or Lewis’s pleasantness is <em>not</em> an arbitrary trait. Either answer, I will argue, implies that the <em>Arbitrariness Argument</em> is unsound.</p>
+
+<ol>
+  <li>The first possible answer is that Lewis’s pleasantness <em>is</em> an arbitrary trait. However, if that is true, then Evan’s choice of Lewis over Mark would be an instance of arbitrary discrimination that should not be illegal (remember, I’m assuming that Evan’s decision should not be illegal here, in line with most people’s intuitions). This means that not all instances of discrimination based on arbitrary traits ought to be illegal, which means premise 2 of the <em>Arbitrariness Argument</em> is false, rendering the argument unsound.</li>
+  <li>The second possible answer is that Lewis’s pleasantness is <em>not</em> an arbitrary trait. The natural response now is to demand an explanation as to <em>why</em> Lewis’s pleasantness is not an arbitrary trait. After all, Lewis was the lesser qualified candidate. What else could we mean by “arbitrary trait” if not a trait that does not influence a candidate’s qualifications?
+    <ul>
+      <li>One explanation is to say that Lewis’s pleasantness is not an arbitrary trait because what makes a trait arbitrary just depends on the preference of the employer. So, on this explanation, if an employer prefers trait X (where X is intelligence, strength, productivity, or even pleasantness), then X is, by definition, not arbitrary. However, this argument implies that no preference by a private entity is ever arbitrary. This means that race is <em>not</em> an arbitrary trait of prospective students for universities that practice affirmative action, since such universities clearly prefer that their campuses have a certain racial makeup. This implies that premise 1 of the <em>Arbitrariness Argument</em> is false, rendering the argument unsound.</li>
+      <li>An alternative explanation is to say that Lewis’s pleasantness is not an arbitrary trait because the pleasantness of a company’s employees advances the company’s <em>economic interests</em> (perhaps more pleasant employees improve the mood of other workers, which in turn promotes employee productivity). Let’s assume this explanation is adequate. However, if we accept this explanation, then race would <em>not</em> be an arbitrary trait of prospective university students. The racial makeup of a university’s campus <em>does</em> advance the university’s economic interests. This is because private universities don’t aim to merely sell libraries and lectures, and prospective students do not merely desire libraries and lectures. Universities also aim to offer a college campus with an “atmosphere” that appeals to prospective students. For example, universities commonly promote “racially diverse” campuses to prospective students. In fact, <a href="https://dailyfreepress.com/2018/09/21/americans-favor-diversity-on-college-campuses-according-to-boston-based-poll/">86% of Americans</a> believe it is at least somewhat important to strive for an ethnically diverse student body at universities. In other words, students are not just the <em>consumers</em> of a university; they also play a direct role in creating <em>the product</em> (in the same way that actors and actresses are related to movies and plays). Thus, if we accept this second explanation for why Lewis’s pleasantness is not an arbitrary trait (that pleasantness advances the company’s economic interests), then <em>race</em> is also not an arbitrary trait of prospective university students (because racial diversity advances a university’s economic interests). This implies that premise 1 of the <em>Arbitrariness Argument</em> is false, rendering the argument unsound.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>There may be alternative explanations for why Lewis’s pleasantness is not an arbitrary trait. However, it seems to me that the two explanations that I have considered are the most plausible explanations. If that’s correct, then on the most plausible explanation for why Lewis’s pleasantness is not an arbitrary trait, the <em>Arbitrariness Argument</em> is unsound. On the other hand, as I argued earlier, if Lewis’s pleasantness <em>is</em> an arbitrary trait, then the <em>Arbitrariness Argument</em> would still be unsound. Thus, we should conclude that the <em>Arbitrariness Argument</em> is unsound. Since the <em>Arbitrariness Argument</em> is unsound, it obviously fails to meet the burden presented by the <em>Freedom Argument</em> that I gave earlier. The “arbitrariness” of an instance of discrimination does not constitute sufficiently strong reason to override a private entity’s default freedom to discriminate as they please.</p>
+
+<ul>
+  <li>As a small aside: if this still seems unintuitive, consider the fact that many universities already practice a similar form of discrimination in the form of sex-based discrimination. The most extreme form of discrimination of this kind comes from women’s colleges and men’s colleges, universities that only allow students of a certain sex. Many other colleges also perform sex-based discrimination for the opposite goal, to maintain a roughly even male:female ratio on campus. Most do not believe that such institutions should be outlawed. The reason is that the sexual makeup of the student campus is clearly an essential part of the product that these colleges wish to sell, which means the sex of the students is not arbitrary. I see no reason to treat race-based discrimination (i.e. affirmative action) any differently.</li>
+</ul>
+
+<h3 id="deprivation">Deprivation</h3>
+
+<p>In the previous section, I argued that the <em>Arbitrariness Argument</em> fails because affirmative action is not arbitrary because the racial makeup of a university’s campus is relevant to the university’s economic goals. In actuality, I don’t believe that arbitrariness matters at all. Even if race is a completely arbitrary trait of prospective students, private universities should still be permitted to practice affirmative action. Why should a private entity not be permitted to discriminate on arbitrary grounds? After all, these entities are (and should be) permitted to make all kinds of arbitrary decisions. For example, a sports apparel store’s decision to sell basketball versus football sportswear, a baker’s decision to sell strawberry versus chocolate cake, a restaurants decision to offer hamburgers versus tacos, etc. could very well be arbitrary decisions. Assuming these are all arbitrary decisions, should they be outlawed? Of course not.</p>
+
+<p>So what makes arbitrary decisions regarding <em>discrimination</em> special? Why treat this differently than the countless other arbitrary decisions that companies make? I believe the answer is that discrimination can cause the perpetual deprivation of disenfranchised (usually minority) populations. If there is rampant discrimination against a particular group, then this can leave the group without adequate access to vital resources such as healthcare, education, occupation, housing, etc. In fact, I believe that our strong intuitions against discrimination (especially racial discrimination) are explained by a subconscious association between discrimination and deprivation due to the troubled history of minorities (particularly Black people) in America. If not for this troubled history, I believe we would not treat arbitrary discrimination any differently than any other arbitrary decision that companies constantly make.</p>
+
+<p>I actually agree with the importance of deprivation with regard to discrimination. In fact, I believe that the fact that an instance of discrimination can cause rampant deprivation meets the “burden of proof” demanded by the <em>Freedom Argument</em>. Avoiding immense suffering to a particular group certainly constitutes sufficiently strong reason to override a private entity’s default freedom to discriminate. This suggests that there isn’t anything inherently problematic about arbitrary discrimination that warrants outlawing it. Rather, it’s the association with systemic deprivation that matters. This suggests a standard that must be met to justify outlawing a particular form of discrimination, namely whether that form of discrimination will likely result in immense deprivation for a particular group. If forms of discrimination deprive certain groups of vital resources, then such discrimination should be restricted (regardless of whether the discrimination is arbitrary). For example, many instances of discrimination against the handicapped are clearly <em>not</em> arbitrary (since such discrimination might advance a company’s interests), but we are justified in restricting some of these instances of discrimination because the consequences for the handicapped can be dire otherwise. On the other hand, if forms of discrimination do <em>not</em> deprive anyone of vital resources, then such discrimination should <em>not</em> be restricted (regardless of whether the discrimination is arbitrary).</p>
+
+<p>Using this standard, it seems quite clear to me that affirmative action by private universities <em>should</em> be legal. The students who are rejected admission to universities due to affirmative action almost certainly will not experience immense deprivation as a result. This is because most colleges are not very selective. In fact, <a href="https://www.pewresearch.org/fact-tank/2019/04/09/a-majority-of-u-s-colleges-admit-most-students-who-apply/">most colleges admit most of their applicants</a>. So the students who are rejected admissions due to affirmative action are primarily students who were rejected by fairly elite universities. These students - i.e. those who <em>would</em> have been accepted into an elite university if not for affirmative action - overwhelmingly come from upper- and upper-middle-class households and overwhelmingly experience comparable economic success in their adulthood. These rejected students usually resort to attending either a different elite university or a slightly less selective university. If there is any systemic, aggregate “harm” to these students, it is relatively minor, e.g. instead of rising to the <em>upper-uppe_r-middle class as adults, they “merely” rise to the _upper</em>-middle-class. This “harm” does not meet the “burden of proof” demanded by the <em>Freedom Argument</em>. The fact that fairly wealthy students are made slightly less wealthy due to affirmative action is not sufficiently strong reason to override a private university’s default freedom to discriminate as they please.</p>
+
+<h3 id="the-burden-is-not-met">The burden is not met</h3>
+
+<p>Allow me to recap the points made in this argument. First, I presented my <em>Freedom Argument</em> in defense of affirmative action, which maintains that a “burden of proof” must be satisfied by those who endorse restricting a private entity’s legal freedom to discriminate as they please. We need to be provided with sufficiently strong reason to override this default freedom. Next, I considered some straightforwardly bad arguments that fail to meet this burden, e.g. arguments based on public opinion or arguments that prohibit <em>all</em> instances of racial discrimination. Then I considered the <em>Arbitrariness Argument</em>, but concluded that it is unsound and therefore fails to meet the “burden of proof”. Lastly, I admitted that the systemic deprivation <em>does</em> meet the burden presented by the <em>Freedom Argument</em>, but objected that affirmative action does not cause such deprivation. Therefore, none of the arguments considered thus far provide sufficiently strong reason to deny private universities the legal freedom to practice affirmative action.</p>
+
+<p>Of course, someone could imagine <em>other</em> arguments that attempt to present sufficiently strong reason to outlaw affirmative action. I cannot currently prove that all such future arguments will fail. However, I believe that the arguments that I considered here are the strongest arguments against the legalization of affirmative action (at least to my knowledge). So, while I cannot prove that all future arguments against affirmative action fail, I think the failure of the strongest arguments presented thus far provides strong inductive reason to believe that any future arguments will likewise fail. Regardless, until we are presented with such arguments and we are shown that they provide sufficiently strong reason to outlaw affirmative action (i.e. sound arguments that do not lead to absurd consequences), private universities should be legally permitted to practice affirmative action.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<hr />
+
+<p>This concludes my defense of affirmative action. Recall from my introduction that this was a “defense” in a fairly limited sense. My goal here was merely to show that affirmative action is not an unjust form of discrimination. If affirmative action ought to be opposed, it is not <em>because</em> it’s an unjust form of discrimination. However, affirmative action may very well be worth opposing for other reasons. For example, there is <a href="https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/">controversy</a> regarding whether URMs are actually harmed by affirmative action because of “mismatch theory”, which is the idea that affirmative action beneficiaries are placed into academic environments that teach “above” their ability or preparedness. I make no claims about whether affirmative action ought to be opposed on these grounds. The purpose of this post was merely to argue that affirmative action should not be opposed on the grounds that it is an unjust form of discrimination.</p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<p>General</p>
+
+<ul>
+  <li>Robert Fullinwider (2018) - <a href="https://plato.stanford.edu/entries/affirmative-action/">“Affirmative Action”</a> <em>Stanford Encyclopedia of Philosophy</em></li>
+  <li>John Hasnas (2002) - <a href="https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3857&amp;context=flr">“Equal Opportunity, Affirmative Action, and the Anti-Discrimination Principle: The Philosophical Basis for the Legal Prohibition of Discrimination”</a></li>
+  <li>Michel Rosenfeld (1985) - <a href="https://pdfs.semanticscholar.org/bb4c/8b7a433cc82d1f8f84086ed1177246069077.pdf">“Affirmative Action, Justice, and Equalities: A Philosophical and Constitutional Appraisal”</a></li>
+</ul>
+
+<p>Arguments in support of Affirmative Action</p>
+
+<ul>
+  <li>Judith Jarvis Thomson (1973) - <a href="https://www.jstor.org/stable/pdf/2265014.pdf?seq=1">“Preferential Hiring”</a></li>
+  <li>Thomas Nagel (1981) - <a href="http://ojs2.gmu.edu/PPPQ/article/viewFile/1258/1006">“A defense of Affirmative Action”</a></li>
+  <li>William G. Tierney (1997) - <a href="https://www.researchgate.net/profile/William_Tierney/publication/249797704_The_Parameters_of_Affirmative_Action_Equity_and_Excellence_in_the_Academy/links/545118e40cf285a067c681f8.pdf">“The Parameters of Affirmative Action: Equity and Excellence in the Academy”</a></li>
+  <li>Beauchamp (1998) - <a href="https://scholar.google.com/scholar?cluster=8304057655993507338&amp;hl=en&amp;as_sdt=0,48">“In defense of Affirmative Action”</a></li>
+</ul>
+
+<p>Arguments against Affirmative Action</p>
+
+<ul>
+  <li>Robert Simon (1974) - <a href="https://www.jstor.org/stable/2264983?seq=1">“Preferential Hiring: A Reply to Judith Jarvis Thomson”</a></li>
+  <li>Terry Eastland (1992) - <a href="https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1827&amp;context=wmlr">“The Case Against Affirmative Action”</a></li>
+  <li>Louis P. Pojman (1998) - <a href="https://pdfs.semanticscholar.org/20cf/6e192eab2da0f267e90dd1fb24b694c6191d.pdf]">“The Case Against Affirmative Action”</a></li>
+</ul>
+</div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-04-20T00:00:00-07:00"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet --><div class="article__subscribe"><div class="subscribe"><i class="fas fa-rss"></i> <a type="application/rss+xml" href="/feed.xml">Subscribe</a></div></div><div class="article__license"><div class="license">
+    <p>This work is licensed under a <a itemprop="license" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</a> license.
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Attribution-NonCommercial 4.0 International" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+      </a>
+    </p>
+  </div></div></footer><div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/Predictive-Validity.html">Predictive Validity</a></div></div></div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet --></div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main"><div itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jay M"><meta itemprop="url" content="/"><meta itemprop="description" content="This is my bio"><div class="footer__author-links"><div class="author-links">
+  <ul class="menu menu--nowrap menu--inline"></ul>
+</div>
+</div>
+    </div><div class="site-info mt-2">
+      <div>© Reason Without Restraint 2019,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  </div>
+</footer></div></div>
+    </div></div></div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"><script>
+(function () {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    // search panel
+    var search = (window.search || (window.search = {}));
+    var useDefaultSearchBox = window.useDefaultSearchBox === undefined ?
+      true : window.useDefaultSearchBox ;
+
+    var $searchModal = $('.js-page-search-modal');
+    var $searchToggle = $('.js-search-toggle');
+    var searchModal = $searchModal.modal({ onChange: handleModalChange, hideWhenWindowScroll: true });
+    var modalVisible = false;
+    search.searchModal = searchModal;
+
+    var $searchBox = null;
+    var $searchInput = null;
+    var $searchClear = null;
+
+    function getModalVisible() {
+      return modalVisible;
+    }
+    search.getModalVisible = getModalVisible;
+
+    function handleModalChange(visible) {
+      modalVisible = visible;
+      if (visible) {
+        search.onShow && search.onShow();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].focus();
+      } else {
+        search.onShow && search.onHide();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].blur();
+        setTimeout(function() {
+          useDefaultSearchBox && ($searchInput.val(''), $searchBox.removeClass('not-empty'));
+          search.clear && search.clear();
+          window.pageAsideAffix && window.pageAsideAffix.refresh();
+        }, 400);
+      }
+    }
+
+    $searchToggle.on('click', function() {
+      modalVisible ? searchModal.hide() : searchModal.show();
+    });
+    // Char Code: 83  S, 191 /
+    $(window).on('keyup', function(e) {
+      if (!modalVisible && !window.isFormElement(e.target || e.srcElement) && (e.which === 83 || e.which === 191)) {
+        modalVisible || searchModal.show();
+      }
+    });
+
+    if (useDefaultSearchBox) {
+      $searchBox = $('.js-search-box');
+      $searchInput = $searchBox.children('input');
+      $searchClear = $searchBox.children('.js-icon-clear');
+      search.getSearchInput = function() {
+        return $searchInput.get(0);
+      };
+      search.getVal = function() {
+        return $searchInput.val();
+      };
+      search.setVal = function(val) {
+        $searchInput.val(val);
+      };
+
+      $searchInput.on('focus', function() {
+        $(this).addClass('focus');
+      });
+      $searchInput.on('blur', function() {
+        $(this).removeClass('focus');
+      });
+      $searchInput.on('input', window.throttle(function() {
+        var val = $(this).val();
+        if (val === '' || typeof val !== 'string') {
+          search.clear && search.clear();
+        } else {
+          $searchBox.addClass('not-empty');
+          search.onInputNotEmpty && search.onInputNotEmpty(val);
+        }
+      }, 400));
+      $searchClear.on('click', function() {
+        $searchInput.val(''); $searchBox.removeClass('not-empty');
+        search.clear && search.clear();
+      });
+    }
+  });
+})();
+</script><div class="search search--dark">
+  <div class="main">
+    <div class="search__header">Search</div>
+    <div class="search-bar">
+      <div class="search-box js-search-box">
+        <div class="search-box__icon-search"><i class="fas fa-search"></i></div>
+        <input type="text" />
+        <div class="search-box__icon-clear js-icon-clear">
+          <a><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+      <button class="button button--theme-dark button--pill search__cancel js-search-toggle">
+        Cancel</button>
+    </div>
+    <div class="search-result js-search-result"></div>
+  </div>
+</div>
+<script>var SOURCES = window.TEXT_VARIABLES.sources;
+var PAHTS = window.TEXT_VARIABLES.paths;
+window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
+  var search = (window.search || (window.search = {}));
+  var searchData = window.TEXT_SEARCH_DATA || {};
+
+  function memorize(f) {
+    var cache = {};
+    return function () {
+      var key = Array.prototype.join.call(arguments, ',');
+      if (key in cache) return cache[key];
+      else return cache[key] = f.apply(this, arguments);
+    };
+  }
+
+  /// search
+  function searchByQuery(query) {
+    var i, j, key, keys, cur, _title, result = {};
+    keys = Object.keys(searchData);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      for (j = 0; j < searchData[key].length; j++) {
+        cur = searchData[key][j], _title = cur.title;
+        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
+          if (result[key] === undefined) {
+            result[key] = [];
+          }
+          result[key].push(cur);
+        }
+      }
+    }
+    return result;
+  }
+
+  var renderHeader = memorize(function(header) {
+    return $('<p class="search-result__header">' + header + '</p>');
+  });
+
+  var renderItem = function(index, title, url) {
+    return $('<li class="search-result__item" data-index="' + index + '"><a class="button" href="' + url + '">' + title + '</a></li>');
+  };
+
+  function render(data) {
+    if (!data) { return null; }
+    var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
+    keys = Object.keys(data);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      $root.append(renderHeader(key));
+      for (j = 0; j < data[key].length; j++) {
+        cur = data[key][j];
+        $root.append(renderItem(itemIndex++, cur.title, cur.url));
+      }
+    }
+    return $root;
+  }
+
+  // search box
+  var $result = $('.js-search-result'), $resultItems;
+  var lastActiveIndex, activeIndex;
+
+  function clear() {
+    $result.html(null);
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+  }
+  function onInputNotEmpty(val) {
+    $result.html(render(searchByQuery(val)));
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+    $resultItems.eq(0).addClass('active');
+  }
+
+  search.clear = clear;
+  search.onInputNotEmpty = onInputNotEmpty;
+
+  function updateResultItems() {
+    lastActiveIndex >= 0 && $resultItems.eq(lastActiveIndex).removeClass('active');
+    activeIndex >= 0 && $resultItems.eq(activeIndex).addClass('active');
+  }
+
+  function moveActiveIndex(direction) {
+    var itemsCount = $resultItems ? $resultItems.length : 0;
+    if (itemsCount > 1) {
+      lastActiveIndex = activeIndex;
+      if (direction === 'up') {
+        activeIndex = (activeIndex - 1 + itemsCount) % itemsCount;
+      } else if (direction === 'down') {
+        activeIndex = (activeIndex + 1 + itemsCount) % itemsCount;
+      }
+      updateResultItems();
+    }
+  }
+
+  // Char Code: 13  Enter, 37  ⬅, 38  ⬆, 39  ➡, 40  ⬇
+  $(window).on('keyup', function(e) {
+    var modalVisible = search.getModalVisible && search.getModalVisible();
+    if (modalVisible) {
+      if (e.which === 38) {
+        modalVisible && moveActiveIndex('up');
+      } else if (e.which === 40) {
+        modalVisible && moveActiveIndex('down');
+      } else if (e.which === 13) {
+        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+      }
+    }
+  });
+
+  $result.on('mouseover', '.search-result__item > a', function() {
+    var itemIndex = $(this).parent().data('index');
+    itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
+  });
+});
+</script></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $pageMask = $('.js-page-mask');
+    var $pageRoot = $('.js-page-root');
+    var $sidebarShow = $('.js-sidebar-show');
+    var $sidebarHide = $('.js-sidebar-hide');
+
+    function freeze(e) {
+      if (e.target === $pageMask[0]) {
+        e.preventDefault();
+      }
+    }
+    function stopBodyScrolling(bool) {
+      if (bool === true) {
+        window.addEventListener('touchmove', freeze, { passive: false });
+      } else {
+        window.removeEventListener('touchmove', freeze, { passive: false });
+      }
+    }
+
+    $sidebarShow.on('click', function() {
+      stopBodyScrolling(true); $pageRoot.addClass('show-sidebar');
+    });
+    $sidebarHide.on('click', function() {
+      stopBodyScrolling(false); $pageRoot.removeClass('show-sidebar');
+    });
+  });
+})();
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script>
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>

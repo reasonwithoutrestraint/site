@@ -1,0 +1,1102 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Why Consequentialism should be rejected - Reason Without Restraint</title>
+
+<meta name="description" content="Following the Stanford Encyclopedia of Philosophy (SEP), consequentialism is a moral theory that states that the moral rightness of an act depends only on th...">
+<link rel="canonical" href="http://localhost:4000/Consequentialism.html"><link rel="alternate" type="application/rss+xml" title="Reason Without Restraint" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets --><script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.4',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page layout--page--sidebar clearfix js-page-root">
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="page__viewport">
+    <div class="page__actions d-print-none">
+      <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+        <i class="fas fa-bars icon--show"></i>
+      </div>
+    </div>
+
+    <div class="grid page__grid">
+
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Philosophy </li><li class="toc-h2"><a href="/">Metaethics</a></li><li class="toc-h3"><a href="/Normative-Skepticism.html">Normative skepticism is unreasonable</a></li><li class="toc-h3"><a href="/Reasons-Internalism.html">Reasons Internalism: an argument by analogy with epistemic reasons</a></li><li class="toc-h2"><a href="/">Normative Ethics</a></li><li class="toc-h3"><a href="/Utilitarianism.html">Why Utilitarianism should be rejected</a></li><li class="toc-h3 active"><a href="/Consequentialism.html">Why Consequentialism should be rejected</a></li><li class="toc-h2"><a href="/">Political Philosophy</a></li><li class="toc-h3"><a href="/Ownership-Rights.html">A sketch of plausible libertarian ownership rights</a></li><li class="toc-h3"><a href="/State-Activities.html">State activities compatible with libertarian ownership rights</a></li><li class="toc-h3"><a href="/Anti-paralysis-Postulate.html">Delineating libertarian ownership rights: the anti-paralysis postulate</a></li><li class="toc-h3"><a href="/Mandatory-Taxation.html">A libertarian justification of mandatory taxation by the state</a></li><li class="toc-h2"><a href="/">Applied Ethics</a></li><li class="toc-h3"><a href="/Abortion.html">A defense of abortion: bodily integrity, responsibility, and deprivation</a></li><li class="toc-h3"><a href="/Affirmative-Action.html">Two arguments in defense of affirmative action</a></li><li class="toc-h1">Social Issues </li><li class="toc-h2"><a href="/Race-and-IQ.html">Race and IQ</a></li><li class="toc-h2"><a href="/Predictive-Validity.html">Predictive Validity</a></li></ul></div></div><div class="page__main js-page-main has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24">
+<style type="text/css">
+	.st0{fill:#515151;}
+</style>
+<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
+	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+</svg><a title="Your Site Description
+" href="/">Reason Without Restraint</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/">Home</a></li><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Why Consequentialism should be rejected</h1></header><span class="split-space">&nbsp;</span>
+          <a class="edit-on-github"
+            title="Edit on Github"
+            href="https://github.com/user_name/repo_name/tree/master/_posts/Philosophy/Normative Ethics/2021-04-20-Consequentialism.md">
+            <i class="far fa-edit"></i></a></div><meta itemprop="headline" content="Why Consequentialism should be rejected"><div class="article__info clearfix"><ul class="right-col menu"><li><i class="fas fa-user"></i> <span>Jay M</span></li></ul></div><meta itemprop="author" content="Jay M"/><meta itemprop="datePublished" content="2021-04-20T00:00:00-07:00"><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><p>Following the Stanford Encyclopedia of Philosophy (SEP), <a href="https://plato.stanford.edu/entries/consequentialism/">consequentialism</a> is a moral theory that states that the moral rightness of an act depends only on the goodness of certain consequences associated with the act. There are many different consequentialist systems, e.g. ethical egoism vs utilitarianism, act-consequentialism vs rule-consequentialism, etc. What consequentialist views share in common is that they take facts about the “right” to depend only on facts about the “good”. This is sometimes expressed by saying that <a href="https://plato.stanford.edu/entries/ethics-deontological/#DeoFoiCon">the “good” is prior to the “right”</a>. In other words, once we know about the <em>goodness</em> of certain consequences associated with an act (or rules permitting the act), we have all the information necessary to determine the moral <em>rightness</em> of the act. This is unlike non-consequentialists such as Rawls or Kant who believe that the “right” to be in some ways prior to the “good”, or at least that the “right” is separate from the “good”. I agree with Rawls and Kant in this respect. Consequentialists are incorrect to state that facts about the “right” depend only on facts about the “good”. While the goodness of consequences is certainly <em>relevant</em> to determining the rightness of an action, I will argue in this post that there are <em>additional</em> features that are morally relevant as well. Before getting to the argument, we must first understand what is meant by “good” and “right”.</p>
+
+<h2 id="the-right-and-the-good-as-distinct-concepts">The “right” and the “good” as distinct concepts</h2>
+
+<hr />
+
+<p>One’s immediate reaction to hearing that the “right” is prior to the “good” might be confusion. After all, don’t “good” and “right” pretty much express the same concept? They are both normative concepts that are ascribed to things that are in some way desirable or favorable, so in what sense can one be prior to the other? The “right” and the “good” might be related, but it can be shown that they do not express the same concept because they don’t have the same <em>meaning</em>. They do not have the same meaning because the terms cannot be substituted with one another in a sentence without altering the meaning of the sentence. In the chapter “<a href="http://www.ditext.com/ross/right1.html">The Meaning of Right</a>” from William David Ross’s book <em><a href="https://www.oxfordscholarship.com/view/10.1093/0199252653.001.0001/acprof-9780199252657">The Right and the Good</a></em> - which is “arguably one of the most important works of moral philosophy published in the twentieth century” according to the SEP entry on <a href="https://plato.stanford.edu/entries/william-david-ross/">the author</a> - Ross (1930) argued famously that the <em>right</em> and the <em>good</em> have different meanings:</p>
+
+<blockquote>
+  <p>It seems to me clear that ‘right’ does not mean the same as ‘morally good’; and we can test this by trying to substitute one for the other. If they meant the same thing we should be able to substitute, for instance, ‘he is a right man’ for ‘he is a morally good man’; nor is our inability to do this merely a matter of English idiom, for if we turn to the sort of moral judgement in which we do use the word ‘right_, such as ‘<em>this is the right act, it is clear that by this we mean ‘this act is the act _that ought to be done</em>’, ‘this act is <em>morally obligatory</em>’; and to substitute either of these phrases for ‘morally good’ in ‘he is a morally good man’ would obviously be not merely unidiomatic, but absurd. It should be obvious, then, that ‘right’ and ‘morally good’ mean different things.</p>
+</blockquote>
+
+<p>The differences between the concept of <em>right</em> and the concept of <em>good</em> can be illustrated by contrasting the two normative classes that these concepts respectively belong to. <em>Right</em> is a <em>deontic</em> concept whereas <em>good</em> is an <em>evaluative</em> concept. Deontic concepts include normative concepts such as <em>right</em>, <em>wrong</em>, <em>duty</em>, <em>ought</em>, <em>reason</em>, <em>must</em>, <em>warrant,</em> <em>permitted, prohibited,</em> etc. Evaluative concepts include normative concepts such as <em>good</em>, <em>bad,</em> <em>noble,</em> <em>desirable, admirable,</em> <em>worthy,</em> <em>etc.</em> <a href="https://philpapers.org/archive/TAPTNO.pdf">Christine Tappolet (2014)</a> has highlighted some of the key distinctions between deontic and evaluative concepts (p. 1):</p>
+
+<blockquote>
+  <p>The concepts that count as normative can appear quite heterogenous. However, some groupings seem natural. Thus, it is generally admitted that we can divide these concepts into two large distinct groups: evaluative or axiological concepts (from the latin <em>valores</em> or the Greek axos, both meaning that which has worth), such as <em>good</em> and <em>bad</em>, and deontic concepts (from the Greek <em>deon</em>, meaning that which is binding), such as <em>obligatory</em> and <em>permissible</em>… The distinction between evaluative and deontic consists in a generalisation of the traditional opposition between the good and the right .</p>
+</blockquote>
+
+<p>Throughout the paper, she highlights a number of distinctions between the two conceptual families. Some examples include the following: the fact that we can make logical inference <em>within</em> either family but we can not (obviously) make such inference across families (p. 4); the fact that evaluative concepts can be applied to a wider range of things (e.g. actions, persons, objects, states of affairs can all be <em>good</em>, <em>bad</em>, <em>admirable</em>, etc.) whereas deontic concepts are typically restricted to what is subject to the will of an agent (p. 10); the fact that deontic concepts are typically affirmed only of attitudes that an agent <em>can</em> adopt (e.g. “<a href="https://en.wikipedia.org/wiki/Ought_implies_can">ought implies can</a>”) whereas evaluative concepts can be affirmed independently of the agent’s abilities (p. 11); etc.</p>
+
+<p>So clearly deontic concepts are at least prima-facie distinguishable from evaluative concepts, which would mean that the concept <em>right</em> is not the same as the concept <em>good</em>. However, this alone does not imply that consequentialists are wrong to claim that the rightness of an action depends only on the goodness of certain consequences related to the action. Consequentialists can make this claim coherently, so long as they maintain that the dependence is not <em>conceptual</em>, i.e. so long as they don’t argue that “right” <em>means</em> “good”, or that the <em>meaning</em> of either can be reduced to the <em>meaning</em> of the other. For example, hedonists do not make an error in <em>meaning</em> (although I would argue that they are nevertheless <em>incorrect</em>) when they claim that pleasure is the only intrinsic good. However, due to <a href="https://plato.stanford.edu/entries/moore-moral/#1">Moore’s Open Question Argument</a>, a hedonist <em>would</em> make an error in <em>meaning</em> if they claimed that “good” <em>means</em> the same thing as “pleasurable”.</p>
+
+<p>Now that preliminaries are out of the way, we can get into why I believe consequentialism is wrong. First, I will show that consequentialism broadly can avoid most of the issues that plague utilitarianism (issues that I outlined in a <a href="https://reasonwithoutrestraint.com/why-im-not-a-utilitarian/">previous post</a>). This can be done with a less ambitious consequentialism that does not attempt to precisely specify either how collective goodness is to be measured or how collective goodness relates to one’s moral duties. However, I will then argue that even this less ambitious consequentialism should be rejected because there are special features relevant to the moral rightness of an action that cannot be reduced to the goodness of any consequences associated with the action. Ultimately, my argument will consist in appealing to intuitions (which I think are held by most reasonable people), which means the argument will not persuade a die-hard consequentialist who does not feel moved by the same intuitions.</p>
+
+<h2 id="non-utilitarian-consequentialism">Non-utilitarian consequentialism</h2>
+
+<hr />
+
+<p>In a <a href="https://reasonwithoutrestraint.com/why-im-not-a-utilitarian/">previous post</a>, I argued that classic utilitarianism (a particular form of consequentialism) should be rejected because some components of the theory are unreasonable. In this section, I consider whether consequentialism broadly can avoid those criticisms by abandoning these unreasonable components. To recap, I rejected utilitarianism because of the following components of the theory: <em>hedonism</em>, <em>total consequentialism</em>, <em>agent-neutrality</em>, <em>equal consideration</em>, <em>actual consequentialism</em> and <em>maximizing consequentialism</em>. Some of these components can be easily replaced under a different form of consequentialism. Consider the following examples.</p>
+
+<ul>
+  <li>Hedonism can be replaced with a <a href="https://plato.stanford.edu/entries/well-being/#TheWelBei">different theory of well-being</a>, such as e.g. a desire-theory.</li>
+  <li>A consequentialist theory can base moral rightness on <em>intended</em> or <em>foreseeable</em> consequences rather than <em>actual</em> consequences, which is more plausible.</li>
+  <li>A consequentialist theory can adopt an <em>agent-relative</em> theory of goodness to avoid the problems with agent-neutrality and equal consideration. For example, ethical egoism is a fully agent-relative form of consequentialism that only gives weight to the goodness of the agent performing the action when determining the rightness of an action. Or, more plausibly, a consequentialist moral system can be partially agent-relative and partially agent-neutral. For example, <a href="http://www.public.asu.edu/~dportmor/Consequentializing_Moral_Theories.pdf">Douglas Portmore (2007, p. 11)</a> describes a kind of consequentialism where agents can assign additional weight to their own utility while still taking into account the utility of others.</li>
+</ul>
+
+<p>However, while consequentialism can adequately handle those issues, it’s not clear to me if a consequentialist system can avoid all of the unreasonable components of utilitarianism. Specifically, it does not seem that a consequentialist system can replace <em>total consequentialism</em> and <em>maximizing consequentialism</em> with adequate substitutes. I base this on the following reasons.</p>
+
+<ol>
+  <li>While consequentialism need not adopt total consequentialist, it seems that alternatives may have equally damning flaws. For example, <em>average</em> consequentialism states that the goodness of a group depends on the average goodness of each individual. But on this theory, the world would be worsened by producing a life that is worse than the average life in the world, even if the new life is of very high quality and even if it doesn’t make anyone else worse off. This seems unintuitive; creating a life of very high quality that doesn’t harm anyone else is never bad. In general, I am skeptical that any consequentialist aggregation function can avoid extremely unintuitive conclusions. It seems that we lose important information when we try to measure the goodness of <em>multiple</em> individuals into a <em>single</em>-dimensional metric. I’m also suspicious of whether the concept of an “overall” or “collective” goodness - as something distinct from individual goodness - is even intelligible. For example, it might make sense to say that one state of affairs is <em>better for</em> a particular group of people affected, and <em>worse for</em> another group, but it does not seem sensible to say that it is <em>better</em> <em>simpliciter</em>. Partially, this is because I agree with <a href="http://www.people.fas.harvard.edu/~korsgaar/CMK.Relational.Good.pdf">Christine Korsgaard (2013)</a> that the concept of <em>good-for</em> is prior to the notion of <em>good</em> itself, or, in her own words, that “there is something essentially relational about the notion of the good itself” (although I don’t mean to imply that Korsgaard shares my skepticism of the notion of collective goodness).</li>
+  <li>It is not clear whether a consequentialist theory could adequately replace the <em>maximizing component</em> of utilitarianism with a suitable replacement. For example, <a href="https://philpapers.org/browse/maximizing-and-satisficing-consequentialism">satisficing consequentialism</a>, while perhaps allowing for supererogatory actions and moral options, might suffer similar <a href="https://philpapers.org/browse/demandingness-of-consequentialism">demandingness issues</a> as maximizing consequentialism. For example, if a large enough number of people are below some satisfactory threshold, and if the only way to bring others up to a satisfactory level is for one to make <em>extreme</em> personal sacrifices, then one would be morally obligated to make such sacrifices under satisficing consequentialism. This seems implausible. However, one response could be to adopt a proviso that agents are never morally obligated to make unreasonable sacrifices to themselves. I’m not sure how feasible this strategy is.</li>
+</ol>
+
+<p>So I am not confident that consequentialism can find suitable replacements for total and maximizing consequentialism. However, fortunately for consequentialists, consequentialism does <em>not need</em> to <em>replace</em> these components. A less ambitious consequentialist could abandon those components and refuse to replace them. The only component of consequentialism that is <em>essential</em> is the following proposition: <em>the moral rightness of an act depends only on the value (or goodness) of certain consequences associated with that act</em>. However, a theory can adopt this principle without having a systematic method of <em>measuring</em> collective goodness, or fleshing out in precise details the relationship between collective goodness and moral rightness. These are structural, systematic details which, while commonly associated with forms of consequentialism, are not required for consequentialism per se. In fact, <a href="https://www.semanticscholar.org/paper/A-Particular-Consequentialism%3A-Why-Moral-and-Need-Olson-Svensson/d190f40e8e397869fe89463ab0f8932db211fc86https://www.semanticscholar.org/paper/A-Particular-Consequentialism%3A-Why-Moral-and-Need-Olson-Svensson/d190f40e8e397869fe89463ab0f8932db211fc86">Olson and Svensson (2003)</a> have even argued that one can simultaneously be both a consequentialist and a <a href="https://plato.stanford.edu/entries/moral-particularism/">particularist</a>. For example, a consequentialist particularist might propose a list of consequentialist pro-tanto or prima-facie principles (similar to W.D. Ross’s <a href="https://plato.stanford.edu/entries/william-david-ross/#Rig">prima-facie duties</a>). One such list of consequentialist principles might include the following:</p>
+
+<ol>
+  <li><em>Good Promotion.</em> The good or lack of badness that obtains in the foreseeable outcome of an action (relative to alternative actions) contributes to the rightness of that action.</li>
+  <li><em>Harm Reduction</em>. The badness or lack of good that obtains in the foreseeable outcome of an action (relative to alternative actions) contributes to the wrongness of that action.</li>
+  <li><em>Prioritarianism</em>. The goodness contributed to worse-off individuals contributes more to the amount of goodness in the world than equal amounts of goodness contributed to better-off individuals.</li>
+  <li><em>Agent-Relativity</em>. The amount of goodness <em>relative to an agent</em> in the intended or foreseeable outcome of an action contributes more towards the rightness of an action than the amount of <em>goodness</em> <em>simpliciter</em>.</li>
+</ol>
+
+<p>These are just possible consequentialist pro-tanto or prima-facie principles that I chose arbitrarily. A different consequentialist could select entirely different principles. They could remove some of the principles here, or they might add some new principles such as: the principle against producing harm takes priority over the principle of producing goodness, a large amount of small benefits is not as valuable as a small amount of big benefits, etc. A consequentialist might also say, like Ross’s prima-facie duties, that these principles can conflict, and that there is no higher principle to systematically settle which principle to follow in the case of such conflicts. Further, a consequentialist need not supply a method for measuring overall goodness. We might expect these methods from specific consequentialist “systems”, but they are not required for consequentialism <em>per se</em>. A less ambitious consequentialist theory that consists only of pro-tanto or prima-facie principles will remain purely consequentialist so long as the rightness of an action depends <em>only on</em> the goodness of certain consequences associated with the action.</p>
+
+<p>So it seems like consequentialism <em>can</em> avoid all of the aforementioned problems that plagued utilitarianism. The question to be asked now is: are consequentialist principles the <em>only</em> principles that determine the rightness of an act? Are there <em>ever</em> instances where the moral rightness of an act depends on some special features <em>other than</em> the goodness of certain outcomes associated with the act? As should be obvious from the title, I believe that there <em>are</em> some such special features. I will list some of these special features in the next section.</p>
+
+<h2 id="features-relevant-to-the-right-but-not-to-the-good">Features relevant to the right but not to the good</h2>
+
+<hr />
+
+<p>I believe consequentialism should be rejected because, sometimes, there <em>are</em> facts relevant to an action’s rightness other than just the goodness of the action’s consequences. These include special features related to either the agent performing the action or the agents affected by the action. These morally relevant special features include:</p>
+
+<ol>
+  <li>The <em>responsibility</em> of the person(s) impacted by the action. Typically, for example, an agent has <em>some</em> moral reason to alleviate serious harm to another person if the agent can do so by undergoing a “reasonable” sacrifice. However, if the person is <em>responsible</em> for their harm, then this can reduce the agent’s reason or obligation to alleviate their harm, and this can reduce the level of sacrifice that the agent is obligated to endure. For example, if an agent has to choose between alleviating an identical burden from person A and person B, where person B is <em>responsible</em> for needy situation and person A is <em>not</em> responsible, then (assuming all else is equal) the agent should prioritize alleviating the burden from person A.</li>
+  <li>The <em><a href="https://plato.stanford.edu/entries/desert/">desert</a></em> of the person(s) impacted by the action. Typically, for example, an agent has <em>some</em> moral reason to provide a large benefit to another person if the agent can do so at a little or no cost to themselves. However, if the person is <em>deserving</em> of that benefit, then this can be <em>amplify</em> the agent’s reason to provide them the benefit. For example, if an agent has to choose between distributing an identical benefit to two different persons, then (assuming all else is equal) the agent should prioritize distributing the benefit to the person who is more deserving of the benefit.</li>
+  <li>The <em>debts</em> owed by the agent performing the action. Typically, for example, an agent has <em>some</em> moral reason to alleviate serious harm to another person if the agent can do so by undergoing a “reasonable” sacrifice. However, if the agent has <em>wronged</em> the person in the past, then this can <em>amplify</em> the agent’s reason to alleviate the harm, and this can <em>increase</em> the level of sacrifice that the agent is obligated to endure. For example, if one has to choose between alleviating an identical burden from person A and person B, where person A’s burden was the result of being <em>wronged</em> by the agent and person B’s burden has some other cause, then (assuming all else is equal) the agent should prioritize alleviating the burden from person A.</li>
+  <li>The <em>past agreements</em> (consent, contracts, <a href="https://plato.stanford.edu/entries/promises">promises</a>, etc.) that have been made by person(s) involved in the action. Past agreements by agents can modify our moral obligations and moral permissions in at least two ways. For example, an agent’s moral obligation to alleviate the harms to a person can be <em>mitigated</em> if the person previously consented to endure (or risk enduring) those harms. Or, an agent’s moral obligation to alleviate a certain harm can be <em>amplified</em> if the agent previously agreed or promised to alleviate the harm.</li>
+  <li>The <em><a href="https://plato.stanford.edu/entries/rights/">rights</a></em> of the person(s) involved in the action. Two actions with the same amount of goodness/harm in their outcome may have different statuses as right/wrong if one action, but not the other, violates someone’s rights. For example, a certain action may be morally permissible in ordinary circumstances because it promotes a certain balance of goodness over harm, but a different action that produces the same balance of goodness over harm might not be morally permissible if it violates someone’s <em>rights</em>. Consider rights to bodily autonomy as one common example.</li>
+  <li>The <em>reasonableness</em> of the interests of the person(s) affected by an action. When assessing the moral status of an action, the goodness/harm that would be produced from the fulfillment of an <em>unreasonable</em> or <em>illegitimate</em> interest should not have as much weight as the same amount of goodness/harm that would be produced from the fulfillment of a reasonable interest.</li>
+</ol>
+
+<h3 id="responsibility">Responsibility</h3>
+
+<p>For an example of the relevance of responsibility, consider imprisonment. Most people would agree that we should imprison <em>guilty</em> suspects (i.e. criminals) for crimes but we should not imprison <em>innocent</em> suspects. This is a clear case where the rightness and wrongness of certain actions (namely, the act of imprisoning a person) depends on facts about responsibility (namely, whether the person is <em>responsible</em> for committing the relevant crime).</p>
+
+<p>A consequentialist could object by saying that responsibility is not <em>intrinsically</em> morally relevant in this case. Rather, responsibility is merely <em>instrumentally</em> relevant. The consequentialist might say that the only factor that matters <em>intrinsically</em> is the expected benefits that are produced by imprisoning the suspect, and whether a suspect is guilty of committing a crime conveys information about the expected benefits that would be produced by imprisoning him. For example, if Adam is guilty of recklessly killing a pedestrian while driving under the influence, then that raises the probability that he will produce similar harms in the future. Therefore, imprisoning Adam has the positive expected benefit of reducing such injuries and deaths in the future, and it has the expected benefit of rehabilitation and deterrence.</p>
+
+<p>However, while these benefits are definitely relevant, they are usually not <em>sufficient</em> to justify imprisonment. Let’s assume that imprisoning Adam – the guilty drunk-driver – for 5 years is expected to prevent, say, 2 car accidents within the next 5 years because the number of potential drunk drivers on the road is reduced by 1. Now, imagine that we have a crystal ball that reveals that imprisoning Bob – a perfectly innocent driver – for 5 years will result in a slightly different flow of traffic which results in 2 fewer car accidents. It seems clear to me that it would be <em>wrong</em> to imprison Bob in this example even though the benefits of doing so are comparable to the benefits of imprisoning Adam. This implies that benefits are (usually) not sufficient to justify imprisoning someone; the suspect must also be <em>responsible</em> for committing the relevant crime (I say “usually” because the benefits may be sufficient in unusual circumstances, e.g. if imprisoning an innocent person somehow resulted in stopping a nuclear fallout). This means that <em>responsibility</em> is also relevant to the <em>rightness</em> of an action independently of the benefit of the action.</p>
+
+<h3 id="rights">Rights</h3>
+
+<p>For an example of the relevance of rights, consider actions that violate one’s bodily autonomy in order to produce a larger benefit for someone else. In ordinary situations, one might be justified in imposing a minor harm on someone in order to alleviate a more serious harm or to produce a major amount of good for others. For example, enacting a system of mandatory confiscation of wealth from the rich to be redistributed to the poor (i.e. taxation) seems morally justified because the goodness produced by the action far outweighs the harm produced by the action. However, similar reasoning does not apply when the action involves violating the bodily autonomy of the one who is harmed. For example, taking a kidney from a healthy person is a relatively minor harm compared to the benefit it might bestow on someone else (i.e. saving someone else’s life). However, it would nevertheless be morally wrong to enact a system of mandatory confiscation of kidneys from healthy people to be redistributed to unhealthy people. Such a system would be wrong even if we used a crystal ball to only confiscate kidneys from persons whom we knew would not need them in the future. What explains the different moral status of mandatory confiscation of wealth vs mandatory confiscation of bodily organs? The difference is related to the <em>rights</em> that persons have. People have <em>rights</em> to their bodily organs that are far stronger than any rights that they might have to their wealth (if people even have rights to their wealth).</p>
+
+<p>Keep in mind that none of this implies that rights can never be violated. The point is simply to note that whether an action would violate someone’s rights is a morally relevant consideration. This morally relevant consideration, of course, may be overridden by stronger moral considerations. For example, it would be morally right to take someone’s kidney in order to prevent the world from being destroyed, even though this would nevertheless violate that person’s right. The explanation for this is that the reasons against violating someone’s rights in this case are outweighed by the reasons in favor of preventing the world from being destroyed. However, in ordinary situations, the mere fact that an action produces more benefit than harm is not sufficient to justify violating someone’s rights (as the kidney example shows). This shows that we cannot merely consider the benefits and harms that would be produced by the action. Rights must also be taken into account when considering the moral rightness and wrongness of an action.</p>
+
+<h3 id="unreasonable-interests">Unreasonable interests</h3>
+
+<p>One example of an unreasonable or illegitimate interest is the pleasure that a sadist takes in the unconsented suffering of others. Another example might be someone who unjustifiably believes that a particular group of people are inferior, which leads to this person judging that their dignity has been assaulted (resulting in a kind of subjective harm for that person) when he is treated equally as members of that group. Harms that are produced that stem from these unreasonable or illegitimate interests do not have as much weight as harms that stem from reasonable interests. Typically, unreasonable interests are interests that an agent <em>could</em> have avoided holding (e.g. if they had a better upbringing and socialization), but this need not be a necessary condition.</p>
+
+<p>For a more specific example of the importance of unreasonable interests, imagine we have the power to distribute valuable resources (e.g., money, food, health, etc.) to two individuals – Adam and Bob. Let’s also make a fairly reasonable assumption about Adam and Bob: the marginal benefit of each unit of resource decreases for both individuals as they acquire more total resources (diminishing returns). Now, let’s assume we have three scenarios:</p>
+
+<ul>
+  <li>In scenario 1, Adam and Bob are completely isolated from one another; neither individual has access to any information the other. Also, both individuals derive equal benefit from the same amount of resources. In this scenario, it seems plausible that the morally right action is to distribute equal resources to both Adam and Bob. A consequentialist moral theory can explain this intuition because the only considerations that seem morally relevant in this situation are the benefits that would be produced for Adam and Bob by these valuable resources.</li>
+  <li>In scenario 2, Adam and Bob are again completely isolated from one another. But, unlike scenario 1, both individuals do not derive equal benefit from the same amount of resources. Adam requires slightly more resources than Bob in order to derive the same amount of goodness (i.e. well-being). The reason for this is that Adam needs slightly more resources to help him manage a physical disability caused by a genetic disorder. In this scenario, it seems plausible that the morally right action is to distribute more resources to Adam. A consequentialist moral theory can explain this intuition because, again, the only considerations that seem morally relevant in this situation are the benefits that would be produced for Adam and Bob by these valuable resources.</li>
+  <li>In scenario 3, Adam and Bob are not isolated from each other. Like scenario 2, both individuals do not derive equal benefit from the same amount of resources; Adam requires slightly more resources than Bob in order to derive the same amount of goodness. But, unlike scenario 2, the reason for this is not that Adam has a physical disability; rather, Adam believes that Bob belongs to an inferior race and therefore would feel that his dignity has been assaulted (which causes some subjective suffering) if he is provided with equal resources as Bob. Adam will feel respected only if he is provided with substantially more resources than Bob. Because of Adam’s racist beliefs, slightly <em>more</em> goodness would be produced by giving slightly more resources to Adam at the expense of Bob; this strikes the perfect balance between raising goodness by appeasing Adam’s racist beliefs and raising goodness by providing resources to Bob. Despite this, it still seems plausible that the morally right action is to distribute equal resources to both Adam and Bob; this might not maximize the amount of goodness because of Adam’s racist beliefs, but the goodness produced by Adam’s racist beliefs should not be given weight in this context because his racist beliefs are an <em>unreasonable</em> or <em>illegitimate</em> interest.</li>
+</ul>
+
+<h3 id="qualifications">Qualifications</h3>
+
+<p>Further examples shouldn’t be too difficult to imagine. Simply stipulate that two actions will produce identical distributions of goodness to a set of agents. Then further stipulate that the agents involved differ with respect to their responsibility, desert, rights violations, previous agreements or the reasonableness in their interests. If it seems that these differences constitute <em>morally relevant</em> differences, then that is sufficient to show that these features are relevant to the rightness of actions in a way that doesn’t depend on their relation to the goodness of the action’s outcome. I have a few points to note about the features I mentioned:</p>
+
+<ol>
+  <li>This list is not exhaustive. Possibly, there are other morally relevant features that I have yet to think of. For example, in Thomas Scanlon’s <em>What We Owe to Each Other</em>, Scanlon argues that the inherent <em>unfairness</em> of an action can directly contribute to its wrongness, even if all alternative actions produce similar goods/harms (see the SEP <a href="https://plato.stanford.edu/entries/contractualism/#ReaBeyWelBei">entry on contractualism</a>).</li>
+  <li>Some of the features may be reducible to the other features mentioned there. For example, it seems plausible that the relevance of <em>desert</em> can be explained in terms of the relevance of <em>responsibility</em>. Indeed, some even say that the <em>concept</em> of desert is explained by the <em>concept</em> of responsibility (although <a href="https://www.iep.utm.edu/desert/#SSH1ci">this is debated</a>). For another example, it also seems plausible that the relevance of responsibility and the relevance of past agreements can be explained in terms of the relevance of <em>choice</em>. This post will remain agnostic about the irreducibility of these features.</li>
+  <li>Many of the features mentioned here are themselves moral (or, at least, normative) concepts. For example, there is no straightforward non-normative account of what it means for an agent to be “responsible”, to be “deserving”, to have certain “rights”, or for an interest to be “reasonable”. Likely, these would need to be defined according to some broader moral theory.</li>
+  <li>Finally, these features provide <em>pro-tanto</em> reasons for or against the rightness/wrongness of an action; they do not provide <em>overriding</em> or <em>conclusive</em> reasons. For example, the fact that an agent is responsible for the harm that they experience is a pro-tanto reason against others having a moral duty to alleviate that harm, but this can be overridden due to other moral considerations (e.g. the harm may be so large that we have a moral duty to assist them even if they’re fully responsible).</li>
+</ol>
+
+<p>I believe that the features listed in this section constitute good reasons for abandoning consequentialism. These are all features that are relevant to the moral <em>rightness</em> of an action even in cases where they are not relevant to the <em>goodness</em> of any outcome associated with the action. If this is correct, then this suffices to show that the moral rightness of an action does not depend <em>only</em> on the goodness of outcomes, which suffices to show that consequentialism is false.</p>
+
+<p>There are a few types of responses a consequentialist might give here. Firstly, one might move away from <em>act</em>-consequentialism to something like <em>rule-_consequentialism to account for the moral relevance of the aforementioned features under a consequentialist theory. I find this response unsatisfactory because (1) rule-consequentialism has its own <a href="https://www.iep.utm.edu/util-a-r/#SH4b">set of objections</a> which I hope to investigate in a future post; and (2) the aforementioned features are morally relevant under rule-consequentialism _only if</em> certain rules respecting those features would increase the goodness of society, but it seems to me that those features would still be morally relevant <em>even if</em> such rules had, say, a negligible impact on the goodness of society. Secondly, a consequentialist could <em>deny</em> that these features are morally relevant if they have no impact on the goodness of an action’s outcome. I have no interest in entertaining such an absurd idea here. Finally, a consequentialist might insist that the features that I mentioned above are morally relevant <em>because</em> they are relevant to an action’s <em>goodness</em>. For example, the consequentialist could provide a theory of goodness that makes direct reference to responsibility, desert, etc. I will consider this response in the next section.</p>
+
+<h2 id="keeping-the-right-and-the-good-separate">Keeping the “right” and the “good” separate</h2>
+
+<hr />
+
+<p>I reject the idea that we should build responsibility, desert, rights, respect for previous agreements, etc. into a theory of the <em>good</em>. This, or something like this, is recommended by some consequentialists who believe that all moral theories can (and should) be “consequentialized”, which <a href="https://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf">Campbell Brown (2011</a>) has defined as follows: “To ‘consequentialize’ is to take a putatively nonconsequentialist moral theory and show that it is actually just another form of consequentialism.” <a href="https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/StructuresOfNormativeTheories_0.pdf">James Dreier (1993, p. 23)</a> states that “The main strategy for “consequentializing” any given moral theory” is to “take the features of an action that the theory considers to be relevant, and build them into the consequences”.</p>
+
+<p>While this strategy is <em>technically</em> feasible, I reject it because I don’t think responsibility, desert, respect for rights, etc. <em>should</em> be a part of a theory of goodness (i.e. they are not inherently relevant to the amount of goodness in the world). <a href="https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/StructuresOfNormativeTheories_0.pdf">John Dreier (1993, p. 24)</a> has argued that to reject this strategy is actually <em>conceptually</em> confused because he believes “every moral view is consequentialist”. He <a href="https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/Dreier%20In%20Defense%20of%20Consequentizling.pdf">(2011)</a> has argued that our concept of <em>good</em> is inextricably tied to our concept of <em>right</em>, so there cannot be any meaningful substantive divergence between them. In fact, he claims that if two theorists agree about what’s <em>right</em> but disagree about what’s <em>good</em>, then this is merely a notational dispute. I believe that <a href="https://philarchive.org/archive/SCHCAI-11v1">Schroeder (2017)</a> has given a good rebuttal to Drier’s conceptual claim, but I won’t directly address this debate here. Instead, I’ll give an indirect argument against Dreier’s conceptual claim by arguing from intuitive moral judgments for why responsibility, desert, rights, etc. are not <em>inherently</em> related to the amount of goodness in the world.</p>
+
+<ol>
+  <li>[premise] The amount of <em>goodness</em> in the world is reducible to what is <em>good for</em> each individual in the world.</li>
+  <li>[premise] What is <em>good</em> <em>for</em> an individual is reducible to what contributes to the <a href="https://plato.stanford.edu/entries/well-being/">well-being</a> of that individual.</li>
+  <li>[premise] Desire-satisfaction and/or happiness are the only features that are <em>inherently</em> relevant to the well-being of an individual. All other features are merely <em>instrumentally</em> relevant to well-being, contingent upon their ability to produce desire-satisfaction and/or happiness.</li>
+  <li>[premise] Responsibility, desert, promises, etc. are not <em>identical</em> to any individual’s desire-satisfaction or happiness.</li>
+  <li>[from 3 and 4] Therefore, responsibility, desert, promises, etc. are never <em>inherently</em> relevant to any individual’s well-being. Rather, they may be sometimes <em>instrumentally</em> relevant to some individual’s well-being.</li>
+  <li>[from 2 and 5] Therefore, responsibility, desert, promises, etc. are never <em>inherently</em> relevant to what is <em>good for</em> an individual.</li>
+  <li>[from 1 and 6] Therefore, responsibility, desert, promises, etc. are never <em>inherently</em> relevant to the amount of goodness in the world.</li>
+</ol>
+
+<p>I believe that the most controversial premise in this argument is premise 3, but even that is fairly uncontroversial. I think most people accept some form of desire-theory or happiness theory of well-being. This merely excludes certain <a href="https://plato.stanford.edu/entries/well-being/#ObjLisThe">objective-list</a> theories of well-being which posit that certain factors are components of an individual’s well-being independently of that agent’s desires or happiness. I won’t argue this here because I take it that most find such objective-list theories to be fairly unintuitive. Assuming the other premises in the argument are true (which seems uncontroversial), it follows that responsibility, desert, promises, etc. are not inherently relevant to the amount of goodness in the world. But, if the earlier points in this post are correct, these features <em>are</em> relevant to the rightness of an action. Thus, these features would demonstrate that there are features relevant to the rightness of an action which are not relevant to the goodness associated with that action. This suffices to show that consequentialism should be abandoned. An alternative moral system should be adopted to account for a more complete range of all morally relevant features.</p>
+
+<hr />
+
+<h3 id="further-questions">Further Questions</h3>
+
+<p>Some issues that have been touched on here that I hope to explore further in the future.</p>
+
+<ol>
+  <li>I expressed my skepticism that the concept of an “overall” or “collective” goodness is intelligible. I hope to elaborate on why I believe this in a future post.</li>
+  <li>I would like to provide an explanation for why the moral features that I listed - responsibility, desert, previous agreements, rights, interest reasonableness - are morally relevant. Likely, this will involve appealing to some broader moral theory, which leads to my next point.</li>
+  <li>If consequentialism is not a viable option as a moral theory, I should investigate an adequate replacement. I’m currently inclined towards <a href="https://plato.stanford.edu/entries/contractualism/">contractualism</a>, which (I believe) explains the intrinsic moral relevance of some of the aforementioned moral features and which captures the way most people engage in moral reasoning.</li>
+</ol>
+
+<h3 id="relevant-works">Relevant works</h3>
+
+<p>The Right vs The Good and Deontic vs Evaluative concepts</p>
+
+<ul>
+  <li>Mark Schroeder, “<a href="https://plato.stanford.edu/entries/value-theory/#RelDeo">Value Theory</a>” (2016) in <em>Stanford Encyclopedia of Philosophy</em> - Specifically, the section “Relation to the Deontic”</li>
+  <li>William David Ross, “<a href="http://www.ditext.com/ross/right1.html">The Meaning of Right</a>” from <em>The Right and the Good</em> (1930) [<a href="https://web.archive.org/web/20171217235227/http://www.ditext.com/ross/right1.html">archive</a>].</li>
+  <li>Christine Tappolet, “<a href="https://philpapers.org/archive/TAPTNO.pdf">The Normativity of Evaluative Concepts</a>” (2014) [<a href="https://web.archive.org/web/20180721021115/https://philpapers.org/archive/TAPTNO.pdf">archive</a>]</li>
+</ul>
+
+<p>The consequentializing debate</p>
+
+<ul>
+  <li>John Dreier, “<a href="https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/StructuresOfNormativeTheories_0.pdf">Structures of Normative Theories</a>” (1993) [<a href="https://web.archive.org/web/20190127232617/https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/StructuresOfNormativeTheories_0.pdf">archive</a>]</li>
+  <li>Douglas Portmore, “<a href="http://www.public.asu.edu/~dportmor/Consequentializing_Moral_Theories.pdf">Consequentializing moral theories</a>” (2007) [<a href="https://web.archive.org/web/20161023100834/http://www.public.asu.edu/~dportmor/Consequentializing_Moral_Theories.pdf">archive</a>]</li>
+  <li>Campbell Brown, “<a href="https://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf">Consequentialize This</a>” (2011) [<a href="https://web.archive.org/web/20190427225229/https://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf">archive</a>]</li>
+  <li>James Drier, “<a href="https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/Dreier%20In%20Defense%20of%20Consequentizling.pdf">In defense of consequentialization</a>” (2011) [<a href="https://web.archive.org/web/20190127232459/https://www.brown.edu/academics/philosophy/sites/brown.edu.academics.philosophy/files/uploads/Dreier%20In%20Defense%20of%20Consequentizling.pdf">archive</a>]</li>
+  <li>Stephen Schroeder, “<a href="https://philarchive.org/archive/SCHCAI-11v1">Consequentializing and Its Consequences</a>” (2017) [<a href="https://web.archive.org/web/20191129031957/https://philarchive.org/archive/SCHCAI-11v1">archive</a>]</li>
+</ul>
+
+<p>Other referenced papers</p>
+
+<ul>
+  <li>Christine Korsgaard, “<a href="http://www.people.fas.harvard.edu/~korsgaar/CMK.Relational.Good.pdf">The Relational Nature of the Good</a>” (2013) [<a href="https://web.archive.org/web/20170407234808/http://www.people.fas.harvard.edu/~korsgaar/CMK.Relational.Good.pdf">archive</a>]</li>
+  <li>Olson and Svensson, “<a href="https://pdfs.semanticscholar.org/d190/f40e8e397869fe89463ab0f8932db211fc86.pdf">A Particular Consequentialism: Why Moral Particularism and Consequentialism Need Not Conflict</a>” (2003) [<a href="https://web.archive.org/web/20191129073307/https://pdfs.semanticscholar.org/d190/f40e8e397869fe89463ab0f8932db211fc86.pdf?_ga=2.183173542.100959440.1575012706-2048259272.1566015406">archive</a>]</li>
+</ul>
+</div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-04-20T00:00:00-07:00"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet --><div class="article__subscribe"><div class="subscribe"><i class="fas fa-rss"></i> <a type="application/rss+xml" href="/feed.xml">Subscribe</a></div></div><div class="article__license"><div class="license">
+    <p>This work is licensed under a <a itemprop="license" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</a> license.
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Attribution-NonCommercial 4.0 International" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+      </a>
+    </p>
+  </div></div></footer><div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/Predictive-Validity.html">Predictive Validity</a></div></div></div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet --></div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main"><div itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jay M"><meta itemprop="url" content="/"><meta itemprop="description" content="This is my bio"><div class="footer__author-links"><div class="author-links">
+  <ul class="menu menu--nowrap menu--inline"></ul>
+</div>
+</div>
+    </div><div class="site-info mt-2">
+      <div>© Reason Without Restraint 2019,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  </div>
+</footer></div></div>
+    </div></div></div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"><script>
+(function () {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    // search panel
+    var search = (window.search || (window.search = {}));
+    var useDefaultSearchBox = window.useDefaultSearchBox === undefined ?
+      true : window.useDefaultSearchBox ;
+
+    var $searchModal = $('.js-page-search-modal');
+    var $searchToggle = $('.js-search-toggle');
+    var searchModal = $searchModal.modal({ onChange: handleModalChange, hideWhenWindowScroll: true });
+    var modalVisible = false;
+    search.searchModal = searchModal;
+
+    var $searchBox = null;
+    var $searchInput = null;
+    var $searchClear = null;
+
+    function getModalVisible() {
+      return modalVisible;
+    }
+    search.getModalVisible = getModalVisible;
+
+    function handleModalChange(visible) {
+      modalVisible = visible;
+      if (visible) {
+        search.onShow && search.onShow();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].focus();
+      } else {
+        search.onShow && search.onHide();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].blur();
+        setTimeout(function() {
+          useDefaultSearchBox && ($searchInput.val(''), $searchBox.removeClass('not-empty'));
+          search.clear && search.clear();
+          window.pageAsideAffix && window.pageAsideAffix.refresh();
+        }, 400);
+      }
+    }
+
+    $searchToggle.on('click', function() {
+      modalVisible ? searchModal.hide() : searchModal.show();
+    });
+    // Char Code: 83  S, 191 /
+    $(window).on('keyup', function(e) {
+      if (!modalVisible && !window.isFormElement(e.target || e.srcElement) && (e.which === 83 || e.which === 191)) {
+        modalVisible || searchModal.show();
+      }
+    });
+
+    if (useDefaultSearchBox) {
+      $searchBox = $('.js-search-box');
+      $searchInput = $searchBox.children('input');
+      $searchClear = $searchBox.children('.js-icon-clear');
+      search.getSearchInput = function() {
+        return $searchInput.get(0);
+      };
+      search.getVal = function() {
+        return $searchInput.val();
+      };
+      search.setVal = function(val) {
+        $searchInput.val(val);
+      };
+
+      $searchInput.on('focus', function() {
+        $(this).addClass('focus');
+      });
+      $searchInput.on('blur', function() {
+        $(this).removeClass('focus');
+      });
+      $searchInput.on('input', window.throttle(function() {
+        var val = $(this).val();
+        if (val === '' || typeof val !== 'string') {
+          search.clear && search.clear();
+        } else {
+          $searchBox.addClass('not-empty');
+          search.onInputNotEmpty && search.onInputNotEmpty(val);
+        }
+      }, 400));
+      $searchClear.on('click', function() {
+        $searchInput.val(''); $searchBox.removeClass('not-empty');
+        search.clear && search.clear();
+      });
+    }
+  });
+})();
+</script><div class="search search--dark">
+  <div class="main">
+    <div class="search__header">Search</div>
+    <div class="search-bar">
+      <div class="search-box js-search-box">
+        <div class="search-box__icon-search"><i class="fas fa-search"></i></div>
+        <input type="text" />
+        <div class="search-box__icon-clear js-icon-clear">
+          <a><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+      <button class="button button--theme-dark button--pill search__cancel js-search-toggle">
+        Cancel</button>
+    </div>
+    <div class="search-result js-search-result"></div>
+  </div>
+</div>
+<script>var SOURCES = window.TEXT_VARIABLES.sources;
+var PAHTS = window.TEXT_VARIABLES.paths;
+window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
+  var search = (window.search || (window.search = {}));
+  var searchData = window.TEXT_SEARCH_DATA || {};
+
+  function memorize(f) {
+    var cache = {};
+    return function () {
+      var key = Array.prototype.join.call(arguments, ',');
+      if (key in cache) return cache[key];
+      else return cache[key] = f.apply(this, arguments);
+    };
+  }
+
+  /// search
+  function searchByQuery(query) {
+    var i, j, key, keys, cur, _title, result = {};
+    keys = Object.keys(searchData);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      for (j = 0; j < searchData[key].length; j++) {
+        cur = searchData[key][j], _title = cur.title;
+        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
+          if (result[key] === undefined) {
+            result[key] = [];
+          }
+          result[key].push(cur);
+        }
+      }
+    }
+    return result;
+  }
+
+  var renderHeader = memorize(function(header) {
+    return $('<p class="search-result__header">' + header + '</p>');
+  });
+
+  var renderItem = function(index, title, url) {
+    return $('<li class="search-result__item" data-index="' + index + '"><a class="button" href="' + url + '">' + title + '</a></li>');
+  };
+
+  function render(data) {
+    if (!data) { return null; }
+    var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
+    keys = Object.keys(data);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      $root.append(renderHeader(key));
+      for (j = 0; j < data[key].length; j++) {
+        cur = data[key][j];
+        $root.append(renderItem(itemIndex++, cur.title, cur.url));
+      }
+    }
+    return $root;
+  }
+
+  // search box
+  var $result = $('.js-search-result'), $resultItems;
+  var lastActiveIndex, activeIndex;
+
+  function clear() {
+    $result.html(null);
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+  }
+  function onInputNotEmpty(val) {
+    $result.html(render(searchByQuery(val)));
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+    $resultItems.eq(0).addClass('active');
+  }
+
+  search.clear = clear;
+  search.onInputNotEmpty = onInputNotEmpty;
+
+  function updateResultItems() {
+    lastActiveIndex >= 0 && $resultItems.eq(lastActiveIndex).removeClass('active');
+    activeIndex >= 0 && $resultItems.eq(activeIndex).addClass('active');
+  }
+
+  function moveActiveIndex(direction) {
+    var itemsCount = $resultItems ? $resultItems.length : 0;
+    if (itemsCount > 1) {
+      lastActiveIndex = activeIndex;
+      if (direction === 'up') {
+        activeIndex = (activeIndex - 1 + itemsCount) % itemsCount;
+      } else if (direction === 'down') {
+        activeIndex = (activeIndex + 1 + itemsCount) % itemsCount;
+      }
+      updateResultItems();
+    }
+  }
+
+  // Char Code: 13  Enter, 37  ⬅, 38  ⬆, 39  ➡, 40  ⬇
+  $(window).on('keyup', function(e) {
+    var modalVisible = search.getModalVisible && search.getModalVisible();
+    if (modalVisible) {
+      if (e.which === 38) {
+        modalVisible && moveActiveIndex('up');
+      } else if (e.which === 40) {
+        modalVisible && moveActiveIndex('down');
+      } else if (e.which === 13) {
+        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+      }
+    }
+  });
+
+  $result.on('mouseover', '.search-result__item > a', function() {
+    var itemIndex = $(this).parent().data('index');
+    itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
+  });
+});
+</script></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $pageMask = $('.js-page-mask');
+    var $pageRoot = $('.js-page-root');
+    var $sidebarShow = $('.js-sidebar-show');
+    var $sidebarHide = $('.js-sidebar-hide');
+
+    function freeze(e) {
+      if (e.target === $pageMask[0]) {
+        e.preventDefault();
+      }
+    }
+    function stopBodyScrolling(bool) {
+      if (bool === true) {
+        window.addEventListener('touchmove', freeze, { passive: false });
+      } else {
+        window.removeEventListener('touchmove', freeze, { passive: false });
+      }
+    }
+
+    $sidebarShow.on('click', function() {
+      stopBodyScrolling(true); $pageRoot.addClass('show-sidebar');
+    });
+    $sidebarHide.on('click', function() {
+      stopBodyScrolling(false); $pageRoot.removeClass('show-sidebar');
+    });
+  });
+})();
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script>
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>

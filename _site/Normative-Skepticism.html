@@ -1,0 +1,1040 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Normative skepticism is unreasonable - Reason Without Restraint</title>
+
+<meta name="description" content="Normativity is concerned with what we ought to do, how the world ought to be, what we have reason to do, what is good/bad, right/wrong, what is justified/unj...">
+<link rel="canonical" href="http://localhost:4000/Normative-Skepticism.html"><link rel="alternate" type="application/rss+xml" title="Reason Without Restraint" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets --><script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.4',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page layout--page--sidebar clearfix js-page-root">
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="page__viewport">
+    <div class="page__actions d-print-none">
+      <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+        <i class="fas fa-bars icon--show"></i>
+      </div>
+    </div>
+
+    <div class="grid page__grid">
+
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Philosophy </li><li class="toc-h2"><a href="/">Metaethics</a></li><li class="toc-h3 active"><a href="/Normative-Skepticism.html">Normative skepticism is unreasonable</a></li><li class="toc-h3"><a href="/Reasons-Internalism.html">Reasons Internalism: an argument by analogy with epistemic reasons</a></li><li class="toc-h2"><a href="/">Normative Ethics</a></li><li class="toc-h3"><a href="/Utilitarianism.html">Why Utilitarianism should be rejected</a></li><li class="toc-h3"><a href="/Consequentialism.html">Why Consequentialism should be rejected</a></li><li class="toc-h2"><a href="/">Political Philosophy</a></li><li class="toc-h3"><a href="/Ownership-Rights.html">A sketch of plausible libertarian ownership rights</a></li><li class="toc-h3"><a href="/State-Activities.html">State activities compatible with libertarian ownership rights</a></li><li class="toc-h3"><a href="/Anti-paralysis-Postulate.html">Delineating libertarian ownership rights: the anti-paralysis postulate</a></li><li class="toc-h3"><a href="/Mandatory-Taxation.html">A libertarian justification of mandatory taxation by the state</a></li><li class="toc-h2"><a href="/">Applied Ethics</a></li><li class="toc-h3"><a href="/Abortion.html">A defense of abortion: bodily integrity, responsibility, and deprivation</a></li><li class="toc-h3"><a href="/Affirmative-Action.html">Two arguments in defense of affirmative action</a></li><li class="toc-h1">Social Issues </li><li class="toc-h2"><a href="/Race-and-IQ.html">Race and IQ</a></li><li class="toc-h2"><a href="/Predictive-Validity.html">Predictive Validity</a></li></ul></div></div><div class="page__main js-page-main has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24">
+<style type="text/css">
+	.st0{fill:#515151;}
+</style>
+<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
+	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+</svg><a title="Your Site Description
+" href="/">Reason Without Restraint</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/">Home</a></li><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Normative skepticism is unreasonable</h1></header><span class="split-space">&nbsp;</span>
+          <a class="edit-on-github"
+            title="Edit on Github"
+            href="https://github.com/user_name/repo_name/tree/master/_posts/Philosophy/Metaethics/2021-04-20-Normative Skepticism.md">
+            <i class="far fa-edit"></i></a></div><meta itemprop="headline" content="Normative skepticism is unreasonable"><div class="article__info clearfix"><ul class="right-col menu"><li><i class="fas fa-user"></i> <span>Jay M</span></li></ul></div><meta itemprop="author" content="Jay M"/><meta itemprop="datePublished" content="2021-04-20T00:00:00-07:00"><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><p>Normativity is concerned with what we ought to do, how the world ought to be, what we have reason to do, what is good/bad, right/wrong, what is justified/unjustified, warranted/unwarranted, etc. Normative claims can be contrasted with descriptive claims as the latter are concerned with how the world <em>actually</em> is (or <em>has</em> been or <em>will</em> be) whereas the former are concerned with how the world <em>should</em> be. The purpose of this post is to argue against normative skepticism, which I define as the rejection of normative reasons. Thus, I will argue in this post that there <em>are</em> normative reasons. I begin by describing in more detail the nature of normative reasons.</p>
+
+<h2 id="what-are-normative-reasons">What are normative reasons?</h2>
+
+<hr />
+
+<p>I believe that the central concept of normativity is the concept of a normative <em>reason</em>. I will be assuming in this post what Thomas Scanlon calls “Reasons Fundamentalism”, which he describes as the view that “truths about reasons are not reducible to or identifiable with non-normative truths” (in the same way that <a href="https://plato.stanford.edu/entries/moore-moral/#2">G.E. Moore</a> believed that “good” is a “simple” and “unanalyzable” concept) and possibly also the view that reasons are “the only fundamental elements of the normative domain” (page 2 of <a href="https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199678488.001.0001/acprof-9780199678488"><em>Being Realistic about Reasons</em></a>). This is a thesis <a href="https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">shared by many prominent philosophers</a> [<a href="http://web.archive.org/web/20170918220343/https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">archived</a>] such as Derek Parfit and (as just mentioned) Thomas Scanlon, although some philosophers disagree, such as <a href="https://388dba3f-a-cdfe13b2-s-sites.googlegroups.com/a/usc.edu/wedgwood/online-papers/Unity_of_Normativity.pdf?attachauth=ANoY7cpXtXlhcs-fY7CKO0ik9FVbscFhtDsa4SlnfoLroBlWyLp4hO1ymWClYkSjEcnkIgJ2omQ0fEtnEs4_suHz75S-S9DQZ0fW2U7zbY1r04gYWYwCzUYNykVrcHqHb6Ugp6Fzw2hJUTKR4BrdRFBdzZef8I60OxrpLCfILPFgeu59JfaQibA15f67y_pZx8_44jmzBtynG4pDTeHrFi1eAuLJq2GTYS3xZfdZGXu1q9Vckdzs5dQ%3D&amp;attredirects=0">Ralph Wedgwood</a> [<a href="http://web.archive.org/web/20200711033134/https://388dba3f-a-cdfe13b2-s-sites.googlegroups.com/a/usc.edu/wedgwood/online-papers/Unity_of_Normativity.pdf?attachauth=ANoY7cqOWhj-leGyDLd0WzrLQL9TCLUgvJ7QqVDgQ089AU7KYi-biTFKIQCkSqDnxAwuKMAqMbzP_F_HyhzkohQMWPs2JDY2PTtKtPwzJRzSVSBDcPgH7g-kGooYYLKpkcJydmZxEQy-63_DreipI-DVLPh66OguguGY4xWy1eRsh_jg5Nldm3IFZRp5RtR5dsURZ4Wz_aw9kote1SCW0zW46eh6nu8gPC24WcHGbJd7LrQCcRfqQAE%3D&amp;attredirects=1">archived</a>] and <a href="http://users.ox.ac.uk/~sfop0060/pdf/Reason%20versus%20ought.pdf">John Broome</a> [<a href="http://web.archive.org/web/20200710025112/http://users.ox.ac.uk/~sfop0060/pdf/Reason%20versus%20ought.pdf">archived</a>]. However, my assumption of reasons fundamentalism is not essential to any of the arguments that I present below. I mention my assumption of reasons fundamentalism only to explain why the post is primarily concerned with “reasons” over other normative concepts. All of my arguments can be reformulated without losing substance with an alternative normative concept instead of “reasons”.</p>
+
+<p>What is a normative reason? I believe we are all implicitly familiar with the concept of a normative reason, so the best way to illuminate the concept may be to consider some examples. One type of normative reason concerns reasons for <em>action</em> (or <a href="https://plato.stanford.edu/entries/reasons-just-vs-expl/#NormReas"><em>practical</em> reasons</a>):</p>
+
+<blockquote>
+  <p>a reason is said to be a “normative reason” for acting because it favours someone’s acting. But what does it mean to say that a reason “favours” an action? One way of understanding this claim is in terms of justification: a reason justifies or makes it right for someone to act in a certain way. This is why normative reasons are also called “justifying” reasons.</p>
+</blockquote>
+
+<p>Reasons for <em>action</em> aren’t the only kind of normative reasons. In <a href="https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">“The Metaphysics of Reasons”</a> [<a href="http://web.archive.org/web/20170918220343/https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">archived</a>] Jonas Olson gives examples of other kinds of reasons:</p>
+
+<blockquote>
+  <p>We talk about normative reasons when we say, for example, that there were no reasons to invade Iraq in 2003; when we say that there is reason to stay sober the night before a fi­nal exam; or when we say that there are reasons to believe that the universe is billions of years old. We can say that the first kind of normative reason is moral, the second pruden­tial, and the third epistemic”</p>
+</blockquote>
+
+<p>This passage lists examples of reasons for two kinds of attitudes - epistemic reasons as reasons for <em>beliefs</em>, and moral and prudential reasons as reasons for <em>actions</em> (an action can be understood as an <em>intention</em>, which is a kind of attitude). But beliefs and actions aren’t the only kinds of attitudes for which there can be reasons. There are also reasons to desire, admire, appreciate, and fear things. I believe that the class of attitudes for which there can be reasons is what Thomas Scanlon calls “judgment sensitive attitudes” in Chapter 1 of <a href="https://philpapers.org/rec/SCAWWO"><em>What We Owe to Each Other</em></a>:</p>
+
+<blockquote>
+  <p>The class of attitudes for which reasons in the sense I have in mind can sensibly be asked for or offered can be characterized, with apparent but I think innocent circularity, as the class of “judgment-sensitive attitudes.” These are attitudes that an ideally rational person would come to have whenever that person judged there to be sufficient reasons for them and that would, in an ideally rational person, “extinguish” when that person judged them not to be supported by reasons of the appropriate kind. Hunger is obviously not a judgment-sensitive attitude; but belief is, and so are fear, anger, admiration, respect, and other evaluative attitudes such as the view that fame is worth seeking</p>
+</blockquote>
+
+<p>What kinds of <em>things</em> can be reasons? I will accept the consensus view that <a href="https://plato.stanford.edu/entries/reasons-just-vs-expl/">“normative reasons are facts”</a> (for simplicity, I assume that a “fact” is simply a true proposition). Claims about normative reasons are generally taken to be relational claims involving at least three entities: a fact, an agent, and an attitude. For example, a claim about normative reasons for <em>action</em> “establishes a relation between a fact, an agent, and an action kind” such that the <em>fact</em> provides the <em>agent</em> reason to perform the <em>action</em>. This can be understood as the three-place “reason relation” (I borrow this terminology from <a href="https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">Jonas Olson</a>, page 4). Normative reasons generally (as opposed to reasons for <em>action</em> specifically) establish the “reason relation” between a fact, an agent, and an <em>attitude</em>. For example, the fact that <em>Adam will enjoy reading this book</em> (the fact) is a reason for Adam (the agent) to intend (the attitude) to read that book. For another example, the fact that <em>Bob entered the building wearing a raincoat drenched in water</em> (the fact) is a reason for Adam (the agent) to believe (the attitude) that it is raining outside.</p>
+
+<p>It is important to note that <em>normative</em> reasons are distinct from <em>motivating</em> or <em>explanatory</em> reasons. The latter kinds of reasons are often referred to by saying the “reason <em>that</em>” an agent did or will do something. The former kinds of reasons are often referred to by saying the “reason <em>to</em>” do something. For example, imagine that John is hungry and is presented with poisonous food which he doesn’t know is poisonous. On the one hand, if he eats the food, we can posit an <em>explanatory</em> reason for why he ate the food; the reason <em>that</em> John ate the food consists in the fact that he was hungry and he believed the food was not poisonous. This would be an answer to the question “Why <em>did</em> John eat the food?” On the other hand, we can also posit a <em>normative</em> or <em>justifying</em> reason to not eat the food; the reason <em>to</em> not eat the food consists in the fact that it is poisonous (combined with the fact that John probably doesn’t want to be poisoned). This would be an answer to the question “Why <em>should</em> John eat or not eat the food?” See this <a href="https://plato.stanford.edu/entries/reasons-just-vs-expl/#NormReas">SEP article</a> for more on the distinction between motivating/explanatory reasons and normative/justifying reasons.</p>
+
+<p>Also, note that what is important here is the <em>concept</em> of a reason, not the <em>term</em> “reason”. The term “reason” is merely a linguistic device that English speakers have constructed to express the <em>concept</em>. But there is nothing inherently special about this term. Just as rocks would exist if we hadn’t invented the term “rock”, so too would we have reasons (to adopt certain attitudes) if we hadn’t invented the term “reason”. To see why, consider the fact that non-English speakers clearly have terms to refer to reasons, so such speakers must use different terms to express the same concept that “reason” expresses in English. Further, the concept of a reason can be expressed using other synonymous terms within English. For example, when one says “A has decisive reason to do X” (where X = adopting an attitude, a desire, a belief, etc.), this can also be interpreted as “A <em>ought</em> to do X”, “it is <em>rational</em> for A to do X”, “A is <em>warranted</em> in doing X”, “A is <em>justified</em> in doing X”, “it <em>makes sense</em> for A to do X”, etc. All of these statements express (more or less) the same idea using different terms. What’s special about normative concepts lies not in any particular terminology. I prefer to use the term “reason”, but the same concept can be referred to with any alternative normative term so long as its grammatical form can accommodate the three-place “reason relation” that I described earlier.</p>
+
+<p>Finally, I must state that my argument is agnostic with respect to the <em>ontological</em> status of reasons and normativity. I say nothing about whether normative concepts (such as normative reasons) refer to non-natural entities (e.g. as <a href="https://philpapers.org/rec/CUNTNW">Terrence Cuneo</a> and <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607202">David Enoch</a> argue) or natural entities (e.g. as <a href="https://philpapers.org/rec/SMITMP">Michael Smith</a> argues), whether normative truth should be given a constructivist analysis (e.g. as <a href="https://nakulkrishna.files.wordpress.com/2017/10/sharon-street-what-is-constructivism.pdf">Sharon Street</a> and <a href="https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf">Christine Korsgaard</a> argue) or a robust realist analysis, and/or whether normative judgments should be given a non-cognitivist analysis (e.g. as <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/62456/Gibbard2002_The_Reasons_of_a_Living_Being.pdf;sequence=1">Allan Gibbard</a> argues) or cognitivist analysis. I personally accept a combination of some form of constructivism and non-cognitivism, but that is beyond the scope of this post. My only claim in this post is that there <em>are</em> normative reasons. See Jonas Olson’s <a href="https://www.philosophy.su.se/polopoly_fs/1.207423.1413734464!/menu/standard/file/MetaphysReasonsOHRN%20Final.pdf">“The Metaphysics of Reasons”</a> for a good review of different ontological views regarding normative reasons.</p>
+
+<h2 id="the-ubiquity-of-normative-reasons">The ubiquity of normative reasons</h2>
+
+<hr />
+
+<p>Now that nature of normative reasons has been clarified, I would like to stress the fact that normative judgments are found in every aspect of our thinking.</p>
+
+<p>All philosophers engage with the concept of normative reasons in some capacity, particularly epistemic normative reasons. Epistemic normative reasons (also called <em>theoretical</em> normative reasons) are different from normative reasons generally in that epistemic normative reasons are concerned with reasons for <em>belief</em>, whereas, say, practical normative reasons are concerned with reasons for <em>action</em>.</p>
+
+<p>Every philosopher advances a claim about epistemic reasons when they present an <em>argument</em> for a claim. Arguments provide premises that <em>support</em> their conclusions. This is usually done by providing premises that provide <em>reason</em> to believe the conclusion of the argument by appeal to some (often implicit) inference rule (e.g. <a href="https://en.wikipedia.org/wiki/Modus_ponens">modus ponens</a>). There are different valid inference rules depending on the mode of reasoning being employed. For example, <a href="https://en.wikipedia.org/wiki/Deductive_reasoning">deductive reasoning</a>, <a href="https://plato.stanford.edu/entries/logic-inductive/">inductive reasoning</a>, and <a href="https://plato.stanford.edu/entries/abduction/">abductive reasoning</a> use different inference rules that dictate how a conclusion can be reached from a set of premises. Other philosophical debates are more explicitly concerned with disputes about epistemic reasons. For example, questions about the <a href="https://plato.stanford.edu/entries/knowledge-analysis/">analysis of knowledge</a>, about theories of knowledge (e.g. <a href="https://plato.stanford.edu/entries/justep-foundational/">foundationalism</a> vs <a href="https://plato.stanford.edu/entries/justep-coherence/">coherentism</a>), about the proper methods for establishing knowledge (e.g. <a href="https://plato.stanford.edu/entries/rationalism-empiricism/">empiricist vs rationalist</a>), etc. are best seen as disputes about <em>epistemic justification</em>, i.e. disputes about what we have <em>reason</em> to believe. Questions of these kinds have significance in all areas of philosophy since all philosophers (even the most ardent skeptics) are interested in determining what we are justified in believing.</p>
+
+<p>For a more practical example of the importance of epistemic reasons, consider an epistemic guide that almost everyone accepts: <a href="https://plato.stanford.edu/entries/ockham/#OckhRazo">Occam’s Razor</a>. Occam’s Razor is best formulated as a thesis about our epistemic reasons. For example, the <a href="https://plato.stanford.edu/entries/simplicity/#Int">SEP article on simplicity</a> [<a href="http://web.archive.org/web/20200618183518/https://plato.stanford.edu/entries/simplicity/">archived</a>] gives the following formulation of Occam’s Razor:</p>
+
+<blockquote>
+  <p>If theory T is simpler than theory T<em>, then it is rational (other things being equal) to believe T rather than T</em>. Or it may be formulated as a methodological principle: if T is simpler than T* then it is rational to adopt T as one’s working theory for scientific purposes.</p>
+</blockquote>
+
+<p>But what does it mean for it to be <em>rational</em> to believe T rather than T<em>? Of course it means something like, there is more _epistemic reason_ to believe T rather than T</em>.</p>
+
+<p>Similar remarks can be said about every dispute in philosophy. All parties in debates regarding the existence of <a href="https://plato.stanford.edu/entries/determinism-causal/">determinism</a>, the existence of <a href="https://plato.stanford.edu/entries/freewill/">free will</a>, the truth of <a href="https://plato.stanford.edu/entries/compatibilism/">compatibilism</a>, the truth of <a href="https://plato.stanford.edu/entries/skepticism/">skepticism</a>, the existence of <a href="https://plato.stanford.edu/entries/scientific-realism/">external reality</a>, etc. believe that there is more (epistemic) reason in favor of their particular side of the debate. Even skeptics of an area believe that we have more reason to be skeptical than we have to assume knowledge in that area.</p>
+
+<p>These points demonstrate that philosophers are deeply concerned with forming <em>normative judgments</em>, i.e. judgments about normative reasons. We also find ample examples of normative judgments in ordinary people. For example, when you ask someone why they hold the beliefs that they hold, they usually explain their beliefs by appeal to (what they consider to be) <em>evidence</em> for their beliefs. But what is “evidence”? Evidence is <a href="https://plato.stanford.edu/entries/evidence/#EviWhiJusBel">that which justifies belief</a> [<a href="http://web.archive.org/web/20200702100349/https://plato.stanford.edu/entries/evidence/">archived</a>]. But <em>justified belief</em> is synonymous with beliefs that there is <em>reason</em> to hold. For another example, almost everyone agrees that there is more evidence (i.e. more normative reason to believe) that the Earth is round than there is that the Earth is flat. But even flat-Earthers must believe that there is more evidence (i.e. more normative reason to believe) that the Earth is flat. Either way, virtually everyone accepts that there is more evidence in favor of certain beliefs over others. In other words, virtually everyone accepts normative reasons.</p>
+
+<h2 id="arguments-against-normative-skepticism">Arguments against normative skepticism</h2>
+
+<hr />
+
+<p>Now that the nature and ubiquity of normative reasons have been illustrated, I will now provide arguments against normative skepticism, i.e. arguments that there <em>are</em> normative reasons.</p>
+
+<h3 id="all-deliberative-agents-are-committed-to-there-being-normative-reasons">All deliberative agents are committed to there being normative reasons</h3>
+
+<p>My first argument will emphasize an earlier point about the ubiquity of normative judgments. Earlier, I noted that normative judgments are made by virtually everyone, including both philosophers and ordinary people. However, the ubiquity of normative judgments is deeper than that. The capacity and disposition to form normative judgments are <em>essential</em> to our nature <em>insofar as we are deliberative beings</em>. In <a href="https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf"><em>The Sources of Normativity</em></a> [<a href="http://web.archive.org/web/20190810030439/https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf">archived</a>] (pages 78-79), Christine Korsgaard stresses this point when she notes that humans, unlike many lower animals, do not merely form beliefs based on our immediate perceptions or form intentions based on our immediate desires. As “essentially reflective” creatures, we are capable of thinking <em>about</em> our perceptions, desires, beliefs, intentions, and other thoughts. This capacity to “back up” from our attitudes sets up what Korsgaard calls “the problem of the normative”, which is the problem of determining which attitudes we <em>endorse</em> (which may differ from the attitudes we currently hold). In other words, the capacity for self-reflection sets up the “normative problem”, i.e. the problem of determining what attitudes we have <em>reason</em> to hold. <em>Deliberation</em> is the process of attempting to address the normative problem. This is a process of determining what to do, what to believe, and how to feel; and these determinations are based on our judgments about the <em>reasons</em> that we have for or against possible attitudes that we can form. Therefore, all rational agents, insofar as they are deliberative, are essentially committed to the judgment that there are <em>reasons</em> in favor of certain beliefs, intentions, or feelings. In <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607202">“An Outline of an Argument for Robust Metanormative Realism”</a>, David Enoch raises a similar point when he argues that “in deliberating, you commit yourself to there being (normative) reasons relevant to your deliberation” (page 38).</p>
+
+<p>Now, one might object that our commitment to normative reasons does not entail that there <em>really are</em> normative reasons. This is technically true. However, I still believe that exposing this commitment constitutes is a good argument for normative reasons. I believe this because I believe that arguments are largely a discursive device. Specifically, the primary purpose of an argument (I believe) is to rationally persuade an interlocutor to accept a claim that they do not already accept (this is similar to what has been <a href="https://iep.utm.edu/argument/#H2">described</a> as the “pragmatic approach” to characterizing arguments). Now, one argumentative strategy to achieve this purpose is to provide <em>reasons</em> to accept the claim. However, this kind of strategy would be question-begging for the claim that I wish to demonstrate (that normative skepticism is unreasonable) because my hypothetical interlocutor does not accept the existence of reasons. Instead, another argumentative strategy is to show that my hypothetical interlocutor is <em>already</em> committed to the claim (whether they know it or not). That’s exactly what I’ve done here as I’ve explained that all agents, insofar as they are deliberative, are committed to normative reasons. Therefore, my interlocutor, insofar as they are deliberative, is also committed to there being normative reasons, and this is sufficient to ground a solid argument in favor of normative reasons, i.e. it is sufficient to rationally persuade someone to accept that there are normative reasons.</p>
+
+<p>I want to further emphasize the ubiquity of deliberation. We form <em>some</em> of our beliefs without any deliberation. Consider perceptions as an example. When a person with healthy sight is presented with a red ball before him, this will be accompanied by a variety of beliefs, e.g. they will come to believe that they are perceiving a red ball and they will come to believe that there is a red ball before them. These beliefs are not the result of any form of deliberation (e.g. no one thinks to themselves “I am receiving certain visual stimuli…Therefore, I perceive a red ball in front of me…Therefore, there is a red ball before me”). Deliberation is absent for many of these trivial beliefs which are produced immediately by perception. On the other hand, all of our nontrivial beliefs are formed by some process of deliberation. For example, when we make predictions about the future, we employ inductive reasoning. When we practice mathematics or logic, we employ deductive reasoning. When we attempt to explain a set of observations using inference to the best explanation, we employ abductive reasoning. These forms of reasoning all employ <em>deliberation</em>. In other words, deliberation underlies all of our nontrivial beliefs, and (as argued above) deliberation is essentially committed to the judgment that are normative reasons. Therefore, behind all of our nontrivial beliefs is an (often implicit) commitment that there are normative reasons.</p>
+
+<p>What was said about beliefs can also be said about other attitudes such as desires and intentions. For example, while some of our intentions are produced immediately without any deliberation (e.g. intentions due to nonvoluntary impulses or habits), many of our intentions <em>are</em> produced by deliberation (specifically, <a href="https://plato.stanford.edu/entries/practical-reason/">practical reasoning</a>). The same applies to desires and the other “judgment-sensitive attitudes” that I characterized earlier. Thus, I believe this argument supports normative reasons for actions, desires, and other “judgment-sensitive attitudes” just as much as it supports normative reasons for beliefs.</p>
+
+<h3 id="the-argument-from-justified-beliefs">The argument from justified beliefs</h3>
+
+<p>This argument is largely borrowed from Richard Rowland’s paper <a href="https://pdfs.semanticscholar.org/78d1/d6dcf0f56dbbf8394c4d114f50121419ad13.pdf">“Moral Error Theory and the Argument from Epistemic Reasons”</a> [<a href="http://web.archive.org/web/20200606183140/https://pdfs.semanticscholar.org/78d1/d6dcf0f56dbbf8394c4d114f50121419ad13.pdf">archived</a>] (page 14):</p>
+
+<ol>
+  <li>If normative skepticism is true, then there are no normative reasons.</li>
+  <li>Some beliefs are justified.</li>
+  <li>In order for a belief to be justified, there must be some normative reasons to hold the belief.</li>
+  <li>Therefore, there are normative reasons (from 2 and 3).</li>
+  <li>Therefore, normative skepticism is false (from 1 and 4).</li>
+</ol>
+
+<p>The most controversial premise here is premise 2, but I think it can be shown to be true rather easily. This can be shown by merely listing some examples of justified beliefs that all sane persons accept (some of these are taken from the Rowland paper linked earlier): I am justified in believing that I do not know everything, that I am thinking, that I am having certain experiences and feelings right now, that I perceive myself to be currently typing on a keyboard, that certain logical and mathematical propositions are true (e.g. 1+1 = 2), etc. Every sane person must concede that <em>some</em> of these beliefs are justified. But even this minor concession is sufficient to demonstrate that there are normative reasons, for justified belief requires that there are normative <em>reasons</em> in favor of the belief.</p>
+
+<h3 id="normative-skepticism-is-self-defeating">Normative skepticism is self-defeating</h3>
+
+<p>My last argument will show that normative skepticism is self-defeating. This is done by showing that if normative skepticism is true, then it necessarily follows that it is unjustified.</p>
+
+<ol>
+  <li>Assume normative skepticism is true.</li>
+  <li>In order for a position to be justified, there must be some normative reasons to believe the position.</li>
+  <li>Therefore, there are no normative reasons to believe anything (from 1).</li>
+  <li>Therefore, normative skepticism is unjustified (from 2 and 3).</li>
+</ol>
+
+<p>Thus, even if normative skepticism is true, it would be unjustified. But propositions that would be unjustified if true are unreasonable. For example, consider the proposition “All propositions are unjustified”. This proposition is clearly unreasonable, since it would be unjustified if true. Normative skepticism is just a more general form of this proposition, since it states that <em>everything</em> (propositions, theories, positions, beliefs, actions, intentions, etc.) is unjustified (since there are no reasons in favor of anything). Therefore, normative skepticism is unreasonable.</p>
+
+<p>Terrence Cuneo provides a similar argument in his book <a href="https://philpapers.org/rec/CUNTNW"><em>The Normative Web: An Argument for Moral Realism</em></a>.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<hr />
+
+<p>This suffices to show that normative skepticism, i.e. that there are no normative reasons, is unreasonable. I provided three arguments against normative skepticism: I argued that all deliberative agents are committed to there being normative reasons, that we have some justified beliefs, and that normative skepticism is self-defeating.</p>
+
+<p>An interesting implication of my argument here is that (I believe) it also suffices to demonstrate <a href="https://plato.stanford.edu/entries/rationality-instrumental/#KanHypImp"><em>categorical</em></a> (as opposed to <em>hypothetical</em>) normative reasons, i.e. normative reasons which are not contingent on an agent’s ends or interests. The reason for this is that the arguments that I have given here primarily demonstrate that there are <em>epistemic</em> reasons (i.e. reasons for belief), which of course do not depend on an agent’s ends or interests (surely, whether an agent’s belief is justified or whether there is evidence for an agent’s belief does not depend on that agent’s ends or interests. Consider the fact that an agent’s ends or interests might be best served by having <em>unjustified</em> beliefs. For example, a theist’s belief in God might advance his interests - e.g. it might make him happier - regardless of whether the belief was justified). This has some implications on debates in other areas of philosophy. For example, one argument for <em>moral</em> skepticism in particular (as opposed to normative skepticism in general) rests on the assumption that categorical practical reasons, which morality purports to issue, are implausible. Now, I have only argued for categorical <em>epistemic</em> (instead of <em>practical</em>) reasons in my post here, so I have not directly addressed this particular argument for moral skepticism. However, I believe my argument here <em>does</em> lend <em>some</em> credence to the existence of categorical practical reasons (since it shows that there are categorical normative reasons in general). I do, in fact, believe that there <em>are</em> categorical practical reasons, but a full defense demands a separate post.</p>
+</div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-04-20T00:00:00-07:00"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet --><div class="article__subscribe"><div class="subscribe"><i class="fas fa-rss"></i> <a type="application/rss+xml" href="/feed.xml">Subscribe</a></div></div><div class="article__license"><div class="license">
+    <p>This work is licensed under a <a itemprop="license" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</a> license.
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Attribution-NonCommercial 4.0 International" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+      </a>
+    </p>
+  </div></div></footer><div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/Predictive-Validity.html">Predictive Validity</a></div></div></div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet --></div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main"><div itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jay M"><meta itemprop="url" content="/"><meta itemprop="description" content="This is my bio"><div class="footer__author-links"><div class="author-links">
+  <ul class="menu menu--nowrap menu--inline"></ul>
+</div>
+</div>
+    </div><div class="site-info mt-2">
+      <div>© Reason Without Restraint 2019,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  </div>
+</footer></div></div>
+    </div></div></div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"><script>
+(function () {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    // search panel
+    var search = (window.search || (window.search = {}));
+    var useDefaultSearchBox = window.useDefaultSearchBox === undefined ?
+      true : window.useDefaultSearchBox ;
+
+    var $searchModal = $('.js-page-search-modal');
+    var $searchToggle = $('.js-search-toggle');
+    var searchModal = $searchModal.modal({ onChange: handleModalChange, hideWhenWindowScroll: true });
+    var modalVisible = false;
+    search.searchModal = searchModal;
+
+    var $searchBox = null;
+    var $searchInput = null;
+    var $searchClear = null;
+
+    function getModalVisible() {
+      return modalVisible;
+    }
+    search.getModalVisible = getModalVisible;
+
+    function handleModalChange(visible) {
+      modalVisible = visible;
+      if (visible) {
+        search.onShow && search.onShow();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].focus();
+      } else {
+        search.onShow && search.onHide();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].blur();
+        setTimeout(function() {
+          useDefaultSearchBox && ($searchInput.val(''), $searchBox.removeClass('not-empty'));
+          search.clear && search.clear();
+          window.pageAsideAffix && window.pageAsideAffix.refresh();
+        }, 400);
+      }
+    }
+
+    $searchToggle.on('click', function() {
+      modalVisible ? searchModal.hide() : searchModal.show();
+    });
+    // Char Code: 83  S, 191 /
+    $(window).on('keyup', function(e) {
+      if (!modalVisible && !window.isFormElement(e.target || e.srcElement) && (e.which === 83 || e.which === 191)) {
+        modalVisible || searchModal.show();
+      }
+    });
+
+    if (useDefaultSearchBox) {
+      $searchBox = $('.js-search-box');
+      $searchInput = $searchBox.children('input');
+      $searchClear = $searchBox.children('.js-icon-clear');
+      search.getSearchInput = function() {
+        return $searchInput.get(0);
+      };
+      search.getVal = function() {
+        return $searchInput.val();
+      };
+      search.setVal = function(val) {
+        $searchInput.val(val);
+      };
+
+      $searchInput.on('focus', function() {
+        $(this).addClass('focus');
+      });
+      $searchInput.on('blur', function() {
+        $(this).removeClass('focus');
+      });
+      $searchInput.on('input', window.throttle(function() {
+        var val = $(this).val();
+        if (val === '' || typeof val !== 'string') {
+          search.clear && search.clear();
+        } else {
+          $searchBox.addClass('not-empty');
+          search.onInputNotEmpty && search.onInputNotEmpty(val);
+        }
+      }, 400));
+      $searchClear.on('click', function() {
+        $searchInput.val(''); $searchBox.removeClass('not-empty');
+        search.clear && search.clear();
+      });
+    }
+  });
+})();
+</script><div class="search search--dark">
+  <div class="main">
+    <div class="search__header">Search</div>
+    <div class="search-bar">
+      <div class="search-box js-search-box">
+        <div class="search-box__icon-search"><i class="fas fa-search"></i></div>
+        <input type="text" />
+        <div class="search-box__icon-clear js-icon-clear">
+          <a><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+      <button class="button button--theme-dark button--pill search__cancel js-search-toggle">
+        Cancel</button>
+    </div>
+    <div class="search-result js-search-result"></div>
+  </div>
+</div>
+<script>var SOURCES = window.TEXT_VARIABLES.sources;
+var PAHTS = window.TEXT_VARIABLES.paths;
+window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
+  var search = (window.search || (window.search = {}));
+  var searchData = window.TEXT_SEARCH_DATA || {};
+
+  function memorize(f) {
+    var cache = {};
+    return function () {
+      var key = Array.prototype.join.call(arguments, ',');
+      if (key in cache) return cache[key];
+      else return cache[key] = f.apply(this, arguments);
+    };
+  }
+
+  /// search
+  function searchByQuery(query) {
+    var i, j, key, keys, cur, _title, result = {};
+    keys = Object.keys(searchData);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      for (j = 0; j < searchData[key].length; j++) {
+        cur = searchData[key][j], _title = cur.title;
+        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
+          if (result[key] === undefined) {
+            result[key] = [];
+          }
+          result[key].push(cur);
+        }
+      }
+    }
+    return result;
+  }
+
+  var renderHeader = memorize(function(header) {
+    return $('<p class="search-result__header">' + header + '</p>');
+  });
+
+  var renderItem = function(index, title, url) {
+    return $('<li class="search-result__item" data-index="' + index + '"><a class="button" href="' + url + '">' + title + '</a></li>');
+  };
+
+  function render(data) {
+    if (!data) { return null; }
+    var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
+    keys = Object.keys(data);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      $root.append(renderHeader(key));
+      for (j = 0; j < data[key].length; j++) {
+        cur = data[key][j];
+        $root.append(renderItem(itemIndex++, cur.title, cur.url));
+      }
+    }
+    return $root;
+  }
+
+  // search box
+  var $result = $('.js-search-result'), $resultItems;
+  var lastActiveIndex, activeIndex;
+
+  function clear() {
+    $result.html(null);
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+  }
+  function onInputNotEmpty(val) {
+    $result.html(render(searchByQuery(val)));
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+    $resultItems.eq(0).addClass('active');
+  }
+
+  search.clear = clear;
+  search.onInputNotEmpty = onInputNotEmpty;
+
+  function updateResultItems() {
+    lastActiveIndex >= 0 && $resultItems.eq(lastActiveIndex).removeClass('active');
+    activeIndex >= 0 && $resultItems.eq(activeIndex).addClass('active');
+  }
+
+  function moveActiveIndex(direction) {
+    var itemsCount = $resultItems ? $resultItems.length : 0;
+    if (itemsCount > 1) {
+      lastActiveIndex = activeIndex;
+      if (direction === 'up') {
+        activeIndex = (activeIndex - 1 + itemsCount) % itemsCount;
+      } else if (direction === 'down') {
+        activeIndex = (activeIndex + 1 + itemsCount) % itemsCount;
+      }
+      updateResultItems();
+    }
+  }
+
+  // Char Code: 13  Enter, 37  ⬅, 38  ⬆, 39  ➡, 40  ⬇
+  $(window).on('keyup', function(e) {
+    var modalVisible = search.getModalVisible && search.getModalVisible();
+    if (modalVisible) {
+      if (e.which === 38) {
+        modalVisible && moveActiveIndex('up');
+      } else if (e.which === 40) {
+        modalVisible && moveActiveIndex('down');
+      } else if (e.which === 13) {
+        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+      }
+    }
+  });
+
+  $result.on('mouseover', '.search-result__item > a', function() {
+    var itemIndex = $(this).parent().data('index');
+    itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
+  });
+});
+</script></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $pageMask = $('.js-page-mask');
+    var $pageRoot = $('.js-page-root');
+    var $sidebarShow = $('.js-sidebar-show');
+    var $sidebarHide = $('.js-sidebar-hide');
+
+    function freeze(e) {
+      if (e.target === $pageMask[0]) {
+        e.preventDefault();
+      }
+    }
+    function stopBodyScrolling(bool) {
+      if (bool === true) {
+        window.addEventListener('touchmove', freeze, { passive: false });
+      } else {
+        window.removeEventListener('touchmove', freeze, { passive: false });
+      }
+    }
+
+    $sidebarShow.on('click', function() {
+      stopBodyScrolling(true); $pageRoot.addClass('show-sidebar');
+    });
+    $sidebarHide.on('click', function() {
+      stopBodyScrolling(false); $pageRoot.removeClass('show-sidebar');
+    });
+  });
+})();
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script>
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>

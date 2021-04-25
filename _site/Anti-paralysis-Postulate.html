@@ -1,0 +1,1048 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Delineating libertarian ownership rights: the anti-paralysis postulate - Reason Without Restraint</title>
+
+<meta name="description" content="Libertarians are in near-unanimous agreement in their endorsement of ownership rights, both over one’s person and over private property. To say that a person...">
+<link rel="canonical" href="http://localhost:4000/Anti-paralysis-Postulate.html"><link rel="alternate" type="application/rss+xml" title="Reason Without Restraint" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets --><script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.4',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page layout--page--sidebar clearfix js-page-root">
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="page__viewport">
+    <div class="page__actions d-print-none">
+      <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+        <i class="fas fa-bars icon--show"></i>
+      </div>
+    </div>
+
+    <div class="grid page__grid">
+
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Philosophy </li><li class="toc-h2"><a href="/">Metaethics</a></li><li class="toc-h3"><a href="/Normative-Skepticism.html">Normative skepticism is unreasonable</a></li><li class="toc-h3"><a href="/Reasons-Internalism.html">Reasons Internalism: an argument by analogy with epistemic reasons</a></li><li class="toc-h2"><a href="/">Normative Ethics</a></li><li class="toc-h3"><a href="/Utilitarianism.html">Why Utilitarianism should be rejected</a></li><li class="toc-h3"><a href="/Consequentialism.html">Why Consequentialism should be rejected</a></li><li class="toc-h2"><a href="/">Political Philosophy</a></li><li class="toc-h3"><a href="/Ownership-Rights.html">A sketch of plausible libertarian ownership rights</a></li><li class="toc-h3"><a href="/State-Activities.html">State activities compatible with libertarian ownership rights</a></li><li class="toc-h3 active"><a href="/Anti-paralysis-Postulate.html">Delineating libertarian ownership rights: the anti-paralysis postulate</a></li><li class="toc-h3"><a href="/Mandatory-Taxation.html">A libertarian justification of mandatory taxation by the state</a></li><li class="toc-h2"><a href="/">Applied Ethics</a></li><li class="toc-h3"><a href="/Abortion.html">A defense of abortion: bodily integrity, responsibility, and deprivation</a></li><li class="toc-h3"><a href="/Affirmative-Action.html">Two arguments in defense of affirmative action</a></li><li class="toc-h1">Social Issues </li><li class="toc-h2"><a href="/Race-and-IQ.html">Race and IQ</a></li><li class="toc-h2"><a href="/Predictive-Validity.html">Predictive Validity</a></li></ul></div></div><div class="page__main js-page-main has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24">
+<style type="text/css">
+	.st0{fill:#515151;}
+</style>
+<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
+	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+</svg><a title="Your Site Description
+" href="/">Reason Without Restraint</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/">Home</a></li><li class="navigation__item"><a href="/archive.html">Archive</a></li><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Delineating libertarian ownership rights: the anti-paralysis postulate</h1></header><span class="split-space">&nbsp;</span>
+          <a class="edit-on-github"
+            title="Edit on Github"
+            href="https://github.com/user_name/repo_name/tree/master/_posts/Philosophy/Political Philosophy/2021-04-20-Anti-paralysis Postulate.md">
+            <i class="far fa-edit"></i></a></div><meta itemprop="headline" content="Delineating libertarian ownership rights: the anti-paralysis postulate"><div class="article__info clearfix"><ul class="right-col menu"><li><i class="fas fa-user"></i> <span>Jay M</span></li></ul></div><meta itemprop="author" content="Jay M"/><meta itemprop="datePublished" content="2021-04-20T00:00:00-07:00"><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><p>Libertarians are in near-unanimous agreement in their endorsement of ownership rights, both over one’s person and over private property. To say that a person <em>owns</em> a certain entity implies that the person has certain <em>moral</em> rights over the entity, including rights to control the use of the entity, rights to transfer these rights to others, immunities to the non-consensual loss of these rights, etc. (see the Stanford Encyclopedia of Philosophy <a href="https://plato.stanford.edu/entries/libertarianism/">entry</a> on libertarianism for more details). In other words, ownership is simply a “bundle of particular rights” (see <a href="https://personal.lse.ac.uk/OTSUKAM/leftlibP&amp;PA.pdf">Vallentyne, Steiner, and Otsuka (2005, p. 204)</a>). However, while it may be intuitive that persons have certain ownership rights (e.g. everyone owns their bodies), there is still an open question regarding how ownership rights should be delineated. In other words, there is still an open question as to which “bundle of rights” come with ownership. For example, you may own your car, but you do not have the moral right to drive your car onto oncoming traffic. So we need principles that govern how to delineate ownership rights. I will argue in this post that one such principle is what Eric Mack calls the “anti-paralysis” postulate.</p>
+
+<p>I will defend the “anti-paralysis” on grounds that almost all libertarians share. By “almost all” libertarians, I’m referring to libertarians who are neither far-left nor far-right. I will first consider some rights that almost all libertarians endorse. Then I will argue that the unifying rationale for these rights is a desire to grant each individual a sovereign space within which they can lead their own lives without being subject to the will of others. This rationale suggests that we should delineate rights in accordance with the “anti-paralysis” postulate, i.e. in a way that does not cause “moral paralysis” - a condition whereby an individual is incapable of leading their own life without violating the rights of others.</p>
+
+<h2 id="libertarian-rights">Libertarian rights</h2>
+
+<hr />
+
+<p>In this section, I will first consider why libertarians place an inherent value on rights (as opposed to some other moral concept such as utility). Next, I consider some specifications of particular rights that almost all libertarians endorse. I will argue that the unifying rationale for endorsing these rights is to grant each individual a sovereign space within which they can lead their own lives without being controlled by the will of others.</p>
+
+<h3 id="why-rights">Why rights?</h3>
+
+<p>I believe the purpose of morality is to constrain our rational self-interested behavior. In other words, morality is meant to guide our behavior towards ends that we wouldn’t otherwise pursue if we were fully rational, self-interested creatures. Thus, to understand the motivation of any moral theory, it might help to imagine a world where people did not behave according to <em>any</em> moral theory - a kind of “moral anarchy” as Nicolás Maloberti describes. This might help illuminate some of the motivations for adopting a rights-based moral system as opposed to, say, a consequentialist based moral system. <a href="https://www.routledgehandbooks.com/doi/10.4324/9781317486794.ch11">Nicolás Maloberti (2017, p. 156)</a> describes moral anarchy as follows:</p>
+
+<blockquote>
+  <p>In moral anarchy, individuals are free to treat others as mere resources for the satisfaction of their own personal goals. Moral anarchy could result in a state of affairs in which a great number of individuals are powerless to arrange their lives in the way they want. Having different goals and preferences regarding how best to achieve those goals, and having a natural tendency to care more strongly about the satisfaction of their own goals than the goals of others, individuals under moral anarchy might constantly interfere with one another in their corresponding pursuits.</p>
+</blockquote>
+
+<p>In other words, under moral anarchy, individuals are morally permitted to pursue their own self-interested goals and preferences. They are “free” in the sense that there is no moral duty to refrain from maximizing the satisfaction of their preferences. However, the sense in which they are “free” seems meaningless. Sure, you have the liberty to pursue your personal goals and preferences, but other individuals have the same liberty to pursue their personal goals and preferences, even if the fulfillment of their goals seriously frustrates your own. In other words, other individuals have the liberty to treat you as a means for whatever their goals might happen to be, regardless of the limitations imposed on your freedom. If everyone is given maximum <em>moral</em> liberty to live their life the way they choose, then no one (other than the most powerful) has <em>effective</em> liberty to live their life as they choose. Under moral anarchy, might effectively makes right, which means individuals would be consumed under the all-consuming conflict and demands of competitors and stronger agents with conflicting goals.</p>
+
+<p>The issue with moral anarchy is that we need moral <em>prohibitions</em> so that individuals can make use of their moral <em>permissions</em>. Nicolás Maloberti (p. 156) understands moral theories as ways of “specifying the conditions under which individuals must constrain their self-interested pursuit of goals.” In other words, moral theories provide solutions to moral anarchy by specifying (among other things) the moral prohibitions that should constraint individuals’ behaviors. This characterization makes sense to me. One such solution is provided by utilitarianism. I reject <a href="https://categoricalrigor.wordpress.com/2019/11/30/why-im-not-a-utilitarian/">utilitarianism</a> (and <a href="https://categoricalrigor.wordpress.com/2019/11/30/why-im-not-a-consequentialist/">consequentialism</a> generally) for a variety of reasons that I explore elsewhere. But for present purposes, it suffices to say that I reject utilitarianism as a solution to moral anarchy because it does not satisfactorily address the main detestable features of moral anarchy. Moral anarchy is detestable because it allows individuals to be used as resources by other people which results in people being unable to lead their own lives. But, as Maloberti (p. 157) points out, utilitarianism does not seem to adequately accommodate this worry because it unconditionally permits these same behaviors so long as the end result is more happiness over suffering. Whereas moral anarchy allows individuals to be used as resources by the strongest, utilitarianism allows individuals to be used as resources by anyone who would produce more net happiness by such usage.</p>
+
+<p>Now, let’s look at possible solutions to moral anarchy from a rights-based moral theory. If we think of moral <em>permissions</em> as <em>liberty</em>-rights, then the problem with moral anarchy is that it focuses <em>solely</em> on liberty-rights. What is a liberty-right to life if other people have a liberty-right to terminate your life? It’s clear that liberty-rights are not sufficient. There is another essential dimension of rights that moral anarchy ignores: <em>claim</em>-rights. Claim-rights impose moral <em>prohibitions</em> on how individuals live their lives, specifically by restricting the ways an individual can interfere with another person’s life. Interestingly, the rationale for granting people claim-rights is the very same as the rationale we might have for granting people liberty-rights. The reason we might grant someone liberty-rights is to enable individuals to lead their own lives, but this very goal is frustrated by other people exercising their liberty-rights unless we also propose <em>claim</em>-rights which constrain those liberty-rights. In other words, in order to allow for the <em>effective</em> use of liberty-rights, we need claim-rights to attenuate our liberty-rights. For these reasons, it is clear that claim-rights are just as important as liberty-rights. As Maloberti (p. 157) notes:</p>
+
+<blockquote>
+  <p>In contrast to classical versions of utilitarianism, rights theories do not propose to escape from moral anarchy by means of providing a unique goal that all must serve either directly or indirectly. Instead, they propose to protect individuals’ pursuits of their own personal goals regardless of their optimality in the maximization of aggregative value. In order to accomplish this, rights theories allocate control to each individual over a specific set or range of actions. These allocations of control allow the individual to perform or refrain from performing the corresponding actions, and they impose on others the obligations not to interfere. Those ranges of actions might then be understood as configuring areas of freedom. Within those areas, the individual is taken to be fully sovereign in terms of what may be done…Within libertarian theory, individuals’ most basic areas of moral freedom are generally specified in terms of ownership rights, that is, in terms of the material objects that those individuals are entitled to control.</p>
+</blockquote>
+
+<p>The precise boundaries of ownership rights are not to be discussed here. The point is merely to mention the attractive features of a rights-based theory such as libertarianism. The attraction of rights-based theories lies in their ability to protect us from being used as resources for others. It grants us a sovereign space by carving out boundaries within which we can lead our own lives (so long as we don’t encroach on anyone else’s boundaries) without being subject to the will of anyone else.</p>
+
+<h3 id="property-rights">Property rights</h3>
+
+<p>All libertarians are committed to each individual having strong ownership of their body (i.e self-ownership). That is, individuals have a claim-right against other people who might control their body without consent, and they have a liberty-right to use their body as they see fit (so long as it doesn’t encroach on like-rights for others). But almost all libertarians (including anarchists) believe that we also have the right to acquire ownership over objects beyond our individual bodies. The rationale for property ownership is the same as the rationale for self-ownership: if we only had self-ownership and no property ownership, our self-ownership would be merely formal; all individuals need the ability to control extrapersonal objects in order to live, to pursue their projects, and to lead their own lives. These are the same motivations to support self-ownership rights to begin with. So, if we have reasons to grant individuals self-ownership rights, we also have reasons to grant them property ownership rights. Now, there are infinitely many different ways libertarians might specify property rights. Philosophers have been labeled as either right-leaning or left-leaning libertarian depending on the extent to which their conceptions of property rights entail egalitarian ownership of resources (see <a href="https://plato.stanford.edu/entries/libertarianism/#LeftRight">here</a> for some examples). Interestingly, most libertarians have rejected both extreme left-leaning and extreme right-leaning conceptions of property rights for surprisingly similar reasons.</p>
+
+<p>An example of an extreme left-leaning conception of property rights is a universal joint-ownership conception of property. On this theory, every individual owns an equal portion of every external resource. Maloberti (p. 157) describes it as a system whereby “each individual would be assigned a claim right against every other, against the use and possessions of those resources. No individual would thus have the liberty to use or possess such resources without the approval of everybody else”. Because we have given every individual extreme <em>claim</em>-rights, the result is that everyone’s <em>liberty</em>-rights are effectively minimized. <a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxwcm9mZXNzb3JlcmljbWFja3xneDo5NDMzMGE1ODkxOTJiOWY">Eric Mack (2015, p. 213)</a> signs on to this complaint when he says, “if the earth were the joint property of all mankind…there would be no elbow room for individuals to exercise their most fundamental natural right, viz., ‘the right everyone had to take care of, and provide for their Subsistence’ (Locke 1689, First Treatise, §87). For (almost) any exercise of this fundamental right requires that individuals be at liberty to acquire private property or, at the very least, to make use of portions of the earth.” So the problem with extreme left-leaning conceptions of property rights is the same problem that we experienced with moral anarchy: individuals would have effectively no liberty to acquire the resources which are necessary to lead their own lives. We would be at the mercy of the will of everyone else in order to lead our lives. Interestingly, the source of the problem is the <em>reverse</em> of moral anarchy: in moral anarchy, the problem was we maximized liberty-rights at the expense of claim-rights; under robust joint ownership, we maximized claim-rights at the expense of liberty-rights.</p>
+
+<p>For this reason, most libertarians “accept that individuals can acquire unowned goods unilaterally, without having to ask the consent of approval of other people, some governing body, or anything else” (<a href="https://plato.stanford.edu/entries/libertarianism/#PowerApp">section 3</a> of the SEP on Libertarianism), which means they reject extreme left-leaning conceptions of property rights. However, most libertarians accept that permissible property acquisition, while unilateral, must be subject to the <em>Lockean Proviso</em> that the acquisition leaves “enough, and as good” for others. As Eric Mack (p. 214) notes, the Lockean Proviso “requires that the acquisition and disposition of property rights not on net make the extra-personal world less susceptible to any individual’s efforts to exercise his powers in ways that serve his ends.” Only the most extreme <em>right</em>-leaning conceptions of property rights reject <em>all</em> forms of the Lockean Proviso. Note that the complaint against extreme <em>right</em>-leaning conceptions of property rights is the same as the complaint against extreme <em>left</em>-leaning conceptions: without the Lockean Proviso, a privileged group of individuals could in principle come to own all valuable resources, which would result in everyone else being unable to lead their lives; everyone else would be at the mercy of the privileged property owners to acquire basic external resources necessary to lead their own life.</p>
+
+<p>Interestingly, even though the complaint against both extreme left-leaning and extreme right-leaning conceptions of property are the same, the <em>source</em> of the complaints is the reverse. On the one hand, extreme left-leaning conceptions of property rights are rejected because they overly privilege <em>claim</em>-rights. On the other hand, extreme right-leaning conceptions are rejected because they overly privilege <em>liberty</em>-rights. Granting people excessive claim-rights (to all external resources) under joint ownership <em>causes the same problem</em> as granting people excessive liberty-rights (to acquire unowned resources) without a Lockean Proviso: individuals are left unfree to lead their own lives; they are instead at the mercy of the will of others (whether its at the mercy of other landowners or the general population). This reveals an important lesson: when delineating the specifications of individual rights, we have to perform a trade-off between the claim-rights and liberty-rights that are specified. We cannot increase one without reducing the other. Further, this trade-off must not overly privilege either dimension at the exclusion of the other. Otherwise, the result is that there is no effective liberty for people to lead their own lives.</p>
+
+<h3 id="enforcement-rights">Enforcement rights</h3>
+
+<p>The above has focused on basic ownership rights, both of one’s body and of property. But there is another right that almost all libertarians (including anarchists) agree that we have: <em>enforcement</em> rights. Enforcement rights involve rights to retaliatory threats and self-defense to prevent future rights violations, and potentially the right to seek restitution and perhaps punishment for past rights violations. Every non-pacifist libertarian accepts some form of enforcement right, and (I would argue) for good reason. Given the observations made earlier in this post, I believe we can give an adequate explanation for why some libertarians are pacifists, an explanation that (I believe) reveals where they go wrong. One explanation for why some libertarians might support pacifism is that they assign special privilege to the claim-rights that individuals have; our claim-rights to our body/property are so strong that we maintain those claim-rights even when we are violating or have violated someone else’s rights, which makes it morally impermissible for others to retaliate in self-defense. Hopefully, the error here is clear. The error with this pacifist argument is that it <em>overly</em> privileges our claim-rights at the exclusion of our liberty-rights.</p>
+
+<p>As Maloberti (p. 158) argues, “Anything short of that [permitting enforcement rights] will fail to provide the holders of basic rights with a sphere of moral freedom that is not contingent on others’ willingness to respect it.” Eric Mack (p. 214) echoes this sentiment in his argument for enforcement rights: “One natural line of argument goes from the prospective victim’s self-ownership to her possession of a moral liberty to defend herself against violations of that right, and from that moral liberty to harm-inflicting defensive acts not being [rights violations].” In other words, the reason that we ought to ascribe to individuals enforcement rights is that, without such rights, their basic ownership rights are effectively meaningless. If our ownership rights are to provide us with any <em>effective</em> liberty, then we must have not only the <em>claim</em>-right against individuals who might violate our rights, but also <em>liberty</em>-rights to retaliate against individuals who might do so. Thus, the motivation for supporting enforcement rights is the same motivation for supporting basic ownership rights in the first place. If one’s ownership rights are to mean anything, they must be complemented with enforcement rights.</p>
+
+<h3 id="minor-intrusions">Minor intrusions</h3>
+
+<p>Finally, consider <em>minor</em> intrusions on someone’s body or legitimately acquired resources. Typically, libertarians treat minor intrusions with equal (or at least comparable) seriousness as major intrusions. E.g. just as it is impermissible for me to steal your kidney, it is also impermissible for me to steal your dollar. In both cases, I’m taking something that you <em>own</em>, which means in both cases, I’m violating your <em>rights</em>. If that is correct, then this would seem to erase our moral permissions to do <em>anything</em>. After all, whenever I burn leaves in my backyard, I cause smoke particles to fall in your yard. Whenever I use a telephone or a radio, I cause electromagnetic waves to be sent through your body and your property. Whenever I produce sound, I send sound waves through your home which impacts your eardrums. Whenever I breathe, I emit carbon dioxide which pollutes your airspace, and hence your property and your lungs. This leaves no room for what we are morally permitted to do, i.e. “moral paralysis”. <a href="https://www.jstor.org/stable/10.1086/667863">David Sobel (2012)</a> argues this point:</p>
+
+<blockquote>
+  <p>The ubiquity of difficult to avoid, minor infringements on other people’s bodies makes the simple argument [from libertarian rights to standard libertarian conclusions] unattractive. Strong moral constraints against all such infringements would make too many things impermissible. The thought that, quite generally, my self-ownership creates very powerful moral constraints on any and all involuntary infringements on my body would unacceptably interfere with your liberty as Nozick saw…Could the philosophical theory named for liberty actually turn out to be unacceptably restrictive of our liberty?</p>
+</blockquote>
+
+<p><a href="https://pdfs.semanticscholar.org/91ba/b231fe7e9f517779cf443b7578aaf78c262b.pdf">Peter Railton (1985)</a> has made similar arguments related to pollution.</p>
+
+<blockquote>
+  <p>I will argue that when one attempts to apply such [Lockean rights] theories to moral questions about pollution, they present a different face, one set so firmly against laissez faire – or laissez polluter – as to countenance serious restriction of what Lockeans have traditionally taken to be the proper sphere of individual freedom.</p>
+</blockquote>
+
+<p>Fortunately, from earlier lessons, we can see the error with these claims. The arguments by Sobel and Railton are mistaken in that they ignore that there are two separate dimensions of rights - <em>claim</em>-rights and _liberty-_rights. As stated earlier, a reasonable delineation of rights must not overly privilege one dimension at the exclusion of the other. The arguments by Ratilon and Sobel rest on a conception of rights that maximizes claim-rights at the exclusion of liberty-rights. This is the same criticism as pacifism and joint-ownership of property. As stated earlier, a proper delineation of rights involves giving significant weight to both claim-rights and liberty-rights.</p>
+
+<h2 id="delineating-ownership-rights">Delineating ownership rights</h2>
+
+<hr />
+
+<h3 id="the-multiple-dimensions-of-rights">The multiple dimensions of rights</h3>
+
+<p>These considerations provide some insight into the nature of ownership. It might be assumed that self-ownership is a single concept with a precise, determinate content. For example, <a href="https://personal.lse.ac.uk/OTSUKAM/leftlibP&amp;PA.pdf">Vallentyne, Steiner, and Otsuka (2005, p. 204)</a> define “full self-ownership” as “a bundle of rights that is (roughly) equal to the logically strongest set of ownership rights that people can have over themselves compatible with others having equal such rights over themselves”. However, there is no <em>single</em> “logically strongest” set of rights. Indeed, the authors later note that “full self-ownership involves some undeniable indeterminacy” because “there is no unique maximally strong set of ownership rights” (p. 205). For example, if you have two bundles of rights X and Y, then X might be stronger than Y along one dimension (e.g. in terms of liberty-rights), but Y might be stronger than X along another dimension (e.g. in terms of claim-rights).</p>
+
+<p><a href="https://www.routledgehandbooks.com/doi/10.4324/9781317486794.ch14">Jason Brennan and Bas van der Vossen (2017, p. 209)</a> articulated the multifaceted nature of self-ownership:</p>
+
+<blockquote>
+  <p>More precisely, we can think of self-ownership as being made up of two variables. On the one hand, self-ownership offers protections (in the form of Hohfeldian claim-rights) against unwanted incursions on one’s person. On the other hand, self-ownership offers the freedom (in the form of Hohfeldian liberties) to use one’s person. Since liberties logically entail the absence of duties (including duties correlating to claim-rights), it follows that the two variables (internal to the idea of self-ownership) can be traded off against each other.</p>
+</blockquote>
+
+<blockquote>
+  <p>The real question, then, is what mix of the two variables internal to the idea of self-ownership (the claim to exclude and the freedom to use) is morally most desirable. This should be obvious, of course. Bas is a self-owner with the freedom to use his person, but this does not license him to punch Jason in the face. Self-ownership is not best understood by completely maximizing on the freedom variable to the complete denial of the exclusion variable. And, again pace Sobel, self-ownership is also not best understood by maximizing on the exclusion variable to the complete denial of the freedom variable.</p>
+</blockquote>
+
+<p>I do not know what is the best mix of liberty-rights and claim-rights. In fact, I am not even sure if there could be a satisfactory answer. However, as the examples thus far have shown, I am in confident that the proper mix does not involve the <em>exclusion</em> of either variable. Maximizing liberty-rights at the exclusion of claim-rights leads to “moral anarchy”. Maximizing claim-rights at the exclusion of liberty-rights leads to “morally paralysis”, as everyone would be prohibited from imposing even minor intrusions on others. Both are unacceptable as they leave us at the mercy of the will of others, without any <em>effective</em> freedom, and without the ability to lead our own lives. This insight leads to the anti-paralysis postulate.</p>
+
+<h3 id="the-anti-paralysis-postulate">The anti-paralysis postulate</h3>
+
+<p>The anti-paralysis postulate by Eric Mack (he now refers to it as the “Elbow Room postulate” but I prefer the older naming) is a principle that specifies that rights must be delineated without causing “moral paralysis”. Mack (p. 197) details the postulate as follows:</p>
+
+<blockquote>
+  <p>According to this postulate, a reasonable delineation of basic moral rights must be such that the claim-rights that are ascribed to individuals do not systematically preclude people from exercising the liberty-rights that the claim-rights are supposed to protect. When Railton and Sobel point out that the impermissibility of minor intrusions would be hog-tying, they are pointing out that this impermissibility would systematically morally preclude individuals from exercising the liberty-rights that are ascribed to them—the exercise of which is supposed to be protected by the claim-rights ascribed to them. The elbow room postulate tells us that, since the impermissibility of minor intrusions would be hog-tying, a reasonable delineation of rights does not construe minor intrusions as boundary-crossings.</p>
+</blockquote>
+
+<p>Some have interpreted Mack’s postulate as treating claim-rights as a form of force that a moral theory must protect individuals from, just as moral theories must protect individuals from coercion from other individuals. <a href="https://philarchive.org/rec/SOBQPO">David Sobel (2018)</a> gave the following interpretation of the postulate:</p>
+
+<blockquote>
+  <p>Mack seems to be saying that the point of rights is to provide protection not only from other people forcibly preventing me from living my life by my lights, but also from a system of rights that would morally prohibit me from doing so…Mack can therefore be interpreted as saying that the point of rights is to enhance our ability to live our own lives by our own lights, unprevented by others or by the moral force of other people’s rights.</p>
+</blockquote>
+
+<p>In other words, just as we should not grant individuals excessive <em>liberty</em>-rights since that would make the rights of others meaningless (i.e. “moral anarchy”), we also should not grant individuals excessive <em>claim</em>-rights since that would also make the rights of others meaningless (“moral paralysis”).</p>
+
+<p>Note that the rationale for the anti-paralysis postulate is not ad-hoc or anti-libertarian. The justification of the anti-paralysis postulate is based on the exact same rationale for ascribing to individuals libertarian ownership rights in the first place. We ascribe to individuals liberty-rights so that they can have a sovereign space within which they can lead their own lives without being at the mercy of the will of others. We further ascribe to individuals claim-rights which <em>formally</em> reduces their liberty-rights, but which <em>effectively</em> enhances those liberty-rights by protecting their liberty-rights from being frustrated other individuals exercising their excessive liberty-rights. The same motivations justify unilateral property acquisition, the Lockean Proviso, enforcement rights, and minor intrusions. In all cases, the motivation is to avoid mixes of liberty-rights and claim-rights that effectively nullify our liberty-rights. Since the very reason we ascribed claim-rights to individuals in the first place is to enhance our effective liberty-rights, it makes sense that the claim-rights do not systematically preclude the exercise of those liberty-rights.</p>
+
+<p>The anti-paralysis postulate has many important implications. As stated earlier, it can explain many of the rights that almost all libertarians accept, e.g. enforcement rights, rights to impose minor intrusions, the Lockean Proviso, etc. <a href="http://reasonwithoutrestraint.com/justifying-the-state-on-libertarian-grounds/#How_to_delineate_ownership_rights">I also argued in another post</a> that the anti-paralysis postulate can also justify mandatory taxation by the state.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+
+<hr />
+
+<p>The primary papers that have influenced my position:</p>
+
+<ul>
+  <li>Peter Railton, “<a href="https://pdfs.semanticscholar.org/91ba/b231fe7e9f517779cf443b7578aaf78c262b.pdf">Locke, Stock, and Peril: Natural Property Rights, Pollution, and Risk</a>” (1985) - Argues that, contrary to popular belief, libertarianism places stringent limits on what we are able to with our property. The argument is based on the minor damages and risk associated with minor pollution forbids us from actions that we ordinarily think we have the right to do. [<a href="https://web.archive.org/web/20191120060541/https://pdfs.semanticscholar.org/91ba/b231fe7e9f517779cf443b7578aaf78c262b.pdf">archive</a>]</li>
+  <li>David Sobel, “<a href="https://www.jstor.org/stable/10.1086/667863">Backing Away from Libertarian Self-Ownership</a>” (2012) - The first of a pair of papers that objects to the libertarian idea of self-ownership. This paper focuses on the implausible alleged implication of self-ownership that unnoticeably minor intrusions constitute rights violations.</li>
+  <li>David Sobel, “<a href="https://www.academia.edu/3282365/_Self-Ownership_and_the_Conflation_Problem_">Self-Ownership and the Conflation Problem</a>” (2012) - The second paper from Sobel criticizing self-ownership. In this paper, he argues that libertarianism based on self-ownership is incapable of distinguishing the moral wrongness of minor intrusions and major intrusions when intuitively such a difference makes a huge difference morally.</li>
+  <li>Eric Mack, “<a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxwcm9mZXNzb3JlcmljbWFja3xneDo5NDMzMGE1ODkxOTJiOWY">Elbow Room for Rights</a>” (2015) in <em>Oxford Studies in Political Philosophy, Volume 1</em> - Defends libertarianism from the objections put forth by Sobel and Railton. In it, Mack argues for what he calls the “elbow room postulate” (which I referred to as the “anti-paralysis postulate in this post) in order to permit the minor intrusions mentioned by Sobel and Railton. He also argues that other attempted solutions to the problem of minor intrusions fail to address the problem as well as the “elbow room postulate”. [<a href="https://web.archive.org/web/20191120061342/https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxwcm9mZXNzb3JlcmljbWFja3xneDo5NDMzMGE1ODkxOTJiOWY">archive</a>] [<a href="https://sites.google.com/site/professorericmack/home/selected-papers">selected papers by Eric Mack</a>]</li>
+  <li>Brennan and Van der Vossen, “<a href="https://www.routledgehandbooks.com/doi/10.4324/9781317486794.ch14">The myths of the self-ownership Thesis</a>” (2017) - Argues against many of the assumptions people have about self-ownership and libertarianism in general. They spend some time responding to Sobel’s objection based on minor intrusions. They also make the interesting claim that all liberals (not just libertarians) hold some form of the self-ownership thesis - the only live debate is over which <em>conception</em> of self-ownership to adopt. Published in <em>The Routledge Handbook of Libertarianism</em>. The <a href="https://www.google.com/books/edition/The_Routledge_Handbook_of_Libertarianism/iJ4xDwAAQBAJ">Google Books preview</a> of the book contains this paper in its entirety.</li>
+  <li>David Sobel, “<a href="https://philarchive.org/rec/SOBQPO">The point of Self-ownership</a>” (2018) - Consists largely of objecting to the response by Mack in his 2015 paper “Elbow Room for Rights”. He argues that Mack’s “elbow room postulate” cannot adequately handle the problem of minor intrusions without allowing for other conclusions that libertarians tend to reject. Published in <em>The Oxford Handbook of Freedom</em>.</li>
+</ul>
+</div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-04-20T00:00:00-07:00"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet --><div class="article__subscribe"><div class="subscribe"><i class="fas fa-rss"></i> <a type="application/rss+xml" href="/feed.xml">Subscribe</a></div></div><div class="article__license"><div class="license">
+    <p>This work is licensed under a <a itemprop="license" rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</a> license.
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Attribution-NonCommercial 4.0 International" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+      </a>
+    </p>
+  </div></div></footer><div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/Predictive-Validity.html">Predictive Validity</a></div></div></div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet --></div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main"><div itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jay M"><meta itemprop="url" content="/"><meta itemprop="description" content="This is my bio"><div class="footer__author-links"><div class="author-links">
+  <ul class="menu menu--nowrap menu--inline"></ul>
+</div>
+</div>
+    </div><div class="site-info mt-2">
+      <div>© Reason Without Restraint 2019,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  </div>
+</footer></div></div>
+    </div></div></div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"><script>
+(function () {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    // search panel
+    var search = (window.search || (window.search = {}));
+    var useDefaultSearchBox = window.useDefaultSearchBox === undefined ?
+      true : window.useDefaultSearchBox ;
+
+    var $searchModal = $('.js-page-search-modal');
+    var $searchToggle = $('.js-search-toggle');
+    var searchModal = $searchModal.modal({ onChange: handleModalChange, hideWhenWindowScroll: true });
+    var modalVisible = false;
+    search.searchModal = searchModal;
+
+    var $searchBox = null;
+    var $searchInput = null;
+    var $searchClear = null;
+
+    function getModalVisible() {
+      return modalVisible;
+    }
+    search.getModalVisible = getModalVisible;
+
+    function handleModalChange(visible) {
+      modalVisible = visible;
+      if (visible) {
+        search.onShow && search.onShow();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].focus();
+      } else {
+        search.onShow && search.onHide();
+        useDefaultSearchBox && $searchInput[0] && $searchInput[0].blur();
+        setTimeout(function() {
+          useDefaultSearchBox && ($searchInput.val(''), $searchBox.removeClass('not-empty'));
+          search.clear && search.clear();
+          window.pageAsideAffix && window.pageAsideAffix.refresh();
+        }, 400);
+      }
+    }
+
+    $searchToggle.on('click', function() {
+      modalVisible ? searchModal.hide() : searchModal.show();
+    });
+    // Char Code: 83  S, 191 /
+    $(window).on('keyup', function(e) {
+      if (!modalVisible && !window.isFormElement(e.target || e.srcElement) && (e.which === 83 || e.which === 191)) {
+        modalVisible || searchModal.show();
+      }
+    });
+
+    if (useDefaultSearchBox) {
+      $searchBox = $('.js-search-box');
+      $searchInput = $searchBox.children('input');
+      $searchClear = $searchBox.children('.js-icon-clear');
+      search.getSearchInput = function() {
+        return $searchInput.get(0);
+      };
+      search.getVal = function() {
+        return $searchInput.val();
+      };
+      search.setVal = function(val) {
+        $searchInput.val(val);
+      };
+
+      $searchInput.on('focus', function() {
+        $(this).addClass('focus');
+      });
+      $searchInput.on('blur', function() {
+        $(this).removeClass('focus');
+      });
+      $searchInput.on('input', window.throttle(function() {
+        var val = $(this).val();
+        if (val === '' || typeof val !== 'string') {
+          search.clear && search.clear();
+        } else {
+          $searchBox.addClass('not-empty');
+          search.onInputNotEmpty && search.onInputNotEmpty(val);
+        }
+      }, 400));
+      $searchClear.on('click', function() {
+        $searchInput.val(''); $searchBox.removeClass('not-empty');
+        search.clear && search.clear();
+      });
+    }
+  });
+})();
+</script><div class="search search--dark">
+  <div class="main">
+    <div class="search__header">Search</div>
+    <div class="search-bar">
+      <div class="search-box js-search-box">
+        <div class="search-box__icon-search"><i class="fas fa-search"></i></div>
+        <input type="text" />
+        <div class="search-box__icon-clear js-icon-clear">
+          <a><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+      <button class="button button--theme-dark button--pill search__cancel js-search-toggle">
+        Cancel</button>
+    </div>
+    <div class="search-result js-search-result"></div>
+  </div>
+</div>
+<script>var SOURCES = window.TEXT_VARIABLES.sources;
+var PAHTS = window.TEXT_VARIABLES.paths;
+window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
+  var search = (window.search || (window.search = {}));
+  var searchData = window.TEXT_SEARCH_DATA || {};
+
+  function memorize(f) {
+    var cache = {};
+    return function () {
+      var key = Array.prototype.join.call(arguments, ',');
+      if (key in cache) return cache[key];
+      else return cache[key] = f.apply(this, arguments);
+    };
+  }
+
+  /// search
+  function searchByQuery(query) {
+    var i, j, key, keys, cur, _title, result = {};
+    keys = Object.keys(searchData);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      for (j = 0; j < searchData[key].length; j++) {
+        cur = searchData[key][j], _title = cur.title;
+        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
+          if (result[key] === undefined) {
+            result[key] = [];
+          }
+          result[key].push(cur);
+        }
+      }
+    }
+    return result;
+  }
+
+  var renderHeader = memorize(function(header) {
+    return $('<p class="search-result__header">' + header + '</p>');
+  });
+
+  var renderItem = function(index, title, url) {
+    return $('<li class="search-result__item" data-index="' + index + '"><a class="button" href="' + url + '">' + title + '</a></li>');
+  };
+
+  function render(data) {
+    if (!data) { return null; }
+    var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
+    keys = Object.keys(data);
+    for (i = 0; i < keys.length; i++) {
+      key = keys[i];
+      $root.append(renderHeader(key));
+      for (j = 0; j < data[key].length; j++) {
+        cur = data[key][j];
+        $root.append(renderItem(itemIndex++, cur.title, cur.url));
+      }
+    }
+    return $root;
+  }
+
+  // search box
+  var $result = $('.js-search-result'), $resultItems;
+  var lastActiveIndex, activeIndex;
+
+  function clear() {
+    $result.html(null);
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+  }
+  function onInputNotEmpty(val) {
+    $result.html(render(searchByQuery(val)));
+    $resultItems = $('.search-result__item'); activeIndex = 0;
+    $resultItems.eq(0).addClass('active');
+  }
+
+  search.clear = clear;
+  search.onInputNotEmpty = onInputNotEmpty;
+
+  function updateResultItems() {
+    lastActiveIndex >= 0 && $resultItems.eq(lastActiveIndex).removeClass('active');
+    activeIndex >= 0 && $resultItems.eq(activeIndex).addClass('active');
+  }
+
+  function moveActiveIndex(direction) {
+    var itemsCount = $resultItems ? $resultItems.length : 0;
+    if (itemsCount > 1) {
+      lastActiveIndex = activeIndex;
+      if (direction === 'up') {
+        activeIndex = (activeIndex - 1 + itemsCount) % itemsCount;
+      } else if (direction === 'down') {
+        activeIndex = (activeIndex + 1 + itemsCount) % itemsCount;
+      }
+      updateResultItems();
+    }
+  }
+
+  // Char Code: 13  Enter, 37  ⬅, 38  ⬆, 39  ➡, 40  ⬇
+  $(window).on('keyup', function(e) {
+    var modalVisible = search.getModalVisible && search.getModalVisible();
+    if (modalVisible) {
+      if (e.which === 38) {
+        modalVisible && moveActiveIndex('up');
+      } else if (e.which === 40) {
+        modalVisible && moveActiveIndex('down');
+      } else if (e.which === 13) {
+        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+      }
+    }
+  });
+
+  $result.on('mouseover', '.search-result__item > a', function() {
+    var itemIndex = $(this).parent().data('index');
+    itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
+  });
+});
+</script></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $pageMask = $('.js-page-mask');
+    var $pageRoot = $('.js-page-root');
+    var $sidebarShow = $('.js-sidebar-show');
+    var $sidebarHide = $('.js-sidebar-hide');
+
+    function freeze(e) {
+      if (e.target === $pageMask[0]) {
+        e.preventDefault();
+      }
+    }
+    function stopBodyScrolling(bool) {
+      if (bool === true) {
+        window.addEventListener('touchmove', freeze, { passive: false });
+      } else {
+        window.removeEventListener('touchmove', freeze, { passive: false });
+      }
+    }
+
+    $sidebarShow.on('click', function() {
+      stopBodyScrolling(true); $pageRoot.addClass('show-sidebar');
+    });
+    $sidebarHide.on('click', function() {
+      stopBodyScrolling(false); $pageRoot.removeClass('show-sidebar');
+    });
+  });
+})();
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script>
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>
