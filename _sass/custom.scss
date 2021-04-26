@@ -39,16 +39,16 @@ ul.toc .toc-h3 {
 }
 
 .collapse-button {
-	cursor: pointer;
+	cursor: pointer !important;
 }
 
 .collapse-button:hover {
-	background-color: #ddd;
+	background-color: #ddd !important;
 }
 
 .collapse-content {
-	overflow: hidden;
-	transition: max-height 0.2s ease-out;
+	overflow: hidden !important;
+	transition: max-height 0.2s ease-out !important;
 }
 
 /* This is needed for some reason so that the sidebar is highlighted */
