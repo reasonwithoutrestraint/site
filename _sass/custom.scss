@@ -1,7 +1,7 @@
 /* start custom scss snippet */
 
 .main {
-	padding: 0 1rem;
+	padding: 0 1rem !important;
 }
 
 .article__content blockquote {
@@ -25,7 +25,7 @@ h2 {
 }
 
 .article__content hr::before {
-	content: none;
+	content: none !important;
 }
 
 /* Side Bar */
