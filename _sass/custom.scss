@@ -1,27 +1,27 @@
 /* start custom scss snippet */
 
 .article__content blockquote {
-	border-left-color: #a83535;
+	border-left-color: #a83535 !important;
 }
 
 .page__sidebar .sidebar-toc {
-	padding: 5px;
+	padding: 5px !important;
 }
 
 .has-aside .col-aside {
-	display: none;
+	display: none !important;
 }
 
 .article__content {
-	line-height: 1.6;
+	line-height: 1.6 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: normal;
+	font-weight: normal !important;
 }
 
 h2 {
-	font-size: 2rem;
+	font-size: 2rem !important;
 }
 
 /* end custom scss snippet */

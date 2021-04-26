@@ -23,7 +23,7 @@ baseurl : # does not include hostname
 title   : Reason Without Restraint
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
-theme: jekyll-text-theme
+
 
 ## => Language and Timezone
 ##############################
@@ -38,7 +38,7 @@ author:
   name      : Jay M
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : This is my bio
+  bio       : # Empty
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -203,17 +203,19 @@ exclude:
 
 defaults:
   - scope:
-      path: ""
-      type: posts
+      path: "" # empty string for all files
     values:
       layout: article
       sharing: true
       license: true
       aside:
         toc: false
+      sidebar:
+        nav: sidebar
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+
 
 ## => Plugins
 ##############################
