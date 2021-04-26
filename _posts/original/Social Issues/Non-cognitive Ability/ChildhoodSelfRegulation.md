@@ -1,3 +1,6 @@
+---
+title: "Achievement beyond cognitive ability: childhood self-regulation"
+---
 
 In [previous posts](https://reasonwithoutrestraint.com/race-and-iq/), I have emphasized the predictive power of IQ on a variety of outcomes such as education academic achievement, educational attainment, occupational prestige, income, and crime. I referenced studies showing that IQ is a better predictor of many of these outcomes compared to other metrics traditionally assumed to predict success. For example, many studies (which I reference again below) show that IQ predicts education, occupation, and income better than many metrics that people assume to be predictors of success - e.g. parental SES, parental income, parental education, etc.
 

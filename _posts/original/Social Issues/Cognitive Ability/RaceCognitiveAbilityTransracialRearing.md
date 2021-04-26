@@ -1,3 +1,6 @@
+---
+title: "The cognitive ability of blacks raised by non-blacks"
+---
 In a [previous post](https://reasonwithoutrestraint.com/race-and-iq/), I argued that the black-white cognitive ability gap is responsible for many of the undesirable social disparities that we find between blacks and whites in the United States – including disparities in income, education, occupation, and crime. This means that the _cause_ of the cognitive ability gap is extremely important, as this informs how (and if) we can reduce these social disparities. In [another post](https://reasonwithoutrestraint.com/candidate-explanations-of-the-black-white-iq-gap/), I concluded that many common environmental explanations of the gap – test bias, schooling socioeconomic status, and societal racism – all failed to account for the gap. I also examined some arguments for a genetic explanation of the gap in [another post](https://reasonwithoutrestraint.com/genetics-and-the-black-white-cognitive-ability-gap/), where I concluded that we should use _direct_ data to quantify the degree to which the black-white cognitive ability gap is due to genetic differences vs environmental differences. In this post, I will attempt to review all such direct data. I conclude that a primarily environmental explanation of the gap is most compatible with all the relevant direct data.
 
 ## Notes on method

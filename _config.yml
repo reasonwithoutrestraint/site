@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: reasonwithoutrestraint/site
 repository_tree: master
 
 
@@ -204,6 +204,7 @@ exclude:
 defaults:
   - scope:
       path: "" # empty string for all files
+      type: posts
     values:
       layout: article
       sharing: true

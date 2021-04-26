@@ -1,3 +1,6 @@
+---
+title: "Causes of disproportionate black criminality"
+---
 
 In a [previous post](https://reasonwithoutrestraint.com/poor-explanations-of-black-criminality/), I argued that systemic racism and socioeconomic status (SES) were poor explanations of disproportionate levels of black criminality. I concluded with the claim that the intelligence gap (or IQ gap), not the SES gap, is the primary cause of the disproportionate levels of black criminality. In other words, the IQ gap is the primary cause of the disparities in criminality between blacks and whites. I will defend this claim in the first half of this post. Another significant cause of the black-white crime gap seems to be differences in family structure between blacks and whites, e.g. racial differences in the rates of single-mother households and out-of-wedlock birth rates. I will explore the importance of family structure in the second half of the post.
 

@@ -1,3 +1,6 @@
+---
+title: "Exploring two common explanations of black criminality"
+---
 
 The purpose of this post is to explore two commonly hypothesized explanations of the rampant levels of criminality found in the black population. The first explanation states that black criminality is primarily the result of systemic racism against blacks. The second explanation states that black criminality is primarily the result of the structural or socioeconomic circumstances that blacks find themselves in. I will present data that should prompt skepticism of both of these explanations. To start, I will first illustrate the high levels of black criminality relative to non-blacks.
 
