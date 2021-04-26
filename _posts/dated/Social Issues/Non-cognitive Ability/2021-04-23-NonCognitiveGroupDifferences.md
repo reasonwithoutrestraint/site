@@ -1,3 +1,6 @@
+---
+title: "Achievement beyond cognitive ability: group differences"
+---
 
 In [previous posts](https://reasonwithoutrestraint.com/race-and-iq/), I emphasized the predictive power of cognitive ability on a variety of outcomes such as academic achievement, educational attainment, occupational prestige, income, and crime. I referenced studies showing that adolescent cognitive ability is a better predictor of many of these outcomes than many other metrics traditionally understood to predict success – e.g. parental SES, parental income, and parental education.
 

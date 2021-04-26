@@ -1,3 +1,6 @@
+---
+title: "Genetics and the black-white cognitive ability gap"
+---
 
 In a previous [post](https://reasonwithoutrestraint.com/race-and-iq/), I argued that the black-white cognitive ability gap is responsible for many of the important social disparities we find between blacks and whites, e.g. disparities regarding income, crime, education, occupational prestige, etc. Therefore, insofar as it is important that we resolve racial disparities in these social outcomes, it is also important that we resolve racial disparities in cognitive ability. In order to solve a problem, we should know the _cause_ of the problem. Therefore, assuming it's important to resolve racial disparities in these social outcomes, it is also important that we know the cause of the cognitive ability gap.
 

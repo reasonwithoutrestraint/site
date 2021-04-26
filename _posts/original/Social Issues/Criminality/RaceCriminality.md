@@ -1,3 +1,6 @@
+---
+title: "The magnitude and scope of black criminality"
+---
 
 The purpose of this post is to cite the extent of black criminality around the world. The first section is concerned with black criminality in the United States. This section should not be terribly surprising to most people since I assume (hope) most people are aware that blacks people are disproportionately engaged in criminality in the United States. I believe the latter two sections contain information that most people are not aware of. The second section covers misconduct among black _children_ in the United States. The third and final section covers black criminality and misconduct outside of the United States. The last two sections, especially the last section, will probably be educational for the vast majority of people reading this post. If not, the post at the very least serves as a useful fact sheet for those interested in this topic.
 

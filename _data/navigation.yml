@@ -54,9 +54,9 @@ sidebar:
       - title: Metaethics
         children:
           - title: Normative skepticism is unreasonable
-            url: /Normative-Skepticism.html
+            url: /NormativeSkepticism.html
           - title: "Reasons Internalism: an argument by analogy with epistemic reasons"
-            url: /Reasons-Internalism.html
+            url: /ReasonsInternalism.html
       - title: Normative Ethics
         children:
           - title: Why Utilitarianism should be rejected
@@ -66,22 +66,56 @@ sidebar:
       - title: Political Philosophy
         children:
           - title: "A sketch of plausible libertarian ownership rights"
-            url: /Ownership-Rights.html
+            url: /OwnershipRights.html
           - title: "State activities compatible with libertarian ownership rights"
-            url: /State-Activities.html
+            url: /StateActivities.html
           - title: "Delineating libertarian ownership rights: the anti-paralysis postulate"
-            url: /Anti-paralysis-Postulate.html
+            url: /AntiParalysisPostulate.html
           - title: "A libertarian justification of mandatory taxation by the state"
-            url: /Mandatory-Taxation.html
+            url: /MandatoryTaxation.html
       - title: Applied Ethics
         children:
           - title: "A defense of abortion: bodily integrity, responsibility, and deprivation"
             url: /Abortion.html
           - title: Two arguments in defense of affirmative action
-            url: /Affirmative-Action.html
+            url: /AffirmativeAction.html
   - title: Social Issues
     children:
-      - title: Race and IQ
-        url: /Race-and-IQ.html
-      - title: Predictive Validity
-        url: /Predictive-Validity.html
+      - title: Cognitive Ability
+        children:
+          - title: The predictive validity of cognitive Ability
+            url: /CognitiveAbilityPredictiveValidity.html
+      - title: Non-cognitive Ability
+        children:
+          - title: "Achievement beyond cognitive ability: group differences"
+            url: /NonCognitiveGroupDifferences.html
+          - title: "Achievement beyond cognitive ability: childhood self-regulation"
+            url: /ChildhoodSelfRegulation.html
+      - title: Racial Differences in Cognitive Ability
+        children:
+          - title: The black-white cognitive ability gap and social outcomes
+            url: /RaceCognitiveAbilityOutcomes.html
+          - title: Poor environmental explanations of the black-white cognitive ability gap
+            url: /RaceCognitiveAbilityPoorExplanations.html
+          - title: Genetics and the black-white cognitive ability gap
+            url: /RaceCognitiveAbilityGenetics.html
+          - title: Studies attempting to account for the black-white cognitive ability gap
+            url: /RaceCognitiveAbilityAccounting.html
+          - title: The cognitive ability of blacks raised by non-blacks
+            url: /RaceCognitiveAbilityTransracialRearing.html
+      - title: Racial Differences beyond Cognitive Ability
+        children:
+          - title: The early emergence of black-white disparities
+            url: /EarlyRacialGaps.html
+      - title: Race and Crime
+        children:
+          - title: The magnitude and scope of black criminality
+            url: /RaceCriminality.html
+          - title: Police killings and black criminality
+            url: /PoliceKillings.html
+          - title: Exploring two common explanations of black criminality
+            url: /RaceCriminalityPoorExplanations.html
+          - title: Studies attempting to account for the black-white crime gap
+            url: /RaceCriminalityAccounting.html
+          - title: Causes of disproportionate black criminality
+            url: /RaceCriminalityCauses.html

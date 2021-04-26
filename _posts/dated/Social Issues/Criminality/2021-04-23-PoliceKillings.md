@@ -1,3 +1,6 @@
+---
+title: "Police killings and black criminality"
+---
 
 In light of the killing of George Floyd, there has been much discussion regarding anti-black bias in the criminal justice system (CJS) in the United States. It seems to me that the mainstream assumption is that the disproportionate rate of police killings of black people is due to anti-black bias in the CJS. My goal in this post is to refute this assumption. I believe that an honest and impartial assessment of all of the relevant data provides strong reason to _deny_ that anti-black bias is the cause of the disproportionate rate of police killings of blacks. I will argue that the best explanation of the disproportionate rate of police killings of blacks doesn't involve any appeal to an anti-black bias. The best explanation consists in the fact that black people disproportionately engage in criminal activity and the fact that the police disproportionately kill criminals.
 

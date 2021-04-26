@@ -4,7 +4,7 @@
     {%- if _sidebar_nav -%}
     <ul class="toc toc--navigator">
       {%- for _item in _sidebar_nav -%}
-        <li class="toc-h1">{{ _item.title }} </li>
+        <li class="toc-h1 collapse-button">{{ _item.title }} </li>
         {%- if _item.children -%}
           {%- for _child in _item.children -%}
             {%- include snippets/get-nav-url.html path=_child.url -%}
@@ -12,9 +12,9 @@
             {%- include snippets/get-nav-url.html path=page.url -%}
             {%- assign _page_url = __return -%}
             {%- if _nav_url == _page_url -%}
-              <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              <li class="toc-h2 active collapse-button collapse-content">{{ _child.title }}</li>
             {%- else -%}
-              <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              <li class="toc-h2 collapse-button collapse-content">{{ _child.title }}</li>
             {%- endif -%}
             {%- if _child.children -%}
               {%- for _gc in _child.children -%}
@@ -23,9 +23,9 @@
                 {%- include snippets/get-nav-url.html path=page.url -%}
                 {%- assign _page_url = __return -%}
                 {%- if _nav_url == _page_url -%}
-                  <li class="toc-h3 active"><a href="{{ _nav_url }}">{{ _gc.title }}</a></li>
+                  <li class="toc-h3 active collapse-content"><a href="{{ _nav_url }}">{{ _gc.title }}</a></li>
                 {%- else -%}
-                  <li class="toc-h3"><a href="{{ _nav_url }}">{{ _gc.title }}</a></li>
+                  <li class="toc-h3 collapse-content"><a href="{{ _nav_url }}">{{ _gc.title }}</a></li>
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
@@ -35,4 +35,110 @@
       </ul>
     {%- endif -%}
   </div>
+  <script>
+    // code inspired by https://www.w3schools.com/howto/howto_js_collapsible.asp
+    if (isReady) {
+      init();
+    } else {
+      var id = setInterval(function() {
+        if (isReady()) {
+          clearInterval(id);
+          init();
+        }
+      }, 100);
+    }
+
+    function isReady() {
+      var buttons = document.getElementsByClassName("collapse-button");
+      return buttons.length > 0;
+    }
+
+    function init() {
+      initMidLevelButtons();
+      addListeners();
+    }
+
+    /**
+     * Close buttons that aren't active
+     * For active buttons, include 'active' class
+     */
+    function initMidLevelButtons() {
+      var midLevelButtons = document.getElementsByClassName("toc-h2 collapse-button");
+      for (var button of midLevelButtons) {
+        if (isButtonActive(button)) {
+          button.classList.add('active');
+        } else {
+          // close button
+          toggle(button);
+        }
+      }
+    }
+
+    function isButtonActive(button) {
+      var children = getSiblings(button.nextElementSibling);
+      return children.some(hasCurrentPath);
+    }
+
+    function hasCurrentPath(element) {
+      return element.innerHTML.includes(window.location.pathname)
+    }
+
+    function addListeners() {
+      var buttons = document.getElementsByClassName("collapse-button");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].addEventListener('click', function() {
+          toggle(this);
+        });
+      }
+    }
+
+    function toggle(toggleElement) {
+      toggleElement.classList.toggle('closed');
+      var isClosed = hasClass(toggleElement, 'closed');
+
+      var elements = getSiblings(toggleElement.nextElementSibling);
+      elements.map(function (element) {
+        if (isClosed) {
+          element.style.maxHeight = 0;
+          if (hasClass(element, 'collapse-button')) {
+            element.classList.add('closed');
+          }
+        } else {
+          element.style.maxHeight = null;
+          if (hasClass(element, 'collapse-button')) {
+            element.classList.remove('closed');
+          }
+        }
+      });
+    }
+
+    function getSiblings(element) {
+      var result = [element];
+      var level = getLevel(element);
+
+      while (element.nextElementSibling && isSibling(element.nextElementSibling, level)) {
+        result.push(element.nextElementSibling)
+        element = element.nextElementSibling;
+      }
+
+      return result;
+    }
+
+    function isSibling(element, level) {
+      var elementLevel = getLevel(element)
+      return element && hasClass(element, 'collapse-content') && elementLevel >= level;
+    }
+
+    function getLevel(element) {
+      for (var item of element.classList) {
+        if (item.startsWith('toc-h')) {
+          return item;
+        }
+      }
+    }
+
+    function hasClass(element, name) {
+      return element.classList.contains(name);
+    }
+  </script>
 {%- endif -%}

@@ -1,3 +1,6 @@
+---
+title: "Studies attempting to account for the black-white cognitive ability gap"
+---
 
 In a previous [post](https://reasonwithoutrestraint.com/race-and-iq/), I argued that the black-white cognitive ability gap is responsible for many of the important social disparities we find between blacks and whites, e.g. disparities regarding income, crime, education, occupational prestige, etc. Therefore, it is important that we determine how to resolve this gap (if possible). In order to resolve this gap, we need to investigate the _cause_ of the gap. I started this investigation in [another post](https://reasonwithoutrestraint.com/candidate-explanations-of-the-black-white-iq-gap/) where I considered and rejected the idea that differences in school quality or parental income and education can adequately account for the gap. I also considered some indirect arguments for a genetic explanation of the gap. I later considered [direct evidence](https://reasonwithoutrestraint.com/quantifying-the-genetic-component-of-the-black-white-iq-gap/) regarding the effect of genetics on the gap and concluded that genetic differences likely do not account for a significant portion of the gap.
 

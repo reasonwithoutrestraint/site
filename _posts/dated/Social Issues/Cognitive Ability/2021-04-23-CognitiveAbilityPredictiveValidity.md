@@ -1,3 +1,6 @@
+---
+title: "The predictive validity of cognitive ability"
+---
 There is overwhelming evidence demonstrating the undeniable predictive validity of cognitive ability. Cognitive ability measured as early as age 6 has a strong association with one’s future success in a number of important outcomes, including income, educational attainment, academic performance, occupational prestige, occupational performance, criminality, etc. These associations are robust, persisting even after controlling for a number of plausible confounding variables, including parental socioeconomic status, race, job training and job experience, and other risk factors for the relevant life outcomes. The totality of evidence heavily implies that this association is _causal_, indicating that early cognitive ability is a powerful factor in determining a person’s chances of achieving conventional measures of success in Western societies. In this post, I will cite scholarly evidence demonstrating each of these claims. I will begin by first describing my working definition of “cognitive ability” and then explaining a few concepts that must be understood to interpret the evidence that follows.
 
 ## Background

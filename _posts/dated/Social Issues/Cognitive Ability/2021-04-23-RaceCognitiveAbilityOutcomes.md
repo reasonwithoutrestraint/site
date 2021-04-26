@@ -1,3 +1,6 @@
+---
+title: "The black-white cognitive ability gap and social outcomes"
+---
 Most people are aware that there are significant disparities between blacks and whites with regard to a wide range of important social outcomes, including crime, income, education, poverty, welfare usage, etc. For almost every measurable metric of success that we find important, blacks perform significantly worse than whites. I will argue in this post that many of these disparities are likely caused by the significant cognitive differences between blacks and whites. I begin by illustrating a few examples of the disparities between blacks and whites. Then I cover the importance of cognitive ability with regard to outcomes such as crime, income, education, etc. Finally, I consider some evidence that many of the gaps between blacks and whites are (mostly) eliminated after controlling for cognitive ability. This post is agnostic with respect to the _cause_ of the cognitive ability gap. See my later posts [here](https://reasonwithoutrestraint.com/poor-explanations-of-the-black-white-iq-gap/) and [here](https://reasonwithoutrestraint.com/quantifying-the-genetic-component-of-the-black-white-iq-gap/) for the cause of the gap.
 
 ## Racial Inequalities

@@ -1,11 +1,11 @@
 /* start custom scss snippet */
 
-.article__content blockquote {
-	border-left-color: #a83535 !important;
+.main {
+	padding: 0 1rem;
 }
 
-.page__sidebar .sidebar-toc {
-	padding: 5px !important;
+.article__content blockquote {
+	border-left-color: #a83535 !important;
 }
 
 .has-aside .col-aside {
@@ -22,6 +22,38 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
 	font-size: 2rem !important;
+}
+
+.article__content hr::before {
+	content: none;
+}
+
+/* Side Bar */
+
+.page__sidebar .sidebar-toc {
+	padding: 5px !important;
+}
+
+ul.toc .toc-h3 {
+	margin-left: 0.5rem !important;
+}
+
+.collapse-button {
+	cursor: pointer;
+}
+
+.collapse-button:hover {
+	background-color: #ddd;
+}
+
+.collapse-content {
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+}
+
+/* This is needed for some reason so that the sidebar is highlighted */
+ul.toc--navigator > li.active a {
+	margin-left: unset !important;
 }
 
 /* end custom scss snippet */

@@ -1,3 +1,6 @@
+---
+title: "Studies attempting to account for the black-white crime gap"
+---
 
 In a [previous post](https://reasonwithoutrestraint.com/poor-explanations-of-black-criminality/), I provided reasons to be _skeptical_ of SES-based explanations of black criminality. This post provides studies that attempt to more rigorously examine the relationship between SES and black criminality. At the city and state level, crime is more strongly associated with the presence of blacks than it is with low-SES conditions. At the neighborhood level, studies suggest that controlling for SES can statistically account for a moderate portion of the black-white gaps in crime (although findings are mixed on the _magnitude_ of the explained gap). Regardless, as I will argue below, such studies cannot demonstrate _causality_. That is, they cannot demonstrate that racial differences in neighborhood SES _cause_ any portion of the racial gap in crime.
 

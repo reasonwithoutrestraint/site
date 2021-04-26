@@ -1,3 +1,6 @@
+---
+title: "The early emergence of black-white disparities"
+---
 
 Most people are aware of the significant disparities between blacks and whites regarding a wide range of important social outcomes, including crime, income, education, poverty, single-mother households, etc. I have written extensively on [racial disparities in crime](https://reasonwithoutrestraint.com/the-magnitude-and-extent-of-black-criminality/) and on the degree to which [disparities in IQ](https://reasonwithoutrestraint.com/race-and-iq/) explain many of the important racial disparities. In this post, I will review studies and data that show that many of these disparities emerge extremely early in life. Specifically, I will investigate racial disparities in IQ, cognitive skills, misconduct, and self-regulation. Black-white disparities along each of these metrics emerge at preschool age or earlier. The black-white disparities gradually grow as children age until the magnitude of the disparities eventually mirror the gaps found between black and white adults.
 
