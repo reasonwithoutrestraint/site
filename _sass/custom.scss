@@ -4,8 +4,8 @@
 	padding: 0 1rem !important;
 }
 
-.article__content blockquote {
-	border-left-color: #a83535 !important;
+.article__content a, .article__content a:link, .article__content a:visited {
+    font-weight: 500 !important;
 }
 
 .has-aside .col-aside {
@@ -20,8 +20,17 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal !important;
 }
 
+h2, h3 {
+	margin-top: 1rem !important;
+	margin-bottom: 0 !important;
+}
+
 h2 {
 	font-size: 2rem !important;
+}
+
+.article__content hr {
+	margin: 0 !important;
 }
 
 .article__content hr::before {
@@ -29,6 +38,18 @@ h2 {
 }
 
 /* Side Bar */
+
+ul.toc--navigator .toc-h2, ul.toc--navigator .toc-h2 a {
+	font-weight: 600;
+}
+
+ul.toc .toc-h1, ul.toc .toc-h1 a {
+	font-weight: 600;
+}
+
+.page__sidebar {
+	max-width: 300px !important;
+}
 
 .page__sidebar .sidebar-toc {
 	padding: 5px !important;
